@@ -15,9 +15,9 @@ Detailed information about this collection can be found at [its definition repos
 
 ## Usage
 
-🔍 [Browse through versions](https://docs.opentermsarchive.org/how-to/navigate-history/) interactively on this user interface.
+🔍 [Browse through versions](https://docs.opentermsarchive.org/navigate-history/) interactively on this user interface.
 
-🔔 [Subscribe by RSS to terms changes](https://docs.opentermsarchive.org/how-to/subscribe-rss/) to be notified.
+🔔 [Subscribe by RSS to terms changes](https://docs.opentermsarchive.org/subscribe-rss/) to be notified.
 
 📥 [Download versions as dataset](https://github.com/OpenTermsArchive/genai-versions/releases) to explore data locally on your filesystem.
 
