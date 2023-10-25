@@ -1,3 +1,10 @@
+End User License Agreement
+--------------------------
+
+##### Effective June 20, 2023
+
+[Download](https://jasper.pactsafe.io/versions/6491fde8ba725b413e68b779.pdf)
+
 * * *
 
 ### Table of Contents
@@ -151,6 +158,3 @@ In consideration of the mutual covenants contained herein and other good and val
 (j) _Export Control_. The Service and related technical data and services (collectively, "Controlled Technology") may be subject to the import and export laws of the United States, specifically the U.S. Export Administration Regulations (EAR), and the laws of any country where Controlled Technology is imported or re-exported. Customer agrees to comply with all applicable export and re-export control laws and regulations and will not export or re-export any Controlled Technology in contravention to U.S. law, nor to any prohibited country, entity, or person for which an export license or other governmental approval is required. All Controlled Technology is generally prohibited for export or re-export to Cuba, North Korea, Iran, Syria, Sudan, and any other country subject to relevant trade sanctions.
 
 (l) _Severability_. If any provision of this Agreement is held by a court of competent jurisdiction to be contrary to law, the provision shall be modified by the court and interpreted so as best to accomplish the objectives of the original provision to the fullest extent permitted by law, and the remaining provisions of this Agreement shall remain in effect.
-
-End User License Agreement
---------------------------
