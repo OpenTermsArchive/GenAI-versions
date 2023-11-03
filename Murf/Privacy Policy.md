@@ -1,11 +1,13 @@
 Murf Privacy Policy
 ===================
 
-January 22, 2022
+November 3, 2023
 
 Your privacy is important to us, which is why we've created this Privacy Policy. Our Privacy Policy (together with our Terms of Service available at [https://murf.ai/resources/terms\_of\_service](https://murf.ai/resources/terms_of_service) and any other documents incorporated by reference) sets out what information we collect about you, how we use the information we collect, how we share the information we collect, how we transfer your information internationally and how you can access and control your information. Please read the following carefully to understand our views and practices regarding your personal information and how we will treat it.
 
 Users of countries in the European Union (EU), European Economic Area (EEA) and Switzerland (referred to as “**Designated Countries**”) should also refer to our [GDPR Policy](https://murf.ai/resources/gdpr_policy/) which describes their rights under the General Data Protection Regulation.
+
+Our Privacy Policy adheres to the EU-U.S. DPF Principles with regard to personal data transferred from the European Union and the United Kingdom and the Swiss-U.S. DPF Principles with regard to personal data transferred from Switzerland.
 
 This policy should be read together with our [Cookie Policy](https://murf.ai/resources/cookie_policy/).
 
@@ -14,7 +16,7 @@ This policy should be read together with our [Cookie Policy](https://murf.ai/res
 
 In this Privacy Policy, the following definitions apply:
 
-* any reference to '**MURF Group**', '**us**', '**we**' or '**our**' means the Sites’ proprietary owners;
+* Any reference to '**MURF Group**', '**us**', '**we**' or '**our**' means the Sites’ proprietary owners;
 * **Services** mean the Sites, MURF-branded apps, Google Slides add-on, [Text to speech](https://murf.ai/text-to-speech) and other MURF-related sites, apps, communications and services.
 * **Site** means a site operated by us and includes each of [https://murf.ai](https://murf.ai/), https://login.murf.ai/ and any other domain that we may use from time to time.
 
@@ -32,29 +34,29 @@ Information that you provide to us directly
 
 When you sign up to our service and set up an account, we collect the following information (which includes personal information) from you:
 
-* name; and
-* email address.
+* Name; and
+* Email address.
 
 ##### **(B) Making a purchase**
 
 When you make a purchase or attempt to make a purchase through the Site, we collect the following information (which includes personal information) from you:
 
-* name;
-* email address; and
-* payment or credit card information (we don't have access to your entire credit card number or CVC as this is handled by our payment gateway).
+* Name;
+* Email address; and
+* Payment or credit card information (we don't have access to your entire credit card number or CVC as this is handled by our payment gateway).
 
 ##### **(C) Making a video or audio**
 
 When you use our services to create an audio or a video ('Content'), we collect the following information (which includes personal information) from you:
 
-* any photos, videos, audio or text content provided by you when creating Content.
+* Any photos, videos, audio or text content provided by you when creating Content.
 
 ##### **(D) Additional information that we may ask for (optional)**
 
 When you use our services, we may ask you to provide us with additional information. This additional information may include:
 
-* links to your social media accounts (including Facebook, Instagram, Twitter and YouTube); and
-* information about your industry and the type of organisation you work for.
+* Links to your social media accounts (including Facebook, Instagram, Twitter and YouTube); and
+* Information about your industry and the type of organisation you work for.
 
 ##### Information that we receive from third parties
 
@@ -100,18 +102,44 @@ Outside of authorised personnel employed by us, we only share your personal info
 * Marketing platforms, Communications platforms and contractors who we engage to help process personal information and other data; Listed here are external vendors we use for this purpose: Firebase, Google Cloud, Google Analytics, Mixpanel, Toplyne, Clearbit, Sendinblue, Customer.io, Userflow, Hubspot;
 * Cloud services providers such as Amazon Web Services, Inc.;
 * Payment Solutions provided by Stripe Inc.;
-* Chat services by Crisp IM SARL;
 * Softwares review platform G2 Crowd
-* Affiliate partnership solution by LinkMink LLC; and
 * government third parties, including government agencies, regulatory bodies and law enforcement agencies as required, authorised or permitted by law.
 
 ##### **Service Providers**
 
 We use others to help us provide our Services (e.g., maintenance, analysis, audit, payments, fraud detection, marketing and development). They will have access to your information as reasonably necessary to perform these tasks on our behalf and are obligated not to disclose or use it for other purposes.
 
+**Data Privacy Framework** 
+
+Murf Inc. complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce.  Murf Inc. has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union and the United Kingdom in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF.  Murf Inc. has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF.  If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern.  To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/)
+
+In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, Murf Inc. commits to cooperate and comply respectively with the advice of the panel established by the EU data protection authorities (DPAs) and the UK Information Commissioner’s Office (ICO) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF.
+
+Participating in the Data Privacy Frameworks is a voluntary self-certification process for companies operating in the U.S.  Companies that certify to the Frameworks represent that they are upholding privacy standards for Personal Data received from the EEA, UK and Switzerland.  These standards exceed current U.S. privacy standards.  Compliance with the respective Framework Principles is enforced by the U.S. Federal Trade Commission (FTC).  The FTC has jurisdiction over Murf Inc.  Accordingly, Murf Inc. is subject to the investigatory and enforcement powers of the FTC.
+
+If a complaint cannot be resolved with Murf Inc. directly, there are readily available independent recourse mechanisms by which an individual’s complaints and disputes are investigated and expeditiously resolved at no cost to the individual and by reference to the Principles.
+
+All other complaints shall be resolved through alternative dispute resolution. Murf Inc. has selected the International Centre for Dispute Resolution, the international division of the American Arbitration Association (ICDR/AAA), as the administrator of Murf Inc.’s independent recourse mechanism for non- HR disputes.  Murf Inc. has committed to refer such unresolved Data Privacy Framework complaints to ICDR/AAA in the United States.  You may find more information about dispute resolution and how to file a claim with the ICDR/AAA at [https://go.adr.org/privacyshield.html](https://go.adr.org/privacyshield.html). 
+
+Individuals have the possibility, under certain conditions, to invoke binding arbitration for complaints regarding Privacy Shield compliance not resolved by any of the other Privacy Shield mechanisms. Arbitral decisions will be binding on all parties to the arbitration.  Please visit Annex I for additional information: [https://www.privacyshield.gov/article?id=ANNEX-I-introduction](https://www.privacyshield.gov/article?id=ANNEX-I-introduction).    
+
+In the context of an onward transfer, Murf Inc. has responsibility for the processing of Personal Data it receives under the respective Data Privacy Framework and subsequently transfers to a third party acting as an agent on its behalf. Murf Inc. shall remain liable under the respective Principles if its agent processes such Personal Data in a manner inconsistent with the Principles unless Murf Inc. shows it is not responsible for the event giving rise to the damage. 
+
+Murf Inc. may be required to disclose Personal Data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
 ##### **Legal Disclosures**
 
-It is possible that we will need to disclose information about you when required by law, subpoena, or other legal process or if we have a good faith belief that disclosure is reasonably necessary to (1) investigate, prevent or take action regarding suspected or actual illegal activities or to assist government enforcement agencies; (2) enforce our agreements with you; (3) investigate and defend ourselves against any third-party claims or allegations; (4) protect the security or integrity of our Services (such as by sharing with companies facing similar threats); or (5) exercise or protect the rights and safety of our users, personnel or others. We attempt to notify users about legal demands for their personal information when appropriate in our judgment, unless prohibited by law or court order or when the request is an emergency. We may dispute such demands when we believe, in our discretion, that the requests are overbroad, vague or lack proper authority, but we do not promise to challenge every demand.
+It is possible that we will need to disclose information about you when required by law, subpoena, or other legal process or if we have a good faith belief that disclosure is reasonably necessary to
+
+(1) Investigate, prevent or take action regarding suspected or actual illegal activities or to assist government enforcement agencies;
+
+(2) Enforce our agreements with you;
+
+(3) Investigate and defend ourselves against any third-party claims or allegations;
+
+(4) Protect the security or integrity of our Services (such as by sharing with companies facing similar threats); or
+
+(5) Exercise or protect the rights and safety of our users, personnel or others. We attempt to notify users about legal demands for their personal information when appropriate in our judgment, unless prohibited by law or court order or when the request is an emergency. We may dispute such demands when we believe, in our discretion, that the requests are overbroad, vague or lack proper authority, but we do not promise to challenge every demand.
 
 ##### **Change in Control or Sale**
 
