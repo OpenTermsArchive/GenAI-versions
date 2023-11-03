@@ -204,15 +204,11 @@ These terms apply to a part of our Service offering providing official and suppo
 
 9.1.3 “Generated Content” means on-demand content specifically generated for you with your Content using Murf’s text-to-speech AI models and delivered through the API.
 
-9.1.4 “Use Case” means a consistent set of analyses, displays, or actions performed via the Application and utilizing the API. You will submit all intended Use Case descriptions in writing for Murf’s prior approval.
+9.1.4 “Use Case” means a consistent set of analyses, displays, or actions performed via the Application and utilizing the API. You agree to submit to Murf all intended Use Case descriptions in writing for review.
 
 **9.2 Licenses**
 
-9.2.1 Subject to these API Terms, Murf grants you a limited, non-exclusive, non-transferable, non-sublicensable, worldwide, revocable license during the term of the User Agreement to: 
-
-(a) use and make calls to the API to generate, access and distribute the Generated Content for the Use Cases approved by Murf in writing; and
-
-(b) use and display the Murf’s logo/marks only to identify that the Generated Content originates from Murf. 
+9.2.1 Subject to these API Terms, Murf grants you a limited, non-exclusive, non-transferable, non-sublicensable, worldwide, revocable license during the term of the User Agreement to use and make calls to the API to generate, access and distribute the Generated Content for the Use Cases approved by Murf in writing.
 
 9.2.2 You grant to Murf, a limited, royalty-free, non-transferable, non-sublicensable, worldwide and perpetual license to incorporate into the Services (including the API) any suggestions, enhancement requests, recommendations or other feedback Murf receives from you.
 
@@ -222,15 +218,11 @@ These terms apply to a part of our Service offering providing official and suppo
 
 9.3.2 You will obtain API credentials (a “**Token**”) to access the API. You will keep such Token and all login information secure and use the Token as your sole means of accessing the API.
 
-9.3.3 You agree that all Use Case descriptions provided to Murf are binding on you, and any substantive deviation from them will constitute a violation of these API Terms. You must notify Murf of any substantive modification to its approved Use Case and receive Murf’s written approval before accessing the API or using the Generated Content for that new purpose. Failure to do so constitutes a breach of these API Terms and can result in suspension and termination of your API and Generated Content access.
+9.3.3 You agree that all Use Case descriptions provided to Murf are binding on you, and any substantive deviation from them will constitute a violation of these API Terms. You must notify Murf of any substantive modification to your submitted Use Case. Failure to comply with these TOS can result in suspension and termination of your API and Generated Content access.
 
 **9.4 Usage**
 
-Murf’s text-to-speech usage is based on the number of characters sent through the API to be synthesized into audio each month, including punctuation. The total number of characters in the input string are counted for billing purposes, including spaces. All Speech Synthesis Markup Language (SSML) tags are also included in the character count, except for <speak> and <voice> tags. Murf will provide access to the following information to you via an online dashboard: 
-
-9.4.1 the total number of characters sent through the API for the applicable usage term with monthly breakdown; and
-
-9.4.2 the total amount payable by you for the usage term with monthly breakdown at the applicable pricing.
+Murf’s text-to-speech usage is based on the number of characters sent through the API to be synthesized into audio each month, including punctuation. The total number of characters in the input string are counted for billing purposes, including spaces. All Speech Synthesis Markup Language (SSML) tags are also included in the character count, except for <speak> and <voice> tags.
 
 #### **10\. General Terms**
 
