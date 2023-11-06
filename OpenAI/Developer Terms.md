@@ -1,12 +1,12 @@
-Plugin terms
-============
+Plugins and Actions Terms
+=========================
 
-UpdatedMarch 23, 2023
+UpdatedNovember 6, 2023
 
 1\. Introduction
 ----------------
 
-Plugins allow OpenAI services (“Services”) such as ChatGPT to retrieve information from or send instructions to an API (“API”) created according to our AI Plugin Protocol. Users of OpenAI Services can choose to enable Plugins within certain Services. For example, a ChatGPT user who wants to make a restaurant reservation could enable a restaurant reservation Plugin and instruct ChatGPT to make the reservation.
+Plugins and Actions (together “Plugins”) allow OpenAI services (“Services”) such as ChatGPT to retrieve information from or send instructions to an API (“API”) created according to our AI Plugin Protocol. Users of OpenAI Services can choose to enable Plugins within certain Services. For example, a ChatGPT user who wants to make a restaurant reservation could enable a restaurant reservation Plugin and instruct ChatGPT to make the reservation.
 
 These Plugin Terms (“Terms”) govern the creation and use of your Plugin in connection with OpenAI Services. These Terms include our [Usage Policies](https://openai.com/policies/usage-policies) and other documentation, guidelines, or policies we may provide in writing or on our website. By creating an API or by explicitly agreeing to these Terms, you agree to be bound by these Terms. If you create a Plugin on behalf of another person or entity, you represent that you have the authority to agree to these Terms on their behalf.  
 
