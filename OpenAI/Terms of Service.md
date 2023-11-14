@@ -1,135 +1,193 @@
 Terms of use
 ============
 
-UpdatedMarch 14, 2023
+UpdatedNovember 14, 2023
 
-Thank you for using OpenAI!
+**Effective: December 14, 2023** ([previous version](https://openai.com/policies/mar-2023-terms))
 
-These Terms of Use apply when you use the services of OpenAI, L.L.C. or our affiliates, including our application programming interface, software, tools, developer services, data, documentation, and websites (“Services”). The Terms include our [Service Terms](https://openai.com/policies/service-terms), [Sharing & Publication Policy](https://openai.com/policies/sharing-publication-policy), [Usage Policies](https://openai.com/policies/usage-policies), and other documentation, guidelines, or policies we may provide in writing. By using our Services, you agree to these Terms. Our [Privacy Policy](https://openai.com/policies/privacy-policy) explains how we collect and use personal information.  
+Thank you for using OpenAI!
 
-1\. Registration and Access
+These Terms of Use apply to your use of ChatGPT, DALL·E, and OpenAI’s other services for individuals, along with any associated software applications and websites (all together, “Services”). These Terms form an agreement between you and OpenAI, L.L.C., a Delaware company, and they include our [Service Terms](https://openai.com/policies/service-terms) and important provisions for resolving disputes through arbitration. By using our Services, you agree to these Terms. 
+
+If you reside in the European Economic Area, Switzerland, or the UK, your use of the Services is governed by [these terms](http://openai.com/policies/eu-terms-of-use).
+
+Our [Business Terms](https://openai.com/policies/business-terms) govern use of ChatGPT Enterprise, our APIs, and our other services for businesses and developers. 
+
+Our [Privacy Policy](https://openai.com/policies/privacy-policy) explains how we collect and use personal information. Although it does not form part of these Terms, it is an important document that you should read.  
+
+How we are
+----------
+
+OpenAI is an AI research and deployment company. Our mission is to ensure that artificial general intelligence benefits all of humanity. For more information about OpenAI, please visit [https://openai.com/about](https://openai.com/about).  
+
+Registration and Access
+-----------------------
+
+**Minimum Age.** You must be at least 13 years old or the minimum age required in your country to consent to use the Services. If you are under 18 you must have your parent or legal guardian’s permission to use the Services. 
+
+**Registration**. You must provide accurate and complete information to register for an account to use our Services. You may not share your account credentials or make your account available to anyone else and are responsible for all activities that occur under your account. If you create an account or use the Services on behalf of another person or entity, you must have the authority to accept these Terms on their behalf.  
+
+Using Our Services
+------------------
+
+**What You Can Do**. Subject to your compliance with these Terms, you may access and use our Services. In using our Services, you must comply with all applicable laws as well as our [Sharing & Publication Policy](https://openai.com/policies/sharing-publication-policy), [Usage Policies](https://openai.com/policies/usage-policies), and any other documentation, guidelines, or policies we make available to you. 
+
+**What You Cannot Do**. You may not use our Services for any illegal, harmful, or abusive activity. For example, you may not:
+
+* Use our Services in a way that infringes, misappropriates or violates anyone’s rights.
+* Modify, copy, lease, sell or distribute any of our Services.
+* Attempt to or assist anyone to reverse engineer, decompile or discover the source code or underlying components of our Services, including our models, algorithms, or systems (except to the extent this restriction is prohibited by applicable law).
+* Automatically or programmatically extract data or Output (defined below).
+* Represent that Output was human-generated when it was not.
+* Interfere with or disrupt our Services, including circumvent any rate limits or restrictions or bypass any protective measures or safety mitigations we put on our Services.
+* Use Output to develop models that compete with OpenAI.
+
+**Software.** Our Services may allow you to download software, such as mobile applications, which may update automatically to ensure you’re using the latest version. Our software may include open source software that is governed by its own licenses that we’ve made available to you.
+
+**Corporate Domains.** If you create an account using an email address owned by an organization (for example, your employer), that account may be added to the organization's business account with us, in which case we will provide notice to you so that you can help facilitate the transfer of your account (unless your organization has already provided notice to you that it may monitor and control your account). Once your account is transferred, the organization’s administrator will be able to control your account, including being able to access Content (defined below) and restrict or remove your access to the account. 
+
+**Third Party Services.** Our services may include third party software, products, or services, (“Third Party Services”) and some parts of our Services, like our browse feature, may include output from those services (“Third Party Output”). Third Party Services and Third Party Output are subject to their own terms, and we are not responsible for them. 
+
+**Feedback.** We appreciate your feedback, and you agree that we may use it without restriction or compensation to you.  
+
+Content
+-------
+
+**Your Content.** You may provide input to the Services (“Input”), and receive output from the Services based on the Input (“Output”). Input and Output are collectively “Content.” You are responsible for Content, including ensuring that it does not violate any applicable law or these Terms. You represent and warrant that you have all rights, licenses, and permissions needed to provide Input to our Services.
+
+**Ownership of Content.** As between you and OpenAI, and to the extent permitted by applicable law, you (a) retain your ownership rights in Input and (b) own the Output. We hereby assign to you all our right, title, and interest, if any, in and to Output. 
+
+**Similarity of Content.** Due to the nature of our Services and artificial intelligence generally, output may not be unique and other users may receive similar output from our Services. Our assignment above does not extend to other users’ output or any Third Party Output. 
+
+**Our Use of Content.** We may use Content to provide, maintain, develop, and improve our Services, comply with applicable law, enforce our terms and policies, and keep our Services safe. 
+
+**Opt Out.** If you do not want us to use your Content to train our models, you can opt out by following the instructions in [this Help Center article](https://help.openai.com/en/articles/5722486-how-your-data-is-used-to-improve-model-performance). Please note that in some cases this may limit the ability of our Services to better address your specific use case.
+
+**Accuracy.** Artificial intelligence and machine learning are rapidly evolving fields of study. We are constantly working to improve our Services to make them more accurate, reliable, safe, and beneficial. Given the probabilistic nature of machine learning, use of our Services may, in some situations, result in Output that does not accurately reflect real people, places, or facts. 
+
+When you use our Services you understand and agree:  
+
+* Output may not always be accurate. You should not rely on Output from our Services as a sole source of truth or factual information, or as a substitute for professional advice.
+* You must evaluate Output for accuracy and appropriateness for your use case, including using human review as appropriate, before using or sharing Output from the Services.
+* You must not use any Output relating to a person for any purpose that could have a legal or material impact on that person, such as making credit, educational, employment, housing, insurance, legal, medical, or other important decisions about them. 
+* Our Services may provide incomplete, incorrect, or offensive Output that does not represent OpenAI’s views. If Output references any third party products or services, it doesn’t mean the third party endorses or is affiliated with OpenAI.  
+    
+
+Our IP Rights
+-------------
+
+We and our affiliates own all rights, title, and interest in and to the Services. You may only use our name and logo in accordance with our [Brand Guidelines](https://openai.com/brand).  
+
+Paid Accounts
+-------------
+
+**Billing.** If you purchase any Services, you will provide complete and accurate billing information, including a valid payment method. For paid subscriptions, we will automatically charge your payment method on each agreed-upon periodic renewal until you cancel. You’re responsible for all applicable taxes, and we’ll charge tax when required. If your payment cannot be completed, we may downgrade your account or suspend your access to our Services until payment is received. 
+
+**Service Credits.** You can pay for some Services in advance by purchasing service credits. All service credits are subject to our [Service Credit Terms](https://openai.com/policies/service-credit-terms).
+
+**Cancellation.** You can [cancel](https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-plus-subscription) your paid subscription at any time. Payments are non-refundable, except where required by law. These Terms do not override any mandatory local laws regarding your cancellation rights. 
+
+**Changes.** We may change our prices from time to time. If we increase our subscription prices, we will give you at least 30 days’ notice and any price increase will take effect on your next renewal so that you can cancel if you do not agree to the price increase.  
+
+Termination and Suspension
+--------------------------
+
+**Termination.** You are free to stop using our Services at any time. We reserve the right to suspend or terminate your access to our Services or delete your account if we determine:
+
+* You breached these Terms or our [Usage Policies](https://openai.com/policies/usage-policies).
+* We must do so to comply with the law.
+* Your use of our Services could cause risk or harm to OpenAI, our users, or anyone else.
+
+We also may terminate your account if it has been inactive for over a year and you do not have a paid account. If we do, we will provide you with advance notice.
+
+**Appeals.** If you believe we have suspended or terminated your account in error, you can file an appeal with us by [contacting our Support team](https://help.openai.com/en/articles/6614161-how-can-i-contact-support).  
+
+Discontinuation of Services
 ---------------------------
 
-You must be at least 13 years old to use the Services. If you are under 18 you must have your parent or legal guardian’s permission to use the Services. If you use the Services on behalf of another person or entity, you must have the authority to accept the Terms on their behalf. You must provide accurate and complete information to register for an account. You may not make your access credentials or account available to others outside your organization, and you are responsible for all activities that occur using your credentials.  
+We may decide to discontinue our Services, but if we do, we will give you advance notice and a refund for any prepaid, unused Services.  
 
-2\. Usage Requirements
-----------------------
-
-(a) **Use of Services**. You may access, and we grant you a non-exclusive right to use, the Services in accordance with these Terms. You will comply with these Terms and all applicable laws when using the Services. We and our affiliates own all rights, title, and interest in and to the Services.
-
-(b) **Feedback**. We appreciate feedback, comments, ideas, proposals and suggestions for improvements. If you provide any of these things, we may use it without restriction or compensation to you.
-
-(c) **Restrictions**. You may not (i) use the Services in a way that infringes, misappropriates or violates any person’s rights; (ii) reverse assemble, reverse compile, decompile, translate or otherwise attempt to discover the source code or underlying components of models, algorithms, and systems of the Services (except to the extent such restrictions are contrary to applicable law); (iii) use output from the Services to develop models that compete with OpenAI; (iv) except as permitted through the API, use any automated or programmatic method to extract data or output from the Services, including scraping, web harvesting, or web data extraction; (v) represent that output from the Services was human-generated when it is not or otherwise violate our Usage Policies; (vi) buy, sell, or transfer API keys without our prior consent; or (vii), send us any personal information of children under 13 or the applicable age of digital consent. You will comply with any rate limits and other requirements in our documentation. You may use Services only in geographies [currently supported by OpenAI](https://platform.openai.com/docs/supported-countries).
-
-(d) **Third Party Services**. Any third party software, services, or other products you use in connection with the Services are subject to their own terms, and we are not responsible for third party products.  
-
-3\. Content
------------
-
-(a) **Your Content**. You may provide input to the Services (“Input”), and receive output generated and returned by the Services based on the Input (“Output”). Input and Output are collectively “Content.” As between the parties and to the extent permitted by applicable law, you own all Input. Subject to your compliance with these Terms, OpenAI hereby assigns to you all its right, title and interest in and to Output. This means you can use Content for any purpose, including commercial purposes such as sale or publication, if you comply with these Terms. OpenAI may use Content to provide and maintain the Services, comply with applicable law, and enforce our policies. You are responsible for Content, including for ensuring that it does not violate any applicable law or these Terms.
-
-(b) **Similarity of Content**. Due to the nature of machine learning, Output may not be unique across users and the Services may generate the same or similar output for OpenAI or a third party. For example, you may provide input to a model such as “What color is the sky?” and receive output such as “The sky is blue.” Other users may also ask similar questions and receive the same response. Responses that are requested by and generated for other users are not considered your Content.
-
-(c) **Use of Content to Improve Services**. We do not use Content that you provide to or receive from our API (“API Content”) to develop or improve our Services. We may use Content from Services other than our API (“Non-API Content”) to help develop and improve our Services. You can read more here about [how Non-API Content may be used to improve model performance](https://help.openai.com/en/articles/5722486-how-your-data-is-used-to-improve-model-performance). If you do not want your Non-API Content used to improve Services, you can opt out by filling out [this form](https://docs.google.com/forms/d/e/1FAIpQLScrnC-_A7JFs4LbIuzevQ_78hVERlNqqCPCt3d8XqnKOfdRdQ/viewform). Please note that in some cases this may limit the ability of our Services to better address your specific use case.
-
-(d) **Accuracy**. Artificial intelligence and machine learning are rapidly evolving fields of study. We are constantly working to improve our Services to make them more accurate, reliable, safe and beneficial. Given the probabilistic nature of machine learning, use of our Services may in some situations result in incorrect Output that does not accurately reflect real people, places, or facts. You should evaluate the accuracy of any Output as appropriate for your use case, including by using human review of the Output.  
-
-4\. Fees and Payments
----------------------
-
-(a) **Fees and Billing**. You will pay all fees charged to your account (“Fees”) according to the prices and terms on the applicable pricing page, or as otherwise agreed between us in writing. We have the right to correct pricing errors or mistakes even if we have already issued an invoice or received payment. You will provide complete and accurate billing information including a valid and authorized payment method. We will charge your payment method on an agreed-upon periodic basis, but may reasonably change the date on which the charge is posted. You authorize OpenAI and its affiliates, and our third-party payment processor(s), to charge your payment method for the Fees. If your payment cannot be completed, we will provide you written notice and may suspend access to the Services until payment is received. Fees are payable in U.S. dollars and are due upon invoice issuance. Payments are nonrefundable except as provided in this Agreement.
-
-(b) **Taxes**. Unless otherwise stated, Fees do not include federal, state, local, and foreign taxes, duties, and other similar assessments (“Taxes”). You are responsible for all Taxes associated with your purchase, excluding Taxes based on our net income, and we may invoice you for such Taxes. You agree to timely pay such Taxes and provide us with documentation showing the payment, or additional evidence that we may reasonably require. OpenAI uses the name and address in your account registration as the place of supply for tax purposes, so you must keep this information accurate and up-to-date.
-
-(c) **Price Changes**. We may change our prices by posting notice to your account and/or to our website. Price increases will be effective 14 days after they are posted, except for increases made for legal reasons or increases made to Beta Services (as defined in our Service Terms), which will be effective immediately. Any price changes will apply to the Fees charged to your account immediately after the effective date of the changes.
-
-(d) **Disputes and Late Payments**. If you want to dispute any Fees or Taxes, please contact [ar@openai.com](mailto:ar@openai.com) within thirty (30) days of the date of the disputed invoice. Undisputed amounts past due may be subject to a finance charge of 1.5% of the unpaid balance per month. If any amount of your Fees are past due, we may suspend your access to the Services after we provide you written notice of late payment.
-
-(e) **Free Tier**. You may not create more than one account to benefit from credits provided in the free tier of the Services. If we believe you are not using the free tier in good faith, we may charge you standard fees or stop providing access to the Services.  
-
-5\. Confidentiality, Security and Data Protection
--------------------------------------------------
-
-(a) **Confidentiality**. You may be given access to Confidential Information of OpenAI, its affiliates and other third parties. You may use Confidential Information only as needed to use the Services as permitted under these Terms. You may not disclose Confidential Information to any third party, and you will protect Confidential Information in the same manner that you protect your own confidential information of a similar nature, using at least reasonable care. Confidential Information means nonpublic information that OpenAI or its affiliates or third parties designate as confidential or should reasonably be considered confidential under the circumstances, including software, specifications, and other nonpublic business information. Confidential Information does not include information that: (i) is or becomes generally available to the public through no fault of yours; (ii) you already possess without any confidentiality obligations when you received it under these Terms; (iii) is rightfully disclosed to you by a third party without any confidentiality obligations; or (iv) you independently developed without using Confidential Information. You may disclose Confidential Information when required by law or the valid order of a court or other governmental authority if you give reasonable prior written notice to OpenAI and use reasonable efforts to limit the scope of disclosure, including assisting us with challenging the disclosure requirement, in each case where possible.
-
-(b) **Security**. You must implement reasonable and appropriate measures designed to help secure your access to and use of the Services. If you discover any vulnerabilities or breaches related to your use of the Services, you must promptly contact OpenAI and provide details of the vulnerability or breach.
-
-(c) **Processing of Personal Data**. If you use the Services to process personal data, you must provide legally adequate privacy notices and obtain necessary consents for the processing of such data, and you represent to us that you are processing such data in accordance with applicable law. If you will be using the OpenAI API for the processing of “personal data” as defined in the GDPR or “Personal Information” as defined in CCPA, please fill out [this form](https://ironcladapp.com/public-launch/63ffefa2bed6885f4536d0fe) to request to execute our Data Processing Addendum.  
-
-6\. Term and Termination
+Disclaimer of Warranties
 ------------------------
 
-(a) **Termination; Suspension**. These Terms take effect when you first use the Services and remain in effect until terminated. You may terminate these Terms at any time for any reason by discontinuing the use of the Services and Content. We may terminate these Terms for any reason by providing you at least 30 days’ advance notice. We may terminate these Terms immediately upon notice to you if you materially breach Sections 2 (Usage Requirements), 5 (Confidentiality, Security and Data Protection), 8 (Dispute Resolution) or 9 (General Terms), if there are changes in relationships with third party technology providers outside of our control, or to comply with law or government requests. We may suspend your access to the Services if you do not comply with these Terms, if your use poses a security risk to us or any third party, or if we suspect that your use is fraudulent or could subject us or any third party to liability.
+OUR SERVICES ARE PROVIDED “AS IS.” EXCEPT TO THE EXTENT PROHIBITED BY LAW, WE AND OUR AFFILIATES AND LICENSORS MAKE NO WARRANTIES (EXPRESS, IMPLIED, STATUTORY OR OTHERWISE) WITH RESPECT TO THE SERVICES, AND DISCLAIM ALL WARRANTIES INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, SATISFACTORY QUALITY, NON-INFRINGEMENT, AND QUIET ENJOYMENT, AND ANY WARRANTIES ARISING OUT OF ANY COURSE OF DEALING OR TRADE USAGE. WE DO NOT WARRANT THAT THE SERVICES WILL BE UNINTERRUPTED, ACCURATE OR ERROR FREE, OR THAT ANY CONTENT WILL BE SECURE OR NOT LOST OR ALTERED. 
 
-(b) **Effect on Termination**. Upon termination, you will stop using the Services and you will promptly return or, if instructed by us, destroy any Confidential Information. The sections of these Terms which by their nature should survive termination or expiration should survive, including but not limited to Sections 3 and 5-9.  
+YOU ACCEPT AND AGREE THAT ANY USE OF OUTPUTS FROM OUR SERVICE IS AT YOUR SOLE RISK AND YOU WILL NOT RELY ON OUTPUT AS A SOLE SOURCE OF TRUTH OR FACTUAL INFORMATION, OR AS A SUBSTITUTE FOR PROFESSIONAL ADVICE.  
 
-7\. Indemnification; Disclaimer of Warranties; Limitations on Liability
------------------------------------------------------------------------
+Limitation of Liability
+-----------------------
 
-(a) **Indemnity**. You will defend, indemnify, and hold harmless us, our affiliates, and our personnel, from and against any claims, losses, and expenses (including attorneys’ fees) arising from or relating to your use of the Services, including your Content, products or services you develop or offer in connection with the Services, and your breach of these Terms or violation of applicable law.
+NEITHER WE NOR ANY OF OUR AFFILIATES OR LICENSORS WILL BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES, INCLUDING DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, OR DATA OR OTHER LOSSES, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. OUR AGGREGATE LIABILITY UNDER THESE TERMS WILL NOT EXCEED ​​THE GREATER OF THE AMOUNT YOU PAID FOR THE SERVICE THAT GAVE RISE TO THE CLAIM DURING THE 12 MONTHS BEFORE THE LIABILITY AROSE OR ONE HUNDRED DOLLARS ($100). THE LIMITATIONS IN THIS SECTION APPLY ONLY TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
 
-(b) **Disclaimer**. THE SERVICES ARE PROVIDED “AS IS.” EXCEPT TO THE EXTENT PROHIBITED BY LAW, WE AND OUR AFFILIATES AND LICENSORS MAKE NO WARRANTIES (EXPRESS, IMPLIED, STATUTORY OR OTHERWISE) WITH RESPECT TO THE SERVICES, AND DISCLAIM ALL WARRANTIES INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, SATISFACTORY QUALITY, NON-INFRINGEMENT, AND QUIET ENJOYMENT, AND ANY WARRANTIES ARISING OUT OF ANY COURSE OF DEALING OR TRADE USAGE. WE DO NOT WARRANT THAT THE SERVICES WILL BE UNINTERRUPTED, ACCURATE OR ERROR FREE, OR THAT ANY CONTENT WILL BE SECURE OR NOT LOST OR ALTERED.
+Some countries and states do not allow the disclaimer of certain warranties or the limitation of certain damages, so some or all of the terms above may not apply to you, and you may have additional rights. In that case, these Terms only limit our responsibilities to the maximum extent permissible in your country of residence.
 
-(c) **Limitations of Liability**. NEITHER WE NOR ANY OF OUR AFFILIATES OR LICENSORS WILL BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, INCLUDING DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, OR DATA OR OTHER LOSSES, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. OUR AGGREGATE LIABILITY UNDER THESE TERMS SHALL NOT EXCEED ​​THE GREATER OF THE AMOUNT YOU PAID FOR THE SERVICE THAT GAVE RISE TO THE CLAIM DURING THE 12 MONTHS BEFORE THE LIABILITY AROSE OR ONE HUNDRED DOLLARS ($100). THE LIMITATIONS IN THIS SECTION APPLY ONLY TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.  
+OPENAI’S AFFILIATES, SUPPLIERS, LICENSORS, AND DISTRIBUTORS ARE INTENDED THIRD PARTY BENEFICIARIES OF THIS SECTION.  
 
-8\. Dispute Resolution
-----------------------
+Indemnity
+---------
 
-YOU AGREE TO THE FOLLOWING MANDATORY ARBITRATION AND CLASS ACTION WAIVER PROVISIONS:
+If you are a business or organization, to the extent permitted by law, you will indemnify and hold harmless us, our affiliates, and our personnel, from and against any costs, losses, liabilities, and expenses (including attorneys’ fees) from third party claims arising out of or relating to your use of the Services and Content or any violation of these Terms.  
 
-(a) **MANDATORY ARBITRATION**. You and OpenAI agree to resolve any past or present claims relating to these Terms or our Services through final and binding arbitration, except that you have the right to opt out of these arbitration terms, and future changes to these arbitration terms, by filling out [this form](https://forms.gle/A43keozLVk9Pf8Js5) within 30 days of agreeing to these arbitration terms or the relevant changes.
+Dispute Resolution
+------------------
 
-(b) **Informal Dispute Resolution**. We would like to understand and try to address your concerns prior to formal legal action. Before filing a claim against OpenAI, you agree to try to resolve the dispute informally by sending us notice at [dispute-resolution@openai.com](mailto:dispute-resolution@openai.com) of your name, a description of the dispute, and the relief you seek. If we are unable to resolve a dispute within 60 days, you may bring a formal proceeding. Any statute of limitations will be tolled during the 60-day resolution process. If you reside in the EU, the European Commission provides for an online dispute resolution platform, which you can access at https://ec.europa.eu/consumers/odr.
+**YOU AND OPENAI AGREE TO THE FOLLOWING MANDATORY ARBITRATION AND CLASS ACTION WAIVER PROVISIONS:**
 
-(c) **Arbitration Forum**. Either party may commence binding arbitration through ADR Services, an alternative dispute resolution provider. The parties will pay equal shares of the arbitration fees. If the arbitrator finds that you cannot afford to pay the arbitration fees and cannot obtain a waiver, OpenAI will pay them for you. OpenAI will not seek its attorneys’ fees and costs in arbitration unless the arbitrator determines that your claim is frivolous.
+**MANDATORY ARBITRATION.** You and OpenAI agree to resolve any claims arising out of or relating to these Terms or our Services, regardless of when the claim arose, even if it was before these Terms existed (a “Dispute”), through final and binding arbitration. You may opt out of arbitration within 30 days of account creation or of any updates to these arbitration terms within 30 days after the update has taken effect by filling out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeho5zqudbNosAqbzvdaOJJZVn5b4or85nVUu03ruH25k0TRA/viewform). If you opt out of an update, the last set of agreed upon arbitration terms will apply. 
 
-(d) **Arbitration Procedures**. The arbitration will be conducted by telephone, based on written submissions, video conference, or in person in San Francisco, California or at another mutually agreed location. The arbitration will be conducted by a sole arbitrator by ADR Services under its then-prevailing rules. All issues are for the arbitrator to decide, except a California court has the authority to determine (i) the scope, enforceability, and arbitrability of this Section 8, including the mass filing procedures below, and (ii) whether you have complied with the pre-arbitration requirements in this section. The amount of any settlement offer will not be disclosed to the arbitrator by either party until after the arbitrator determines the final award, if any.
+**Informal Dispute Resolution.** We would like to understand and try to address your concerns prior to formal legal action. Before either of us files a claim against the other, we both agree to try to resolve the Dispute informally. You agree to do so by sending us notice through this [form](https://docs.google.com/forms/d/e/1FAIpQLSe6iKNzSYs6mc8CRR1EIGk1yzh9S6BhJUperYaWr5FaElrk0g/viewform). We will do so by sending you notice to the email address associated with your account. If we are unable to resolve a Dispute within 60 days, either of us has the right to initiate arbitration. We also both agree to attend an individual settlement conference if either party requests one during this time. Any statute of limitations will be tolled during this informal resolution process.
 
-(e). **Exceptions**. This arbitration section does not require arbitration of the following claims: (i) individual claims brought in small claims court; and (ii) injunctive or other equitable relief to stop unauthorized use or abuse of the Services or intellectual property infringement.
+**Arbitration Forum.** If we are unable to resolve the Dispute, either of us may commence arbitration with National Arbitration and Mediation (“NAM”) under its Comprehensive Dispute Resolution Rules and Procedures and/or Supplemental Rules for Mass Arbitration Filings, as applicable (available [here](https://www.namadr.com/resources/rules-fees-forms/)). OpenAI will not seek attorneys’ fees and costs in arbitration unless the arbitrator determines that your claim is frivolous. The activities described in these Terms involve interstate commerce and the Federal Arbitration Act will govern the interpretation and enforcement of these arbitration terms and any arbitration. 
 
-(f) **NO CLASS ACTIONS**. Disputes must be brought on an individual basis only, and may not be brought as a plaintiff or class member in any purported class, consolidated, or representative proceeding. Class arbitrations, class actions, private attorney general actions, and consolidation with other arbitrations are not allowed. If for any reason a dispute proceeds in court rather than through arbitration, each party knowingly and irrevocably waives any right to trial by jury in any action, proceeding, or counterclaim. This does not prevent either party from participating in a class-wide settlement of claims.
+**Arbitration Procedures.** The arbitration will be conducted by videoconference if possible, but if the arbitrator determines a hearing should be conducted in person, the location will be mutually agreed upon, in the county where you reside, or as determined by the arbitrator, unless the batch arbitration process applies. The arbitration will be conducted by a sole arbitrator. The arbitrator will be either a retired judge or an attorney licensed to practice law in the state of California. The arbitrator will have exclusive authority to resolve any Dispute, except the state or federal courts of San Francisco, California have the authority to determine any Dispute about enforceability, validity of the class action waiver, or requests for public injunctive relief, as set out below. Any settlement offer amounts will not be disclosed to the arbitrator by either party until after the arbitrator determines the final award, if any. The arbitrator has the authority to grant motions dispositive of all or part of any Dispute. 
 
-(g) **Mass Filings**. If, at any time, 30 or more similar demands for arbitration are asserted against OpenAI or related parties by the same or coordinated counsel or entities (“Mass Filing”), ADR Services will randomly assign sequential numbers to each of the Mass Filings. Claims numbered 1-10 will be the “Initial Test Cases” and will proceed to arbitration first. The arbitrators will render a final award for the Initial Test Cases within 120 days of the initial pre-hearing conference, unless the claims are resolved in advance or the parties agree to extend the deadline. The parties will then have 90 days (the “Mediation Period”) to resolve the remaining cases in mediation based on the awards from the Initial Test Cases. If the parties are unable to resolve the outstanding claims during this time, the parties may choose to opt out of the arbitration process and proceed in court by providing written notice to the other party within 60 days after the Mediation Period. Otherwise, the remaining cases will be arbitrated in their assigned order. Any statute of limitations will be tolled from the time the Initial Test Cases are chosen until your case is chosen as described above.
+**Exceptions.** This section does not require informal dispute resolution or arbitration of the following claims: (i) individual claims brought in small claims court; and (ii) injunctive or other equitable relief to stop unauthorized use or abuse of the Services or intellectual property infringement or misappropriation.
 
-(h) **Severability**. If any part of this Section 8 is found to be illegal or unenforceable, the remainder will remain in effect, except that if a finding of partial illegality or unenforceability would allow Mass Filing or class or representative arbitration, this Section 8 will be unenforceable in its entirety. Nothing in this section will be deemed to waive or otherwise limit the right to seek public injunctive relief or any other non-waivable right, pending a ruling on the substance of such claim from the arbitrator.  
+**CLASS AND JURY TRIAL WAIVERS.** You and OpenAI agree that Disputes must be brought on an individual basis only, and may not be brought as a plaintiff or class member in any purported class, consolidated, or representative proceeding. Class arbitrations, class actions, and representative actions are prohibited. Only individual relief is available. The parties agree to sever and litigate in court any request for public injunctive relief after completing arbitration for the underlying claim and all other claims. This does not prevent either party from participating in a class-wide settlement. You and OpenAI knowingly and irrevocably waive any right to trial by jury in any action, proceeding, or counterclaim. 
 
-9\. General Terms
------------------
+**Batch Arbitration.** If 25 or more claimants represented by the same or similar counsel file demands for arbitration raising substantially similar Disputes within 90 days of each other, then you and OpenAI agree that NAM will administer them in batches of up to 50 claimants each (“Batch”), unless there are less than 50 claimants in total or after batching, which will comprise a single Batch. NAM will administer each Batch as a single consolidated arbitration with one arbitrator, one set of arbitration fees, and one hearing held by videoconference or in a location decided by the arbitrator for each Batch. If any part of this section is found to be invalid or unenforceable as to a particular claimant or Batch, it will be severed and arbitrated in individual proceedings.  
 
-(a) **Relationship of the Parties**. These Terms do not create a partnership, joint venture or agency relationship between you and OpenAI or any of OpenAI’s affiliates. OpenAI and you are independent contractors and neither party will have the power to bind the other or to incur obligations on the other’s behalf without the other party’s prior written consent.
+**Severability.** If any part of these arbitration terms is found to be illegal or unenforceable, the remainder will remain in effect, except that if a finding of partial illegality or unenforceability would allow class arbitration, class action, or representative action, this entire dispute resolution section will be unenforceable in its entirety.  
 
-(b) **Use of Brands**. You may not use OpenAI’s or any of its affiliates’ names, logos, or trademarks, without our prior written consent.
+Copyright Complaints
+--------------------
 
-(c) **U.S. Federal Agency Entities**. The Services were developed solely at private expense and are commercial computer software and related documentation within the meaning of the applicable U.S. Federal Acquisition Regulation and agency supplements thereto.
-
-(d) **Copyright Complaints**. If you believe that your intellectual property rights have been infringed, please send notice to the address below or fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeSq2JNu9g8skmUCXh9968brvVftNa2lNInG_KyNJlBPEuZJw/viewform). We may delete or disable content alleged to be infringing and may terminate accounts of repeat infringers.
+If you believe that your intellectual property rights have been infringed, please send notice to the address below or fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeSq2JNu9g8skmUCXh9968brvVftNa2lNInG_KyNJlBPEuZJw/viewform). We may delete or disable content that we believe violates these Terms or is alleged to be infringing and will terminate accounts of repeat infringers where appropriate.
 
 > OpenAI, L.L.C.  
-> 3180 18th St  
-> San Francisco, CA 94110  
+> 3180 18th St.  
+> San Francisco, California 94110  
 > Attn: General Counsel / Copyright Agent
 
-Written claims concerning copyright infringement must include the following information:
+Written claims concerning copyright infringement must include the following information:
 
-* A physical or electronic signature of the person authorized to act on behalf of the owner of the copyright interest;
-* A description of the copyrighted work that you claim has been infringed upon;
-* A description of where the material that you claim is infringing is located on the site;
-* Your address, telephone number, and e-mail address;
-* A statement by you that you have a good-faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law; and
-* A statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner’s behalf.
+* A physical or electronic signature of the person authorized to act on behalf of the owner of the copyright interest
+* A description of the copyrighted work that you claim has been infringed upon
+* A description of where the allegedly infringing material is located on our site so we can find it
+* Your address, telephone number, and e-mail address
+* A statement by you that you have a good-faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law
+* A statement by you that the above information in your notice is accurate and, under penalty of perjury, that you are the copyright owner or authorized to act on the copyright owner’s behalf  
+    
 
-(e) **Assignment and Delegation**. You may not assign or delegate any rights or obligations under these Terms, including in connection with a change of control. Any purported assignment and delegation shall be null and void. We may assign these Terms in connection with a merger, acquisition or sale of all or substantially all of our assets, or to any affiliate or as part of a corporate reorganization.
+General Terms
+-------------
 
-(f) **Modifications**. We may amend these Terms from time to time by posting a revised version on the website, or if an update materially adversely affects your rights or obligations under these Terms we will provide notice to you either by emailing the email associated with your account or providing an in-product notification. Those changes will become effective no sooner than 30 days after we notify you. All other changes will be effective immediately. Your continued use of the Services after any change means you agree to such change.
+**Assignment.** You may not assign or transfer any rights or obligations under these Terms and any attempt to do so will be void. We may assign our rights or obligations under these Terms to any affiliate, subsidiary, or successor in interest of any business associated with our Services.
 
-(g) **Notices**. All notices will be in writing. We may notify you using the registration information you provided or the email address associated with your use of the Services. Service will be deemed given on the date of receipt if delivered by email or on the date sent via courier if delivered by post. OpenAI accepts service of process at this address: OpenAI, L.L.C., 3180 18th Street, San Francisco, CA 94110, Attn: contract-notices@openai.com. 
+**Changes to These Terms or Our Services.** We are continuously working to develop and improve our Services. We may update these Terms or our Services accordingly from time to time. For example, we may make changes to these Terms or the Services due to:
 
-(h) **Waiver and Severability**. If you do not comply with these Terms, and OpenAI does not take action right away, this does not mean OpenAI is giving up any of our rights. Except as provided in Section 8, if any part of these Terms is determined to be invalid or unenforceable by a court of competent jurisdiction, that term will be enforced to the maximum extent permissible and it will not affect the enforceability of any other terms.
+* Changes to the law or regulatory requirements.
+* Security or safety reasons.
+* Circumstances beyond our reasonable control.
+* Changes we make in the usual course of developing our Services.
+* To adapt to new technologies.
 
-(i) **Export Controls**. The Services may not be used in or for the benefit of, exported, or re-exported (a) into any U.S. embargoed countries (collectively, the “Embargoed Countries”) or (b) to anyone on the U.S. Treasury Department’s list of Specially Designated Nationals, any other restricted party lists (existing now or in the future) identified by the Office of Foreign Asset Control, or the U.S. Department of Commerce Denied Persons List or Entity List, or any other restricted party lists (collectively, “Restricted Party Lists”). You represent and warrant that you are not located in any Embargoed Countries and not on any such restricted party lists. You must comply with all applicable laws related to Embargoed Countries or Restricted Party Lists, including any requirements or obligations to know your end users directly.
+We will give you at least 30 days advance notice of changes to these Terms that materially adversely impact you either via email or an in-product notification. All other changes will be effective as soon as we post them to our website. If you do not agree to the changes, you must stop using our Services.
 
-(j) **Equitable Remedies**. You acknowledge that if you violate or breach these Terms, it may cause irreparable harm to OpenAI and its affiliates, and OpenAI shall have the right to seek injunctive relief against you in addition to any other legal remedies.
+**Delay in Enforcing These Terms.** Our failure to enforce a provision is not a waiver of our right to do so later. Except as provided in the dispute resolution section above, if any portion of these Terms is determined to be invalid or unenforceable, that portion will be enforced to the maximum extent permissible and it will not affect the enforceability of any other terms.
 
-(k) **Entire Agreement**. These Terms and any policies incorporated in these Terms contain the entire agreement between you and OpenAI regarding the use of the Services and, other than any Service specific terms of use or any applicable enterprise agreements, supersedes any prior or contemporaneous agreements, communications, or understandings between you and OpenAI on that subject.
+**Trade Controls.** You must comply with all applicable trade laws, including sanctions and export control laws. Our Services may not be used in or for the benefit of, or exported or re-exported to (a) any U.S. embargoed country or territory or (b) any individual or entity with whom dealings are prohibited or restricted under applicable trade laws. Our Services may not be used for any end use prohibited by applicable trade laws, and your Input may not include material or information that requires a government license for release or export. 
 
-(l) **Jurisdiction, Venue and Choice of Law**. These Terms will be governed by the laws of the State of California, excluding California’s conflicts of law rules or principles. Except as provided in the “Dispute Resolution” section, all claims arising out of or relating to these Terms will be brought exclusively in the federal or state courts of San Francisco County, California, USA.
+**Entire Agreement.** These Terms contain the entire agreement between you and OpenAI regarding the Services and, other than any Service-specific terms, supersedes any prior or contemporaneous agreements between you and OpenAI. 
+
+**Governing Law.** California law will govern these Terms except for its conflicts of laws principles. Except as provided in the dispute resolution section above, all claims arising out of or relating to these Terms will be brought exclusively in the federal or state courts of San Francisco, California.
