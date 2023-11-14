@@ -28,11 +28,11 @@ These Terms of Service shall apply to all use of "SOUNDRAW" (the "Service") oper
 
 ### Article 4 (Fee for using the service)
 
-1. The fee for use of the service shall be in accordance with the separately determined plans (https://soundraw.io/). No refund will be given in the event that you cancel part-way through the subscription period. However, a refund is possible if you contact us within one week of starting your subscription and if you haven’t downloaded any songs from Soundraw.
-2. Your payment to Soundraw will automatically renew at the end of the applicable subscription period, unless you cancel your paid subscription before the end of the then-current subscription period. In the case of a monthly plan, the payment is routinely renewed starting from the subscription starting date in increments of one month.  
+1. The fee for use of the service shall be in accordance with the separately determined plans (https://soundraw.io/). No refund will be given in the event that you cancel part-way through the subscription period. However, a refund is possible if you contact us within one week of starting your subscription and if you haven’t downloaded any songs from SOUNDRAW.
+2. Your payment to SOUNDRAW will automatically renew at the end of the applicable subscription period, unless you cancel your paid subscription before the end of the then-current subscription period. In the case of a monthly plan, the payment is routinely renewed starting from the subscription starting date in increments of one month.  
     For annual subscriptions, the payment automatically renews after the first year in one-year increments.  
     Example: if you subscribe to a monthly plan on June 29, 2021, the payment will automatically renew on July 29, 2021.  
-    Additionally, a refund is possible if you contact us within one week of your payment renewal, provided you haven’t downloaded any songs from Soundraw since your payment renewal.
+    Additionally, a refund is possible if you contact us within one week of your payment renewal, provided you haven’t downloaded any songs from SOUNDRAW since your payment renewal.
 3. Payment can be done by credit card, PayPal or any other payment method as shown in our subscription flow.
 
 ### Article 5 (Intellectual Property Rights, etc.)
@@ -56,7 +56,7 @@ These Terms of Service shall apply to all use of "SOUNDRAW" (the "Service") oper
     11. (11) Acts of selling, distributing for free or sublicensing music itself created using the Service (this excludes videos and other products created using said music). For details on the license check [https://soundraw.io/en/license](https://soundraw.io/license)
     12. (12) Downloading with external application
     13. (13) Other acts that SOUNDRAW deems inappropriate
-    14. (14) It is forbidden to use output from the Service to develop models that compete with Soundraw
+    14. (14) It is forbidden to use output from the Service to develop models that compete with SOUNDRAW
     15. (15) Except as permitted through the API, using any automated or programmatic methods to extract data or output from the Service, including scraping, web harvesting, or web data extraction is forbidden
 2. SOUNDRAW may seek compensation for damages (including reasonable attorneys' fees and costs) from you if we incur any losses due to your breach of these Terms of Service.
 3. If you commit any of the prohibited acts under this article, SOUNDRAW may suspend your user account.
@@ -101,6 +101,6 @@ SOUNDRAW shall be able to suspend the operation of all or part of the Service fo
 ### Article 13 (Withdrawal Right)
 
 1. The right of withdrawal is a right that allows European consumers to withdraw from their contract within 14 days of its effective date. Because you can immediately enjoy our service after subscribing to any of our plans, we do not offer a right of withdrawal.
-2. Although Soundraw does not offer a right of withdrawal in any European country, you can cancel at any time as explained in this Terms of Service.
+2. Although SOUNDRAW does not offer a right of withdrawal in any European country, you can cancel at any time as explained in this Terms of Service.
 3. The law requires us to inform you that you do not have a right of withdrawal. To this end, when our customers subscribe to any of our plans in any European country they acknowledge that they lose their right of withdrawal.
 4. Acknowledging that you lose your right of withdrawal will not affect any of your other rights as a consumer and will not affect your ability to cancel your subscription at any time.
