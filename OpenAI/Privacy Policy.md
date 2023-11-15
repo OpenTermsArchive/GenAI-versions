@@ -1,9 +1,9 @@
 Privacy policy
 ==============
 
-UpdatedNovember 13, 2023
+UpdatedNovember 14, 2023
 
-**Effective: December 13, 2023**
+**Effective: December 14, 2023**
 
 ﻿_We’ve updated our Privacy Policy below. These updates do not apply to individuals located in the European Economic Area, UK, and Switzerland._ _If you reside in those areas, the_ [_previous version_](https://openai.com/policies/eu-privacy-policy) _of our Privacy Policy continues to apply to you._
 
