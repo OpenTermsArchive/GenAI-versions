@@ -15,7 +15,7 @@ Our [Business Terms](https://openai.com/policies/business-terms) govern use of C
 
 Our [Privacy Policy](https://openai.com/policies/privacy-policy) explains how we collect and use personal information. Although it does not form part of these Terms, it is an important document that you should read.  
 
-How we are
+Who we are
 ----------
 
 OpenAI is an AI research and deployment company. Our mission is to ensure that artificial general intelligence benefits all of humanity. For more information about OpenAI, please visit [https://openai.com/about](https://openai.com/about).  
