@@ -2,7 +2,7 @@ Privacy Notice
 
 =================
 
-Last Updated: October 17, 2023
+Last Updated: November 27, 2023
 
 CopyAI, Inc. (“**Copy.ai**,” “**we**,” “**us**,” and “**our**”) provides a generative productivity platform to assist customers in transforming their business with generative AI.
 
@@ -22,6 +22,8 @@ We respect your privacy and are strongly committed to keeping secure any informa
 **Security of your information** - We implement technical and organizational measures to secure your Personal Data from loss, misuse, unauthorized access or disclosure, alteration or destruction.
 
 **Cross-border data transfer** – We use cloud-based services to store and process data in the United States and European Union and will store data at additional sites, at our discretion, in accordance with applicable laws.
+
+**Data Privacy Framework Notice** – Copy.ai adheres to the EU-U.S. Data Privacy Framework Principles regarding the collection, use, and retention of personal data that is transferred from the European Union, the United Kingdom and Switzerland to the U.S.
 
 **Aggregated and analytics information** - Aggregated data is not identifiable. We use standard analytical tools for legitimate business purposes.
 
@@ -195,9 +197,26 @@ However, no system is 100% secure, and we cannot guarantee or warrant that the S
 
 We are a global company with headquarters in the US. We therefore transfer Personal Data outside of the country it was collected in or outside of the European Economic Area ("**EEA**")to, among others, the USA, to Brazil, Costa Rica, Philippines, or Canada. All information processed by us may be transferred, processed, and stored anywhere in the world, including, but not limited to, the United States or other countries, which may have data protection laws that are different from the laws where you live. We endeavor to safeguard Personal Data relating to you consistent with the requirements of applicable laws.  If our use of the Personal Data is governed by laws restricting the transfer of personal information to other countries that do not provide an adequate level of protection to the Personal Data, we will use appropriate safeguards, in particular, by way of entering into appropriate contractual agreements with the relevant recipients, or by adhering to equivalent data transfer regulations to protect the security and confidentiality of such personal information.
 
-When we transfer Personal Data from outside of the US, we make use of the standard contractual data protection clauses, which have been approved by the European Commission, to safeguard the transfer of information we collect from the European Economic Area, the United Kingdom (the "UK"), and Switzerland.
+When we transfer Personal Data from outside of the US, we make use of the EU-U.S. Data Privacy Framework to receive personal data transfers from the European Union/European Economic Area to the U.S. (see “EU-U.S. Data Privacy Framework Notice” section below), and the standard contractual data protection clauses, which have been approved by the European Commission, to safeguard the transfer of information we collect from the European Economic Area, the United Kingdom (the "UK"), and Switzerland.
 
-8\. **Aggregated and Analytics Information**
+8\. **Data Privacy Framework Notice**
+-------------------------------------
+
+Copy.ai complies with the principles of the EU-U.S. Data Privacy Framework (“EU-U.S. DPF”), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce and relies on the European Commission’s adequacy decision for the EU-U.S. DPF to receive personal data transfers from the European Economic Area. Copy.ai adheres to the EU-U.S. Data Privacy Framework Principles (“EU-U.S. DPF Principles”) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF. Copy.ai. has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF (together with the EU-U.S. DPF Principles, the “DPF Principles”). If there is any conflict between the terms in this Policy and the DPF Principles, the DPF Principles shall govern.  To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/).
+
+Under the DPF Principles we are responsible for the processing of personal data we receive and, subsequently, for the personal data that we then transfer to a third-party service provider, if the personal data is processed in a manner inconsistent with the Data Privacy Framework.
+
+If you have any questions, concerns, or complaints about our compliance with the DPF Principles, we encourage you to contact us under the contact details set forth in the “Contact Us” section below. In this section you can also find information regarding our EU representative that can respond to your inquiries or complaints.
+
+If you have an unresolved complaint regarding our handling of personal data we received in reliance on the Data Privacy Framework, please contact our U.S.-based third-party dispute resolution provider (free of charge), JAMS, at [https://www.jamsadr.com/dpf-dispute-resolution](https://www.jamsadr.com/dpf-dispute-resolution).
+
+Finally, if you have a complaint that we have violated the DPF Principles that has not been resolved by other means, you may have the ability to invoke binding arbitration as outlined more fully on the  Data Privacy Framework website.
+
+Copy.ai is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
+
+‍
+
+9\. **Aggregated and Analytics Information**
 --------------------------------------------
 
 We use standard analytics tools. The privacy practices of these tools are subject to their own privacy policies and they use their own cookies to provide their service (you can find further information about cookies in Section 5 above.
@@ -208,8 +227,8 @@ In order to find out how Google uses data when you use their services you can vi
 
 We use anonymous, statistical or aggregated information and will share it with our partners for legitimate business purposes. It has no effect on your privacy, because there is no reasonable way to extract data from the aggregated information that we or others can associate specifically to you.
 
-9\. **Specific provision for EEA, UK and Swiss residents**
-----------------------------------------------------------
+10\. **Specific provision for EEA, UK and Swiss residents**
+-----------------------------------------------------------
 
 Under the Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 (“**GDPR**”), we are considered a data controller with respect to the Services we provide to you, or with respect to the information you provide us as a job candidate. If you are a resident of a territory in the European Economic Area (“**EEA**”), the United Kingdom orSwitzerland, we base our processing of Personal Data as a data controller on the following lawful grounds:
 
@@ -238,7 +257,7 @@ Where we process PersonalData as part of the Services, as a data processor of ou
 
 If you have any concerns about the way we process Personal Data related to you, you are welcome to contact our privacy team at: [legal@copy.ai](mailto:legal@copy.ai) or write to us at: Copy.AI, Inc., 1661 International Drive, Memphis, TN 38120, USA.
 
-10\. **U.S. State Law Disclosures**
+11\. **U.S. State Law Disclosures**
 -----------------------------------
 
 Several U.S. states have enacted privacy laws to grant new privacy rights to their residents.
@@ -283,12 +302,12 @@ Memphis, TN 38120, USA
 
 California Shine the Light. California Civil Code Section 1798.83 (the “Shine the Light” law) permits users who are California residents to request and obtain from us once a year, free of charge, a list of the third parties to whom we have disclosed their Personal Data (if any) for their direct marketing purposes in the prior calendar year, as well as the type of Personal Data disclosed to those parties.
 
-11\. **Children’s Information**
+12\. **Children’s Information**
 -------------------------------
 
 The Services are not directed to children under 13 (or other age as required by local law), and we do not knowingly collect Personal Data from children. If you learn that your child has provided us with Personal Data without your consent, you may contact us as set forth below.  If we learn that we have collected a child’s Personal Data in violation of applicable law, we will promptly take steps to delete such information.
 
-12\. **Data Retention And Deletion**
+13\. **Data Retention And Deletion**
 ------------------------------------
 
 We retain different types of Personal Data for different periods, depending on the purposes for processing such information, our legitimate business purposes as well as pursuant to legal requirements under the applicable laws.  
@@ -301,14 +320,14 @@ We will keep aggregated non-identifiable information without limitation, and to 
 
 In any case, as long as you use the Services, we will keep information about you, unless applicable law requires us to delete it.
 
-13\. **Changes to This Privacy Policy**
+14\. **Changes to This Privacy Policy**
 ---------------------------------------
 
 From time to time, we will need to update this privacy policy. If the updates have minor, if any, consequences, they will take effect 7 days after we post a notice on the Services’ platform and/or our website, or after we send you the notice through email or through the Services. Substantial changes will be effective 30 days after we initially posted our notice. Changes to this privacy policy are effective as of the stated “last updated” date.
 
 Continuing to use the Services or our website after the new privacy policy takes effect means that you agree to the new privacy policy. Note that if we need to adapt the privacy policy to legal requirements, the new privacy policy will become effective immediately or as required.
 
-14\. **Contact Us**
+15\. **Contact Us**
 -------------------
 
 If you have any questions about our privacy practices or this Privacy Policy, or to exercise your rights as detailed in this Privacy Policy, please contact us at:
