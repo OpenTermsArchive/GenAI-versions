@@ -3,7 +3,7 @@ Terms of use
 
 UpdatedNovember 14, 2023
 
-**Effective: December 14, 2023** ([previous version](https://openai.com/policies/mar-2023-terms))
+**Effective: January 31, 2024** ([previous version](https://openai.com/policies/mar-2023-terms))
 
 Thank you for using OpenAI!
 
