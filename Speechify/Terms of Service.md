@@ -149,8 +149,6 @@ Speechify®, the Speechify logo and all other Speechify product or service marks
 
 6.2 Your access to the Services may be occasionally restricted to allow for repairs, maintenance or the introduction of new facilities or Services. We will restore the Services as soon as we reasonably can. In the event that the Services are unavailable, our usual Order and cancellation deadlines apply; please notify us of changes to your Order by emailing [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection).
 
-6.3 Speechify may limit the availability of Premium voices for users who listen to more than 150,000 words with Premium voices per month. For users who do reach this limit, their access to these voices will renew the following calendar month.
-
 #### 7\. USER MATERIAL
 
 7.1 The Services may let you submit material to us: for example, you may be able to upload a photo to your profile, post books and comments in the community and comment on various matters in various parts of the Services. You may be able to upload text, video, images or sounds. In these Terms, we use the term “User Material” to refer to any publicly available material of any kind that you submit to us, including text, files, images, photos, video, sounds and musical or literary works. User Material does not include the account information, Product purchase, or Service use information which you provide in registering for and using Services.
