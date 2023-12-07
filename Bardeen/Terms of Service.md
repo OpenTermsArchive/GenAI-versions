@@ -55,6 +55,8 @@ Bardeen requires payment of a fee for use of the Services (or certain portions t
 6. **Bardeen’s Intellectual Property.**  
     We may make available through the Services content that is subject to intellectual property rights. We retain all rights to that content and to the Generative Automations.
     
+7. Please be aware that the excessive or abusive use of extensions, bots, or automation tools on some websites can lead to penalties, including temporary or even permanent restrictions on your account. We recommend you read and adhere to the specific terms of the websites you are visiting and using to avoid any disruptions or issues. We do not assume any responsibility for consequences of abuse.
+    
 
 **7\. General Prohibitions and Bardeen’s Enforcement Rights.  
 **You agree not to do any of the following:
