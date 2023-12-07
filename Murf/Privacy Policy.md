@@ -85,6 +85,7 @@ We use the information we collect about you for the following purposes:
 * Keeping our Site secure: We use information about you to screen for potential risk and fraud, and to identify violations of this Privacy Policy or our Terms of Use.
 * Where required by law: We will use or disclose your information where we reasonably believe that such action is necessary to: (a) comply with the law and the reasonable requests of law enforcement or a government authority; (b) to enforce our Terms of Use or to protect the security and integrity of our Site; and (c) to exercise or protect the rights, property or personal safety of MURF Group, our users or others.
 * Where you have given your consent: We may seek your consent to use your information for a particular purpose. Where you give your consent for us to do this, we will use your information in accordance with that purpose. You can withdraw your consent to these uses at any time.
+* Please note that we prohibit the sale of Google user data to third-parties.
 
 For personal information subject to the GDPR, we rely on the following legal bases to process this information:
 
