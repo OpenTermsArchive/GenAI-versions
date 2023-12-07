@@ -55,10 +55,11 @@ Bardeen requires payment of a fee for use of the Services (or certain portions t
 6. **Bardeen’s Intellectual Property.**  
     We may make available through the Services content that is subject to intellectual property rights. We retain all rights to that content and to the Generative Automations.
     
-7. Please be aware that the excessive or abusive use of extensions, bots, or automation tools on some websites can lead to penalties, including temporary or even permanent restrictions on your account. We recommend you read and adhere to the specific terms of the websites you are visiting and using to avoid any disruptions or issues. We do not assume any responsibility for consequences of abuse.
+7. **Abuse of the product.  
+    ‍**Please be aware that the excessive or abusive use of extensions, bots, or automation tools on some websites can lead to penalties, including temporary or even permanent restrictions on your account. We recommend you read and adhere to the specific terms of the websites you are visiting and using to avoid any disruptions or issues. We do not assume any responsibility for consequences of abuse.
     
 
-**7\. General Prohibitions and Bardeen’s Enforcement Rights.  
+**8\. General Prohibitions and Bardeen’s Enforcement Rights.  
 **You agree not to do any of the following:
 
 1. Import, upload, submit or transmit any User Content that: (i) infringes, misappropriates or violates a third party’s patent, copyright, trademark, trade secret, moral rights or other intellectual property rights, or rights of publicity or privacy; (ii) violates, or encourages any conduct that would violate, any applicable law or regulation or would give rise to civil liability; (iii) is fraudulent, false, misleading or deceptive; (iv) is defamatory, obscene, pornographic, vulgar or offensive; (v) promotes discrimination, bigotry, racism, hatred, harassment or harm against any individual or group; (vi) is violent or threatening or promotes violence or actions that are threatening to any person or entity; or (vii) promotes illegal or harmful activities or substances;
