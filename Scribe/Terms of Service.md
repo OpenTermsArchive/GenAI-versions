@@ -258,7 +258,7 @@ Company shall not be liable for any delay or failure to perform resulting from c
 
 #### 14.5 Questions, Complaints, Claims.
 
-If you have any questions, complaints or claims with respect to Company Properties, please contact us at: supp[\[email protected\]](https://scribehow.com/cdn-cgi/l/email-protection). We will do our best to address your concerns.
+If you have any questions, complaints or claims with respect to Company Properties, please contact us at: [\[email protected\]](https://scribehow.com/cdn-cgi/l/email-protection). We will do our best to address your concerns.
 
 #### 14.6 Exclusive Venue.
 
