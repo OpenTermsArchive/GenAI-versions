@@ -5,7 +5,7 @@ UpdatedNovember 14, 2023
 
 **Effective: January 31, 2024**
 
-_We’ve updated our Privacy Policy below. These updates do not apply to individuals located in the European Economic Area, UK, and Switzerland._ _If you reside in those areas, the_ [_previous version_](https://openai.com/policies/eu-privacy-policy) _of our Privacy Policy continues to apply to you._
+_We’ve updated our Privacy Policy below. These updates do not apply to individuals located in the European Economic Area, UK, and Switzerland._ _If you reside in those areas,_ [_this version_](https://openai.com/policies/eu-privacy-policy) _of our Privacy Policy applies to you._
 
 We at OpenAI OpCo, LLC (together with our affiliates, “OpenAI”, “we”, “our” or “us”) respect your privacy and are strongly committed to keeping secure any information we obtain from you or about you. This Privacy Policy describes our practices with respect to Personal Information we collect from or about you when you use our website, applications, and services (collectively, “Services”). This Privacy Policy does not apply to content that we process on behalf of customers of our business offerings, such as our API. Our use of that data is governed by our customer agreements covering access to and use of those offerings.
 
