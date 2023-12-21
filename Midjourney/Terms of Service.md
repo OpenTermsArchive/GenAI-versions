@@ -5,7 +5,7 @@ Terms of Service
 
 * * *
 
-**Version Effective Date: July 21, 2023**
+**Version Effective Date: December 20, 2023**
 
 Thank you for using the Midjourney platform (the “Services”). These Terms of Service (the “Agreement”) explain what rights you have with respect to images and other assets which you might generate with the Service, or prompts you might enter into the Service (the “Assets”), your use of the Services, and other important topics like arbitration. Please read it carefully. Our privacy policy outlines how we handle your data [here](https://docs.midjourney.com/privacy-policy).
 
@@ -13,7 +13,7 @@ This Agreement is entered into by Midjourney Inc. and the entity or person agree
 
 This Agreement is effective when the Customer is presented with this Agreement and proceeds to use the Services (the "Effective Date") or to receive or distribute Assets. These terms may be updated and presented again to the Customer from time to time. Continued use of the Services constitutes acceptance of the updated terms. If You do not agree to this Agreement, please stop using the Services.
 
-Other documents referenced here may also bind Customer’s use of the Services, including the Community Guidelines below.
+Other documents referenced here may also bind Customer’s use of the Services, including the Subscription Plans page and the Community Guidelines below.
 
 ### 1\. Service Availability and Quality
 
@@ -21,7 +21,7 @@ We are constantly improving the Services to make them better. The Services are s
 
 Both the Services and the Assets are provided to Customer on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are solely responsible for determining the appropriateness of using or redistributing the Assets and assume any risks associated with use of the Services.
 
-Midjourney reserves the right to suspend or ban Your access to the Services at any time, and for any reason. You may not use the Services for competitive research. You may not reverse engineer the Services or the Assets. You may not use automated tools to access, interact with, or generate Assets through the Services. Only one user may use the Services per registered account. Each user of the Services may only have one account.
+Midjourney reserves the right to suspend or ban Your access to the Services at any time, and for any reason. You may not use the Services for purposes of developing or offering competitive products or services. You may not reverse engineer the Services or the Assets. You may not use automated tools to access, interact with, or generate Assets through the Services. You may not resell or redistribute the Services or access to the Service. Only one user may use the Services per registered account. Each user of the Services may only have one account.
 
 We reserve the right to investigate complaints or reported violations of our Terms of Service and to take any action we deem appropriate including but not limited to reporting any suspected unlawful activity to law enforcement officials, regulators, or other third parties and disclosing any information necessary or appropriate to such persons or entities relating to user profiles, e-mail addresses, usage history, posted materials, IP addresses and traffic information.
 
@@ -37,28 +37,27 @@ Midjourney tries to make its Services PG-13 and family friendly, but the Assets 
 
 By using the Services, You may provide Midjourney with personal information like Your email address, user name, billing information, favorites, image outputs, and text prompts that You enter, or sample images that You upload to the Service. Our privacy policy can be found [here](https://docs.midjourney.com/privacy-policy).
 
-### 4\. Copyright and Trademark
-
-In this section, Paid Member shall refer to a Customer who has subscribed to a paying plan.
-
-#### Rights You give to Midjourney
-
-By using the Services, You grant to Midjourney, its successors, and assigns a perpetual, worldwide, non-exclusive, sublicensable no-charge, royalty-free, irrevocable copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute text, and image prompts You input into the Services, or Assets produced by the service at Your direction. This license survives termination of this Agreement by any party, for any reason.
+### 4\. Content Rights
 
 #### Your Rights
 
-Subject to the above license, You own all Assets You create with the Services, provided they were created in accordance with this Agreement. This excludes upscaling the images of others, which images remain owned by the original Asset creators. Midjourney makes no representations or warranties with respect to the current law that might apply to You. Please consult Your own lawyer if You want more information about the state of current law in Your jurisdiction. Your ownership of the Assets you created persists even if in subsequent months You downgrade or cancel Your membership. However, You do not own the Assets if You fall under the exceptions below.
+You own all Assets You create with the Services to the fullest extent possible under applicable law. There are some exceptions:
 
-If You are an employee or owner of a company with more than $1,000,000 USD a year in gross revenue and You are using the Services on behalf of Your employer, You must purchase a “Pro” or "Mega" membership for every individual accessing the Services on Your behalf in order to own Assets You create. If You are not sure whether Your use qualifies as on behalf of Your employer, please assume it does.
+* Your ownership is subject to any obligations imposed by this Agreement and the rights of any third-parties.
+* If you are a company or any employee of a company with more than $1,000,000 USD a year in revenue, you must be subscribed to a “Pro” or “Mega” plan to own Your Assets.
+* If you upscale the images of others, these images remain owned by the original creators. Please consult Your own lawyer if You want more information about the state of current intellectual property law in Your jurisdiction. Your ownership of the Assets you created persists even if in subsequent months You downgrade or cancel Your membership.
 
-If You are not a Paid Member, You don’t own the Assets You create. Instead, Midjourney grants You a license to the Assets under the Creative Commons Noncommercial 4.0 Attribution International License (the “Asset License”).  
-The full text is accessible as of the Effective Date here: [https://creativecommons.org/licenses/by-nc/4.0/legalcode](https://creativecommons.org/licenses/by-nc/4.0/legalcode).
+#### Rights You give to Midjourney
 
-Please note: Midjourney is an open community which allows others to use and remix Your images and prompts whenever they are posted in a public setting. By default, Your images are publically viewable and remixable. As described above, You grant Midjourney a license to allow this. If You purchase a "Pro" or "Mega" plan, You may bypass some of these public sharing defaults.
+By using the Services, You grant to Midjourney, its successors, and assigns a perpetual, worldwide, non-exclusive, sublicensable no-charge, royalty-free, irrevocable copyright license to reproduce, prepare derivative works of, publicly display, publicly perform, sublicense, and distribute text and image prompts You input into the Services, as well as any Assets produced by You through the Service. This license survives termination of this Agreement by any party, for any reason.
+
+#### Remixing and Stealth Mode
+
+Please note: Midjourney is an open community which allows others to use and remix Your images and prompts whenever they are posted in a public setting. By default, Your images are publically viewable and remixable. As described below, You grant Midjourney a license to allow this.
 
 If You purchased the Stealth feature as part of Your “Pro” or "Mega" subscription or through the previously available add-on, we agree to make best efforts not to publish any Assets You make in any situation where you have engaged stealth mode in the Services.
 
-Please be aware that any image You make in a shared or open space such as a Discord chatroom, is viewable by anyone in that chatroom, regardless of whether Stealth mode is engaged.
+Please be aware that any image You make in a shared or open space, such as a Discord chatroom, is viewable by anyone in that chatroom, regardless of whether Stealth mode is engaged.
 
 ### 5\. DMCA and Takedowns Policy
 
@@ -102,12 +101,8 @@ If you believe that material was removed or access to it was disabled by mistake
 
 ### 6\. Dispute Resolution and Governing Law
 
-1. ALL LEGAL CLAIMS ARISING OUT OF OR RELATING TO THIS AGREEMENT (INCLUDING ANY DISPUTE REGARDING THE INTERPRETATION OR PERFORMANCE OF THE AGREEMENT) ("Dispute") WILL BE GOVERNED BY THE LAWS OF THE STATE OF CALIFORNIA, USA, EXCLUDING CALIFORNIA'S CONFLICTS OF LAWS RULES. Sorry for putting that in caps, but hopefully You read it carefully. We're talking about serious and reasonably meritorious legal claims, not personal disputes that don't cause economic harm.
-2. The parties will try in good faith to settle any Dispute within 30 days after the Dispute arises. If the Dispute is not resolved within 30 days, it shall be resolved by arbitration by the American Arbitration Association’s International Centre for Dispute Resolution in accordance with its Expedited Commercial Rules in force as of the date of this Agreement ("Rules").
-3. The parties will mutually select one arbitrator. The arbitration will be conducted in English in Santa Clara County, California, USA.
-4. Either party may apply to any competent court for injunctive relief necessary to protect its rights pending resolution of the arbitration. The arbitrator may order equitable or injunctive relief consistent with the remedies and limitations in the Agreement.
-5. The arbitral award will be final and binding on the parties and its execution may be presented in any competent court, including any court with jurisdiction over either party or any of its property.
-6. Each party will bear its own lawyers’ and experts’ fees and expenses, regardless of the arbitrator’s final decision regarding the Dispute.
+**In the event a dispute, controversy, or claim arises out of or relating to these Terms (“Dispute”), the Dispute will be resolved by binding arbitration rather than in court.** The parties will first try in good faith to settle any Dispute within 30 days after the Dispute arises. If the Dispute is not resolved within 30 days, it shall be resolved by arbitration by the American Arbitration Association’s International Centre for Dispute Resolution in accordance with its Expedited Commercial Rules in force as of the date of this Agreement ("Rules"). The parties will mutually select one arbitrator. The arbitration will be conducted in English in Santa Clara County, California, USA. Either party may apply to any competent court for injunctive relief necessary to protect its rights pending resolution of the arbitration. The arbitrator may order equitable or injunctive relief consistent with the remedies and limitations in the Agreement. The arbitral award will be final and binding on the parties and its execution may be presented in any competent court, including any court with jurisdiction over either party or any of its property.  
+Each party will bear its own lawyers’ and experts’ fees and expenses, regardless of the arbitrator’s final decision regarding the Dispute.
 
 ### 7\. Unlimited Service and Rate Limiting
 
@@ -117,16 +112,20 @@ If You purchase an unlimited plan, we will try to reasonably offer You unlimited
 
 We may invoice You for Your use of the Services through a third party payment service provider. The third party service provider’s terms of service shall govern and supersede this Agreement in case of conflict.
 
-You are free to cancel Your plan at any time. We also reserve the right to terminate Your access to the Service for any reason, including for violation of the Community Guidelines or other inappropriate use of the Service. Any violation of Community Guidelines is a breach of this Agreement. You will not be refunded for the current subscription period, but You will not be charged after the current subscription period has ended.
+You are free to cancel Your plan at any time. We also reserve the right to terminate Your access to the Service for any reason, including for violation of the Community Guidelines or other inappropriate use of the Service. Any violation of Community Guidelines is a breach of this Agreement. You will not be refunded for the current subscription period, but You will not be charged after the current subscription period has ended. Additional information and policies regarding our subscription plans, including details on billing, taxes, refunds, and authorization, can be found [here](https://docs.midjourney.com/docs/plans).
 
 ### 9\. Community Guidelines
 
-1. Be kind and respect each other and staff. Do not create images or use text prompts that are inherently disrespectful, aggressive, or otherwise abusive. Violence or harassment of any kind will not be tolerated.
+1. Be kind and respect each other and staff. Do not create images or use text prompts that are inherently disrespectful, aggressive, hateful, or otherwise abusive. Violence or harassment of any kind will not be tolerated.
 2. No adult content or gore. Please avoid making visually shocking or disturbing content. We will block some text inputs automatically.
-3. Sharing others’ creations. Do not publicly repost the creations of others without their permission.
+3. Respect others’ creations. Do not distribute or publicly repost the creations of others without their permission.
 4. You may not use the Services to generate images for political campaigns, or to try to influence the outcome of an election.
-5. Be careful about sharing. It’s OK to share Your creations outside of the Midjourney community but please consider how others might view Your content.
-6. Banhammer. Any violations of these rules may lead to bans from our services. We are not a democracy. Behave respectfully or lose Your rights to use the Service.
+5. You may not use the Services or the Assets to attempt to or to actually deceive or defraud anyone.
+6. You may not use the Services for illegal activity nor may you upload images to our servers that involve illegal activity, or where the uploading itself may be illegal.
+7. You may not intentionally mislead recipients of the Assets about their nature or source.
+8. Respect others’ rights. Do not upload others’ private information.
+9. Be careful about sharing. It’s OK to share Your creations outside of the Midjourney community but please consider how others might view Your content.
+10. Banhammer. Any violations of these rules may lead to bans from our services. We are not a democracy. Behave respectfully or lose Your rights to use the Service.
 
 ### 10\. Limitation of Liability and Indemnity
 
@@ -136,7 +135,7 @@ You understand and agree that we will not be liable to You or any third party fo
 
 You are responsible for Your use of the service. If You harm someone else or get into a dispute with someone else, we will not be involved.
 
-If You knowingly infringe someone else’s intellectual property, and that costs us money, we’re going to come find You and collect that money from You. We might also do other stuff, like try to get a court to make You pay our attorney’s fees. Don’t do it.
+If You knowingly infringe someone else’s intellectual property, and that costs us money, we’re going to come find You and collect that money from You. We might also do other stuff, like try to get a court to make You pay our legal fees. Don’t do it.
 
 ### 11\. Miscellaneous
 
@@ -145,5 +144,6 @@ If You knowingly infringe someone else’s intellectual property, and that costs
 3. Severability. If any part of this Agreement is invalid, illegal, or unenforceable, the rest of the Agreement will remain in effect.
 4. No Third-Party Beneficiaries. This Agreement does not confer any benefits on any third party unless it expressly states that it does.
 5. Survival. The sections and obligations in this Agreement that a reasonable person would expect to survive this agreement, will. Particularly the IP and privacy stuff.
+6. Governing Law. These Terms shall be governed by the laws of the State of California, USA, without reference to conflict of law rules. All disputes will be governed by the arbitration agreement above.
 
 * * *
