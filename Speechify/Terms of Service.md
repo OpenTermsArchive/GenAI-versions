@@ -67,8 +67,6 @@ As a Speechify Member you will receive access to certain sections, features and 
 
 (c) Our “Yearly” subscriptions are paid for by an upfront one-off payment with automatic annual renewal. You acknowledge and agree that Speechify is authorized to charge the Payment Method used for (i) the initial annual subscription fee at the rate secured at the time of purchase, and (ii) the renewal subscription fee(s) at the effective rate in effect at the time of any such renewal. You must cancel your subscription before it renews in order to avoid billing of the renewal subscription fee to the Payment Method you provided. Refunds cannot be claimed for any partial subscription period.
 
-(d) Monthly subscriptions are non refundable, regardless of usage.
-
 (d) You may cancel automatic renewals of your subscription at any time by emailing [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection). Please note that if you purchase a subscription through the Apple iTunes Store or our iPhone application, you may cancel automatic renewals by selecting Manage App Subscriptions in your iTunes Account settings and selecting the subscription you want to modify. If you purchase a subscription through the Google Play store you may cancel automatic renewals in account settings under Subscriptions in the Google Play app, or according to the current process outlined by Google Play. If you purchase a subscription through a bundle subscription partner, you may cancel according to the process outlined by the bundle subscription partner.
 
 (e) You agree to promptly notify Speechify of any changes to the Payment Method you provided while any subscriptions remain outstanding. You are responsible for all applicable fees and charges incurred, including applicable taxes, and all subscriptions purchased by you.
@@ -99,7 +97,7 @@ We may at any time and from time to time, in our sole discretion, change the fee
 
 **Discrepancies and Queries:** If you notice any discrepancies or have any queries regarding a transaction, please do not hesitate to reach out to our customer support team at [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection). We advise reviewing your financial statements regularly to ensure all transactions are correct.
 
-#### 3\. CANCELLATION OF SERVICES
+#### 3\. CANCELLATION OF SERVICES AND REFUND POLICY
 
 #### 3.1 CANCELLATION BY YOU
 
@@ -114,6 +112,10 @@ We may suspend or terminate your use of the Services as a result of your fraud o
 #### 3.3 PROMOTION CODES
 
 Any promotion code or offer provided by us may not be used in conjunction with any other promotion code or offer, past or present. Introductory offers are only available to new users of the Services, except where expressly stated otherwise. Previous users or trial users of the Services do not qualify as new users. No promotion code or discount will apply to corporate or other Community subscriptions. Unless otherwise set forth in the terms of any promotion, all pricing promotions or discounts will apply to the initial period of the subscription, and any renewals will be charged at the rate in effect at the time of renewal for the type of subscription purchased.
+
+#### 3.4 REFUND POLICY
+
+Refer to our [refund policy here](https://speechify.com/refund-policy/).
 
 #### 4\. PROHIBITED USE OF THE SERVICES
 
@@ -148,6 +150,8 @@ Speechify®, the Speechify logo and all other Speechify product or service marks
 6.1 Although we aim to offer you the best service possible, we make no promise that the Services will meet your requirements and we cannot guarantee that the Services will be fault free. If a fault occurs in the Services, please report it to us at [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection) and we will review your complaint and, where we determine it is appropriate to do so, correct the fault. If the need arises, we may suspend access to the Services while we address the fault. We will not be liable to you if the Services are unavailable for a commercially reasonable period of time.
 
 6.2 Your access to the Services may be occasionally restricted to allow for repairs, maintenance or the introduction of new facilities or Services. We will restore the Services as soon as we reasonably can. In the event that the Services are unavailable, our usual Order and cancellation deadlines apply; please notify us of changes to your Order by emailing [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection).
+
+6.3 Speechify may limit the availability of Premium voices for users who listens to more than 150,000 words with Premium voices per month. For users who do reach this limit, their access to these voices will renew the following month of subscription.
 
 #### 7\. USER MATERIAL
 
