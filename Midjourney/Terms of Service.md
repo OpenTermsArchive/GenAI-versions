@@ -5,7 +5,7 @@ Terms of Service
 
 * * *
 
-**Version Effective Date: December 20, 2023**
+**Version Effective Date: December 22, 2023**
 
 Thank you for using the Midjourney platform (the “Services”). These Terms of Service (the “Agreement”) explain what rights you have with respect to images and other assets which you might generate with the Service, or prompts you might enter into the Service (the “Assets”), your use of the Services, and other important topics like arbitration. Please read it carefully. Our privacy policy outlines how we handle your data [here](https://docs.midjourney.com/privacy-policy).
 
@@ -22,6 +22,8 @@ We are constantly improving the Services to make them better. The Services are s
 Both the Services and the Assets are provided to Customer on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are solely responsible for determining the appropriateness of using or redistributing the Assets and assume any risks associated with use of the Services.
 
 Midjourney reserves the right to suspend or ban Your access to the Services at any time, and for any reason. You may not use the Services for purposes of developing or offering competitive products or services. You may not reverse engineer the Services or the Assets. You may not use automated tools to access, interact with, or generate Assets through the Services. You may not resell or redistribute the Services or access to the Service. Only one user may use the Services per registered account. Each user of the Services may only have one account.
+
+You may not use the Service to try to violate the intellectual property rights of others, including copyright, patent, or trademark rights. Doing so may subject you to penalties including legal action or a permanent ban from the Service.
 
 We reserve the right to investigate complaints or reported violations of our Terms of Service and to take any action we deem appropriate including but not limited to reporting any suspected unlawful activity to law enforcement officials, regulators, or other third parties and disclosing any information necessary or appropriate to such persons or entities relating to user profiles, e-mail addresses, usage history, posted materials, IP addresses and traffic information.
 
