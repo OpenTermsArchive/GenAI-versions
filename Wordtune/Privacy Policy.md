@@ -1,6 +1,10 @@
 Wordtune Privacy Policy
 =======================
 
+Updated: January 4th, 2024
+
+Our [Business privacy policy](https://www.wordtune.com/business/privacy-policy) describes our practices with respect to Personal Information we collect from or about you when you use our website, applications, and services while creating a Business account for your company or team
+
 In order to ensure transparency and give you more control over your Personal Information, this privacy policy (“**Privacy Policy**”) governs how we, AI21 LABS LTD. (together, “**Wordtune**” “**we**”, “**our**” or “**us**”) use, collect and store Personal Data we collect or receive from or about you (“**you**”) such as in the following use cases:
 
 * When you make use of, or interact with, our websites [https://www.wordtune.io/](https://www.wordtune.io/) and/or [https://www.wordtune.com/](https://www.wordtune.com/)) (“**Website(s)**”)
