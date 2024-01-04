@@ -1,6 +1,10 @@
 Terms of Use
 ============
 
+Updated: January 4th, 2024
+
+Our [Business Terms](https://www.wordtune.com/business/terms-of-use) govern use of Wordtune Business, our product for businesses and teams
+
 Please read the following carefully before installing and/or using the software. By clicking “I agree” or “accept” (or other similar button), or by otherwise accessing and/or using any part of the service (defined below), you acknowledge that you have read, understood, and agreed to be bound by all the terms and conditions of this end user license agreement (the **"Agreement"**), the date of such occurrence being the "Effective date".
 
 This agreement constitutes a binding agreement between you and ai21 labs ltd (**“AI21”, “wordtune” "We”, “us” or “our”**), and governs your access and use of the software and services, as well as any future software or services.  
