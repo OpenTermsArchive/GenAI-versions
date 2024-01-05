@@ -47,7 +47,9 @@ You own all Assets You create with the Services to the fullest extent possible u
 
 * Your ownership is subject to any obligations imposed by this Agreement and the rights of any third-parties.
 * If you are a company or any employee of a company with more than $1,000,000 USD a year in revenue, you must be subscribed to a “Pro” or “Mega” plan to own Your Assets.
-* If you upscale the images of others, these images remain owned by the original creators. Please consult Your own lawyer if You want more information about the state of current intellectual property law in Your jurisdiction. Your ownership of the Assets you created persists even if in subsequent months You downgrade or cancel Your membership.
+* If you upscale the images of others, these images remain owned by the original creators.
+
+Please consult Your own lawyer if You want more information about the state of current intellectual property law in Your jurisdiction. Your ownership of the Assets you created persists even if in subsequent months You downgrade or cancel Your membership.
 
 #### Rights You give to Midjourney
 
