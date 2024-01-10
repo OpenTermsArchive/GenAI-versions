@@ -1,14 +1,14 @@
 Plugins and Actions Terms
 =========================
 
-UpdatedNovember 6, 2023
+UpdatedJanuary 10, 2024
 
 1\. Introduction
 ----------------
 
 Plugins and Actions (together “Plugins”) allow OpenAI services (“Services”) such as ChatGPT to retrieve information from or send instructions to an API (“API”) created according to our AI Plugin Protocol. Users of OpenAI Services can choose to enable Plugins within certain Services. For example, a ChatGPT user who wants to make a restaurant reservation could enable a restaurant reservation Plugin and instruct ChatGPT to make the reservation.
 
-These Plugin Terms (“Terms”) govern the creation and use of your Plugin in connection with OpenAI Services. These Terms include our [Usage Policies](https://openai.com/policies/usage-policies) and other documentation, guidelines, or policies we may provide in writing or on our website. By creating an API or by explicitly agreeing to these Terms, you agree to be bound by these Terms. If you create a Plugin on behalf of another person or entity, you represent that you have the authority to agree to these Terms on their behalf.  
+These Plugin Terms (“Terms”) govern the creation and use of your Plugin in connection with OpenAI Services. If you reside within the European Economic Area or Switzerland your agreement is with OpenAI Ireland Ltd. These Terms include our [Usage Policies](https://openai.com/policies/usage-policies) and other documentation, guidelines, or policies we may provide in writing or on our website. By creating an API or by explicitly agreeing to these Terms, you agree to be bound by these Terms. If you create a Plugin on behalf of another person or entity, you represent that you have the authority to agree to these Terms on their behalf.  
 
 2\. Plugins
 -----------
@@ -32,7 +32,7 @@ These Plugin Terms (“Terms”) govern the creation and use of your Plugin in c
 
 (b) **OpenAI Security Measures**. We will maintain reasonable and appropriate organizational, administrative, physical, and technical security measures designed to keep the Services secure, including protecting any developer credentials such as access tokens or client secrets that you give us. You may set and enforce limitations on our use of your API, such as rate limiting. We will not intentionally attempt to circumvent those limitations.
 
-(c) **Privacy**. To the extent Plugin Requests contain personal data, you will only process that data in accordance with applicable privacy laws. If users are required to authenticate to your website or application, then you may only use their information: (i) as authorized by the user and (ii) in accordance with a legally adequate privacy notice. We will both act as separate and independent data controllers of personal data.  
+(c) **Privacy**. To the extent your Plugin processes personal data or users are required to authenticate to your website or application, you will only process personal data (i) in accordance with applicable privacy laws, (ii) as authorized by the user and (iii) in accordance with a legally adequate privacy notice that is presented to the user prior to processing their data.  
 
 4\. Trademarks
 --------------
@@ -64,6 +64,6 @@ These Plugin Terms (“Terms”) govern the creation and use of your Plugin in c
 
 (b) **Notices**. All notices will be in writing. We may notify you using any registration information you provide to us. Service will be deemed given on the date of receipt if delivered by email or on the date sent via courier if delivered by post. OpenAI accepts service of process at this address: OpenAI, L.L.C., 3180 18th Street, San Francisco, CA 94110, Attn: Legal.
 
-(c) **Export Controls**. You represent and warrant that you are not (a) located in, under the control of, or a national or resident of any country embargoed by the U.S. government, and (b) listed on any U.S. government sanctioned party list. You will comply with applicable U.S. export control laws and regulations.
+(c) **Export Controls**. You represent and warrant that you and your Plugins are not (a) located in, under the control of, or a national or resident of any country embargoed by the U.S. government, and (b) listed on any U.S. government sanctioned party list. You will comply with applicable U.S. export control laws and regulations.
 
 (d) **Miscellaneous**. These Terms are the parties’ entire agreement on this topic, superseding any prior or contemporaneous agreements. Amendments to these Terms must be in writing. Failure to enforce any provisions of these Terms will not constitute a waiver. If a provision is found unenforceable, it will be modified to reflect the parties’ intention and only to the extent necessary to make it enforceable; the remaining provisions will remain in full effect. OpenAI and you are not legal partners or our relationship is that of independent contractors. These Terms are not assignable or transferable (including by change of control) by you without our prior written consent. Each party may use one or more subcontractors to exercise its rights and perform its obligations hereunder, as long as the subcontracting party is responsible for ensuring that its subcontractors comply with these Terms and will be liable for any noncompliance. These Terms are governed by the laws of the State of California, excluding its body of law controlling conflicts of law. Disputes arising out of these Terms or relating to your Plugin will be submitted to the federal and state courts in San Francisco, California, and each party submits to personal and exclusive jurisdiction there.
