@@ -5,7 +5,7 @@ UpdatedNovember 14, 2023
 
 [(Previous versions)](https://openai.com/policies/aug-2023-business-terms)
 
-_These OpenAI Business Terms govern use of our APIs, ChatGPT Enterprise, and other services for businesses and developers. Use of our services for individuals, such as ChatGPT or DALL·E, are governed by the_ [_Terms of use_](https://openai.com/policies/terms-of-use)_._
+_These OpenAI Business Terms govern use of our APIs, ChatGPT Enterprise, ChatGPT Team, and other services for businesses and developers. Use of our services for individuals, such as ChatGPT or DALL·E, are governed by the_ [_Terms of use_](https://openai.com/policies/terms-of-use)_._
 
   
 Thank you for choosing OpenAI!
