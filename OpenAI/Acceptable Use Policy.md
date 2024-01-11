@@ -32,10 +32,10 @@ The OpenAI Platform allows you to build entirely custom applications. As the dev
 
 We recognize that our API introduces new capabilities with scalable impact, so we have service-specific policies that apply to all use of our APIs in addition to our Universal Policies:
 
-1. Don’t compromise the privacy of others, including
+1. Don’t compromise the privacy of others, including:
     * a. Collecting, processing, disclosing, inferring or generating personal data without complying with applicable legal requirements
     * b. Using biometric systems for identification or assessment, including facial recognition
-    * c. Facilitating spyware, communications surveillance, or unauthorized monitoring of individuals
+    * Facilitating spyware, communications surveillance, or unauthorized monitoring of individuals
 2. Don’t perform or facilitate the following activities that may significantly impair the safety, wellbeing, or rights of others, including:
     * a. Providing tailored legal, medical/health, or financial advice without review by a qualified professional and disclosure of the use of AI assistance and its potential limitations
     * b. Making high-stakes automated decisions in domains that affect an individual’s safety, rights or well-being (e.g., law enforcement, migration, management of critical infrastructure, safety components of products, essential services, credit, employment, housing, education, social scoring, or insurance)
