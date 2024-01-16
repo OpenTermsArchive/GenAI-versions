@@ -1,7 +1,7 @@
 Terms of Service
 ================
 
-July 17, 2023
+January 16, 2024
 
 #### **1\. Introduction**
 
@@ -135,7 +135,7 @@ You may create new Cloning Voices by submitting voice recordings of a Consenting
 
 4.2.5 The submission of a third party's unauthorized voice recordings as training audio is prohibited, and you agree that you will not submit any recording to Murf that contains the voice of any speakers that have not explicitly consented in writing to have their Cloning Voice created and to have their voices synthesized.
 
-#### **5\. Commercial Rights; Third-Party Content and Services**
+#### **5\. Commercial Rights; Third-Party Content and Services; and Publicity**
 
 **5.1 Commercial Rights**
 
@@ -154,6 +154,10 @@ Murf has partnered with Soundstripe Inc. (“**Soundstripe**") to provide you ac
 You also agree not to use any Soundstripe Content in a pornographic, unlawful or defamatory context or manner, including use (i) in connection with pornography, adult videos, adult entertainment venues, escort services, dating services, or the like; (ii) in connection with the advertisement or promotion of tobacco products; or (iii) depicting a person in the Soundstripe Content as engaging in acts of moral turpitude or criminal activity.  
   
 Your use of Soundstripe Content will be governed by its terms of use available at [https://www.soundstripe.com/terms-of-use](https://www.soundstripe.com/terms-of-use) which are incorporated here by reference.
+
+**5.3 Publicity Rights**  
+  
+You grant Murf the right to identify Yourself or Your organization as Murf's customer on the Site and Murf's marketing collateral and to include You or Your organization's use of the Services in its case studies.
 
 #### **6\. Disclaimer and Limit of Liability**
 
