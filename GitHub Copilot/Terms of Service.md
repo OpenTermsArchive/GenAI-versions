@@ -16,8 +16,6 @@ By using the Additional Products and Features, you also agree to the applicable 
     
 * **GitHub Enterprise Server** users may have access to the following Additional Products and Features: Actions, Advanced Security, Advisory Database, Connect, Dependabot Preview, GitHub Enterprise Importer, Packages, Pages, and SQL Server Images.
     
-* **GitHub AE** users may have access to the following Additional Products and Features: Actions, Advanced Security, Advisory Database, Connect, Dependabot Preview, GitHub Enterprise Importer, Packages and Pages.
-    
 
 [GitHub Copilot](#github-copilot)
 ---------------------------------
