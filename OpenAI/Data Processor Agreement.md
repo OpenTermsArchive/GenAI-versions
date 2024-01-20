@@ -117,7 +117,7 @@ iii. The term “EU Member State” must not be interpreted in such a way as to 
 iv. The EU SCCs also protect the data of legal entities until the entry into force of the Revised FADP.  
 v. The FDPIC shall act as the “competent supervisory authority” insofar as the relevant data transfer is governed by the FADP
 
-d. With respect to Customer Data originating from the United Kingdom, the parties will comply with the terms of Part 2: Mandatory Clauses of the Approved Addendum, being the template Addendum B.1.0 issued by the Information Commissioner’s Office and laid before Parliament in accordance with s119A of the Data Protection Act 2018 on 2 February 2022, as it is revised under Section 18 of those Mandatory Clauses (the “UK Addendum”). The parties also agree (i) that the information included in Part 1 of the UK Addendum is as set out in Annex I of Appendix A to this DPA and (ii) that either party may end the UK Addendum as set out in Section 19 of the UK Addendum.  
+d. With respect to Customer Data originating from the United Kingdom, the parties will comply with the terms of Part 2: Mandatory Clauses of the Approved Addendum, being the template Addendum B.1.0 issued by the Information Commissioner’s Office and laid before Parliament in accordance with s119A of the Data Protection Act 2018 on 2 February 2022, as it is revised under Section 18 of those Mandatory Clauses (the “UK Addendum”). The parties also agree (i) that the information included in Part 1 of the UK Addendum is as set out in Annex I of Exhibit A to this DPA and (ii) that either party may end the UK Addendum as set out in Section 19 of the UK Addendum.  
 
 8\. Term; Data Return and Deletion
 ----------------------------------
@@ -168,11 +168,11 @@ Continuous.
 
 _Nature of the processing_
 
-The performance of the services described in the agreement to which this appendix is attached.
+The performance of the services described in the agreement to which this exhibit is attached.
 
 _Purpose(s) of the data transfer and further processing_
 
-The performance of the services described in the agreement to which this appendix is attached.
+The performance of the services described in the agreement to which this exhibit is attached.
 
 _The period for which the personal data will be retained, or, if that is not possible, the criteria used to determine that period_
 
@@ -180,7 +180,7 @@ During the term of the agreement
 
 _For transfers to (sub-) processors, also specify subject matter, nature and duration of the processing_
 
-The performance of the services described in the agreement to which this appendix is attached.  
+The performance of the services described in the agreement to which this exhibit is attached.  
 
 ### C. COMPETENT SUPERVISORY AUTHORITY
 
