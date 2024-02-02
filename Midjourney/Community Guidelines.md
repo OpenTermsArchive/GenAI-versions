@@ -34,17 +34,6 @@ Avoid nudity, sexual organs, fixation on naked breasts, people in showers or on 
 
 Other things may be deemed offensive or abusive because they can be viewed as racist, homophobic, disturbing, or in some way derogatory to a community. This includes offensive or inflamatory images of celebrities or public figures. Content guidelines are continually reviewed and may be modified as the Midjourney community grows.
 
-* * *
-
-About the Community Standards
------------------------------
-
-Finding a balance between facilitating artistic expression and creating a safe and welcoming community for a broad group of users is challenging. Everyone has a right to an opinion about what images are beautiful, intriguing, or inspiring, and there are as many individual interpretations of what content is offensive, inappropriate, or harmful. We also recognize that art has a long history of pushing the status quo to challenge social conventions, inspire discussion, and spark change.
-
-When deciding on our community guidelines for Midjourney, we considered many factors. As a new and rapidly developing technology, it is important to consider how the broader public will perceive and be introduced to this technology. Midjourney is a more participatory image-making tool than a paintbrush or pencil. The Midjourney team does not wish to participate in creating pornographic, offensive, or harmful images. Most important, however, was our desire to create a welcoming and inclusive community for all users. To that end, we have established guidelines prohibiting certain behaviors and language on our platform.
-
-We understand that the balance we decided on may not be popular with everyone. Still, we hope you will respect our efforts to create a positive and supportive community for all. We encourage you to express yourself creatively but to do so in a way that is respectful and considerate of others.
-
 Users who repeatedly violate the terms of service may be warned by a community moderator, given a time-out from accessing the bot, or be blocked from the service.
 
 * * *
