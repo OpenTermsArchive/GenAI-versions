@@ -3,12 +3,6 @@ End User License Agreement
 
 ##### Effective June 20, 2023
 
-[Download](https://jasper.pactsafe.io/versions/6491fde8ba725b413e68b779.pdf)
-
-* * *
-
-### Table of Contents
-
 * * *
 
 **End User License Agreement**
