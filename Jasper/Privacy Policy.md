@@ -3,12 +3,6 @@ Privacy Policy
 
 ##### Effective October 11, 2023
 
-[Download](https://jasper.pactsafe.io/versions/652715c50faf966327a4223e.pdf)
-
-* * *
-
-### Table of Contents
-
 * * *
 
 **Privacy Policy**
