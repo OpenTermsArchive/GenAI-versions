@@ -1,7 +1,7 @@
 Terms of Service
 ================
 
-January 16, 2024
+February 9, 2024
 
 #### **1\. Introduction**
 
@@ -274,17 +274,19 @@ You agree that you will not:
 
 11.2.12 Create, upload or transmit material through the Services or the Site that is illegal, obscene, defamatory,  pornographic or is otherwise inappropriate;
 
-11.2.13 Send, distribute or post spam, unsolicited or bulk commercial electronic communications, chain letters, or pyramid schemes through the Services or the Site;
+11.2.13 Send, distribute or post spam, unsolicited or bulk commercial electronic communications, chain letters, or pyramid schemes through the Services or the Site;  
 
-11.2.14 Harvest, collect or disclose information about other users through the Services or the Site without their consent;
+11.2.14 Use the Services or the Site to initiate any robocalls or other communication in violation of the U.S. Telephone Consumer Protection Act of 1991 or any Federal Communications Commission directive.
 
-11.2.15 Monitor the availability, performance or functionality of the Services or the Site for any competitive purpose;
+11.2.15 Harvest, collect or disclose information about other users through the Services or the Site without their consent;
 
-11.2.16 Engage in “framing,” “mirroring,” or otherwise simulating the appearance or function of the Services or the Site;
+11.2.16 Monitor the availability, performance or functionality of the Services or the Site for any competitive purpose;
 
-11.2.17 Overlay or otherwise modify the Services/Site or their appearance (such as by inserting elements into the Services/Site or removing, covering, or obscuring an advertisement included on the Services); and
+11.2.17 Engage in “framing,” “mirroring,” or otherwise simulating the appearance or function of the Services or the Site;
 
-11.2.18 Interfere with the operation of, or place an unreasonable load on, the Services or the Site (e.g., spam, denial of service attack, viruses, gaming algorithms).
+11.2.18 Overlay or otherwise modify the Services/Site or their appearance (such as by inserting elements into the Services/Site or removing, covering, or obscuring an advertisement included on the Services); and
+
+11.2.19 Interfere with the operation of, or place an unreasonable load on, the Services or the Site (e.g., spam, denial of service attack, viruses, gaming algorithms).
 
 #### **12\. Claims regarding copyright infringement**
 
