@@ -1,7 +1,7 @@
 Terms of Service
 ================
 
-_Last Update: May 27, 2023_
+_Last Update: Feb 14, 2024_
 
 Please read these Terms of Service (the “**Terms**”) and our Privacy Policy ([https://www.bardeen.ai/privacy-policy](https://www.bardeen.ai/privacy-policy)) (“**Privacy Policy**”) carefully because they govern your use of the website located at [https://www.bardeen.ai/](https://www.bardeen.ai/) (the “**Site**”), Bardeen’s browser extension (“**Extension**”), and Bardeen’s automation and productivity tools, applications, and all other products and services offered by Bardeen (“**Bardeen**”). To make these Terms easier to read, the Site, Extension, and our tools, applications and services are collectively called the “**Services**.”
 
@@ -90,7 +90,7 @@ Bardeen requires payment of a fee for use of the Services (or certain portions t
     
 14. Impersonate or misrepresent your affiliation with any person or entity;
     
-15. Violate any applicable law, rule regulation, or commitment you may have with a third party (including without limitation using features of Bardeen’s Services on third party resources that expressly permit the usage of such features); or
+15. Violate any applicable law, rule regulation, contract, contractual obligation, or other commitment you may have with a third party in relation to your use of the Services (including without limitation using features of Bardeen’s Services on third-party resources that expressly permit the usage of such features or using the Services to violate any use restrictions, limitations, or other prohibitions on any third-party product or service); or
     
 16. Encourage or enable any other individual to do any of the foregoing.
     
@@ -107,7 +107,7 @@ We may suspend or terminate your access to and use of the Services, including su
 THE SERVICES (INCLUDING ANY GENERATIVE AUTOMATIONS) ARE PROVIDED “AS IS,” WITHOUT WARRANTY OF ANY KIND. WITHOUT LIMITING THE FOREGOING, WE EXPLICITLY DISCLAIM ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, QUIET ENJOYMENT AND NON-INFRINGEMENT, AND ANY WARRANTIES ARISING OUT OF COURSE OF DEALING OR USAGE OF TRADE. We make no warranty that the Services or Generative Automations will meet your requirements or be available on an uninterrupted, secure, or error-free basis. We make no warranty regarding the quality, accuracy, timeliness, truthfulness, completeness or reliability of any information or content on the Services or any Generative Automations created via the Services.  
   
 ‍**12\. Indemnity.**  
-You will indemnify and hold Bardeen and its officers, directors, employees and agents, harmless from and against any claims, disputes, demands, liabilities, damages, losses, and costs and expenses, including, without limitation, reasonable legal and accounting fees arising out of or in any way connected with (a) your access to or use of the Services, (b) your User Content, or (c) your violation of these Terms.  
+You will indemnify and hold Bardeen and its officers, directors, employees and agents, harmless from and against any claims, disputes, demands, liabilities, damages, losses, and costs and expenses, including, without limitation, reasonable legal and accounting fees arising out of or in any way connected with (a) your access to or use of the Services, (b) your User Content, or (c) your violation of these Terms, including, without limitation, violation of Section 8.  
   
 ‍**13\. Limitation of Liability.**
 
