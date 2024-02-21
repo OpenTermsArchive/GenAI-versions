@@ -86,7 +86,7 @@ This Privacy Policy only covers the Processing activities We carry out as Data C
 
 ### 3.3. Personal Data that is indirectly provided to Us
 
-Our Models are trained on data that are publicly available on the Internet, which may contain Personal Data. Consequently, We may use Your Personal Data to train Our Models. We take steps to make sure that Your Personal Data remains protected and secure throughout the training of Our Model. To know more about Your rights regarding the training data set, please refer to Section 8 of this Privacy Policy.
+Our Models are trained on data that are publicly available on the Internet, which may contain Personal Data. To know more about Your rights regarding the training data set, please refer to Section 8 of this Privacy Policy.
 
 4\. Why do we use Your Personal Data?
 -------------------------------------
@@ -219,7 +219,7 @@ We will take every step to make sure we reply to Your requests. However, when yo
 
 You can exercise these rights:
 
-* By sending us an email at [privacy@mistral.ai](mailto:privacy@mistral.ai),
+* By sending us an email at [privacy@mistral.ai](mailto:privacy@mistral.ai)
 
 ### 9\. Changes to this Privacy Policy
 
