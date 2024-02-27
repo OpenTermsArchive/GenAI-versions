@@ -326,9 +326,7 @@ Suspension or termination. We reserve the right to suspend or terminate Your acc
         
     * Not make the Services accessible to third parties, unless otherwise stated.
         
-    * Not use Our Services for competitive analysis or build competitive products or services.
-        
-    * Not use Outputs to develop model(s) that directly compete with Mistral AI and/or to reverse-engineer Our Services.
+    * Not use Outputs to reverse-engineer Our Services.
         
 
 **Third parties.** You shall not encourage or assist any other User or third party in doing anything that is strictly prohibited under this Agreement.
