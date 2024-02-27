@@ -310,8 +310,6 @@ Suspension or termination. We reserve the right to suspend or terminate Your acc
         
     * Not bypass, attempt to bypass, alter, disable or in any way interfere with the digital rights management measures that may be integrated to the Services. You acknowledge that these protection mechanisms are essential for safeguarding the intellectual property and security of the Services.
         
-    * Not use the Services in any manner for the purpose of building a similar or competitive service.
-        
     * Not incorporate Our Services into Your products and/or services, unless otherwise stated.
         
     * Not extract, by permanent or temporary transfer, all or part of the contents of Our Services, by any means and under any form whatsoever, including by scraping, except as otherwise authorized under the terms of this Agreement.
@@ -591,8 +589,6 @@ These API Terms of Services apply Agreement apply to any subscription, access or
 
 These API Terms of Service are effective as of the Effective Date and shall continue for an indefinite period of time, until terminated by one of the Parties (the “Subscription Term”).
 
-Subscribing to, accessing or using the API Services for benchmarking or competitive monitoring purposes is strictly prohibited. Mistral AI’s competitors shall not use the API Services without Mistral AI’s prior written consent.
-
 1\. Definitions
 ---------------
 
@@ -709,8 +705,6 @@ These terms of service (the “Chat Terms of Service”) are entered into by Mis
 This Agreement applies to any Subscription, access or use of the Chat Services by the Customer.
 
 These Chat Terms of Service are effective as of the Effective Date and shall continue for an indefinite period of time, until terminated by one of the Parties (the “**Subscription Term**”).
-
-Subscribing to, accessing or using the Chat Services for benchmarking or competitive monitoring purposes is strictly prohibited. Mistral AI’s competitors shall not use the Chat Services without Mistral AI’s prior written consent.
 
 1\. Definitions
 ---------------
