@@ -145,15 +145,9 @@ You can use Murf created voices for commercial purposes. You can also make avail
 
 **5.2 Third-Party Content and Services**
 
-Murf may include or provide access to third party data, information and content, including from other users of Murf (collectively, “**Third Party Content**”). We do not control, endorse or adopt any Third Party Content and make no representation or warranties of any kind regarding Third Party Content. You agree that we are not responsible in any manner for Third Party Content and Murf undertakes no responsibility to update or review Third Party Content. 
+The Services may enable You to access integrations with Your own, or a third party’s, content, databases, resources, applications and other software components that complement or interoperate with Your use of the Services (each, a “Third Party Product”). THESE ARE NOT OUR PRODUCTS OR SERVICES, SO WE DO NOT WARRANT OR SUPPORT THEM, AND, ULTIMATELY, YOU (AND NOT US) WILL DECIDE WHETHER OR NOT TO ENABLE THEM. ANY USE OF A THIRD PARTY PRODUCT IS SOLELY BETWEEN YOU AND THE APPLICABLE THIRD PARTY PROVIDER.
 
-**Soundstripe Integration  
-**  
-Murf has partnered with Soundstripe Inc. (“**Soundstripe**") to provide you access to high-quality royalty free music integrated with Murf studio. You agree to comply with special terms linked to the Third Party Content provided by Soundstripe (“**Soundstripe Content**”), including restrictions on the number or type of productions in which such content may be used.   
-  
-You also agree not to use any Soundstripe Content in a pornographic, unlawful or defamatory context or manner, including use (i) in connection with pornography, adult videos, adult entertainment venues, escort services, dating services, or the like; (ii) in connection with the advertisement or promotion of tobacco products; or (iii) depicting a person in the Soundstripe Content as engaging in acts of moral turpitude or criminal activity.  
-  
-Your use of Soundstripe Content will be governed by its terms of use available at [https://www.soundstripe.com/terms-of-use](https://www.soundstripe.com/terms-of-use) which are incorporated here by reference.
+If You connect, install or enable Third Party Products for use with the Services, please be mindful of any of Your data that will be shared with the third party provider and the purposes for which the provider requires access. You agree that Murf does not control, endorse or is in any way responsible for Third Party Products. If You decide to enable or use any Third Party Product, the applicable terms of use of such Third Party Product will apply to You.
 
 **5.3 Publicity Rights**  
   
