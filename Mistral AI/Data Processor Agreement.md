@@ -432,7 +432,7 @@ To the extent permitted by applicable law, the liability cap set out in Section 
 
 ### 12.2. Limitation of liability
 
-**Liability Cap for Free Services.** To the extent permitted by law and subject to the applicable Terms of Service, in no event will Our total aggregate liability in connection with or under the Free Services, or Your use of or inability to use the Free ervices, exceed 100 euros.
+**Liability Cap for Free Services.** To the extent permitted by law and subject to the applicable Terms of Service, in no event will Our total aggregate liability in connection with or under the Free Services, or Your use of or inability to use the Free services, exceed 100 euros.
 
 **Liability Cap for Paid Services**. To the extent permitted by law, the total aggregate liability of Mistral AI in respect of any Losses incurred by the Customer under or in relation to this Agreement will not exceed, in the aggregate, the lower of (i) the amount of the Fees paid or payable by the Customer in the twelve (12) calendar months preceding the date on which the first such event or events occurred or (ii) 10.000 euros.
 
