@@ -466,7 +466,7 @@ This Agreement will commence on the Effective Date and continue for an indefinit
 
 ### 13.3. Termination
 
-**Termination for convenience.** You may terminate this Agreement at any time by sending an email to ([support@mistral.ai](mailto:support@mistral.ai)\](mailto:support@mistral.ai) .
+**Termination for convenience.** You may terminate this Agreement at any time by sending an email to [support@mistral.ai](mailto:support@mistral.ai).
 
 * If You subscribed to Free Services: termination shall become effective immediately.
 * If You subscribed to Paid Services: termination shall become effective at the end of the then-current Billing Cycle. Upon any such termination (i) You will not be entitled to a refund of any pre-paid Fees and (ii) if You have not already paid all applicable Fees for the then-current Billing Cycle, any such Fees that are outstanding will become immediately due and payable.
