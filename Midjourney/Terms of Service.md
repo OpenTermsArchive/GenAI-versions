@@ -5,7 +5,7 @@ Terms of Service
 
 * * *
 
-**Version Effective Date: December 22, 2023**
+**Version Effective Date: March 7, 2024**
 
 Thank you for using the Midjourney platform (the “Services”). These Terms of Service (the “Agreement”) explain what rights you have with respect to images and other assets which you might generate with the Service, or prompts you might enter into the Service (the “Assets”), your use of the Services, and other important topics like arbitration. Please read it carefully. Our privacy policy outlines how we handle your data [here](https://docs.midjourney.com/privacy-policy).
 
@@ -135,11 +135,17 @@ You are free to cancel Your plan at any time. We also reserve the right to termi
 
 We provide the service as is, and we make no promises or guarantees about it.
 
-You understand and agree that we will not be liable to You or any third party for any loss of profits, use, goodwill, or data, or for any incidental, indirect, special, consequential or exemplary damages, however they arise.
+You understand and agree that we will not be liable to You or any  
+third party for any loss of profits, use, goodwill, or data, or for  
+any incidental, indirect, special, consequential or exemplary damages, however they arise.
 
 You are responsible for Your use of the service. If You harm someone else or get into a dispute with someone else, we will not be involved.
 
-If You knowingly infringe someone else’s intellectual property, and that costs us money, we’re going to come find You and collect that money from You. We might also do other stuff, like try to get a court to make You pay our legal fees. Don’t do it.
+To the extent permitted by law, you will indemnify and hold us  
+harmless, our affiliates, and our personnel, from and against any  
+costs, losses, liabilities, and expenses (including attorneys’ fees)  
+from third party claims arising out of or relating to your use of the  
+Services and Assets or any violation of these Terms.
 
 ### 11\. Miscellaneous
 
