@@ -1,7 +1,7 @@
 Privacy Notice
 ==============
 
-_Last Update: May 27, 2023_
+_Last Update: March 7, 2024_
 
 This Privacy Notice is designed to help you understand how Bardeen, Inc. (“**Bardeen**,” “**we**,” “**us**,” or “**our**”) collects, uses, and shares your personal information, and to help you understand and exercise your privacy rights.
 
@@ -170,7 +170,9 @@ We may use personal information to tailor and provide you with content and adver
 ‍  
 Some of the ways we may market to you include email campaigns, text messages, custom audiences advertising, “personalized advertising” and “targeted advertising,” including through cross-device tracking.  
 ‍  
-If you have any questions about our marketing practices, you may contact us at any time as set forth in “[Contact Us](#contactus)” below.
+If you have any questions about our marketing practices, you may contact us at any time as set forth in “[Contact Us](#contactus)” below.  
+  
+The above mentioned personal data is only limited to personal and app-usage information you have shared with Bardeen directly through it's services. It explicitly excludes any personal information shared via 3rd Party providers, such as integrations or Google user data. Such 3rd Party information or Google user data may only be used for providing or improving user-facing features or executing automations for the user.
 
 1. **D. With Your Consent**
     
