@@ -7,11 +7,11 @@ _We’ve updated our usage policies to be more readable and added service-specif
 
   
 
-We aim for our tools to be used safely and responsibly, while maximizing your control over how you use them. By using our services, you agree to adhere to our policies.  
-  
+We aim for our tools to be used safely and responsibly, while maximizing your control over how you use them. By using our services, you agree to adhere to our policies.
+
 We have established universal policies applicable to all our services, as well as specific policies for builders who use ChatGPT or our API to create applications for themselves or others. Violating our policies could result in action against your account, up to suspension or termination. We also work to make our models safer and more useful, by training them to refuse harmful instructions and reduce their tendency to produce harmful content. 
 
-We believe that learning from real-world use is a critical component of creating and releasing increasingly safe AI systems. We cannot predict all beneficial or abusive uses of our technology, so we proactively monitor for new abuse trends. Our policies will evolve based on what we learn over time.  
+We believe that learning from real-world use is a critical component of creating and releasing increasingly safe AI systems. We cannot predict all beneficial or abusive uses of our technology, so we proactively monitor for new abuse trends. Our policies will evolve based on what we learn over time.
 
 Universal Policies
 ------------------
