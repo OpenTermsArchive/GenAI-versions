@@ -3,7 +3,7 @@ Usage policies
 
 UpdatedJanuary 10, 2024
 
-_We’ve updated our usage policies to be more readable and added service-specific guidance._
+_We’ve updated our usage policies to be more readable and added service-specific guidance. Customers may sign up to receive notifications of new updates to our usage policies by filling out_ [_this form_](https://share.hsforms.com/11ElWDMppRveok1ZzEMFmiQ4sk30)_._
 
   
 
@@ -85,6 +85,11 @@ GPT Store
 We want to make sure that GPTs in the GPT Store are appropriate for all users. For example, GPTs that contain profanity in their names or that depict or promote graphic violence are not allowed in our Store. We also don’t allow GPTs dedicated to fostering romantic companionship or performing regulated activities.
 
 These policies may be enforced automatically at submission time or applied retroactively upon further review.
+
+Updates
+-------
+
+Customers may sign up to receive notifications of new updates to our usage policies by filling out [this form](https://share.hsforms.com/11ElWDMppRveok1ZzEMFmiQ4sk30).  
 
 Changelog
 ---------
