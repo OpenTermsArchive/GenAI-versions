@@ -199,8 +199,12 @@ This Agreement, and any other legal notices published by us in connection with t
 Patent Notices
 --------------
 
-AI21 Labs Ltd's products, including but not restricted to Wordtune, are protected by issued patents in the United States of America. This website satisfies the virtual patent marking provisions of that jurisdiction, including the virtual patent marking provisions of 35 § 287(a). AI21 Labs Ltd's and its subsidiaries' products are protected by one or more of the following U.S. patents: US11574120, US11610055, US11610056, US11636256, US11699033, US11636257, US11636258, US11610057.
+AI21 Labs Ltd’s products, including but not restricted to Wordtune, are protected by issued patents in several countries, including the United States of America. This website satisfies the virtual patent marking provisions of those various jurisdictions, including _inter alia_ the US virtual patent marking provisions of 35 § 287(a). AI21 Labs Ltd’s and its subsidiaries’ products are protected by one or more of the following patents:
 
-The contents of the aforementioned list are subject to change due to issuance, licensing or expiration of patent rights, product changes or launches and other circumstances. The absence of a product or a U.S. Patent number from this list does not constitute a waiver of AI21 Labs’s patent, trademark, or other intellectual property rights concerning that product or patent.
+• In the United States: US11574120, US11610055, US11610056, US11636256,US11699033, US11636257, US11636258, US11610057.
 
-Last updated: **January 2023**
+• In Australia: 2020326435, 2023222905, 2023258365.
+
+The contents of the aforementioned lists are subject to change due to issuance, licensing or expiration of patent rights, product changes or launches and other circumstances. The absence of a product or a patent number from these lists does not constitute a waiver of AI21 Labs’s patent, trademark, or other intellectual property rights concerning that product or patent in the relevant country or region.
+
+Last updated: **March 2024**
