@@ -1,14 +1,11 @@
 xAI Privacy Policy
-==================
-
-xAI Privacy Policy
 ------------------
 
 Effective Date: 11-04-2023
 
 At X.AI Corp. ("xAI", "our", "us" or "we"), we value your privacy and are committed to being fair, accountable, and transparent in how we handle your personal information. Our Privacy Policy outlines how we collect and use your personal information, including what information we may use to train our models, our responsibilities, and the rights you have when you use our Services.
 
-Remember that your use of our Services is at all times subject to our [Terms of Use](https://x.ai/legal/terms-of-service/), which incorporates this Privacy Policy. Any terms we use in this Privacy Policy without defining them have the definitions given to them in the Terms of Use.
+Remember that your use of our Services is at all times subject to our [Terms of Use](https://x.ai/legal/privacy-policy/@/legal/terms_of_service.md), which incorporates this Privacy Policy. Any terms we use in this Privacy Policy without defining them have the definitions given to them in the Terms of Use.
 
 Please also note that this Privacy Policy does not apply if we process your personal information for or on behalf of a third party (for example, where we process your personal information at the direction of one of our enterprise customers). In that case, the enterprise customer's privacy policy or other agreement between you and them, and not this Privacy Policy, would apply to such processing. If you wish to discontinue such processing or otherwise exercise your rights with respect to such personal information, please contact the enterprise on whose behalf we are processing such data.
 
@@ -56,12 +53,12 @@ We may use your personal information for the following purposes:
     
 * To meet our legal requirements, including:
     
-    * To fulfill our legal obligations under applicable law, regulation, court order or other legal process, such as preventing, detecting and investigating security incidents and potentially illegal or prohibited activities.
-        
-    * To protect the rights, property or safety of you, xAI, or another party, and to resolve disputes.
-        
-    * To perform and enforce our contractual obligations, including the creation, adherence, and execution of the purchase agreement for the products, items, or services you have bought, or any other contract made with us through the Services.
-        
+* To fulfill our legal obligations under applicable law, regulation, court order or other legal process, such as preventing, detecting and investigating security incidents and potentially illegal or prohibited activities.
+    
+* To protect the rights, property or safety of you, xAI, or another party, and to resolve disputes.
+    
+* To perform and enforce our contractual obligations, including the creation, adherence, and execution of the purchase agreement for the products, items, or services you have bought, or any other contract made with us through the Services.
+    
 
 We may anonymize, aggregate, and report and statistics about users of our website or our Services for the purpose of internal reporting, reporting to our affiliates, or reporting to other third parties, and for our marketing and promotion purposes. None of these anonymized, aggregated reports or statistics will enable our users to be personally identified.
 
@@ -163,15 +160,15 @@ _Complaints_: If you are based in the UK or EEA, you may also make a complaint t
 
 This chart provides additional details regarding the categories of personal information that we collect and have collected over the past 12 months. Please refer to the sections above regarding how we collect your personal information, how we use your personal information, and how we disclose your personal information for further detail.
 
-| Category of Personal Information |     | Categories of Third Parties With Whom We Share this Personal Information |
-| --- | --- | --- |
-| Identifiers, including Account Information we receive when you log into our platform and Contact Details you provide to us |     | Service providers, analytics partners, and parties you authorize, access or authenticate. |
-| Payment Information, to facilitate your transactions with us |     | Service providers. |
-| Commercial information, such as records of your transaction history |     | Service providers, analytics partners, and parties you authorize, access or authenticate. |
-| Device information, including your Technical Usage Data. |     | Service providers, analytics partners, and parties you authorize, access or authenticate. |
-| Web analytics, including your Technical Usage Data. |     | Service providers, analytics partners, and parties you authorize, access or authenticate. |
-| Photos, including as provided in the Account Information we receive when you log into our platform |     | Service providers, analytics partners, and parties you authorize, access or authenticate. |
-| Other identifying information that you voluntarily choose to provide, including in the form Usage Data, emails, letters, texts, or other communications you send us |     | Service providers, analytics partners, and parties you authorize, access or authenticate. |
+| Category of Personal Information | Categories of Third Parties With Whom We Share this Personal Information |
+| --- | --- |
+| Identifiers, including Account Information we receive when you log into our platform and Contact Details you provide to us | Service providers, analytics partners, and parties you authorize, access or authenticate. |
+| Payment Information, to facilitate your transactions with us | Service providers. |
+| Commercial information, such as records of your transaction history | Service providers, analytics partners, and parties you authorize, access or authenticate. |
+| Device information, including your Technical Usage Data. | Service providers, analytics partners, and parties you authorize, access or authenticate. |
+| Web analytics, including your Technical Usage Data. | Service providers, analytics partners, and parties you authorize, access or authenticate. |
+| Photos, including as provided in the Account Information we receive when you log into our platform | Service providers, analytics partners, and parties you authorize, access or authenticate. |
+| Other identifying information that you voluntarily choose to provide, including in the form Usage Data, emails, letters, texts, or other communications you send us | Service providers, analytics partners, and parties you authorize, access or authenticate. |
 
 We do not collect or process sensitive personal information with the purpose of inferring any characteristics about you and have not "sold" or "shared" (as those terms are defined under U.S. privacy laws) personal information.
 
