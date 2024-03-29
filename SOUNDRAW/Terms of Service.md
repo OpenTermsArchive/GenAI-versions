@@ -56,8 +56,7 @@ These Terms of Service shall apply to all use of "SOUNDRAW" (the "Service") oper
     11. (11) Acts of selling, distributing for free or sublicensing music itself created using the Service (this excludes videos and other products created using said music). For details on the license check [https://soundraw.io/en/license](https://soundraw.io/license)
     12. (12) Downloading with external application
     13. (13) Other acts that SOUNDRAW deems inappropriate
-    14. (14) It is forbidden to use output from the Service to develop models that compete with SOUNDRAW
-        1. Ex: Use music data acquired from SOUNDRAW as teacher data for other AI for training it
+    14. (14) It is forbidden to use output from the Service to develop models that compete with SOUNDRAW, such as training an AI model
     15. (15) Except as permitted through the API, using any automated or programmatic methods to extract data or output from the Service, including scraping, web harvesting, or web data extraction is forbidden
 2. SOUNDRAW may seek compensation for damages (including reasonable attorneys' fees and costs) from you if we incur any losses due to your breach of these Terms of Service.
 3. If you commit any of the prohibited acts under this article, SOUNDRAW may suspend your user account.
