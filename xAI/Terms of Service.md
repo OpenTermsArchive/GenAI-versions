@@ -1,4 +1,4 @@
-Effective date: 11-04-2023
+Effective date: 2023-11-04
 
 Welcome to xAI. Please read on to learn the rules and restrictions that govern your use of our website(s), products, services and applications (the “Services”). If you have any questions, comments or concerns regarding these Terms of Use or the Services, please contact us at:
 
