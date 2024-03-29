@@ -1,7 +1,4 @@
-xAI Privacy Policy
-------------------
-
-Effective Date: 11-04-2023
+Effective date: 2023-11-04
 
 At X.AI Corp. ("xAI", "our", "us" or "we"), we value your privacy and are committed to being fair, accountable, and transparent in how we handle your personal information. Our Privacy Policy outlines how we collect and use your personal information, including what information we may use to train our models, our responsibilities, and the rights you have when you use our Services.
 
