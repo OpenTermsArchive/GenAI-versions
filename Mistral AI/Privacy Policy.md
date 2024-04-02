@@ -83,7 +83,7 @@ This Privacy Policy only covers the Processing activities We carry out as Data C
     * To monitor abuse, meaning any breach by You of the Terms of Use or the applicable Terms of Service, or
     * When You report an illicit Output. In such a case, we may use Your Prompt and/or Your Outputs to improve our services.
     * To display your Prompts and Outputs history on Your Account when You use Our Chat Services, unless You activate Our Incognito Mode.
-    * To train Our Models. We use Your Prompts and Outputs to train Our Models only when (a) you Use Our Chat Services and (b) You don’t opt-out of the Mistral AI Training Data.
+    * To improve Our Models. We may use information (e.g. language or topic field statistics) related to Your Prompts and Outputs to improve Our Models only when (a) you Use Our Chat Services and (b) You don’t opt-out of the Mistral AI Training Data.
 * Feedback. Where applicable, We may collect and use the Feedback You provide to Usto improve our Service.
     
 
