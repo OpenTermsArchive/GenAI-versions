@@ -1,9 +1,11 @@
 Privacy Policy
 --------------
 
-##### Effective October 11, 2023
+##### Effective April 2, 2024
 
 * * *
+
+_To submit a Data Subject Request or other privacy request, please go_ [_here_](https://privacy.jasper.ai/policies)_._
 
 **Privacy Policy**
 
