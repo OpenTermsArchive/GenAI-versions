@@ -18,10 +18,10 @@ Universal Policies
 
 To maximize innovation and creativity, we believe you should have the flexibility to use our services as you see fit, so long as you comply with the law and don’t harm yourself or others. When using any OpenAI service, like ChatGPT, labs.openai.com, and the OpenAI API, these rules apply:  
 
-1. **Comply with applicable laws** – for example, don’t compromise the privacy of others,  engage in regulated activity without complying with applicable regulations, or promote or engage in any illegal activity, including the exploitation or harm of children and the development or distribution of illegal substances, goods, or services.
-2. **Don’t use our service to harm yourself or others** – for example, don’t use our services to promote suicide or self-harm, develop or use weapons, injure others or destroy property, or engage in unauthorized activities that violate the security of any service or system. 
-3. **Don’t repurpose or distribute output from our services to harm others** – for example, don’t share output from our services to defraud, scam, spam, mislead, bully, harass, defame, discriminate based on protected attributes, sexualize children, or promote violence, hatred or the suffering of others.
-4. **Respect our safeguards** - don’t circumvent safeguards or safety mitigations in our services unless supported by OpenAI (e.g., domain experts in our [Red Teaming Network)](https://openai.com/blog/red-teaming-network) or related to research conducted in accordance with our [Sharing & Publication Policy](https://openai.com/policies/sharing-publication-policy).  
+1. **Comply with applicable laws**—for example, don’t compromise the privacy of others, engage in regulated activity without complying with applicable regulations, or promote or engage in any illegal activity, including the exploitation or harm of children and the development or distribution of illegal substances, goods, or services.
+2. **Don’t use our service to harm yourself or others**—for example, don’t use our services to promote suicide or self-harm, develop or use weapons, injure others or destroy property, or engage in unauthorized activities that violate the security of any service or system. 
+3. **Don’t repurpose or distribute output from our services to harm others**—for example, don’t share output from our services to defraud, scam, spam, mislead, bully, harass, defame, discriminate based on protected attributes, sexualize children, or promote violence, hatred or the suffering of others.
+4. **Respect our safeguards**—don’t circumvent safeguards or safety mitigations in our services unless supported by OpenAI (e.g., domain experts in our [Red Teaming Network)](https://openai.com/blog/red-teaming-network) or related to research conducted in accordance with our [Sharing & Publication Policy](https://openai.com/policies/sharing-publication-policy).  
 
 We report apparent child sexual abuse material (CSAM) to the National Center for Missing and Exploited Children.
 
@@ -33,22 +33,22 @@ The OpenAI Platform allows you to build entirely custom applications. As the dev
 We recognize that our API introduces new capabilities with scalable impact, so we have service-specific policies that apply to all use of our APIs in addition to our Universal Policies:
 
 1. Don’t compromise the privacy of others, including:
-    * a. Collecting, processing, disclosing, inferring or generating personal data without complying with applicable legal requirements
-    * b. Using biometric systems for identification or assessment, including facial recognition
-    * Facilitating spyware, communications surveillance, or unauthorized monitoring of individuals
-2. Don’t perform or facilitate the following activities that may significantly impair the safety, wellbeing, or rights of others, including:
-    * a. Providing tailored legal, medical/health, or financial advice without review by a qualified professional and disclosure of the use of AI assistance and its potential limitations
-    * b. Making high-stakes automated decisions in domains that affect an individual’s safety, rights or well-being (e.g., law enforcement, migration, management of critical infrastructure, safety components of products, essential services, credit, employment, housing, education, social scoring, or insurance)
-    * c. Facilitating real money gambling or payday lending
-    * d. Engaging in political campaigning or lobbying, including generating campaign materials personalized to or targeted at specific demographics
-    * e. Deterring people from participation in democratic processes, including misrepresenting voting processes or qualifications and discouraging voting
-3. Don’t misuse our platform to cause harm by intentionally deceiving or misleading others, including:
-    * a. Generating or promoting disinformation, misinformation, or false online engagement (e.g., comments, reviews)
-    * b. Impersonating another individual or organization without consent or legal right
-    * c. Engaging in or promoting academic dishonesty 
-    * d. Failing to ensure that automated systems (e.g., chatbots) disclose to people that they are interacting with AI, unless it's obvious from the context
-4. Don’t build tools that may be inappropriate for minors, including:
-    * a. Sexually explicit or suggestive content. This does not include content created for scientific or educational purposes.
+2. Collecting, processing, disclosing, inferring or generating personal data without complying with applicable legal requirements
+3. Using biometric systems for identification or assessment, including facial recognition
+4. Facilitating spyware, communications surveillance, or unauthorized monitoring of individuals
+5. Don’t perform or facilitate the following activities that may significantly impair the safety, wellbeing, or rights of others, including:
+6. Providing tailored legal, medical/health, or financial advice without review by a qualified professional and disclosure of the use of AI assistance and its potential limitations
+7. Making high-stakes automated decisions in domains that affect an individual’s safety, rights or well-being (e.g., law enforcement, migration, management of critical infrastructure, safety components of products, essential services, credit, employment, housing, education, social scoring, or insurance)
+8. Facilitating real money gambling or payday lending
+9. Engaging in political campaigning or lobbying, including generating campaign materials personalized to or targeted at specific demographics
+10. Deterring people from participation in democratic processes, including misrepresenting voting processes or qualifications and discouraging voting
+11. Don’t misuse our platform to cause harm by intentionally deceiving or misleading others, including:
+12. Generating or promoting disinformation, misinformation, or false online engagement (e.g., comments, reviews)
+13. Impersonating another individual or organization without consent or legal right
+14. Engaging in or promoting academic dishonesty 
+15. Failing to ensure that automated systems (e.g., chatbots) disclose to people that they are interacting with AI, unless it's obvious from the context
+16. Don’t build tools that may be inappropriate for minors, including:
+17. Sexually explicit or suggestive content. This does not include content created for scientific or educational purposes.
 
 Building with ChatGPT
 ---------------------
@@ -56,26 +56,26 @@ Building with ChatGPT
 Shared GPTs allow you to use ChatGPT to build experiences for others. Because your GPT’s users are also OpenAI users, when building with ChatGPT, we have the following service-specific policies in addition to our Universal Policies:
 
 1. Don’t compromise the privacy of others, including:
-    * a. Collecting, processing, disclosing, inferring or generating personal data without complying with applicable legal requirements
-    * b. Soliciting or collecting the following sensitive identifiers, security information, or their equivalents: payment card information (e.g. credit card numbers or bank account information), government identifiers (e.g. SSNs), API keys, or passwords
-    * c. Using biometric identification systems for identification or assessment, including facial recognition
-    * d. Facilitating spyware, communications surveillance, or unauthorized monitoring of individuals
-2. Don’t perform or facilitate the following activities that may significantly affect the safety, wellbeing, or rights of others, including:
-    * a. Taking unauthorized actions on behalf of users
-    * b. Providing tailored legal, medical/health, or financial advice
-    * c. Making automated decisions in domains that affect an individual’s rights or well-being (e.g., law enforcement, migration, management of critical infrastructure, safety components of products, essential services, credit, employment, housing, education, social scoring, or insurance)
-    * d. Facilitating real money gambling or payday lending
-    * e. Engaging in political campaigning or lobbying, including generating campaign materials personalized to or targeted at specific demographics
-    * f. Deterring people from participation in democratic processes, including misrepresenting voting processes or qualifications and discouraging voting
-3. Don’t misinform, misrepresent, or mislead others, including:
-    * a. Generating or promoting disinformation, misinformation, or false online engagement (e.g., comments, reviews)
-    * b. Impersonating another individual or organization without consent or legal right
-    * c. Engaging in or promoting academic dishonesty
-    * d. Using content from third parties without the necessary permissions
-    * e. Misrepresenting or misleading others about the purpose of your GPT
-4. Don’t build tools that may be inappropriate for minors, including:
-    * a. Sexually explicit or suggestive content. This does not include content created for scientific or educational purposes.
-5. Don’t build tools that target users under 13 years of age.
+2. Collecting, processing, disclosing, inferring or generating personal data without complying with applicable legal requirements
+3. Soliciting or collecting the following sensitive identifiers, security information, or their equivalents: payment card information (e.g. credit card numbers or bank account information), government identifiers (e.g., SSNs), API keys, or passwords
+4. Using biometric identification systems for identification or assessment, including facial recognition
+5. Facilitating spyware, communications surveillance, or unauthorized monitoring of individuals
+6. Don’t perform or facilitate the following activities that may significantly affect the safety, wellbeing, or rights of others, including:
+7. Taking unauthorized actions on behalf of users
+8. Providing tailored legal, medical/health, or financial advice
+9. Making automated decisions in domains that affect an individual’s rights or well-being (e.g., law enforcement, migration, management of critical infrastructure, safety components of products, essential services, credit, employment, housing, education, social scoring, or insurance)
+10. Facilitating real money gambling or payday lending
+11. Engaging in political campaigning or lobbying, including generating campaign materials personalized to or targeted at specific demographics
+12. Deterring people from participation in democratic processes, including misrepresenting voting processes or qualifications and discouraging voting
+13. Don’t misinform, misrepresent, or mislead others, including:
+14. Generating or promoting disinformation, misinformation, or false online engagement (e.g., comments, reviews)
+15. Impersonating another individual or organization without consent or legal right
+16. Engaging in or promoting academic dishonesty
+17. Using content from third parties without the necessary permissions
+18. Misrepresenting or misleading others about the purpose of your GPT
+19. Don’t build tools that may be inappropriate for minors, including:
+20. Sexually explicit or suggestive content. This does not include content created for scientific or educational purposes.
+21. Don’t build tools that target users under 13 years of age.
 
 We use a combination of automated systems, human review, and user reports to find and assess GPTs that potentially violate our policies. Violations can lead to actions against the content or your account, such as warnings, sharing restrictions, or ineligibility for inclusion in GPT Store or monetization.
 
