@@ -83,7 +83,7 @@ This Privacy Policy only covers the Processing activities We carry out as Data C
     * To monitor abuse, meaning any breach by You of the Terms of Use or the applicable Terms of Service, or
     * When You report an illicit Output. In such a case, we may use Your Prompt and/or Your Outputs to improve our services.
     * To display your Prompts and Outputs history on Your Account when You use Our Chat Services, unless You activate Our Incognito Mode.
-    * To improve Our Models. We may use information (e.g. language or topic field statistics) related to Your Prompts and Outputs to improve Our Models only when (a) you Use Our Chat Services and (b) You don’t opt-out of the Mistral AI Training Data.
+    * To improve Our Models. We may use information (e.g. language or topic field statistics) related to Your Prompts and Outputs to improve Our Models only when (a) you Use Our Chat Services and (b) You don’t opt-out of the Mistral AI Training Data, when such option is available for the Paid Chat Services.
 * Feedback. Where applicable, We may collect and use the Feedback You provide to Usto improve our Service.
     
 
@@ -112,7 +112,7 @@ We use Your Personal Data for the following purposes:
 * Answer to your assistance requests.
 * When You use Our Chat Services as a Consumer, provide technical support (fixing the bugs You notify us).
 * Display Your Prompts and Outputs to You.
-* Train Our Models (Large Language Models) to answer questions, generate text according to context/Prompts (e-mails, letters, reports, computer code, etc), translating, summarizing and correcting text, classifying text, analyzing feelings, etc., (i) Possibly, if such Personal Data is publicly available, and even if we apply best practices to filter such data, and (ii) if You use Our Chat Services and You don’t opt-out of the Mistral AI Training Data.
+* Train Our Models (Large Language Models) to answer questions, generate text according to context/Prompts (e-mails, letters, reports, computer code, etc), translating, summarizing and correcting text, classifying text, analyzing feelings, etc., (i) Possibly, if such Personal Data is publicly available, and even if we apply best practices to filter such data, and (ii) if You use Our Chat Services and You don’t opt-out of the Mistral AI Training Data when such option is available for the Paid Chat Services.
 * Conduct research and improve the Services.
 * Make aggregated statistics about the use of the Services.
 
