@@ -95,7 +95,12 @@ Cookies are small text files stored on your device and used by web browsers to d
 
 Some third-party applications and services that work with us may ask for permission to access your Information. Those applications will provide you with notice and request your consent in order to obtain such access or information. Please consider your selection of such applications and services, and your permissions, carefully.
 
-Some third parties’ embedded content or plugins on our Site and/or Software, such as Facebook “Like” buttons, may allow their operators to learn that you have visited the Site, and they may combine this knowledge with other data they have collected about your visits to other websites or online services that can identify you.
+Some third parties’ embedded content or plugins on our Site and/or Software, such as Facebook “Like” buttons, may allow their operators to learn that you have visited the Site, and they may combine this knowledge with other data they have collected about your visits to other websites or online services that can identify you. We engage with various third-party service providers to enhance user experience and improve our services. For analytics and measurement, we use services like Google Analytics and Google Optimize 360 to analyze website traffic and user behavior, Hotjar and Visual Website Optimizer for site usability and performance, Amplitude for mobile analytics, and Segment to integrate and manage data across multiple analytics platforms. In terms of advertising and tracking, we utilize Meta Pixel (formerly Facebook Pixel) and Google Global Site Tag to manage ad campaigns and track interactions, along with Google Conversion Tracking, Bing Universal Event Tracking, and TikTok Conversion Tracking Pixel to measure the effectiveness of our advertising. We also employ Intercom for managing customer support and communications. We encourage users to periodically review this section to stay informed about how we use third-party services. For detailed information about how these third parties manage the data they collect, please refer to their respective privacy policies available on their websites.
+
+  
+Social Media Interactions
+
+When you interact with our social media pages, these services may collect personal data that you voluntarily submit, such as your public profile details, comments, and likes, and the data collected via social media platforms is governed by the privacy policies of the hosting social media company. We may receive aggregated data from social media platforms concerning the overall engagement and demographics of our followers. This information helps us to gauge the effectiveness of our content and to develop better marketing strategies. Such data is processed in accordance with our analytics partners’ privacy policies and is covered under the provisions of this policy for the use of third-party analytics.
 
 Data collected by third parties through these apps and plugins is subject to each parties’ own policies. We encourage you to read those policies and understand how other companies use your data.
 
@@ -138,7 +143,7 @@ You can remove your Personal Data from Speechify at any time by logging into you
 
 How long is Personal Data retained?
 
-You can remove your Personal Data from Speechify at any time by deleting your account as described above. However, we may keep some of your Personal Data for as long as reasonably necessary for our legitimate business interests, including fraud detection and prevention and to comply with our legal obligations including tax, legal reporting, and auditing obligations.
+You can remove your Personal Data from Speechify at any time by deleting your account as described above. However, we may keep some of your Personal Data for as long as reasonably necessary for our legitimate business interests, including fraud detection and prevention and to comply with our legal obligations including tax, legal reporting, and auditing obligations. Other reasons include: whether there is a legal obligation to which we are subject (for example, certain laws require us to keep records for a certain period of time before we can delete them) and whether retention is advisable in light of our legal position (such as regarding applicable statutes of limitations, litigation, or regulatory investigations).
 
 What happens if Speechify closes my account?
 
@@ -172,7 +177,7 @@ As stated in the “[Where is my Information stored](https://speechify.com/priva
 
 Where required, we will use appropriate safeguards for transferring data outside of Europe, Switzerland, and the UK. This includes signing Standard Contractual Clauses that govern the transfers of such data, which may be used in conjunction with additional safeguards. For more information about these transfer mechanisms, please contact us as detailed in the “[Contact us](https://speechify.com/privacy/?landing_url=https%3A%2F%2Fspeechify.com%2Fvoiceover-new%2F#contact)” section below.
 
-### **For California users**
+### **Your California Privacy Rights For California users**
 
 **Supplemental Privacy Notice for California residents**
 
@@ -182,7 +187,26 @@ This Supplemental Privacy Notice supplements the information in our Privacy Poli
 
 If you’re a California resident, California law requires us to provide you with some additional information about how we collect, use, and disclose your “personal information” (as defined in the California Consumer Privacy Act (“CCPA”)).
 
-Throughout this Privacy Policy, we discuss in detail the specific pieces of personal information we collect from and about users, the sources of that information, and how we share it. Under the CCPA, we’re also required to provide you with the “categories” of personal information we collect and disclose for business purposes (as defined by applicable law). Those categories are: identifiers (such as name, email address, or social network account and profile data); commercial information (such as transaction data for a paid account); financial data (such as payment method or financial account information); internet or other network or device activity (such as IP address and usage information); location information (e.g., the general location where you use your device when interacting with the Site, Software, and/or Services); sensory information (such as audio recordings if you call our customer service); inference data about you; and other information that identifies or can be reasonably associated with you. We collect these categories of personal information from different sources, as described in the section titled, “[What Information does Speechify collect about me?](https://speechify.com/privacy/?landing_url=https%3A%2F%2Fspeechify.com%2Fvoiceover-new%2F#informationcollect)” above.
+Throughout this Privacy Policy, we discuss in detail the specific pieces of personal information we collect from and about users, the sources of that information, and how we share it. Under the CCPA, we’re also required to provide you with the “categories” of personal information we collect and disclose for business purposes (as defined by applicable law).  
+  
+Those categories are:
+
+* Identifiers (such as name, email address, or social network account and profile data);
+* Commercial information (such as transaction data for a paid account);
+* Financial data (such as payment method or financial account information);
+* Internet or other network or device activity (such as IP address and usage information);
+* Location information (e.g., the general location where you use your device when interacting with the Site, Software, and/or Services);
+* Sensory information (such as audio recordings if you call our customer service);
+* Inference data about you;
+* Other information that identifies or can be reasonably associated with you. We collect these categories of personal information from different sources, as described in the section titled, “What Information does Speechify collect about me?” above.
+
+We collect and use your personal information for the following business and commercial purposes:
+
+* To provide and maintain our services
+* To communicate with you and respond to your inquiries
+* To improve our website and services
+* To detect, prevent, and address security or technical issues
+* To comply with legal obligations 
 
 We and our service providers may use the categories of personal information we collect from and about you consistent with the various business and commercial purposes we discuss throughout this Privacy Policy. Please see the section titled “[How does Speechify use my Information?](https://speechify.com/privacy/?landing_url=https%3A%2F%2Fspeechify.com%2Fvoiceover-new%2F#useinformation)” above for more information. We share this information with the categories of third parties described in the section titled, “[Does Speechify share my Information?](https://speechify.com/privacy/?landing_url=https%3A%2F%2Fspeechify.com%2Fvoiceover-new%2F#sharemyinformation)”
 
@@ -207,7 +231,11 @@ To exercise these rights, you can:
 
 You’ll need to provide us with information sufficient to verify your identity before we can satisfy your request. To do so, you’ll need to log into your account or provide us with certain information regarding yourself and/or your usage of the Site, Software, and Services. You can also designate an authorized agent to make a request on your behalf. To do so, you need to provide us with written authorization for the agent to act on your behalf. You will still need to verify your identity directly with us.
 
-The CCPA sets forth certain obligations for businesses that “sell” personal information. Based on the definition of “sell” under the CCPA and under current regulatory guidance, we don’t believe we engage in such activity and have not engaged in such activity in the past twelve months. We do share certain information as described in the “Information access and disclosure” section above, and we allow third parties to collect certain information about your activity, for example through cookies, as explained in our [Cookie Policy](https://speechify.com/privacy/?landing_url=https%3A%2F%2Fspeechify.com%2Fvoiceover-new%2F#cookiepolicy). You can control these cookies through browser settings and other controls; for more information, see our [Cookie Policy](https://speechify.com/privacy/?landing_url=https%3A%2F%2Fspeechify.com%2Fvoiceover-new%2F#cookiepolicy).
+The CCPA sets forth certain obligations for businesses that “sell” personal information. Based on the definition of “sell” under the CCPA and under current regulatory guidance, we don’t believe we engage in such activity and have not engaged in such activity in the past twelve months. Even though we do not sell your personal information, you have the right to opt-out of any potential future selling of your personal information. If you would like to opt-out of any potential future selling of your personal information, please submit a support ticket or email us at [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection). We do share certain information as described in the “Information access and disclosure” section above, and we allow third parties to collect certain information about your activity, for example through cookies, as explained in our [Cookie Policy](https://speechify.com/privacy/?landing_url=https%3A%2F%2Fspeechify.com%2Fvoiceover-new%2F#cookiepolicy). You can control these cookies through browser settings and other controls; for more information, see our [Cookie Policy](https://speechify.com/privacy/?landing_url=https%3A%2F%2Fspeechify.com%2Fvoiceover-new%2F#cookiepolicy).
+
+**Authorized Agents**
+
+California residents can also exercise their rights under the CCPA by designating an authorized agent to act on their behalf. If you use an authorized agent to submit a request, we may require that you provide us with written permission allowing the authorized agent to act on your behalf and verify your identity directly with us. We may also require the authorized agent to submit proof that they are authorized to act on your behalf.  
 
 **California Shine the Light**
 
@@ -233,7 +261,12 @@ If you’re a resident of Brazil, you may have certain rights. Brazilian law may
 * Provide you with information about the possibility of withdrawing consent and the consequences of such withdrawal, where applicable.
 * Withdraw your consent.
 
-You can exercise some of these rights by logging in and visiting the My Account page. For example, you can download a copy of your Personal Data, delete your Personal Data by deleting your account, or correct your Personal Data in your Speechify account settings. You can also submit requests by submitting a support ticket or emailing [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection). You will be required to verify your identity before we fulfill your request. To do so, you’ll need to log into your account or provide us with certain information regarding yourself and/or your usage of the Site, Software, and Services.
+You can exercise some of these rights by logging in and visiting the My Account page. For example, you can download a copy of your Personal Data, delete your Personal Data by deleting your account, or correct your Personal Data in your Speechify account settings. You can also submit requests by submitting a support ticket or emailing [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection). You will be required to verify your identity before we fulfill your request. To do so, you’ll need to log into your account or provide us with certain information regarding yourself and/or your usage of the Site, Software, and Services.  
+  
+
+**International Data Transfers**
+
+Speechify is a global service with users and operations around the world. To provide our Services, we may transfer or allow access to your personal data among different countries where we operate. These countries may have data protection laws that are different from the laws of your country. No matter where your personal data is transferred, we comply with applicable laws, utilize standard data protection clauses approved by authorities, and implement robust operational and technical safeguards to ensure an adequate level of protection.
 
 ### **For EDU users**
 
