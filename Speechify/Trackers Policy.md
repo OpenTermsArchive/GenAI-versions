@@ -72,4 +72,15 @@ The Site includes third-party social media features, such as the Facebook Like b
 Cookies subject to change
 -------------------------
 
-The content of this Policy is for your general information and use only.
+The content of this Policy is for your general information and use only.  
+  
+
+Third-Party Links/Integrations
+------------------------------
+
+Speechify’s platforms may contain links to third-party websites, applications, or services that are not operated or controlled by Speechify. This Privacy Policy applies solely to information collected by Speechify through its platforms and does not apply to the privacy practices of these third-party services. We encourage you to review the privacy policies of any third-party services you access through our platforms.
+
+Third-Party Disclaimer
+----------------------
+
+Speechify is not responsible for the privacy practices or content of third-party websites, applications, or services. Your interactions with these third parties are governed by their respective privacy policies and terms of use, which we encourage you to review.
