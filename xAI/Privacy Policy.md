@@ -167,7 +167,7 @@ As noted in the Terms of Use, our Services are not directed at children or minor
 
 If you are a child under the age of 18, please do not attempt to register for or otherwise use our Services. If we learn that we have inadvertently obtained personal information about a child under the age of 18 via our Services, or from any other source, then we will delete that information as soon as possible.
 
-Please contact us at [\[email protected\]](https://x.ai/cdn-cgi/l/email-protection) if you are aware that we may have inadvertently collected personal information from a child under the age of 18.
+Please contact us at [privacy@x.ai](mailto:privacy@x.ai) if you are aware that we may have inadvertently collected personal information from a child under the age of 18.
 
 10\. Your rights and choices
 
@@ -239,7 +239,7 @@ When we provide any personal information about you to any non-UK and non-EEA thi
 * Having in place standard contractual clauses with the recipient which have been approved by the European Commission for transfers outside the EEA or the UK Government for transfers out of the UK.
     
 
-Further details on the steps we take to protect your personal information, in these cases, are available up on request by contacting us by email at [\[email protected\]](https://x.ai/cdn-cgi/l/email-protection) at any time.
+Further details on the steps we take to protect your personal information, in these cases, are available up on request by contacting us by email at privacy@x.ai at any time.
 
 Your rights
 
@@ -256,7 +256,7 @@ Your rights
 * You have the right to **complain to a supervisory authority** about our collection and use of your personal information. For more information, please contact your local supervisory authority. Contact details for supervisory authorities in the EEA and the UK are available [here](https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm). Certain supervisory authorities may require that you exhaust our own internal complaints process before looking into your complaint.
     
 
-You can exercise your rights by contacting us at [\[email protected\]](https://x.ai/cdn-cgi/l/email-protection). We will consider all such requests and provide our response in accordance with applicable data protection laws.
+You can exercise your rights by contacting us at [privacy@x.ai](mailto:privacy@x.ai). We will consider all such requests and provide our response in accordance with applicable data protection laws.
 
 Please note, however, that certain personal information may be exempt from such requests in certain circumstances, for example if we need to keep using the information to comply with our own legal obligations or to establish, exercise or defend legal claims. If an exception applies, we will inform you when responding to your request. We may request you provide us with information necessary to confirm your identity before responding to any request you make.
 
@@ -289,13 +289,13 @@ In addition to the rights detailed above in Sections 10 and 11, depending on wha
 * The right to be free from discrimination for exercising the rights afforded to you under applicable privacy laws
     
 
-_Exercising your rights_: Some of these rights may be exercised in the xAI service but others you will need to submit a request to [\[email protected\]](https://x.ai/cdn-cgi/l/email-protection).
+_Exercising your rights_: Some of these rights may be exercised in the xAI service but others you will need to submit a request to [privacy@x.ai](mailto:privacy@x.ai).
 
 _Verification:_ In order to protect your personal information, your ability to exercise some of the rights detailed in this Privacy Policy may be subject to your ability to verify that you are the person about whom your request pertains. For example, we may require you to verify your identity by validating your X account credentials. If we suspect fraudulent or malicious activity, we may ask you to supply additional information to allow us to verify your identity.
 
 _Authorized Agents:_ To exercise your rights using an Authorized Agent (as defined under applicable law). To do this, you must provide your Authorized Agent with written permission to exercise your rights on your behalf, and we may request a copy of this written permission from your Authorized Agent when they make a request on your behalf.
 
-_Appeals:_ The right to appeal a decision we make. If we refuse to take action on a request within a reasonable period of time after receiving your request, you may appeal our decision by emailing us at [\[email protected\]](https://x.ai/cdn-cgi/l/email-protection). In such an appeal, you must (1) provide sufficient information to allow us to verify that you are the person about whom the original request pertains and to identify the original request, and (2) provide a description of the basis of your appeal. Please note that your appeal will be subject to your rights and obligations afforded to you under applicable law.
+_Appeals:_ The right to appeal a decision we make. If we refuse to take action on a request within a reasonable period of time after receiving your request, you may appeal our decision by emailing us at [privacy@x.ai](mailto:privacy@x.ai). In such an appeal, you must (1) provide sufficient information to allow us to verify that you are the person about whom the original request pertains and to identify the original request, and (2) provide a description of the basis of your appeal. Please note that your appeal will be subject to your rights and obligations afforded to you under applicable law.
 
 _Do Not Track:_ Please note that because the effect of "Do Not Track" signals remains unclear, and there continues to be no consistent industry understanding of how to respond to such a signal, we do not alter our privacy practices when we detect a "Do Not Track" signal from your browser.
 
@@ -307,7 +307,7 @@ If you use the Services after any changes to the Privacy Policy have been posted
 
 ### 14\. How to contact us
 
-If you have any queries or complaints about our collection, use or storage of your personal information, or if you wish to exercise any of your rights in relation to your personal information, please contact [\[email protected\]](https://x.ai/cdn-cgi/l/email-protection) or by mail using the following contact details:
+If you have any queries or complaints about our collection, use or storage of your personal information, or if you wish to exercise any of your rights in relation to your personal information, please contact [privacy@x.ai](mailto:privacy@x.ai) or by mail using the following contact details:
 
 X.AI Corp. 216 Park Road Burlingame, CA 94010
 
