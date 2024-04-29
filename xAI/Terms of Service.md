@@ -2,7 +2,7 @@ Effective date: 2023-11-04
 
 Welcome to xAI. Please read on to learn the rules and restrictions that govern your use of our website(s), products, services and applications (the “Services”). If you have any questions, comments or concerns regarding these Terms of Use or the Services, please contact us at:
 
-Email: [\[email protected\]](https://x.ai/cdn-cgi/l/email-protection)
+Email: [support@x.ai](mailto:support@x.ai)
 
 Address: X.AI Corporation 216 Park Road Burlingame, CA 94010
 
@@ -104,13 +104,13 @@ The Services are currently free, but we reserve the right to charge for certain 
 10\. Termination.
 -----------------
 
-You’re free to stop using the Services at any time by contacting us at [\[email protected\]](https://x.ai/cdn-cgi/l/email-protection) or deleting your account; please refer to our [Privacy Policy](https://x.ai/legal/terms-of-service/@/legal/privacy_policy.md), as well as the licenses above, to understand how we treat information you provide to us after you have stopped using our Services.
+You’re free to stop using the Services at any time by contacting us at [support@x.ai](mailto:support@x.ai) or deleting your account; please refer to our [Privacy Policy](https://x.ai/legal/terms-of-service/@/legal/privacy_policy.md), as well as the licenses above, to understand how we treat information you provide to us after you have stopped using our Services.
 
 xAI is also free to terminate (or suspend access to) your use of the Services or your account for any reason in our discretion, including your breach of these Terms. xAI has the sole right to decide whether you are in violation of any of the restrictions set forth in these Terms.
 
 Account termination may result in destruction of any Materials associated with your account, so keep that in mind before you decide to terminate your account. We will try to provide advance notice to you prior to our terminating your account so that you are able to retrieve any important User Submissions you may have stored in your account (to the extent allowed by law and these Terms), but we may not do so if we determine it would be impractical, illegal, not in the interest of someone’s safety or security, or otherwise harmful to the rights or property of xAI.
 
-If you have deleted your account by mistake, contact us immediately at [\[email protected\]](https://x.ai/cdn-cgi/l/email-protection) – we will try to help, but unfortunately, we can’t promise that we can recover or restore anything.
+If you have deleted your account by mistake, contact us immediately at [support@x.ai](mailto:support@x.ai) – we will try to help, but unfortunately, we can’t promise that we can recover or restore anything.
 
 Provisions that, by their nature, should survive termination of these Terms shall survive termination. By way of example, all of the following will survive termination: any obligation you have to indemnify us, any of our warranty disclaimers, any limitations on our liability, any terms regarding ownership or intellectual property rights (including licenses granted by you to us), and terms regarding disputes between us, including, without limitation, the arbitration provision.
 
