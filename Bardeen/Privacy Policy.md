@@ -277,7 +277,7 @@ This Supplemental Notice for California Residents supplements our Privacy Notice
 ‍  
 The CCPA provides California residents with the right to know what categories of personal information Bardeen has collected about them, whether Bardeen disclosed that personal information for a business purpose (e.g., to a service provider), whether Bardeen “sold” that personal information, and whether Bardeen “shared” that personal information for “cross-context behavioral advertising” in the preceding twelve months. California residents can find this information below:
 
-[![SUPPLEMENTAL NOTICE FOR CALIFORNIA RESIDENTS INFORMATION](https://assets-global.website-files.com/61f1e1f5e79d214f7f0df5a0/646f715092ceb1a002f63095_privacytable.webp)](#)
+[![SUPPLEMENTAL NOTICE FOR CALIFORNIA RESIDENTS INFORMATION](https://assets-global.website-files.com/662fbf69a72889ec66f07685/662fbf69a72889ec66f07dda_privacytable.webp)](#)
 
 The categories of sources from which we collect personal information and our business and commercial purposes for using and disclosing personal information are set forth in “[Personal Information We Collect](#personalinformation)”, “[How We Use Your Personal Information](#howweuse)”, and “[How We Disclose Your Personal Information](#disclosure)” above, respectively. We will retain personal information in accordance with the time periods set forth in “[Retention of Personal Information.](#retention)”  
 ‍  
