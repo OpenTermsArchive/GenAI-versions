@@ -355,4 +355,4 @@ If you have any questions about our privacy practices or this Privacy Notice, or
 236 Roosevelt Way, 94114,  
 San Francisco, CA, USA  
   
-[support+privacy@bardeen.ai](mailto:support%2Bprivacy@bardeen.ai)
+[support+privacy@bardeen.ai](mailto:support+privacy@bardeen.ai)
