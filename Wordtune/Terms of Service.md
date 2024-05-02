@@ -205,6 +205,8 @@ AI21 Labs Ltd’s products, including but not restricted to Wordtune, are protec
 
 • In Australia: 2020326435, 2023222905, 2023258365.
 
+• In Canada: No. 3150031.
+
 The contents of the aforementioned lists are subject to change due to issuance, licensing or expiration of patent rights, product changes or launches and other circumstances. The absence of a product or a patent number from these lists does not constitute a waiver of AI21 Labs’s patent, trademark, or other intellectual property rights concerning that product or patent in the relevant country or region.
 
 Last updated: **March 2024**
