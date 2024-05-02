@@ -14,7 +14,7 @@ The capitalized words in this document will have the meaning given below:
 
 * “Data Controller”: means the person who makes decisions on Your Personal Data. For instance, the Data Controller decides which Personal Data to collect, where to store such data, for how long, etc.
     
-* “Data Processor”: means the person who uses Your Personal Data on behalf of the Data Controller and under the Data Controller’s instructions. For instance, our hosting services provider acts as Data Controller when it stores Your Personal Data on Our behalf and under Our instructions.
+* “Data Processor”: means the person who uses Your Personal Data on behalf of the Data Controller and under the Data Controller’s instructions. For instance, our hosting services provider acts as Data Processor when it stores Your Personal Data on Our behalf and under Our instructions.
     
 * “**Incognito Mode**”: means the feature that allows You to not display your Prompts and Outputs History when using Our Chat Services.
     
@@ -83,7 +83,7 @@ This Privacy Policy only covers the Processing activities We carry out as Data C
     * To monitor abuse, meaning any breach by You of the Terms of Use or the applicable Terms of Service, or
     * When You report an illicit Output. In such a case, we may use Your Prompt and/or Your Outputs to improve our services.
     * To display your Prompts and Outputs history on Your Account when You use Our Chat Services, unless You activate Our Incognito Mode.
-    * To improve Our Models. We may use information (e.g. language or topic field statistics) related to Your Prompts and Outputs to improve Our Models only when (a) you Use Our Chat Services and (b) You don’t opt-out of the Mistral AI Training Data, when such option is available for the Paid Chat Services.
+    * To improve Our Models. We may use your Prompts or Outputs or information (e.g. language or topic field statistics) related to them to improve Our Models only when (a) you Use Our Chat Services and (b) You don’t opt-out of the Mistral AI Training Data, when such option is for the Paid Chat Services.
 * Feedback. Where applicable, We may collect and use the Feedback You provide to Usto improve our Service.
     
 
