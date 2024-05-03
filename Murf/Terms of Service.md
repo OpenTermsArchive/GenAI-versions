@@ -1,7 +1,7 @@
 Terms of Service
 ================
 
-February 9, 2024
+May 3, 2024
 
 #### **1\. Introduction**
 
@@ -233,6 +233,8 @@ Murf’s text-to-speech usage is based on the number of characters sent through 
 10.4 You may not assign or transfer this User Agreement (or your membership or use of Services) to anyone. There are no third-party beneficiaries to this User Agreement.
 
 10.5 You agree that the only way to provide us legal notice is at the address provided in Section 13.
+
+10.6 Murf may offer optional trials and betas. Use of trials and betas is permitted only for User's self-evaluation during the period designated by Murf. Murf may terminate User's use of trials and betas at any time for any reason. Trials and betas may be inoperable, incomplete or include features never released. Notwithstanding anything else in this User Agreement, Murf offers no warranty, SLA or support for trials and betas and its liability for trials and betas will not in the aggregate exceed USD $1,000.
 
 #### **11\. Do’s and Don’ts**
 
