@@ -166,7 +166,7 @@ The purpose of this Agreement is to describe the rights and responsibilities of 
 
 ### 4.4. Subscription to the Services via a Marketplace
 
-**General Principle.** If You subscribe to any of Our Services via a marketplace (the “**Marketplace**”) operated by a third-party (the “Agent”), this Agreement shall be supplemented by the terms entered into by and between You and the Agent (the “Marketplace Terms”). In such a case, Your access and use of the Model will be facilitated through the IT Infrastructure of the Marketplace. You acknowledge that Mistral AI has no control over the Marketplace’s IT infrastructure and that Mistral AI will not be held liable for any outcomes arising from it, including but not limited to the unavailability of the Model, errors, bugs or any impossibility to access or use the Model.
+**General Principle.** If You subscribe to any of Our Services via a marketplace (the “**Marketplace**”) operated by a third-party (the “**Agent**”) including for self-deployment by You, this Agreement shall be supplemented by the terms entered into by and between You and the Agent or terms displayed on the marketplace suscription page for the Services (the “**Marketplace Terms**”). In such a case, Your access and use of the Model will be facilitated through the IT Infrastructure of the Marketplace. You acknowledge that Mistral AI has no control over the Marketplace’s IT infrastructure and that Mistral AI will not be held liable for any outcomes arising from it, including but not limited to the unavailability of the Model, errors, bugs or any impossibility to access or use the Model.
 
 **Hierarchy.** The Marketplace Terms shall supersede the following sections of this Agreement:
 
