@@ -10,20 +10,20 @@ Quick links
 
 We recommend that you read this Privacy Policy in full to ensure you are completely informed about the processing of your personal information. However, to make it easier for you to access a particular section of this Privacy Policy, you can click on the relevant link below to jump to that section:
 
-1. About xAI and Grok
-2. Collection of your personal information
-3. How we use your personal information (our purposes)
-4. Sharing of your personal information
-5. Marketing
-6. Security of your personal information
-7. Retention of your personal information
-8. Links to other websites and social media features
-9. Children's privacy
-10. Your rights and choices
-11. Additional information for individuals located in Europe
-12. Additional Information for U.S. residents
-13. Changes to this Privacy Policy
-14. How to contact us
+1. [About xAI and Grok](#1-about-xai-and-grok)
+2. [Collection of your personal information](#2-collection-of-your-personal-information)
+3. [How we use your personal information (our purposes)](#3-how-we-use-your-personal-information-our-purposes)
+4. [Sharing of your personal information](#4-sharing-of-your-personal-information)
+5. [Marketing](#5-marketing)
+6. [Security of your personal information](#6-security-of-your-personal-information)
+7. [Retention of your personal information](#7-retention-of-your-personal-information)
+8. [Links to other websites and social media features](#8-links-to-other-websites-and-social-media-features)
+9. [Children's privacy](#9-childrens-privacy)
+10. [Your rights and choices](#10-your-rights-and-choices)
+11. [Additional information for individuals located in Europe](#11-additional-information-for-individuals-located-in-europe)
+12. [Additional Information for U.S. residents](#12-additional-information-for-us-residents)
+13. [Changes to this Privacy Policy](#13-changes-to-this-privacy-policy)
+14. [How to contact us](#14-how-to-contact-us)
 
 1\. About xAI and Grok
 ----------------------
@@ -86,7 +86,7 @@ In addition, we may receive personal information about you from our affiliated c
 * Resumes and background check information.
     
 
-3\. How we use your personal information (our purposes)
+### 3\. How we use your personal information (our purposes)
 
 We use your personal information for a variety of purposes, including:
 
@@ -169,11 +169,11 @@ If you are a child under the age of 18, please do not attempt to register for or
 
 Please contact us at [\[email protected\]](https://x.ai/cdn-cgi/l/email-protection) if you are aware that we may have inadvertently collected personal information from a child under the age of 18.
 
-10\. Your rights and choices
+### 10\. Your rights and choices
 
 Depending on where you are located and subject to applicable legal exceptions, you may have certain rights in relation to your personal information. For more information on the rights that apply under European and US privacy laws, please see Sections 11 and 12 below.
 
-11\. Additional information for individuals located in Europe
+### 11\. Additional information for individuals located in Europe
 
 If you are located in the European Economic Area ("**EEA**"), United Kingdom ("**UK**") or Switzerland (collectively, "**Europe**") the following disclosures apply:
 
