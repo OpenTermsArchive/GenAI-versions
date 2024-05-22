@@ -1,5 +1,5 @@
-Terms of service La Plateforme
-==============================
+Terms of service API
+====================
 
 Preamble
 --------
@@ -72,6 +72,11 @@ Any access, use or Subscription to the API Services implies Your unreserved agre
 **API Key.** Once the Customer has subscribed to the Services, Mistral AI will provide the Customer with an API Key. The Customer shall set-up and use the API Key in compliance with the associated Documentation to be able to use the API. The Customer acknowledges and agrees that the API Key is confidential information. Consequently, the Customer shall not share the API Key with any third party without Mistral AI’s prior written consent. At the expiration of this Agreement for any reason whatsoever, the Customer agrees to delete the API Key. Any unauthorized disclosure of the API Key by the Customer will constitute a material breach of this Agreement.
 
 **API call limitations.** The volume of API calls made by the Customer within a specific period may be subject to limitation at the sole discretion of Mistral AI. Such limitations could be influenced by factors including the expected usage volume associated with the Customer Application.
+
+**How we use Your User Data.** On the API, we only use Your User Data:
+
+* To provide the Services (e.g. to generate outputs based on Your Prompts), and
+* To monitor abuse (meaning, to monitor any breach by You of the Agreement). To this end, we retain Your Prompts and Outputs for a period of thirty (30) days We do not use Your User Data to train or improve our Models.
 
 ### 4.2. Service level objectives
 
