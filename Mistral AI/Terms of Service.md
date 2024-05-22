@@ -39,14 +39,13 @@ The capitalized words in this document shall have the meaning set forth below:
     
 * “**Effective Date**”: means the earlier of (i) the date You first use the Services or (ii) the date You accept these Terms of Use.
     
-
 * “**Fees**”: means the fees paid or payable by the Customer under this Agreement in consideration for the Paid Services.
     
 * “**Filters**”: means the automatic mechanisms such as moderation prompts implemented by Mistral AI designed to screen or remove offensive, inappropriate or illicit content from the Output.
     
 * “**Identifiers**”: means Your email address and password required to log into Your Account.
     
-* “**Mistral AI’s Intellectual Property**”: means the Model(s), the Services, and any trade names, trademarks, logos, patents, trade secrets, know-how, designs, drawings, copyrights, engineering, otographs, samples, software, models, algorithm, image, literature, information, ideas, concepts, or improvements pertaining to the Services and other data of any kind that is protectable through copyrights, patent, trade secrets, trademarks, trade dress, service marks, or and includes any modification or enhancement of the Services.
+* “**Mistral AI’s Intellectual Property**”: means the Model(s), the Services, and any trade names, trademarks, logos, patents, trade secrets, know-how, designs, drawings, copyrights, engineering, photographs, samples, software, models, algorithm, image, literature, information, ideas, concepts, or improvements pertaining to the Services and other data of any kind that is protectable through copyrights, patent, trade secrets, trademarks, trade dress, service marks, or and includes any modification or enhancement of the Services.
     
 * “**Model(s)**”: means (i) any version of any artificial intelligence model developed by Mistral AI and made accessible in any manner (API, chat, etc….) on the Platform or via a Marketplace (as defined in Section 4.4. (Subscription via a Marketplace)) and (ii) the associated documentation as may be amended from time to time (the “**Documentation**”).
     
@@ -166,7 +165,7 @@ The purpose of this Agreement is to describe the rights and responsibilities of 
 
 ### 4.4. Subscription to the Services via a Marketplace
 
-**General Principle.** If You subscribe to any of Our Services via a marketplace (the “**Marketplace**”) operated by a third-party (the “**Agent**”) including for self-deployment by You, this Agreement shall be supplemented by the terms entered into by and between You and the Agent or terms displayed on the marketplace suscription page for the Services (the “**Marketplace Terms**”). In such a case, Your access and use of the Model will be facilitated through the IT Infrastructure of the Marketplace. You acknowledge that Mistral AI has no control over the Marketplace’s IT infrastructure and that Mistral AI will not be held liable for any outcomes arising from it, including but not limited to the unavailability of the Model, errors, bugs or any impossibility to access or use the Model.
+**General Principle.** If You subscribe to any of Our Services via a marketplace (the “**Marketplace**”) operated by a third-party (the “**Agent**”) including for self-deployment by You, this Agreement shall be supplemented by the terms entered into by and between You and the Agent or terms displayed on the marketplace subscription page for the Services (the “**Marketplace Terms**”). In such a case, Your access and use of the Model will be facilitated through the IT Infrastructure of the Marketplace. You acknowledge that Mistral AI has no control over the Marketplace’s IT infrastructure and that Mistral AI will not be held liable for any outcomes arising from it, including but not limited to the unavailability of the Model, errors, bugs or any impossibility to access or use the Model.
 
 **Hierarchy.** The Marketplace Terms shall supersede the following sections of this Agreement:
 
@@ -236,7 +235,7 @@ Suspension or termination. We reserve the right to suspend or terminate Your acc
 
 **Prompt ownership**. You hereby represent that You own Your Prompts. You retain all the rights, including but not limited to the intellectual property rights to Your Prompts. You grant Us a worldwide, revocable, non-exclusive, non-sublicensable, non-transferable right to use the Prompts for the purpose of performing the Services, for the term of this Agreement.
 
-**Output ownership**.Where applicable, We assign to You, all the intellectual property rights in and to the Outputs, including (i) **the right to reproduce**, without any limitation of number, all or part of the Outputs (ii) **the right to represent**, broadcast or have broadcasted, to communicate or make available the Outputs to the public (iii) **the right to adapt**, correct, modify, improve the Outputs, the right to make new versions of the Outputs from all or part of the existing Outputs, the right to maintain, modify, arrange, assemble, condense, transcribe, scan, mix, migrate, zip, unzip all or part of the Outputs, the right to translate them into any language whatsoever (including computer language), the right to interface them with any software, material or database (unless otherwise stated), the right to integrate them in any existing or future works, on any support and by any means, (iv) **the right to define** and to modify the use, the purpose of the use and the destination of the Outputs in any form, known and unknown, existing or future, and (v) more generally, **the right to use, exploit, distribute** the Output. You are allowed to exercise these rights on any existing or future, known or unknown (i) medium including but not limited to any printed, electronic, digital, numerical, analog, magnetic media, (ii) mean of communication, telecommunication, or other network including but not limited to radio, video, broadcast, satellite, Internet, electronic. Unless otherwise stated, these rights can be exercised for any purpose (public exploitation, private use, free, paid for, subscription, etc.). This assignment is granted worldwide and for the entire legal term of protection of the Outputs by the intellectual property rights applicable as provided for by the applicable law. However, You are expressly prohibited to use the Outputs and/or any modified or derived version of the Outputs to (directly or indirectly) to reverse engineer the Services.
+**Output ownership**.We do not claim any ownership or intellectual property rights of any kind in and to the Outputs generated by Our Models. You are the sole owner of the Outputs. You must not use the Outputs or any modified or derived version of the Outputs to reverse engineer the Services. You grant Us a worldwide, non-revocable, non-exclusive, non-sublicensable, non-transferable right to use the Outputs for the purpose of performing the Services, for the term of this Agreement.
 
 **Output similarity**. You agree that, due to the nature of Our Services, if another User uses a Prompt similar to Yours, our Services may generate an Output similar or identical to Yours. We do not warrant that Your Output is not similar or identical to another User’s Output. Consequently and unless otherwise stated, we will not indemnify You in case Your Output is similar or identical to another User’s Output.
 
@@ -252,8 +251,6 @@ Suspension or termination. We reserve the right to suspend or terminate Your acc
     
 
 **License**. You grant Us a worldwide, non-revocable, non-exclusive, non-sublicensable, non-transferable right to use Your User Feedback for the purpose of improving Our Model(s). This helps us improve the accuracy of the Outputs generated by Our Model(s) and the overall efficiency and/or moderation of Our Services. This license is granted for the duration of the intellectual property rights under applicable law.
-
-**Monitoring**. We may use Your Prompts and Outputs to monitor abuse (meaning, to monitor any breach by You of the Agreement). To this end, we retain Your Prompts and Outputs for a period of thirty (30) days.
 
 **Moderation**. We make commercially reasonable efforts to make sure Our Services do not generate Outputs that contain offensive, inappropriate or illicit content. To this end, We have implemented and / or are proposing different moderation mechanisms such as Filters to Our Model(s). Subject to Your Subscription Plan and to the option being available on the Platform, YYou may deactivate these Filters for legitimate purposes pertaining to Your specific Use-Case. You agree that (a) We do not warrant that the Output generated will not be offensive, inappropriate or illicit, (b) You are solely responsible for the use of Your Output and (c) You shall in no way use the Output for any illicit or unlawful purpose and/or to harm Mistral AI and/or a third party.
 
@@ -333,7 +330,7 @@ Suspension or termination. We reserve the right to suspend or terminate Your acc
     * Providing any person whose Personal Data is processed by the Professional User with the information required under the Applicable Data Protection Law, including the information required by Article 13 and 14 of the GDPR,
     * Ensuring that the Professional User and/or Authorized Users have obtained all the necessary consents and authorizations with respect to the Applicable Data Protection Law to process Personal Data when using the Services, including but not limited to any consent related to the User Data, and
     * Providing the Authorized Users with any guidance relating to the processing of Personal Data when using the Services.
-* Provide vide a disclaimer to any individual accessing an Output or using the Services. Such disclaimer should highlight the potential inaccuracies and unpredictabilities in the Outputs and encourage individuals to check important information,
+* Provide a disclaimer to any individual accessing an Output or using the Services. Such disclaimer should highlight the potential inaccuracies and unpredictabilities in the Outputs and encourage individuals to check important information,
 * Document the use of the Services as deployer of the Models, to the extent that such documentation is required by the applicable law, including but not limited to (i) the Professional User’s use case, (ii) the transparency measures implemented by the Customer, (iii) the evaluation process of the Services, (iv) an assessment of the risks of the Services in relation to the use-case and steps taken to mitigate those risks and (v) post-deployment monitoring and safeguards;
 * Supervise the Authorized Users’ use of the Services. To this end, the Professional User agrees that the Professional User is solely responsible for:
     * Ensuring that all individual users, including the Authorized Users, are contractually bound to terms and conditions with the Professional User that are as protective of
@@ -391,6 +388,7 @@ Indemnification by Mistral AI. Mistral AI shall indemnify, defend, and hold the 
 * The combination of the Services with Customer or third-party software (including but not limited to the Customer Application), hardware or any other equipment not provided by Mistral AI,
 * Modification of the Services by any party other than Mistral AI,
 * The Customer’s User Data,
+* The Customer’s modification of the Outputs,
 * The Customer’s breach of this Agreement, or
 * The Customer’s failure to comply with the applicable laws and regulations.
 
