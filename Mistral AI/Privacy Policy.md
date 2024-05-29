@@ -32,7 +32,7 @@ The capitalized words in this document will have the meaning given below:
     
 * “Processing”: means any operation relating to Your Personal Data (for instance: collection, use, access, transfer, deletion, etc.).
     
-* “Services”: means any services provided by Mistral AI to You, including but not limited to the Platform, the Model, our chat interact that allows You to interact with Our Models (the “Chat Services”), along with any associated software, application and website.
+* “Services”: means any services provided by Mistral AI to You, including but not limited to the Platform, the Model, our chat interact that allows You to interact with Our Models (the “Chat Services”), our set of APIs allowing You to use our text-generation Models (the “Standard API”) or Our code-generation Models (“Codestral”) along with any associated software, application and website.
     
 * “User”, “Customer” or “You”: means any person who subscribes to, accesses or uses Our Services.
     
@@ -83,7 +83,9 @@ This Privacy Policy only covers the Processing activities We carry out as Data C
     * To monitor abuse, meaning any breach by You of the Terms of Use or the applicable Terms of Service, or
     * When You report an illicit Output. In such a case, we may use Your Prompt and/or Your Outputs to improve our services.
     * To display your Prompts and Outputs history on Your Account when You use Our Chat Services, unless You activate Our Incognito Mode.
-    * To improve Our Models. We may use your Prompts or Outputs or information (e.g. language or topic field statistics) related to them to improve Our Models only when (a) you Use Our Chat Services and (b) You don’t opt-out of the Mistral AI Training Data, when such option is for the Paid Chat Services.
+    * To improve Our Models. We may use your Prompts or Outputs or information (e.g. language or topic field statistics) related to them to improve Our Models only when
+        * You Use Our Chat Services and You don’t opt-out of the Mistral AI Training Data, when such option is available for the Paid Chat Services
+        * You use the free version of Codestral and You don’t opt-out of the Mistral AI Training Data. You can opt-out of the Mistral AI Training Data at any time by making a request directly on Our Support Chatbot available on Our Platform. Please note that in that case, Your opt-out will only be effective for future Prompts and Outputs.
 * Feedback. Where applicable, We may collect and use the Feedback You provide to Usto improve our Service.
     
 
@@ -112,7 +114,7 @@ We use Your Personal Data for the following purposes:
 * Answer to your assistance requests.
 * When You use Our Chat Services as a Consumer, provide technical support (fixing the bugs You notify us).
 * Display Your Prompts and Outputs to You.
-* Train Our Models (Large Language Models) to answer questions, generate text according to context/Prompts (e-mails, letters, reports, computer code, etc), translating, summarizing and correcting text, classifying text, analyzing feelings, etc., (i) Possibly, if such Personal Data is publicly available, and even if we apply best practices to filter such data, and (ii) if You use Our Chat Services and You don’t opt-out of the Mistral AI Training Data when such option is available for the Paid Chat Services.
+* Train Our Models (Large Language Models) to answer questions, generate text according to context/Prompts (e-mails, letters, reports, computer code, etc), translating, summarizing and correcting text, classifying text, analyzing feelings, etc., (i) Possibly, if such Personal Data is publicly available, and even if we apply best practices to filter such data, and (ii) if You use Our Chat Services and You don’t opt-out of the Mistral AI Training Data when such option is available for the Paid Chat Services (iii) if You use the free version of Codestral and You don’t opt-out of the Mistral AI Training Data. You can opt-out of the Mistral AI Training Data at any time by making a request directly on Our Support Chatbot available on Our Platform. Please note that in that case, Your opt-out will only be effective for future Prompts and Outputs.
 * Conduct research and improve the Services.
 * Make aggregated statistics about the use of the Services.
 
@@ -218,7 +220,7 @@ You can exercise:
 * Access. You have the right to know if Mistral AI processes Your Personal Data. You also have the right to request a copy of such Personal Data and to obtain further information about the way We process Your Personal Data.
 * Rectification. You have the right to update or correct Your Personal Data.
 * Deletion. You have the right to delete and/or ask us to delete Your Personal Data.
-* Objection. You have the right to object to the processing of Your Personal Data. This right does not apply when we have a legal obligation to process Your Personal Data.
+* Objection. You have the right to object to the processing of Your Personal Data. This right does not apply when we have a legal obligation to process Your Personal Data. If You use Our Paid Chat Services or the free version of Codestral, You can opt-out of Mistral AI Training Data at any time by making a request on Our Support Chatbot available directly on Our Platform. Please note that Your opt-out will only apply to future Prompts and Outputs.
 * Consent withdrawal. You have the right to withdraw Your consent to the processing of Your Personal Data at any time.
 * Limitation. You have the right to ask us to freeze the processing of Your Personal Data.
 * Automated decision. You have the right to not be subject to an automated decision (including profiling) and to appeal such a decision. Mistral AI does not engage in profiling or automated decision-making in the Processing of Personal Data.
@@ -230,7 +232,8 @@ We will take every step to make sure we reply to Your requests. However, when yo
 
 You can exercise these rights:
 
-* By sending us an email at [privacy@mistral.ai](mailto:privacy@mistral.ai)
+* By sending us an email at `privacy@mistral.ai`
+* By making a request using Our Support Chatbot, available directly on Our Platform
 * By sending us a letter at Mistral AI, Attn: Privacy Team, Mistral AI, 15 rue des Halles, 75001 Paris, France.
 
 ### 9\. Changes to this Privacy Policy
