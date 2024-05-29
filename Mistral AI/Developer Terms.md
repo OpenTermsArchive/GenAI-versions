@@ -29,7 +29,7 @@ These API Terms of Service are effective as of the Effective Date and shall cont
         
     * And all materials referred or linked to in the above mentioned documents, unless otherwise stated.
         
-* “**API**”: means Mistral AI’s application programming interface that allows the Customer to use the Model(s).
+* “**API**”: means Mistral AI’s application programming interface that allows the Customer to use the Model(s). This definition includes (a) the standard API that allows You to access and use Our text-generating Models that is available at `api.mistral.ai` (the “Standard API”), (b) the API that allows You to access and use Our code-generating Models that is available at `codestral.mistral.ai` (“Codestral”).
     
 * “**API Key**”: means the unique authentication code provided by Mistral AI to the Customer allowing the Customer to access and use the API.
     
@@ -78,7 +78,24 @@ Any access, use or Subscription to the API Services implies Your unreserved agre
 * To provide the Services (e.g. to generate outputs based on Your Prompts), and
 * To monitor abuse (meaning, to monitor any breach by You of the Agreement). To this end, we retain Your Prompts and Outputs for a period of thirty (30) days We do not use Your User Data to train or improve our Models.
 
-### 4.2. Service level objectives
+### 4.2. Your User Data
+
+#### 4.2.1. The Standard API
+
+How we use Your User Data: On Our Standard API, we only use Your User Data:
+
+* To provide the Services (e.g. to generate outputs based on Your Prompts), and
+* To monitor abuse (meaning, to monitor any breach by You of the Agreement). To this end, we retain Your Prompts and Outputs for a period of thirty (30) days. We do not use Your User Data to train or improve our Models.
+
+#### 4.2.2. Codestral
+
+How we use Your User Data: On Codestral we use Your User Data:
+
+* To provide the Services (e.g. to generate outputs based on Your Prompts),
+* To monitor abuse (meaning, to monitor any breach by You of the Agreement). To this end, we retain Your Prompts and Outputs for a period of thirty (30) days.
+* If You use the free version of Codestral, to improve Our Models, unless You opt-out of the Mistral AI Training Data. You can opt-out of the Mistral AI Training Data by making a request on our Support Chatbot directly available on Our Platform. Please note that in that case, Your opt-out will only be effective for future Prompts and Outputs.
+
+### 4.3. Service level objectives
 
 **Availability.** Mistral AI will use commercially reasonable efforts to make the API Services available to You 24 hours a day, 7 days a week. However, You acknowledge that, due to various factors, including maintenance, technical issues or unforeseen circumstances, the API Services may experience periods of downtime. In such a case, Mistral AI will make commercially reasonable efforts to restore the API Services promptly. You understand and agree that the occurrence of downtime, regardless of its duration, does not entitle You to a refund of any Fees paid for the API Services. You shall however note that the API Services are subject to changes, in which case Mistral AI will use commercially reasonable efforts to preserve backward compatibility without however guaranteeing the absence of breaking changes.
 
