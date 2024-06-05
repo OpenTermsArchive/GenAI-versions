@@ -4,7 +4,7 @@ Terms of service API
 Preamble
 --------
 
-Mistral AI provides an API that allows its users to use Mistral AI’s artificial intelligence models for text generation purposes, alongside with a range of complementary services (the “**API Services**”).
+Mistral AI provides a set of APIs that allows its users to use Mistral AI’s artificial intelligence models for text or code generation purposes, and to fine-tune such models, alongside with a range of complementary services (the “**API Services**”).
 
 These terms of service (the “**API Terms of Service**”) are entered into by and between Mistral AI and the Customer.
 
@@ -17,19 +17,7 @@ These API Terms of Service are effective as of the Effective Date and shall cont
 
 **Definitions provided in this document.** The capitalized words in this document shall have the meaning set forth below:
 
-* “**Agreement**” or “**Services Agreement**”: means the agreement entered into by and between the Parties, composed of:
-    
-    * The “**Purchase Order**”: means any and all purchase orders entered into by the Parties that references this Agreement, including but not limited to any Purchase Order created by Mistral AI following the Customer’s purchase of the Services through the online Payment Services or via the in-app purchase. The Purchase Order consists of the summary detailing the Customer’s Subscription (applicable Fees, Billing Cycle, Model to which the Customer can access, any potential restrictions, etc.),
-        
-    * These “**Terms of Service**”: means this document governing the subscription to and the use of the API Services by the Customer,
-        
-    * The “**[Terms of Use](https://mistral.ai/terms/#terms-of-use)**”: means the terms governing the Customer’s Subscription to, access and use of any and all Services provided by Mistral AI, including but not limited to the API Services,
-        
-    * The “**[Data Processing Agreement](https://mistral.ai/terms#data-processing-agreement)**”: means the agreement governing the processing of Personal Data performed by the Parties in connection with the Services. The Data Processing Agreement does not apply when the Customer acts as a Consumer,
-        
-    * And all materials referred or linked to in the above mentioned documents, unless otherwise stated.
-        
-* “**API**”: means Mistral AI’s application programming interface that allows the Customer to use the Model(s). This definition includes (a) the standard API that allows You to access and use Our text-generating Models that is available at `api.mistral.ai` (the “Standard API”), (b) the API that allows You to access and use Our code-generating Models that is available at `codestral.mistral.ai` (“Codestral”).
+* “**API**”: means Mistral AI’s application programming interface that allows the Customer to use the Model(s). This definition includes (a) the standard API that allows You to access and use Our text-generating Models that is available at `api.mistral.ai` (the “**Standard API**”), (b) the API that allows You to access and use Our code-generating Models that is available at `codestral.mistral.ai` (“**Codestral**”), and (c) the API that allows You to Fine-Tune Models (the “Fine-Tuning API”).
     
 * “**API Key**”: means the unique authentication code provided by Mistral AI to the Customer allowing the Customer to access and use the API.
     
@@ -39,7 +27,13 @@ These API Terms of Service are effective as of the Effective Date and shall cont
     
 * “**End-Users**”: means any person who uses the Customer Application.
     
+* “**Fine-Tuned Model**”: means any Model that has been Fine-Tuned using the Fine-Tuning API.
+    
+* “**Fine-Tuning**” or “**Fine-Tune**” or “**Fine-Tuned**”: means the technical process of adjusting or modifying a Model in order to improve its performance, accuracy, or efficiency.
+    
 * “**Subscription Term**”: means the term of these API Terms of Service.
+    
+* “**Third-Party Service**”: means a service provided by a third-party through an integration on the Platform.
     
 
 **Definitions provided in the [Terms of Use](https://mistral.ai/terms/#terms-of-use).** Any capitalized words that are not defined in these Terms of Services shall have the meaning given in the Terms of Use.
@@ -47,9 +41,9 @@ These API Terms of Service are effective as of the Effective Date and shall cont
 2\. Purpose and scope
 ---------------------
 
-**Purpose.** This Agreement sets forth the rights and responsibilities of Mistral AI and the Customer in connection with the subscription to and/or use of the API Services.
+**Purpose.** These API Terms of Service sets forth the rights and responsibilities of Mistral AI and the Customer in connection with the subscription to and/or use of the API Services.
 
-**Contractual documents.** This Agreement includes (i) any current or future Purchase Order, (ii) these Terms of Service, (iii) the [Terms of Use](https://mistral.ai/terms/#terms-of-use), (iv) the [Data Processing Agreement](https://mistral.ai/terms/#data-processing-agreement) (unless the Customer acts as a Consumer), (v) where applicable the master services agreement and (vi) all materials referred or linked to in the above mentioned documents as may be amended from time to time and all such documents are incorporated by this reference.
+**Contractual documents.** The use of the API Services is subject to the following documents, listed in order of precedence (a) any current or future Purchase Orders, (b) these API Terms of Service, (c) the Data Processing Agreement (unless the Customer acts as a Consumer), (d) where applicable the master services agreement and (e) all material referred or linked to in the above mentioned documents as may be amended from time to time and all such documents are incorporated by this reference.
 
 **Hierarchy.** In case of any conflict or discrepancies between these contractual documents, the terms of the Purchase Order will prevail.
 
@@ -63,6 +57,8 @@ Any access, use or Subscription to the API Services implies Your unreserved agre
 
 ### 4.1. The API
 
+#### 4.1.1. Terms applicable to any API
+
 **Provision of the API.** During the Subscription Term and subject to the Customer’s compliance with this Agreement, Mistral AI will make the API available to the Customer under the terms and conditions set forth in this Agreement.
 
 **License.** Mistral AI grants to the Customer a worldwide, revocable, non-exclusive, non-sublicensable, non-transferable right to use the API Services for the Subscription Term, for the purpose of (i) incorporating the API into its products and services or (ii) using the API for its own internal business needs, in compliance with this Agreement and the applicable law. The right to use the Services includes the right to allow (i) the Authorized Users to use the API Services and (ii) the End Users to use the API through the Customer Application.
@@ -73,27 +69,47 @@ Any access, use or Subscription to the API Services implies Your unreserved agre
 
 **API call limitations.** The volume of API calls made by the Customer within a specific period may be subject to limitation at the sole discretion of Mistral AI. Such limitations could be influenced by factors including the expected usage volume associated with the Customer Application.
 
-**How we use Your User Data.** On the API, we only use Your User Data:
+**Third-Party Services (Integrations).** Our APIs are compatible with the Third-Party Services listed on the Platform. To use a Third-Party Service on our Platform, You must (a) create an account on the Third-Party Service and (b) connect such an account to the Platform by following the instructions given on the Platform. You acknowledge that Mistral AI does not provide the Third-Party Service and therefore cannot be held liable under any circumstances for any loss, damage, or claim arising out of or in relation with Your use of a Third-Party Service, including when such use occurs on the Platform.
 
-* To provide the Services (e.g. to generate outputs based on Your Prompts), and
-* To monitor abuse (meaning, to monitor any breach by You of the Agreement). To this end, we retain Your Prompts and Outputs for a period of thirty (30) days We do not use Your User Data to train or improve our Models.
+#### 4.1.1. Terms applicable to the Fine-Tuning API
+
+**Fine-Tuning API.** Our Fine-Tuning API allows You to Fine-Tune the compatible Models provided by Mistral AI. The list of the compatible Models is provided on the Platform. To use the Fine-Tuning API, You must:
+
+* Prepare Your User Input Data,
+* Upload Your User Input Data on the Platform,
+* Follow the instructions on the Platform,
+* Review the Fine-Tuning of the Model on the Platform.
+
+**Fine-Tuned Model.** Upon completion of the Fine-Tuning process, You will be granted access to use the Fine-Tuned Model directly on Our Platform for the duration of this Agreement. You will have no rights in the Fine-Tuned Model after the expiration or termination of this Agreement. We will not use the Fine-Tuned Model, except to make it available to You for the purpose of providing You with the Services.
+
+**Deletion of the Fine-Tuned Model.** You may delete the Fine-Tuned Model from the Platform at any time. Following the expiration or termination of this Agreement, We will retain the Fine-Tuned Model for a period of one (1) year, to allow You to use such Fine-Tuned Model again in case You re-subscribe to Our Fine-Tuning API. Notwithstanding the foregoing, You may request that We delete the Fine-Tuned Model prior to the expiration of the one (1) year retention period by submitting a written request via Our Ticketing Platform. We will use commercially reasonable efforts to delete the Fine-Tuned Model within thirty (30) days of receiving such request.
+
+**Confidentiality of the Fine-Tuned Model.** The Fine-Tuned Model shall remain confidential and Mistral AI shall not disclose or distribute the Fine-Tuned Model to any third party except under Your directive and for authorized transfer to authorized Mistral AI cloud provider distributors.
+
+**Your responsibility.** You are solely responsible for the Fine-Tuning of the Model and for Your User Input Data. You acknowledge that Mistral AI cannot be held responsible for the performance of the Fine-Tuned Model, including for the Outputs generated by such Fine-Tuned Model.
+
+**Limited Assistance.** Upon Your written and express request and subject to Mistral AI’s prior approval, Mistral AI may provide You with guidance on how to improve User Input Data to make the Fine-Tuning process more efficient, subject to Your prior express agreement on Mistral AI having an access to the User Input Data for these purposes only.
 
 ### 4.2. Your User Data
 
 #### 4.2.1. The Standard API
 
-How we use Your User Data: On Our Standard API, we only use Your User Data:
+**How we use Your User Data: On Our Standard API, we only use Your User Data:**
 
 * To provide the Services (e.g. to generate outputs based on Your Prompts), and
 * To monitor abuse (meaning, to monitor any breach by You of the Agreement). To this end, we retain Your Prompts and Outputs for a period of thirty (30) days. We do not use Your User Data to train or improve our Models.
 
 #### 4.2.2. Codestral
 
-How we use Your User Data: On Codestral we use Your User Data:
+**How we use Your User Data: On Codestral we use Your User Data:**
 
 * To provide the Services (e.g. to generate outputs based on Your Prompts),
 * To monitor abuse (meaning, to monitor any breach by You of the Agreement). To this end, we retain Your Prompts and Outputs for a period of thirty (30) days.
-* If You use the free version of Codestral, to improve Our Models, unless You opt-out of the Mistral AI Training Data. You can opt-out of the Mistral AI Training Data by making a request on our Support Chatbot directly available on Our Platform. Please note that in that case, Your opt-out will only be effective for future Prompts and Outputs.
+* To improve the training of Our Models, unless You use the Paid version of Codestral and You opt-out of the Mistral AI Training Data. You can opt-out of the Mistral AI Training Data by making a request on our Support Chatbot directly available on Our Platform. Please note that in that case, Your opt-out will only be effective for future Prompts and Outputs.
+
+#### 4.2.3. The Fine-Tuning API
+
+**How we use Your User Data: On the Fine-Tuning API:** We use Your User Data to provide the Services (e.g. we use Your User Input Data to Fine-Tune the Model and, subject to your express agreement, to provide You with limited assistance in accordance with Section 4.1.2. Of these API Terms of Service). We do not use Your User Data, including Your User Input Data, to train or improve Our Models.
 
 ### 4.3. Service level objectives
 
@@ -109,7 +125,7 @@ How we use Your User Data: On Codestral we use Your User Data:
     
 * Failure of any third party hardware, software, or technology,
     
-* Scheduled maintenance work, provided that Mistral AIhas duly notified the Customer of such maintenance work in advance, including changes in the API impacting the preservation of backward compatibility, or
+* Scheduled maintenance work, provided that Mistral AI has duly notified the Customer of such maintenance work in advance, including changes in the API impacting the preservation of backward compatibility, or
     
 * Suspension of the Customer’s right to use the Services under the Terms of Use.
     
