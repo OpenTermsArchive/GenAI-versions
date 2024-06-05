@@ -198,9 +198,9 @@ Mistral AI may update the description of the Processing from time to time to ref
 
 * **Mistral AI privacy contact:** [privacy@mistral.ai](mailto:privacy@mistral.ai)
     
-* **Categories of Data Subjects:** the Customer, the Authorized Users and any other natural person whose Personal Data is used by the Customer or the Authorized User as a Prompt
+* **Categories of Data Subjects:** the Customer, the Authorized Users and any other natural person whose Personal Data is used by the Customer or the Authorized User as a Prompt.
     
-* **Categories of Personal Data:** the Customer’s and the Authorized User’s account data, the Customer’s Mistral AI ID (unique User ID attributed by Mistral AI), the API Key (where applicable), the Prompts (date and hour of the Prompt, content of the Prompt, etc.), the Outputs (date and hour of the Output, content of the Output, etc.), any Personal Data that is used by the Customer to generate an Output and/or that may be accessed by Mistral Ai as part of the Services.
+* **Categories of Personal Data:** the Customer’s and the Authorized User’s account data, the Customer’s Mistral AI ID (unique User ID attributed by Mistral AI), the API Key (where applicable), the Prompts (date and hour of the Prompt, content of the Prompt, etc.), the Outputs (date and hour of the Output, content of the Output, etc.), any Personal Data that is used by the Customer (i) to generate an Output, (ii) as part of User Input Data and/or (iii) that may be accessed by Mistral Ai as part of the Services.
     
 * **Special categories of Personal Data:** None. Customer shall not process sensitive data under this DPA. In case Customer wishes to process sensitive data, please contact [privacy@mistral.ai](mailto:privacy@mistral.ai)
     
@@ -210,7 +210,7 @@ Mistral AI may update the description of the Processing from time to time to ref
     
 * **Retention Periods:**
     
-    * If the Customer has subscribed to the API Services, the Prompts and the Outputs are only processed by Mistral AI for the duration of the generation of the Outputs.
+    * If the Customer has subscribed to the API Services, (i) the Prompts and the Outputs are only processed by Mistral AI for the duration of the generation of the Outputs, and (ii) User Input Data is retained until deletion of User Input Data and/or Customer’s Account by Customer.
         
     * If the Customer subscribed to the Chat Services: the Prompts and the Outputs are stored for the term of this DPA or until the Customer deletes such Prompts and Outputs from its history. The Prompts and Outputs are not stored if the Customer activates the Incognito Mode.
         
