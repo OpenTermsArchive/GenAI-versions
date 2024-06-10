@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-Updated April 23, 2024
+Updated June 10, 2024
 
 At Speechify, we care about the privacy of your data and are committed to protecting it. This Privacy Policy explains what information we collect about you and why. We hope you will read it carefully.  
 
@@ -277,4 +277,4 @@ Contact Us
 
 You may contact us with any questions relating to this Privacy Policy by submitting a [help desk request here](https://help.speechify.com/en) or by contacting us at [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection).
 
-For the purposes of this Policy, when we say “Speechify,” “we,” or “us,” we mean Speechify, Inc., 7901 4th Street N, Suite 6193, St. Petersburg FL-33702
+For the purposes of this Policy, when we say “Speechify,” “we,” or “us,” we mean Speechify, Inc., 382 NE 191st St PMB 69469, Miami, FL, 33179-3899
