@@ -1,7 +1,7 @@
 Terms & Conditions
 ==================
 
-Updated April 30, 2024
+Updated June 10, 2024
 
 1. **GENERAL INFORMATION**
 
@@ -255,7 +255,7 @@ The information contained in the Services is for general information purposes on
 
 (g) Our designated agent for notice of claims of copyright infringement can be reached as follows:
 
-By Mail: Speechify, Inc. Attn: Copyright Agent 7901 4th Street N, Suite 6193, St. Petersburg FL-33702
+By Mail: Speechify, Inc. Attn: Copyright Agent 382 NE 191st St PMB 69469, Miami, FL, 33179-3899
 
 By E-Mail: [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection) Subject line: DMCA
 
@@ -442,11 +442,9 @@ PLEASE READ THE FOLLOWING PARAGRAPHS CAREFULLY, AS THEY REQUIRE YOU TO ARBITRATE
 
 (e) Class Action Waiver. WHERE PERMITTED UNDER THE APPLICABLE LAW, YOU AND SPEECHIFY AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR OUR INDIVIDUAL CAPACITY AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR CONSOLIDATED ACTION. If, however, this waiver of class or consolidated actions is deemed invalid or unenforceable, neither you nor Speechify are entitled to arbitration; instead all claims and disputes will be resolved in a court as set forth in section 13.13 below.
 
-(f) Opt-out. YOU MAY OPT-OUT OF THIS ARBITRATION AGREEMENT. If you do so, neither you nor Speechify can force the other to arbitrate. To opt-out, you must notify Speechify in writing no later than 30 days after first becoming subject to this arbitration agreement. Your notice must include your name and address, and the email address you used to set up your Speechify account (if you have one), and an unequivocal statement that you want to opt-out of this arbitration agreement. You must send your opt-out notice to one of the following physical or email addresses: Speechify, Inc., ATTN: Arbitration Opt-out, Speechify, Inc., 7901 4th Street N, Suite 6193, St. Petersburg FL-33702; [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection)
+(f) Small Claims Court. Notwithstanding the foregoing, either you or Speechify may bring an individual action in small claims court.
 
-(g) Small Claims Court. Notwithstanding the foregoing, either you or Speechify may bring an individual action in small claims court.
-
-(h) Arbitration Agreement Survival. This arbitration agreement will survive the termination of your relationship with Speechify.
+(g) Arbitration Agreement Survival. This arbitration agreement will survive the termination of your relationship with Speechify.
 
 **13.15 EXCLUSIVE VENUE**
 
@@ -462,6 +460,6 @@ If any part of these Terms is found to be invalid or unenforceable, that part wi
 
 ‍
 
-These Terms are effective and were last updated on May 25, 2023.
+These Terms are effective and were last updated on June 10, 2024.
 
-Speechify, Inc. is located at 7901 4th Street N, Suite 6193, St. Petersburg FL-33702.
+Speechify, Inc. is located at 382 NE 191st St PMB 69469, Miami, FL, 33179-3899.
