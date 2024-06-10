@@ -1,14 +1,14 @@
+Updated: January 10, 2024
+
 Plugins and Actions Terms
 =========================
-
-UpdatedJanuary 10, 2024
 
 1\. Introduction
 ----------------
 
 Plugins and Actions (together “Plugins”) allow OpenAI services (“Services”) such as ChatGPT to retrieve information from or send instructions to an API (“API”) created according to our AI Plugin Protocol. Users of OpenAI Services can choose to enable Plugins within certain Services. For example, a ChatGPT user who wants to make a restaurant reservation could enable a restaurant reservation Plugin and instruct ChatGPT to make the reservation.
 
-These Plugin Terms (“Terms”) govern the creation and use of your Plugin in connection with OpenAI Services. If you reside within the European Economic Area or Switzerland your agreement is with OpenAI Ireland Ltd. These Terms include our [Usage Policies](https://openai.com/policies/usage-policies) and other documentation, guidelines, or policies we may provide in writing or on our website. By creating an API or by explicitly agreeing to these Terms, you agree to be bound by these Terms. If you create a Plugin on behalf of another person or entity, you represent that you have the authority to agree to these Terms on their behalf.  
+These Plugin Terms (“Terms”) govern the creation and use of your Plugin in connection with OpenAI Services. If you reside within the European Economic Area or Switzerland your agreement is with OpenAI Ireland Ltd. These Terms include our [Usage Policies](https://openai.com/policies/usage-policies/) and other documentation, guidelines, or policies we may provide in writing or on our website. By creating an API or by explicitly agreeing to these Terms, you agree to be bound by these Terms. If you create a Plugin on behalf of another person or entity, you represent that you have the authority to agree to these Terms on their behalf.
 
 2\. Plugins
 -----------
@@ -17,13 +17,13 @@ These Plugin Terms (“Terms”) govern the creation and use of your Plugin in c
 
 (b) **Plugin Requests**. The Services will send a request to your API containing information on behalf of a user of the Services (“Plugin Request”). If you have entered into a separate agreement with a user to process their information contained in a Plugin Request, then the terms of that separate agreement apply. Otherwise, you may only collect, use, store, transmit, and process Plugin Requests (i) in accordance with all applicable laws; and (ii) only as necessary to respond to or follow the instructions of the Plugin Request or to comply with applicable law. We are not responsible for any content or information from users or other Plugins that is sent to your API.
 
-(c) **Plugin Responses**. When your API receives a Plugin Request, it will send information or content back to the Services (“Plugin Response”). You are responsible for ensuring your Plugin Responses and API comply with all applicable laws and our [Usage Policies](https://beta.openai.com/docs/usage-policies). You grant us a worldwide, nonexclusive, royalty-free license to use, store, copy, translate, display, modify, and distribute all or any part of the Plugin Response to enable your Plugin to function within the Services. Upon termination of these Terms or if you remove your Plugin from the Services, we may continue to use Plugin Responses to maintain users’ Service history. You represent and warrant that you have obtained and will maintain all necessary rights (including from your users) to grant us these rights and to operate your Plugin. Except for the license rights granted in these Terms, you retain all rights in your API and Plugin Responses.
+(c) **Plugin Responses**. When your API receives a Plugin Request, it will send information or content back to the Services (“Plugin Response”). You are responsible for ensuring your Plugin Responses and API comply with all applicable laws and our [Usage Policies](https://openai.com/policies/usage-policies/). You grant us a worldwide, nonexclusive, royalty-free license to use, store, copy, translate, display, modify, and distribute all or any part of the Plugin Response to enable your Plugin to function within the Services. Upon termination of these Terms or if you remove your Plugin from the Services, we may continue to use Plugin Responses to maintain users’ Service history. You represent and warrant that you have obtained and will maintain all necessary rights (including from your users) to grant us these rights and to operate your Plugin. Except for the license rights granted in these Terms, you retain all rights in your API and Plugin Responses.
 
 (d) **Plugin Reviews**. While we are not obligated to monitor Plugins or their content, we may at any time: (i) review or test your Plugin to ensure quality and compliance with these Terms; or (ii) remove or refuse to display any content that violates these Terms. We may refuse to include any Plugin in our Services and may remove any Plugin from our Services at any time for any reason. Any information you give to us will be accurate and up-to-date.
 
 (e) **Restrictions**. Your API and Plugin Responses will not: (i) pose a security vulnerability or threat to our users, us, or any third party; (ii) interact with our users in a manner that is deceptive, false, misleading, or harassing; (iii) return or contain illegal, defamatory, pornographic, harmful, infringing, or otherwise objectionable content; (iv) include any malware, viruses, surveillance, or other malicious programs or code; (v) interfere with, damage, or access in any unauthorized manner any software, technology or services of ours or any third party; (vi) use Plugin Requests to develop models that compete with OpenAI; or (vii) send us any personal information of children under 13 or the applicable age of digital consent.
 
-(f) **Feedback**. If you provide feedback or suggestions on our AI Plugin Protocol, Plugins or Services, we may freely use that feedback without any obligation to you.  
+(f) **Feedback**. If you provide feedback or suggestions on our AI Plugin Protocol, Plugins or Services, we may freely use that feedback without any obligation to you.
 
 3\. Security; Privacy
 ---------------------
@@ -32,21 +32,21 @@ These Plugin Terms (“Terms”) govern the creation and use of your Plugin in c
 
 (b) **OpenAI Security Measures**. We will maintain reasonable and appropriate organizational, administrative, physical, and technical security measures designed to keep the Services secure, including protecting any developer credentials such as access tokens or client secrets that you give us. You may set and enforce limitations on our use of your API, such as rate limiting. We will not intentionally attempt to circumvent those limitations.
 
-(c) **Privacy**. To the extent your Plugin processes personal data or users are required to authenticate to your website or application, you will only process personal data (i) in accordance with applicable privacy laws, (ii) as authorized by the user and (iii) in accordance with a legally adequate privacy notice that is presented to the user prior to processing their data.  
+(c) **Privacy**. To the extent your Plugin processes personal data or users are required to authenticate to your website or application, you will only process personal data (i) in accordance with applicable privacy laws, (ii) as authorized by the user and (iii) in accordance with a legally adequate privacy notice that is presented to the user prior to processing their data.
 
 4\. Trademarks
 --------------
 
 (a) **OpenAI Trademarks**. Subject to our branding guidelines, we grant you a non-exclusive, non-transferable, non-sublicensable (except as provided in Section 7(d)) license to use our name, logo, and other trademarks (“OpenAI Trademarks”) solely to promote your Plugin. You may not imply that we created, support, or endorse your Plugin without our prior written consent. All goodwill derived from your use of OpenAI Trademarks will inure to our sole benefit. You may not otherwise use OpenAI Trademarks without prior written consent.
 
-(b) **Plugin Trademarks**. Subject to any branding guidelines you provide us, you grant us a non-exclusive, non-transferable, non-sublicensable (except as provided in Section 7(d)) license to use your name, logo, and other trademarks (“Plugin Trademarks”) solely to display your Plugin within our Services and to promote our Plugin feature. We may not imply that you support or endorse our Services without your prior written consent. All goodwill derived from our use of Plugin Trademarks will inure to your sole benefit. We will not otherwise use Plugin Trademarks without prior written consent.  
+(b) **Plugin Trademarks**. Subject to any branding guidelines you provide us, you grant us a non-exclusive, non-transferable, non-sublicensable (except as provided in Section 7(d)) license to use your name, logo, and other trademarks (“Plugin Trademarks”) solely to display your Plugin within our Services and to promote our Plugin feature. We may not imply that you support or endorse our Services without your prior written consent. All goodwill derived from our use of Plugin Trademarks will inure to your sole benefit. We will not otherwise use Plugin Trademarks without prior written consent.
 
 5\. Termination
 ---------------
 
 (a) **Termination**. These Terms take effect when you first create your Plugin and remain in effect until terminated. You or we can terminate these Terms by removing your Plugin from the Services for any reason by providing at least 30 days’ advance notice to the other party, except you can terminate the Terms immediately with notice to us if you determine that our use of your Plugin exposes you, your users, or others to risk of liability or harm. We may suspend or terminate these Terms immediately if you materially breach these terms, we determine that your Plugin exposes us or anyone else to risk of liability or harm, or to comply with law or government requests.
 
-(b) **Survival**. The sections of these Terms which by their nature should survive termination or expiration should survive, including but not limited to 2(b), 2(c) and 2(f) and 5-7.  
+(b) **Survival**. The sections of these Terms which by their nature should survive termination or expiration should survive, including but not limited to 2(b), 2(c) and 2(f) and 5-7.
 
 6\. Indemnification; Disclaimer; Limitation of Liability
 --------------------------------------------------------
@@ -55,7 +55,7 @@ These Plugin Terms (“Terms”) govern the creation and use of your Plugin in c
 
 (b) **Disclaimer**. OUR PLUGIN FEATURE AND SERVICES ARE PROVIDED “AS IS.” EXCEPT TO THE EXTENT PROHIBITED BY LAW, WE AND OUR AFFILIATES AND LICENSORS MAKE NO WARRANTIES (EXPRESS, IMPLIED, STATUTORY OR OTHERWISE) WITH RESPECT TO THE PLUGIN FEATURE AND SERVICES, AND DISCLAIM ALL WARRANTIES INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, SATISFACTORY QUALITY, NON-INFRINGEMENT, AND QUIET ENJOYMENT, AND ANY WARRANTIES ARISING OUT OF ANY COURSE OF DEALING OR TRADE USAGE. WE DO NOT WARRANT THAT THE PLUGIN FEATURE AND SERVICES WILL BE UNINTERRUPTED, ACCURATE OR ERROR FREE, OR THAT ANY CONTENT OR INFORMATION WILL BE SECURE OR NOT LOST OR ALTERED.
 
-(c) **Limitations of Liability**. NEITHER WE NOR ANY OF OUR AFFILIATES OR LICENSORS WILL BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, INCLUDING DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, OR DATA OR OTHER LOSSES, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. OUR AGGREGATE LIABILITY UNDER THESE TERMS SHALL NOT EXCEED ​​THE GREATER OF ONE HUNDRED DOLLARS ($100). THE LIMITATIONS IN THIS SECTION APPLY ONLY TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.  
+(c) **Limitations of Liability**. NEITHER WE NOR ANY OF OUR AFFILIATES OR LICENSORS WILL BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, INCLUDING DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, OR DATA OR OTHER LOSSES, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. OUR AGGREGATE LIABILITY UNDER THESE TERMS SHALL NOT EXCEED ​​THE GREATER OF ONE HUNDRED DOLLARS ($100). THE LIMITATIONS IN THIS SECTION APPLY ONLY TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
 
 7\. General Terms
 -----------------
