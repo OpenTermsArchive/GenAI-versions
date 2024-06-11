@@ -1,6 +1,6 @@
 Copilot AI Experiences Terms
 
-Last Updated: January 15, 2024 ([past versions](https://www.bing.com/new/termsofuse/archives?features=bingnewpage))
+Last Updated: 2024-06-06 ([past versions](https://www.bing.com/new/termsofuse/archives?features=bingnewpage))
 
 **If you are a Copilot with commercial data protections user, please visit this page to review the terms of use that apply to you: [https://aka.ms/BCETermsOfUse](https://aka.ms/BCETermsOfUse)**
 
@@ -19,6 +19,8 @@ These supplemental Terms of Use ("Terms") apply to the Copilot conversational ex
     Due to the nature of the Online Services, Creations may not be unique across users and the Online Services may generate the same or similar output for Microsoft or other users. Other users may also ask similar questions and receive the same, similar or different responses.  
       
     These Online Services, including machine to human conversational interactions, may include advertising.  
+      
+    The Online Services may include both automated and manual (human) processing of data. You should not enter or upload any data you would not want reviewed.  
       
     You may cease use of the Online Services at any time. If you do not wish to use the Online Services, you may choose not to visit or engage with the Conversational Experiences. If you wish to terminate your Microsoft Account, please see the Microsoft Services Agreement.
     
