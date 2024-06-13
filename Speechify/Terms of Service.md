@@ -1,7 +1,7 @@
 Terms & Conditions
 ==================
 
-Updated June 10, 2024
+Updated June 12, 2024
 
 1. **GENERAL INFORMATION**
 
@@ -317,7 +317,7 @@ In these Terms, unless the context requires otherwise: i) any phrase introduced 
 
 **13.8 NOTICES**
 
-Unless otherwise specifically indicated, all notices given by you to us must be given to Speechify at [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection). We may give notice to you at the e-mail address you provide to us when you register, or in any of the ways specified in section 13.7 above. Notice will be deemed received and properly served immediately when posted on the Services or when an e-mail or other electronic communication is sent. In proving the service of any notice via email, it will be sufficient to prove that such e-mail was sent to the specified e-mail address of the addressee.
+Unless otherwise specifically indicated, all notices given by you to us must be mailed to Speechify at 382 NE 191st St PMB 69469, Miami, FL, 33179-3899. We may give notice to you at the e-mail address you provide to us when you register, or in any of the ways specified in section 13.7 above. Notice will be deemed received and properly served immediately when posted on the Services or when an e-mail or other electronic communication is sent. In proving the service of any notice via email, it will be sufficient to prove that such e-mail was sent to the specified e-mail address of the addressee.
 
 **13.9 ENTIRE AGREEMENT**
 
@@ -460,6 +460,6 @@ If any part of these Terms is found to be invalid or unenforceable, that part wi
 
 ‍
 
-These Terms are effective and were last updated on June 10, 2024.
+These Terms are effective and were last updated on June 12, 2024.
 
 Speechify, Inc. is located at 382 NE 191st St PMB 69469, Miami, FL, 33179-3899.
