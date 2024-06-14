@@ -99,6 +99,8 @@ Any access, use or Subscription to the API Services implies Your unreserved agre
 * To provide the Services (e.g. to generate outputs based on Your Prompts), and
 * To monitor abuse (meaning, to monitor any breach by You of the Agreement). To this end, we retain Your Prompts and Outputs for a period of thirty (30) days. We do not use Your User Data to train or improve our Models.
 
+**Zero data retention**. Customers with legitimate reasons may request zero data retention from Mistral AI. With this option, Your Prompts and Outputs are only processed for the duration necessary to generate the Output and are not retained for any longer period. For clarity, when this option is activated, Your User Data is not stored for abuse monitoring purposes. To request zero data retention, You must submit Your request via the Help section of Your Account and provide legitimate reasons for Your request. Mistral AI will review Your request and, at its sole discretion, may approve or deny Your request. If approved, Mistral AI will implement the zero data retention option for Your Account and notify You when the process is complete. If denied, Mistral AI will notify You.
+
 #### 4.2.2. Codestral
 
 **How we use Your User Data: On Codestral we use Your User Data:**
