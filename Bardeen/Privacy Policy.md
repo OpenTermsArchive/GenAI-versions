@@ -101,12 +101,14 @@ Our uses of these Technologies fall into the following general categories:
 * **Google Analytics**. For more information about how Google uses your personal information (including for its own purposes, for example, for profiling or linking it to other data), please visit [Google Analytics’ Privacy Policy](http://www.google.com/policies/privacy/partners/). To learn more about how to opt-out of Google Analytics’ use of your information, please click [here](http://tools.google.com/dlpage/gaoptout).
     
 
-1. **C. Personal Information Collected from Other Sources**
+1. **C. Personal Information Collected from Other Sources, including 3rd party integrations**
     
 
 * **Third-Party Services and Sources**. We may obtain personal information about you from other sources, including through third-party services and organizations.  For example, if you access our Services through a third-party application (such as the Chrome Web Store or other website or application marketplaces), we may collect personal information about you from that third-party application that you have made available via your privacy settings.
     
 * **Referrals and Sharing Features**. Our Services may offer various tools and functionalities that allow you to provide personal information about your friends through our referral service. Our referral services may also allow you to forward or share certain content with a friend or colleague, such as an email inviting your friend to use our Services. Please only share with us contact information of people with whom you have a relationship (e.g., relative, friend, neighbor, or co-worker).
+    
+* **Retention and usage of 3rd Party data.** Any personal information obtained via any 3rd Party API integration, including, but not limited to Google Drive, Google Mail and others, will only be used for providing and improving automation features of the product. This data will not be used for training of any generalized AI models, internal or external. We do not retain any data obtained through 3rd party APIs.
     
 
 ### 3\. How we use your personal information
