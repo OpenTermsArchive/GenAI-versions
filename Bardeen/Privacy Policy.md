@@ -219,6 +219,16 @@ We may access, preserve, and disclose any information we store associated with y
 
 If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, purchase or sale of assets, or transition of service to another provider, your information may be sold or transferred as part of such a transaction, as permitted by law and/or contract.
 
+1. **D. How we protect your personal information**
+    
+
+Bardeen ensures secure collection, transfer, processing and storage of all collected data. We adhere to industry standard security practices and are compliant with the SOC 2 Type 2, GDPR and CASA Tier 2 / Tier 3 standards.  
+As of April 1, 2024, we are proud to announce our compliance with the AICPA SOC 2 Type 2 standards, ensuring that our systems and processes meet rigorous criteria for security.  
+  
+Additionally, we adhere to the EU’s GDPR compliance checklist for US companies, affirming our commitment to data protection and privacy for our international users.  
+  
+Furthermore, Bardeen meets the stringent requirements of Tier 2 and Tier 3 of the Cloud Application Security Assessment (CASA) as defined by the App Defense Alliance, built upon the industry-recognized OWASP Application Security Verification Standard (ASVS).
+
 ### 5\. Your privacy choices and rights
 
 **Your Privacy Choices**. The privacy choices you may have about your personal information are determined by applicable law and are described below.
