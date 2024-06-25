@@ -136,6 +136,6 @@ Adam Brogden 
 
 ### **12\. Changes To Our Privacy Policy**
 
-We may modify or update this Privacy Policy from time to time to reflect the changes in our business and practices, and so you should review this page periodically. We keep our Privacy Policy under review to ensure it is up to date and accurate. When we make a material change to this policy we will notify you as required by law and update the ‘last modified’ date at the bottom of this page. This privacy policy was last modified August 5, 2022.
+We may modify or update this Privacy Policy from time to time to reflect the changes in our business and practices, and so you should review this page periodically. We keep our Privacy Policy under review to ensure it is up to date and accurate. When we make a material change to this policy we will notify you as required by law and update the ‘last modified’ date at the bottom of this page. This privacy policy was last modified June 14, 2024.
 
 #### ‍
