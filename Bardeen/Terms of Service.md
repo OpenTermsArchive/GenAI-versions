@@ -1,7 +1,7 @@
 Terms of Service
 ================
 
-_Last Update: Feb 14, 2024_
+_Last Update: Jun 27, 2024_
 
 Please read these Terms of Service (the “**Terms**”) and our Privacy Policy ([https://www.bardeen.ai/privacy-policy](https://www.bardeen.ai/privacy-policy)) (“**Privacy Policy**”) carefully because they govern your use of the website located at [https://www.bardeen.ai/](https://www.bardeen.ai/) (the “**Site**”), Bardeen’s browser extension (“**Extension**”), and Bardeen’s automation and productivity tools, applications, and all other products and services offered by Bardeen (“**Bardeen**”). To make these Terms easier to read, the Site, Extension, and our tools, applications and services are collectively called the “**Services**.”
 
@@ -33,6 +33,9 @@ Bardeen requires payment of a fee for use of the Services (or certain portions t
     
 3. **Cancelling One-Time Payment or Subscription.**  
     If something unexpected happens in the course of completing a Transaction, we reserve the right to cancel your Transaction for any reason; if we cancel your Transaction we’ll refund any payment you have already remitted to us for such Transaction. Without limiting the foregoing, you may cancel your Subscription at any time, but please note that such cancellation will be effective at the end of the then-current Subscription period. YOU WILL NOT RECEIVE A REFUND OF ANY PORTION OF THE SUBSCRIPTION FEE PAID FOR THE THEN CURRENT SUBSCRIPTION PERIOD AT THE TIME OF CANCELLATION. You may cancel your Subscription via the functionality of the Services. You will be responsible for all Subscription Fees (plus any applicable taxes and other charges) incurred for the then-current Subscription period. If you cancel, your right to use the Services will continue until the end of your then current Subscription period and will then terminate without further charges.
+    
+4. **Free Plan Usage (Non-Commercial Uses Only).**  
+    The free plan offered by Bardeen (“Free Plan”) is intended solely for non-commercial and non-business purposes and is exclusively for personal or not-for-profit use. By subscribing to the Free Plan, you hereby represent and warrant that your use of the Services under this plan will not be for any commercial or business purposes. In the event that Bardeen, in its sole discretion, determines that you have used the Free Plan for any commercial or business purposes, Bardeen reserves the right to immediately terminate your Subscription without notice. Furthermore, Bardeen shall have the right to charge you, retroactively, at the highest current business price for the periods during which the Free Plan was utilized for non-personal business purposes. By using the Free Plan, you agree to these terms and acknowledge that such charges, if imposed, are non-refundable and non-transferable.
     
 
 **7\. Content.**
