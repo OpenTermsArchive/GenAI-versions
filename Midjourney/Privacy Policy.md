@@ -36,7 +36,7 @@ While interacting with the Services, You may provide certain personally identifi
 * Organizational Information like your company title
 * Your Email
 * Cookies
-* Other data that you elect to send to Midjourney
+* Other data that you elect to send to Midjourney, such as your survey responses or information you include in communications to us
 
 **2.2 Use of Your Personal Data**  
 Midjourneymay use Personal Data for the following purposes:
@@ -115,7 +115,7 @@ Additionally You have the following data protection rights:
 * If we have collected and processed your Personal Data with your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your Personal Data conducted in reliance on lawful processing grounds other than consent.
 * You have the right to complain to a data protection authority about our collection and use of your Personal Data.
 
-In order to exercise Your rights please contact privacy@midjourney.com.
+In order to exercise Your rights please visit [www.midjourney.com/account](http://www.midjourney.com/account) and follow the instructions listed at the bottom of the page to delete your account and data. Survey data that you may have submitted can also be accessed and deleted at this link. To access or review your account information, please follow the instructions listed at [https://docs.midjourney.com/docs/info](https://docs.midjourney.com/docs/info)
 
 **California**  
 This Statement applies solely to residents of California or individuals whose information has been collected in California. Midjourney has adopted and included this notice to comply with the California Consumer Privacy Act of 2018 (“CCPA”). Any terms used in this Statement that are defined in the CCPA have the same meaning given therein.
@@ -126,7 +126,7 @@ This Statement applies solely to residents of California or individuals whose in
 | --- | --- | --- | --- |
 | 1   | **Identifiers.** Name, alias, postal address, unique personal identifier, online identifier, Internet Protocol (IP) address, email address, account name, social security number, driver’s license number, passport number, or other similar identifiers | YES | YES |
 | 2   | **Personal information categories under the California Customer Records statute (Cal. Civ. Code § 1798.80(e)).** A name, signature, Social Security number, physical characteristics or description, address, telephone number, passport number, driver’s license or state identification card number, insurance policy number, education, employment, employment history, bank account number, credit card number, debit card number, or any other financial information, medical information, or health insurance information. Some personal information included in this category may overlap with other categories. | YES | YES |
-| 3   | **Protected classification characteristics under California or federal law.** Age (40 years or older), race, color, ancestry, national origin, citizenship, religion or creed, marital status, medical condition, physical or mental disability, sex (including gender, gender identity, gender expression, pregnancy or childbirth and related medical conditions), sexual orientation, veteran or military status, genetic information (including familial genetic information). | NO  | NO  |
+| 3   | **Protected classification characteristics under California or federal law.** Age (40 years or older), race, color, ancestry, national origin, citizenship, religion or creed, marital status, medical condition, physical or mental disability, sex (including gender, gender identity, gender expression, pregnancy or childbirth and related medical conditions), sexual orientation, veteran or military status, genetic information (including familial genetic information). | YES (only the information you share upon consent as part of an applicable survey) | YES |
 | 4   | **Commercial information.** Records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies. | YES | YES |
 | 5   | **Biometric information.** Genetic, physiological, behavioral, and biological characteristics, or activity patterns used to extract a template or other identifier or identifying information, such as, fingerprints, faceprints, and voiceprints, iris or retina scans, keystroke, gait, or other physical patterns, and sleep, health, or exercise data. | NO  | NO  |
 | 6   | **Internet or other similar network activity.** Browsing history, search history, information on a consumer’s interaction with a website, application, or advertisement. | NO  | NO  |
@@ -152,15 +152,11 @@ You have the right to request that Midjourney delete any of your Personal Inform
 You have the right to opt-out of any sales, as defined by the CCPA, of Personal Information by Midjourney. However, Midjourney does not sell your information.
 
 **EXERCISING YOUR RIGHTS**  
-To exercise your access, data portability, and deletion or do not sell opt-out rights described above, you may submit a verifiable consumer request by any of the following means: By email to privacy@midjourney.com.
+To exercise your access, data portability, and deletion or do not sell opt-out rights described above, please visit [www.midjourney.com/account](http://www.midjourney.com/account) and follow the instructions listed at the bottom of the page to delete your account and data (including any survey responses), or [https://docs.midjourney.com/docs/info](https://docs.midjourney.com/docs/info) and follow the instructions listed to access or review your account information.
 
 You may only make a verifiable consumer request for access or data portability up to two times within a 12-month period. You may make a verifiable do not sell opt-out request at any time. Any such request must: (i) provide sufficient information that allows Us to reasonably verify that you are the person about whom we collected personal information or an authorized representative thereof; and (ii) describe your request with sufficient detail such that we may understand, evaluate, and respond to it. Midjourney cannot respond to your request or provide you with personal information if we cannot verify your identity or authority to make the request and confirm the personal information relates to you. Making a verifiable consumer request does not require you to create an account with Midjourney. Midjourney will only use personal information provided in a verifiable consumer request to verify the requestor’s identity or authority to make the request. Only you or a person registered with the California Secretary of State that you authorize to act on your behalf may make a verifiable consumer request related to your Personal Information. You may also make a verifiable consumer request on behalf of your minor child.
 
 **Response Timing and Format**  
 We endeavor to respond to a verifiable consumer request within 45 days of its receipt. If we require more time (up to 90 days), we will inform you in writing of the extension period and the reason for it. Midjourney will deliver any required or requested responses or other communications in writing to you by email. Any disclosures we provide will only cover the 12-month period preceding the verifiable consumer request’s receipt. If applicable, the response we provide will also explain any reasons we cannot comply with a request. For data portability requests, Midjourney will provide your personal information in a format that is readily usable and transferable. Midjourney does not charge a fee to process or respond to your verifiable consumer request unless such requests become excessive, repetitive, or manifestly unfounded or as otherwise permitted by the CCPA. If we determine that a request warrants charging a fee, we will notify you and provide you with a cost estimate before completing your request.
-
-### 7\. Contact Us
-
-If you have any questions about this Policy, or would otherwise like to exercise your rights under this Policy or applicable law, you can contact us at privacy@midjourney.com
 
 * * *
