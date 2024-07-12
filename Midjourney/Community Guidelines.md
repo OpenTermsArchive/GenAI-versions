@@ -68,7 +68,7 @@ Rules
 Self-Policing and Reporting
 ---------------------------
 
-Occasionally prompts will unintentionally produce non-PG-13 content. Please self-police these images by using the ❌ emoji reaction or by **right-clicking** selecting **Apps** and then clicking `Cancel Job` to delete the image.
+Occasionally prompts will unintentionally produce not safe for work content. Please self-police these images by using the ❌ emoji reaction or by **right-clicking** selecting **Apps** and then clicking `Cancel Job` to delete the image.
 
 Users may flag any image for moderator review by **right-clicking** selecting **Apps**, and then clicking `Report Job` within Discord or the website by selecting `...` under an image and clicking `Report`.
 
