@@ -5,7 +5,7 @@ Europe privacy policy
 
 **Effective:**  February 15, 2024 ([previous version](https://openai.com/policies/jun-2023-privacy-policy/))
 
-This Privacy Policy applies if you reside in the European Economic Area (EEA), Switzerland, or UK. If you live outside of the EEA, Switzerland, or UK, [this version of our Privacy Policy](https://openai.com/policies/privacy-policy/) applies to you.
+This Privacy Policy applies if you reside in the European Economic Area (EEA), Switzerland, or UK. If you live outside of the EEA, Switzerland, or UK, [this version of our Privacy Policy](https://openai.com/policies/row-privacy-policy/) applies to you.
 
 We at OpenAI respect your privacy and are strongly committed to keeping secure any information we obtain from you or about you. This Privacy Policy describes our practices with respect to Personal Data we collect from or about you when you use our website, applications, and services (collectively, “Services”). 
 
