@@ -5,7 +5,7 @@ Europe Terms of Use
 
 **Effective: February 15, 2024** ([previous versions](https://openai.com/policies/mar-2023-terms/))
 
-_**These Terms of Use apply if you reside in the European Economic Area (EEA), Switzerland, or UK. If you live outside of the EEA, Switzerland, or UK,**_ [_**these Terms of Use**_](https://openai.com/policies/eu-terms-of-use/) _**apply to you.**_
+_**These Terms of Use apply if you reside in the European Economic Area (EEA), Switzerland, or UK. If you live outside of the EEA, Switzerland, or UK,**_ [_**these Terms of Use**_](https://openai.com/policies/row-terms-of-use/) _**apply to you.**_
 
 Thank you for using OpenAI!
 
