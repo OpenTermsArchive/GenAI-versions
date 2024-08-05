@@ -382,7 +382,7 @@ Questions about the Terms of Service? Contact us through the [GitHub Support por
 GitHub Terms for Additional Products and Features
 =================================================
 
-Version Effective Date: March 21, 2024
+Version Effective Date: August 1, 2024
 
 When you use GitHub, you may be given access to lots of additional products and features ("Additional Products and Features"). Because many of the Additional Products and Features offer different functionality, your Agreement with us (the "Agreement") includes the specific terms for that product or feature combined with your main agreement — the GitHub Terms of Service or GitHub Customer Agreement, or the GitHub Corporate Terms of Service or other legacy GitHub contract, or a Microsoft volume licensing agreement. Below, we've listed those products and features, along with the corresponding additional terms that apply to your use of them.
 
