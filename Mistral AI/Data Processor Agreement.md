@@ -1,10 +1,18 @@
 Data Processing Agreement
 =========================
 
-This data processing agreement (the “**Data Processing Agreement**” or the “**DPA**”) is established under Article 28 of the GDPR and forms part of this Agreement (as defined below) between Mistral AI and the Customer. By accepting the applicable Service Agreement, the Customer also aagrees to be bound by this DPA. If the Customer subscribed to the Services via a marketplace (the “**Marketplace**”) operated by a third-party (the “**Agent**”), the Services will be provided to the Customer on the Marketplace and Mistral AI will not process the Customer’s Personal Data relating to Prompts and Outputs, except for technical support purposes. Consequently, the Customer agrees that:
+**Preamble.** This data processing agreement (the “**Data Processing Agreement**” or the “**DPA**”) is established under Article 28 of the GDPR and forms part of this Agreement (as defined below) between Mistral AI and the Customer. By accepting the applicable Service Agreement, the Customer also agrees to be bound by this DPA.
 
-* The Agent will process the Customer’s Personal Data relating to Prompts and Outputs as Data Processor for the purpose of making the Services available to the Customer on the Marketplace;
-* Mistral AI will process the Customer’s Personal Data relating to Prompts and Outputs as Data Processor for the sole purpose of providing technical support to the Customer, at the Customer’s request.
+When Customer uses the Services available on the Platform:
+
+* The Customer is the Data Controller;
+* Mistral AI processes the Personal Data provided by the Customer as Data Processor. Such processing activities are described in Exhibit 1 of this DPA.
+
+When Customer subscribes to Our Services through a Cloud Provider:
+
+* The Customer is the Data Controller;
+* The Cloud Provider processes the Personal Data provided by the Customer as Data Processor for the purpose of making the Models available to the Customer on the Cloud Provider’s Infrastructure.
+* Mistral AI will only process Personal Data provided by the Customer as Data Processor for the purpose of providing technical support to the Customer, at the Customer’s request, and only if the Customer grants Mistral AI access to such Personal Data. Such Processing activities are described in Exhibit 1 of this DPA.
 
 1\. Definitions
 ---------------
@@ -198,13 +206,16 @@ Mistral AI may update the description of the Processing from time to time to ref
 
 * **Mistral AI privacy contact:** [privacy@mistral.ai](mailto:privacy@mistral.ai)
     
-* **Categories of Data Subjects:** the Customer, the Authorized Users and any other natural person whose Personal Data is used by the Customer or the Authorized User as a Prompt.
+* **Categories of Data Subjects:** the Customer, the Authorized Users and any other natural person whose Personal Data is used by the Customer or the Authorized User as a User Data.
     
-* **Categories of Personal Data:** the Customer’s and the Authorized User’s account data, the Customer’s Mistral AI ID (unique User ID attributed by Mistral AI), the API Key (where applicable), the Prompts (date and hour of the Prompt, content of the Prompt, etc.), the Outputs (date and hour of the Output, content of the Output, etc.), any Personal Data that is used by the Customer (i) to generate an Output, (ii) as part of User Input Data and/or (iii) that may be accessed by Mistral Ai as part of the Services.
+* **Categories of Personal Data:**
     
+    * The Customer’s and Authorized User’s account data, the Customer’s Mistral Ai ID (unique user ID attributed by Mistral AI,
+    * The API Key (where applicable),
+    * Any Personal Data that is used by Customer (i) to generate an Output, (ii) as part of User Input Data, and/or (iii) that may be accessed by Mistral AI as part of the Services (including the technical support services). This also includes the metadata associated with such personal data (for instance, the date and hour of the Customer’s Prompt, etc).
 * **Special categories of Personal Data:** None. Customer shall not process sensitive data under this DPA. In case Customer wishes to process sensitive data, please contact [privacy@mistral.ai](mailto:privacy@mistral.ai)
     
-* **Authorized Purposes:** Subject to the Customer’s Subscription, (i) the provision of the API Services (Technical Support, Generation of Outputs, Authorized User’s Account management), and (ii) the provision of the Chat Services (Technical Support, Generation of Outputs, display of the Prompts and Outputs history, Authorized User’s Account management).
+* **Authorized Purposes:** Subject to the Customer’s Subscription, (i) the provision of the API Services (Technical Support, Generation of Outputs, Fine-Tuning a Model, Building an Agent, Authorized User’s Account management), and (ii) the provision of the Chat Services (Technical Support, Generation of Outputs, display of the Prompts and Outputs history, use of an Agent on Le Chat, Authorized User’s Account management).
     
 * **Duration of the Processing:** the term of this DPA
     
@@ -212,7 +223,7 @@ Mistral AI may update the description of the Processing from time to time to ref
     
     * If the Customer has subscribed to the API Services, (i) the Prompts and the Outputs are only processed by Mistral AI for the duration of the generation of the Outputs, and (ii) User Input Data is retained until deletion of User Input Data and/or Customer’s Account by Customer.
         
-    * If the Customer subscribed to the Chat Services: the Prompts and the Outputs are stored for the term of this DPA or until the Customer deletes such Prompts and Outputs from its history. The Prompts and Outputs are not stored if the Customer activates the Incognito Mode.
+    * If the Customer subscribed to the Chat Services: the Prompts and the Outputs are stored for the term of this DPA or until the Customer deletes such Prompts and Outputs from its history.
         
     * Mistral AI may process the Prompts and the Outputs as a Data Controller. The applicable retention periods are mentioned on the Privacy Policy.
         
@@ -257,8 +268,7 @@ have agreed to these standard contractual clauses (hereinafter: ‘Clauses’).
 
 **Third-party beneficiaries**
 
-* (a) Data subjects may invoke and enforce these Clauses, as third-party beneficiaries, against the data exporter and/or data importer,  
-    with the following exceptions:
+* (a) Data subjects may invoke and enforce these Clauses, as third-party beneficiaries, against the data exporter and/or data importer, with the following exceptions:
     * (i) Clause 1, Clause 2, Clause 3, Clause 6, Clause 7;
     * (ii) Clause 8 – Module One: Clause 8.5 (e) and Clause 8.9(b); Module Two: Clause 8.1(b), 8.9(a), (c), (d) and (e); Module Three: Clause 8.1(a), (c) and (d) and Clause 8.9(a), (c), (d), (e), (f) and (g); Module Four: Clause 8.1 (b) and Clause 8.3(b);
     * (iii) Clause 9 – Module Two: Clause 9(a), (c), (d) and (e); Module Three: Clause 9(a), (c), (d) and (e);
@@ -436,19 +446,13 @@ SECTION IV – FINAL PROVISIONS
 * (b) In the event that the data importer is in breach of these Clauses or unable to comply with these Clauses, the data exporter shall suspend the transfer of personal data to the data importer until compliance is again ensured or the contract is terminated. This is without prejudice to Clause 14(f).
     
 
-The data exporter shall be entitled to terminate the contract,  
-insofar as it concerns the processing of personal data under these Clauses, where:
+The data exporter shall be entitled to terminate the contract, insofar as it concerns the processing of personal data under these Clauses, where:
 
-* (i) the data exporter has suspended the transfer of personal data to the data importer pursuant to paragraph (b) and compliance with these Clauses is not restored within a  
-    reasonable time and in any event within one month of  
-    suspension;
+* (i) the data exporter has suspended the transfer of personal data to the data importer pursuant to paragraph (b) and compliance with these Clauses is not restored within a reasonable time and in any event within one month of suspension;
 * (ii) the data importer is in substantial or persistent breach of | these Clauses; or
 * (iii) the data importer fails to comply with a binding decision of a competent court or supervisory authority regarding its obligations under these Clauses.
 
-In these cases, it shall inform the competent supervisory  
-authority of such non-compliance. Where the contract involves more than two Parties, the data exporter may exercise this right to  
-termination only with respect to the relevant Party, unless the  
-Parties have agreed otherwise.
+In these cases, it shall inform the competent supervisory authority of such non-compliance. Where the contract involves more than two Parties, the data exporter may exercise this right to termination only with respect to the relevant Party, unless the Parties have agreed otherwise.
 
 * (d) The data importer shall certify the deletion of the data to the data exporter. Until the data is deleted or returned, the data importer shall continue to ensure compliance with these Clauses. In case of local laws applicable to the data importer that prohibit the return or deletion of the transferred personal data, the data importer warrants that it will continue to ensure compliance with these Clauses and will only process the data to the extent and for as long as required under that local law.
 * (e) Either Party may revoke its agreement to be bound by these Clauses where (i) the European Commission adopts a decision pursuant to Article 45(3) of Regulation (EU) 2016/679 that covers the transfer of personal data to which these Clauses apply; or (ii) Regulation (EU) 2016/679 becomes part of the legal framework of the country to which the personal data is transferred. This is without prejudice to other obligations applying to the processing in question under Regulation (EU) 2016/679.
