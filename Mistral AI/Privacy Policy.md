@@ -62,11 +62,6 @@ If You are a business, Mistral AI may also process Personal Data on Your behalf,
 
 In such a case, the Processing activities We carry-out are described in the [Data Processing Agreement](https://mistral.ai/terms/#data-processing-agreement) entered into between You and Us.
 
-Please note that if You subscribe to Our Services via a marketplace (the “**Marketplace**”) operated by a third-party (the “**Agent**”), the Services will be provided to You on the Marketplace and We will not process Your Prompts and Outputs, except for technical support purposes. Consequently, You agree that:
-
-* The Agent will process Your Prompts and Outputs as Data Processor for the purpose of making the Services available on the Marketplace;
-* We will process Your Prompts and Outputs as Data Processor for the sole purpose of providing technical support to You, at Your request.
-
 This Privacy Policy only covers the Processing activities We carry out as Data Controller.
 
 3\. What kind of Personal Data do We collect ?
@@ -85,7 +80,7 @@ This Privacy Policy only covers the Processing activities We carry out as Data C
     * To display your Prompts and Outputs history on Your Account when You use Our Chat Services, unless You activate Our Incognito Mode.
     * To improve Our Models. We may use your Prompts or Outputs or information (e.g. language or topic field statistics) related to them to improve Our Models only when
         * You Use Our Chat Services and You don’t opt-out of the Mistral AI Training Data, when such option is available for the Paid Chat Services
-        * You use the free version of Codestral and You don’t opt-out of the Mistral AI Training Data. You can opt-out of the Mistral AI Training Data at any time by making a request directly on Our Support Chatbot available on Our Platform. Please note that in that case, Your opt-out will only be effective for future Prompts and Outputs.
+        * You use Codestral and You don’t opt-out of the Mistral AI Training Data, when such option is available for the paid version of Codestral.
 * User Input Data (for Customers acting as Consumers). We only use Your User Input Data to allow You to Fine-Tune Models via Our Fine-Tuning API.
     
 * Feedback. Where applicable, We may collect and use the Feedback You provide to Us to improve our Service.
@@ -223,7 +218,7 @@ You can exercise:
 * Access. You have the right to know if Mistral AI processes Your Personal Data. You also have the right to request a copy of such Personal Data and to obtain further information about the way We process Your Personal Data.
 * Rectification. You have the right to update or correct Your Personal Data.
 * Deletion. You have the right to delete and/or ask us to delete Your Personal Data.
-* Objection. You have the right to object to the processing of Your Personal Data. This right does not apply when we have a legal obligation to process Your Personal Data. If You use Our Paid Chat Services or the free version of Codestral, You can opt-out of Mistral AI Training Data at any time by making a request on Our Support Chatbot available directly on Our Platform. Please note that Your opt-out will only apply to future Prompts and Outputs.
+* Objection. You have the right to object to the processing of Your Personal Data. This right does not apply when we have a legal obligation to process Your Personal Data. If You use Our Paid Services, You can opt-out of Mistral AI Training Data at any time by making a request on Our Support Chatbot available directly on Our Platform. Please note that Your opt-out will only apply to future Prompts and Outputs.
 * Consent withdrawal. You have the right to withdraw Your consent to the processing of Your Personal Data at any time.
 * Limitation. You have the right to ask us to freeze the processing of Your Personal Data.
 * Automated decision. You have the right to not be subject to an automated decision (including profiling) and to appeal such a decision. Mistral AI does not engage in profiling or automated decision-making in the Processing of Personal Data.
