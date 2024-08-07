@@ -17,6 +17,10 @@ These API Terms of Service are effective as of the Effective Date and shall cont
 
 **Definitions provided in this document.** The capitalized words in this document shall have the meaning set forth below:
 
+* “**Agent**”: means a conversational AI model customized by You through the Agent Builder functionality of the Platform.
+    
+* “**Agent Builder**”: means the feature on the Platform that allows Customer to create and share an Agent within Customer’s Workspace.
+    
 * “**API**”: means Mistral AI’s application programming interface that allows the Customer to use the Model(s). This definition includes (a) the standard API that allows You to access and use Our text-generating Models that is available at `api.mistral.ai` (the “**Standard API**”), (b) the API that allows You to access and use Our code-generating Models that is available at `codestral.mistral.ai` (“**Codestral**”), and (c) the API that allows You to Fine-Tune Models (the “Fine-Tuning API”).
     
 * “**API Key**”: means the unique authentication code provided by Mistral AI to the Customer allowing the Customer to access and use the API.
@@ -113,7 +117,22 @@ Any access, use or Subscription to the API Services implies Your unreserved agre
 
 **How we use Your User Data: On the Fine-Tuning API:** We use Your User Data to provide the Services (e.g. we use Your User Input Data to Fine-Tune the Model and, subject to your express agreement, to provide You with limited assistance in accordance with Section 4.1.2. Of these API Terms of Service). We do not use Your User Data, including Your User Input Data, to train or improve Our Models.
 
-### 4.3. Service level objectives
+### 4.3. The Agent Builder
+
+**Agent creation.** You may create an Agent either through Our Fine-tuning API or through the Agent Builder feature on the Platform, by following the instructions given on the Platform.
+
+**Agent sharing.** Subject to Your Subscription Plan, You may make Your Agent available to other Authorized Users of Your Workspace through Our API or on Le Chat. Any use of Your Agent via Le Chat will be governed by the Chat Terms of Service. By default, all Agents created by You will be shared within Your Workspace. You are solely responsible for setting permissions if You wish to restrict access to the Agent to specific Authorized Users. Authorized Users will be able to interact with Your Agent by tagging such Agent in their Prompts (for instance: “@Agent what is the capital of France ?”).
+
+**Agent ownership.** You will have no rights in the Agent after the expiration or termination of this Agreement. We will not use the Agent, except to make it available to You for the purpose of providing You with Our Services. To this end, You grant Us a non-exclusive, worldwide, royalty-free license to use and display the Agent solely for the purpose of making the Agent available to You through Our Services, for the duration of this Agreement. For clarity, We will not use Your Agent for any other purpose and will not make the Agent available to any other Customer or third-party.
+
+**Your responsibility.** You are solely responsible for the creation and the performance of Your Agent. In particular, You are responsible for:
+
+* **Your User Data:** ensuring that You have all the applicable rights or authorizations to use Your Input Data, including but not limited to any data You use to create or customize Your Agent.
+* **Naming Your Agent.** You must ensure that the name of Your Agent does not violate the rights of third-parties and complies with all applicable laws.
+
+**Deletion of the Agent.** You may delete the Agent from the Platform at any time. Following the expiration or termination of this Agreement, We will retain the Agent for a period of thirty (30) days, to allow You to use such Agent again in case You re-subscribe to Our Services. Notwithstanding the foregoing, You may request that We delete the Agent prior to the expiration of the thirty (30) days retention period by submitting a written request via Our Ticketing Platform. We will use commercially reasonable efforts to delete the Agent within ten (10) days of receiving such request.
+
+### 4.4. Service level objectives
 
 **Availability.** Mistral AI will use commercially reasonable efforts to make the API Services available to You 24 hours a day, 7 days a week. However, You acknowledge that, due to various factors, including maintenance, technical issues or unforeseen circumstances, the API Services may experience periods of downtime. In such a case, Mistral AI will make commercially reasonable efforts to restore the API Services promptly. You understand and agree that the occurrence of downtime, regardless of its duration, does not entitle You to a refund of any Fees paid for the API Services. You shall however note that the API Services are subject to changes, in which case Mistral AI will use commercially reasonable efforts to preserve backward compatibility without however guaranteeing the absence of breaking changes.
 
