@@ -10,6 +10,8 @@ This agreement (the “**Agreement**”) is entered into by and between Mistral 
 
 **These Terms of Use apply to any Subscription, use and/or access to the Services by You. By subscribing, accessing or using the Services, You expressly agree to abide by and be bound by this Agreement.**
 
+These Terms of Use do not apply to You if You use Our Services via a cloud provider, on such cloud provider’s infrastructure. In such a case, the Terms of Service for cloud usage shall apply.
+
 Definitions
 -----------
 
@@ -47,7 +49,7 @@ The capitalized words in this document shall have the meaning set forth below:
     
 * “**Mistral AI’s Intellectual Property**”: means the Model(s), the Services, and any trade names, trademarks, logos, patents, trade secrets, know-how, designs, drawings, copyrights, engineering, photographs, samples, software, models, algorithm, image, literature, information, ideas, concepts, or improvements pertaining to the Services and other data of any kind that is protectable through copyrights, patent, trade secrets, trademarks, trade dress, service marks, or and includes any modification or enhancement of the Services.
     
-* “**Model(s)**”: means (i) any version of any artificial intelligence model developed by Mistral AI and made accessible in any manner (API, chat, etc….) on the Platform or via a Marketplace (as defined in Section 4.4. (Subscription via a Marketplace)) and (ii) the associated documentation as may be amended from time to time (the “**Documentation**”).
+* “**Model(s)**”: means (i) any version of any artificial intelligence model developed by Mistral AI and made accessible in any manner (API, chat, etc….) on the Platform and (ii) the associated documentation as may be amended from time to time (the “**Documentation**”).
     
 * **“Parties”:** means You and Mistral AI. In the singular, “**Party**” means one of the Parties.
     
@@ -87,6 +89,8 @@ The capitalized words in this document shall have the meaning set forth below:
     
     * A “**Consumer**’: has the meaning given in Section 15 (Provisions applicable to Consumers) of these Terms of Use.
     * A “**Professional Customer**”: means any Customer Subscribing, accessing to or using the Services as part of its business or professional operations.
+* “**Workspace**” or “**Organization**”: means the Professional Customers’ workspace on the Platform which Authorized Users can access, subject to the permissions set out by the Professional Customer.
+    
 
 2\. Purpose and scope
 ---------------------
@@ -97,7 +101,7 @@ The purpose of this Agreement is to describe the rights and responsibilities of 
 
 ### 2.2. Scope and contractual documents
 
-**Scope**. These Terms of Use apply to any Subscription, access to or use of the Services by You on the Platform or via a Marketplace (as defined in Section 4.4. (Subscription via a Marketplace) of these Terms of Use.
+**Scope**. These Terms of Use apply to any Subscription, access to or use of the Services by You on the Platform.
 
 **Additional Terms**. Some Services may be subject to additional terms specific to that Service as set forth in the applicable Terms of Service. By accessing or using a Service covered by the Terms of Service, You also agree to such Terms of Service.
 
@@ -125,15 +129,31 @@ The purpose of this Agreement is to describe the rights and responsibilities of 
 
 **Account creation.** You must create an Account on the Platform to use the Services. To do so, You must fill in the form provided on the Platform. You must provide loyal, complete, correct and up-to-date information to Mistral AI and promptly update the information on Your Account if any changes occur.
 
-**Authorized Users**. Subject to Your Subscription Plan, You may (a) create an Account for Authorized Users within the limits allowed by Your Subscription Plan. The creation of those Accounts may be charged to the Customer in accordance with the Fees applicable to its Subscription Plan, (b) manage the Authorized Users’ Accounts and (c) give those Authorized Users the relevant permissions to access and use the Services.
+**Type of accounts.** The Platform offers two types of accounts: administrator Accounts (”**Admin Accounts**”) and regular Accounts (”**Regular Accounts**”).
+
+#### 4.2.1. Admin Accounts
+
+**Admin Accounts.** Subject to Your Subscription Plan, Admin Accounts are granted additional privileges and functionalities compared to Regular Accounts. These privileges include, but are not limited to, the following:
+
+* **Invitation of Users:** Admin Account holders may invite Authorized Users to join their Workspace on the Platform by providing their email addresses. Upon receipt of an invitation, the Authorized Individual will be able to create an Account on the Platform.
+* **Automatic adhesion based on domain names:** Admin Account holders may configure the Platform to automatically add Authorized Individuals to their Workspace on the Platform based on the domain name of their email addresses. For example, if an Admin Account holder specifies that all email addresses ending in “@example.com” should be automatically added, any individual with an email address ending in “@example.com” who attempts to create an Account on the Platform will be automatically added to the Admin Account holder’s Workspace on the Platform.
+* **Managing Accounts within Your Workspace:** You can manage Your Organization’s Accounts on the Platform, including deleting such Accounts or changing such Accounts’ permissions, under your sole control and responsibility.
+
+**Admin Accounts responsibility.** Admin Account holders are responsible for ensuring that all individuals added to their Workspace on the Platform, whether through invitation or automatic addition, comply with these Terms of Service and any applicable laws and regulations. Admin Account holders are also responsible for managing the access and permissions of individuals within their organization.
+
+**Deletion of Your Admin Account.** You can ask Us to delete Your Admin Account at [support@mistral.ai](mailto:support@mistral.ai), subject to (i) Section 13 (Term, Suspension and Termination) of these Terms of Use or the applicable Terms of Service and (ii) payment of any outstanding Fees. The deletion of an Admin Account shall result in the concomitant deletion of the associated Workspace and all related Accounts, unless otherwise agreed.
+
+#### 4.2.2. Regular Accounts
+
+**Deactivation by You**. You may deactivate Your Account at any time by sending an email to [support@mistral.ai](mailto:support@mistral.ai) unless You subscribed to Our Paid Subscription Services. In such a case, You may only delete Your Account under the terms and conditions set forth in Section 13 (Term, Suspension and Termination) of these Terms of Use or in the applicable Terms of Service.
+
+#### 4.2.3. Provisions applicable to every Account
 
 **Restrictions.** Your Account is intended for Your use only. Unless otherwise stated, You shall not share Your Account with any third party without Mistral AI’s prior written consent. You represent and warrant that You will not create (a) any fake Accounts, (b) more than one Account or (c) an Account on behalf of another individual or entity without such individual’s or entity’s consent.
 
 **Account security.** You must keep Your Identifiers secure and strictly confidential. Mistral AI does not commit to monitoring which individual is using Your Account. You are thus solely responsible for any action carried out via Your Account, whether that action was carried-out by You or not. For the avoidance of doubt, any operation carried out using Your Account will be considered to have been carried-out by You. Therefore, You shall (a) monitor the use of the Services and Your Account closely and (b) notify Mistral AI at [support@mistral.ai](mailto:support@mistral.ai) in the event of any (suspected or confirmed) unauthorized or fraudulent use of Your Account as soon as You become aware of such events.
 
 **Suspension or deactivation by Mistral AI.** Mistral AI reserves the right to suspend or deactivate Your Account Section 13 (Term, Suspension and Termination) of these Terms of Use, if Mistral AI suspects or determines that such Account may have been used for an unauthorized purpose.
-
-**Deactivation by You.** You may deactivate Your Account at any time by sending an email to[support@mistral.ai](mailto:support@mistral.ai) unless You subscribed to Our Paid Subscription Services. In such a case, You may only delete Your Account under the terms and conditions set forth in Section 13 (Term, Suspension and Termination) of these Terms of Use or in the applicable Terms of Service
 
 ### 4.3. Subscription to the Services
 
@@ -163,17 +183,6 @@ The purpose of this Agreement is to describe the rights and responsibilities of 
 
 **Change Subscription Plan**. A Subscription Plan enables the Customer to access specific features and Models as listed on the Platform. If the Customer wishes to access a Model that is not included in its current Subscription Plan, the Customer must subscribe to the relevant Subscription Plan to gain access.
 
-### 4.4. Subscription to the Services via a Marketplace
-
-**General Principle.** If You subscribe to any of Our Services via a marketplace (the “**Marketplace**”) operated by a third-party (the “**Agent**”) including for self-deployment by You, this Agreement shall be supplemented by the terms entered into by and between You and the Agent or terms displayed on the marketplace subscription page for the Services (the “**Marketplace Terms**”). In such a case, Your access and use of the Model will be facilitated through the IT Infrastructure of the Marketplace. You acknowledge that Mistral AI has no control over the Marketplace’s IT infrastructure and that Mistral AI will not be held liable for any outcomes arising from it, including but not limited to the unavailability of the Model, errors, bugs or any impossibility to access or use the Model.
-
-**Hierarchy.** The Marketplace Terms shall supersede the following sections of this Agreement:
-
-* For these Terms of Use: 4.2. (Your Account), 6 (Fees, billing and payment), 9 (Our Obligations - the paragraphs titled “General Obligations” and “Illicit Content”), 13 (Term, suspension and Termination).The Paragraphs “Customer Support”, “Customer Support Exclusions” and “Technical Support” of Section 5 (Our Services) will only apply if (i) the Customer contacted the Agent’s support team first and (ii) the Agent’s support team determined that the Anomaly is caused by Our Services or the Agent’s support team could not answer the Customer’s questions. Section 14.2. (Mistral AI as Data Processor) only applies to the processing activities carried out by Mistral AI on behalf of the Customer for Customer or Technical Support purposes.
-* For the API Terms of Service: 4.2. (Service Level Objectives), 5 (Fees, payment and billing), 6 (Term and termination). For the Chat Terms of Service: 4.2. Chat Services Availability.
-
-**Term**. This Agreement shall commence on the Effective Date and continue for the duration of the Marketplace Terms. This Agreement can be terminated by the Customer under the conditions set out in the Marketplace Terms.
-
 5\. Our Services
 ----------------
 
@@ -196,6 +205,12 @@ The purpose of this Agreement is to describe the rights and responsibilities of 
 **Technical Support**. You must notify Mistral AI of any Anomaly affecting the Services using the Ticketing Platform. Mistral AI will use commercially reasonable efforts to fix the Anomalies notified by You within commercially reasonable timeframes.
 
 **Adaptive Maintenance**. Mistral AI may perform adaptive maintenance, to ensure the Services continual adaptability and alignment with evolving technological or regulatory standards. You acknowledge and agree that this Agreement does not automatically include any Upgrades for the Services and that any Upgrades may require changing Your Subscription Plan. For the avoidance of any doubt, Mistral AI is under no obligation to improve the Services or provide any Upgrade to You.
+
+**Beta Services**. We may, from time to time, offer certain services, features, or functionalities in beta version (“Beta Services”). Beta Services will be mentioned as such on the Platform. Beta Services are provided “as is” and “as available” without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. We do not warrant that the Beta Services will be uninterrupted, error-free, or free of harmful components.By using the Beta Services, you acknowledge and agree that:
+
+* **No Guarantee of Availability:** We may discontinue, modify, or limit the availability of the Beta Services at any time without notice.
+* **No Liability:** We shall not be liable for any damages, losses, or costs arising from or related to Your use of the Beta Services.
+* **Feedback:** You may be asked to provide feedback regarding the Beta Services. We shall own all rights, title, and interest in and to any feedback you provide, and you hereby assign to Us all rights in such feedback.
 
 6\. Fees, billing and payment
 -----------------------------
@@ -442,7 +457,7 @@ This Agreement will commence on the Effective Date and continue for an indefinit
 
 **Suspension.** We reserve the right to suspend Your Account and/or Your access to all or part of the Services in case of:
 
-* Your breach of this Agreement,
+* Your breach or Your Authorized User’s breach of this Agreement,
     
 * Late payment or non-payment of the applicable fees (if any),
     
@@ -451,7 +466,7 @@ This Agreement will commence on the Effective Date and continue for an indefinit
 
 **Notification.** We will notify You of the suspension and the reasons for such suspension seven (7) days prior to the suspension taking effect, except in the event of a serious breach by You of this Agreement or an immediate security concern, in which case the suspension will take effect with shorter notice.
 
-**Effects of the suspension.** During the suspension, all rights and permissions granted to You under this Agreement will be suspended and You will not be able to access or use Our Services.
+**Effects of the suspension.** During the suspension, all rights and permissions granted to You under this Agreement will be suspended and You will not be able to access or use Our Services. If You are a Professional Customer, we may suspend every Account attached to Your Organization.
 
 **Remediation.** You shall have a period of thirty (30) days to remedy the breach notified by Mistral AI and to notify Mistral AI accordingly. Failing that, Mistral AI reserves the right to terminate this Agreement for cause immediately, without further notice. Termination will be effective at the end of this thirty (30) days period.
 
@@ -478,10 +493,6 @@ Mistral AI processes Your Personal Data as Data Controller for the purposes of (
 ### 14.1. Mistral AI Data Processor
 
 Mistral AI may process Personal Data on behalf of the Professional Customer, as Data Processor. In such the latter case, the \[Mistral Data Processing Agreement\] shall apply between the Parties.
-
-### 14.3. Marketplace
-
-Where the Customer subscribes to the Services through a Marketplace, Mistral AI only processes Personal Data for the purpose of providing Customer or Technical Support services to the Customer.
 
 15\. Provisions that only apply to Consumers
 --------------------------------------------
@@ -545,8 +556,7 @@ This Agreement and any dispute or claim (including non-contractual disputes or c
 * Our mediation service, the CMAP, by mail at Centre de Médiation et d’Arbitrage de Paris, 39 avenue Franklin D. Roosevelt, 75008 PARIS or by email at [cmap@cmap.fr](mailto:cmap@cmap.fr).
 * Or the european platform for the online settlement of disputes accessible at the following address: [https://ec.europa.eu/consumers/odr/main/index.cfm?e](https://ec.europa.eu/consumers/odr/main/index.cfm?e)
 
-Our mediation service, the CMAP, by mail at Centre de Médiation et d’Arbitrage de Paris, 39 avenue Franklin D. Roosevelt, 75008 PARIS or by email at [cmap@cmap.fr](mailto:cmap@cmap.fr).  
-Or the european platform for the online settlement of disputes accessible at the following address: [https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show&lng=FR](https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show&lng=FR)
+Our mediation service, the CMAP, by mail at Centre de Médiation et d’Arbitrage de Paris, 39 avenue Franklin D. Roosevelt, 75008 PARIS or by email at [cmap@cmap.fr](mailto:cmap@cmap.fr). Or the european platform for the online settlement of disputes accessible at the following address: [https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show&lng=FR](https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show&lng=FR)
 
 You agree that the mediation process is not mandatory and that Either Party may withdraw from such mediation process at any time.
 
