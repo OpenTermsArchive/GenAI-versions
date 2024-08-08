@@ -181,8 +181,8 @@ For illustrative purposes, please find below the applicable data retention perio
 
 * Identity, account and contact data and any data regarding your request : for up to three (3) months and for an additional 6 years period for evidential purposes.
 
-6\. Who do we share Your Personal Data with ?
----------------------------------------------
+6\. Who do we share Your Personal Data with?
+--------------------------------------------
 
 We may share Your Personal Data to the following persons on a need-to-know basis:
 
@@ -203,8 +203,8 @@ Our main providers are:
 * Ory: to manage user authentication on the Platform. Ory is based in Switzerland.
 * Stripe: to manage payments. Stripe is based in Ireland and in the United States.
 
-7\. Do we transfer Your Personal Data Outside of the European Union ?
----------------------------------------------------------------------
+7\. Do we transfer Your Personal Data Outside of the European Union?
+--------------------------------------------------------------------
 
 We prioritize selecting providers within the European Union that strictly adhere to the GDPR. However, in exceptional cases, we may opt for non-EU providers that meet our high standards of data security and Personal Data protection.
 
