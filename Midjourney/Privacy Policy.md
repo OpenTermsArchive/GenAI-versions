@@ -7,7 +7,7 @@ Privacy Policy
 
 ### 1\. Introduction
 
-This privacy policy (the “Policy”) applies to Midjourney, Inc., the Midjourney.com website, and the Midjourney image generation platform (the “Services”) . Midjourney, Inc. (“Midjourney”) is a communications technology incubator that provides image generation services to augment human creativity and foster social connection.
+This privacy policy (the “Policy”) describes Midjourney, Inc. (“Midjourney”)’s practices with respect to personal data that is collected when you access midjourney.com (the “Site”), or access or use the Midjourney services, applications, or platform through the Site, Discord servers administered by Midjourney, or by any other means (collectively, the “Services”) . Midjourney is a communications technology incubator that provides image generation services to augment human creativity and foster social connection.
 
 As used in this Policy, “personal data” means any information that relates to, describes, could be used to identify an individual, directly or indirectly.
 
@@ -28,7 +28,7 @@ _**2.1.1 Personal Data**_
 While interacting with the Services, You may provide certain personally identifiable information that could be used to contact or identify You. Personally identifiable information may include, but is not limited to:
 
 * Your user name for the Services
-* Text or image prompts you input into the Services, or public chats you maintain on the service
+* Text or image prompts and other content such as photos, videos, documents, and messages that you input into the Services
 * Your IP address
 * Usage Data
 * Tracking Technologies and Cookies
@@ -91,7 +91,7 @@ If We need to rely on consent as a legal basis for processing Your information a
 
 Our Service may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy of every site You visit.
 
-We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+Third party sites and services (including Discord) have separate practices regarding the protection of personal data that you provide to them. We have no control over and assume no responsibility for the content, privacy policies or practices of these third party sites or services.
 
 ### 5\. Changes to this Privacy Policy
 
