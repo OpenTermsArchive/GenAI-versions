@@ -178,7 +178,7 @@ Dispute resolution
 Copyright complaints
 --------------------
 
-If you believe that your intellectual property rights have been infringed, please send notice to the address below or fill out [this form(opens in a new window)](https://docs.google.com/forms/d/e/1FAIpQLSeSq2JNu9g8skmUCXh9968brvVftNa2lNInG_KyNJlBPEuZJw/viewform). We may delete or disable Content alleged to be infringing and may terminate accounts of repeat infringers.
+If you believe that your intellectual property rights have been infringed, please send notice to the address below or fill out [this form](https://openai.com/form/copyright-disputes/). We may delete or disable Content alleged to be infringing and may terminate accounts of repeat infringers.
 
 > OpenAI, L.L.C.  
 > 3180 18th St  
