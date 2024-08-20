@@ -1,3 +1,5 @@
+Business terms | OpenAI
+
 Updated: November 14, 2023
 
 Business terms
