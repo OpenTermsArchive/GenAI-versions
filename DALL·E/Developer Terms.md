@@ -1,3 +1,5 @@
+Plugins and Actions Terms | OpenAI
+
 Updated: January 10, 2024
 
 Plugins and Actions Terms
