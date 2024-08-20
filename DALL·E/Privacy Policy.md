@@ -1,3 +1,5 @@
+EU privacy policy | OpenAI
+
 Updated: December 15, 2023
 
 Europe privacy policy
