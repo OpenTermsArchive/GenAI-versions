@@ -364,7 +364,8 @@ Bardeen is the controller of the personal information we process under this Priv
 If you have any questions about our privacy practices or this Privacy Notice, or to exercise your rights as detailed in this Privacy Notice, please contact us at:  
 ‍  
 **Bardeen, Inc.**  
-236 Roosevelt Way, 94114,  
-San Francisco, CA, USA  
+236 Roosevelt Way  
+San Francisco, CA 94114  
+United States  
   
 [support+privacy@bardeen.ai](mailto:support+privacy@bardeen.ai)
