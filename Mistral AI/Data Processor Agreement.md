@@ -3,7 +3,7 @@ Data Processing Agreement
 
 **Preamble.** This data processing agreement (the “**Data Processing Agreement**” or the “**DPA**”) is established under Article 28 of the GDPR and forms part of this Agreement (as defined below) between Mistral AI and the Customer. By accepting the applicable Service Agreement, the Customer also agrees to be bound by this DPA.
 
-When Customer uses the Services available on the Platform:
+When Customer uses the Services available on the Website:
 
 * The Customer is the Data Controller;
 * Mistral AI processes the Personal Data provided by the Customer as Data Processor. Such processing activities are described in Exhibit 1 of this DPA.
@@ -63,7 +63,7 @@ Any capitalized word that is not defined in this DPA shall have the meaning give
 
 **Description of the Processing.** Mistral AI processes the Personal Data on behalf of the Customer in order to provide the Customer with the Services it ordered under the Agreement. A description of the Processing is available in Exhibit 1 of this DPA. The Customer agrees that Mistral AI may update the description of the Processing from time to time to reflect new Services, features or functionalities. Mistral AI will notify the Customer of any update to the description of the Processing by email no later than fifteen (15) days prior to the effective date of the modification. The Customer may object to this modification or update during the notice period on reasonable grounds pertaining to the Applicable Data Protection Law. The Parties will consult and negotiate in good faith in a view of achieving a satisfactory resolution. Failing that, the Customer will be entitled to terminate the Agreement for convenience.
 
-**Mistral AI as Data Controller.** The Customer authorizes Mistral AI to process the Prompts and the Outputs as Data Controller for the purpose of (a) monitoring abuse, (b) treating voluntary reports, (c) research purposes, and (d) to improve the training of the Models. Mistral AI only processes the Prompts and Outputs of Customer to improve the training of the Models if (a) Customer uses the free Chat Services and did not opt-out of having Customer’s Prompts and Outputs used to improve Mistral AI Training Data, which option is available only if the Customer subscribed to the Paid Chat Services or (b) if Customer uses the free version of Codestral and Customer did not opt-out of the Mistral AI Training Data. In this last case, Customer can opt-out of the Mistral AI Training Data at any time by making a request via Our Support Chatbot available directly on the Platform. If the Customer opted-out of the Mistral AI Training Data under applicable Terms, Mistral AI will not use information resulting from Customer’s Prompts and Outputs to improve the training of its Models. The Customer’s opt-out may only be effective for future Prompts and Outputs, as technical limitations inherent to the Chat Services may prevent Mistral AI from deleting all previously provided Prompts and Outputs from Mistral AI Training Data, even if the Customer has opted out. Mistral AI will inform the Data Subjects of such processing activities in its Privacy Policy.
+**Mistral AI as Data Controller.** The Customer authorizes Mistral AI to process the Prompts and the Outputs as Data Controller for the purpose of (a) monitoring abuse, (b) treating voluntary reports, (c) research purposes, and (d) to improve the training of the Models only if Customer uses the Free Services.
 
 3\. General obligations of the Parties
 --------------------------------------
@@ -142,7 +142,7 @@ The Customer agrees that:
 
 **General authorization.** The Customer provides a prior and general authorization allowing Mistral AI to appoint any Subprocessors to assist Mistral AI in the provision of the Services and in the Processing, in accordance with the terms of this DPA. This authorisation is subject to the following:
 
-* Mistral AI will maintain an up-to-date list of its Sub-processors on the Platform,
+* Mistral AI will maintain an up-to-date list of its Sub-processors on the Website,
     
 * Mistral AI will notify the Customer of any changes to this list,
     
@@ -215,15 +215,15 @@ Mistral AI may update the description of the Processing from time to time to ref
     * Any Personal Data that is used by Customer (i) to generate an Output, (ii) as part of User Input Data, and/or (iii) that may be accessed by Mistral AI as part of the Services (including the technical support services). This also includes the metadata associated with such personal data (for instance, the date and hour of the Customer’s Prompt, etc).
 * **Special categories of Personal Data:** None. Customer shall not process sensitive data under this DPA. In case Customer wishes to process sensitive data, please contact [privacy@mistral.ai](mailto:privacy@mistral.ai)
     
-* **Authorized Purposes:** Subject to the Customer’s Subscription, (i) the provision of the API Services (Technical Support, Generation of Outputs, Fine-Tuning a Model, Building an Agent, Authorized User’s Account management), and (ii) the provision of the Chat Services (Technical Support, Generation of Outputs, display of the Prompts and Outputs history, use of an Agent on Le Chat, Authorized User’s Account management).
+* **Authorized Purposes:** Subject to the Customer’s Subscription Plan, (i) the provision of La Plateforme (Technical Support, Generation of Outputs, Fine-Tuning a Model, Building an Agent, Authorized User’s Account management), and (ii) the provision of Le Chat (Technical Support, Generation of Outputs, display of the Prompts and Outputs history, use of an Agent on Le Chat, Authorized User’s Account management).
     
 * **Duration of the Processing:** the term of this DPA
     
 * **Retention Periods:**
     
-    * If the Customer has subscribed to the API Services, (i) the Prompts and the Outputs are only processed by Mistral AI for the duration of the generation of the Outputs, and (ii) User Input Data is retained until deletion of User Input Data and/or Customer’s Account by Customer.
+    * If the Customer has subscribed to the La Plateforme, (i) the Prompts and the Outputs are only processed by Mistral AI for the duration of the generation of the Outputs and for thirty (30) days to monitor abuse unless Customer subscribed to zero data retention, and (ii) Input Data used to fine-tune a model is retained until deletion of Input Data and/or Customer’s Account by Customer.
         
-    * If the Customer subscribed to the Chat Services: the Prompts and the Outputs are stored for the term of this DPA or until the Customer deletes such Prompts and Outputs from its history.
+    * If the Customer subscribed to Le Chat: the Prompts, the Outputs and the Input Data are stored for the term of Customer’s subscription or until the Customer deletes such Prompts, Input Data and Outputs from its history.
         
     * Mistral AI may process the Prompts and the Outputs as a Data Controller. The applicable retention periods are mentioned on the Privacy Policy.
         
@@ -232,6 +232,7 @@ Mistral AI may update the description of the Processing from time to time to ref
 * **Sub-processors:**
     
     * **Azure:** our hosting provider. The Personal Data are stored in Sweden.
+    * **Google Cloud Platform:** our hosting provider. The Personal Data are stored in Ireland.
 
 EXHIBIT 2 - Standard contractual clauses
 ----------------------------------------
