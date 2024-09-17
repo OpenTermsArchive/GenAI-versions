@@ -4,20 +4,27 @@ Terms of Use
 Preamble
 --------
 
-Welcome to Mistral! Our platform provides access to Mistral AI’s artificial intelligence models tailored for text generation alongside with a range of complementary services (the “**Services**”).
+**Welcome to Mistral!** Our platform provides access to Mistral AI’s artificial intelligence models tailored for text generation alongside with a range of complementary services (the “**Services**”).
 
-This agreement (the “**Agreement**”) is entered into by and between Mistral AI, a French simplified joint-stock company, registered at the Trade register of Paris under number 952 418 325, and having its corporate seat at 15 rue des Halles 75001, Paris, France ("**Mistral AI**" or “**Us**”, also referred to with the possessive adjective “**Our**”) and any person who uses, accesses or subscribes to the Services ("**You**" or the “**Customer**”).
+**Our Services.** By creating an account on our platform, You can access:
 
-**These Terms of Use apply to any Subscription, use and/or access to the Services by You. By subscribing, accessing or using the Services, You expressly agree to abide by and be bound by this Agreement.**
+* “**La Plateforme**”, which is Our portable developer platform. La Plateforme serves our open and optimized Mistral AI models through a different set of APIs, for building fast and intelligent applications. La Plateforme also gives you access to specific AI tools such as our fine-tuning API and our agent builder.
+* “**Le Chat**”, which is our conversational assistant allowing You to directly interact with Mistral AI models. Le Chat acts as a first demonstration of what You can build with Mistral AI models and what you can deploy in your business environment.
 
-These Terms of Use do not apply to You if You use Our Services via a cloud provider, on such cloud provider’s infrastructure. In such a case, the Terms of Service for cloud usage shall apply.
+**Parties.** These Terms of Use (the “**Terms of Use**”) are entered into by and between Mistral AI, a French simplified joint-stock company, registered at the Trade register of Paris under number 952 418 325, and having its corporate seat at 15 rue des Halles 75001, Paris, France ("**Mistral AI**" or “**Us**”, also referred to with the possessive adjective “**Our**”) and any person who uses, accesses or subscribes to the Services ("**You**" or the “**Customer**”).
+
+**Overview.** These Terms of Use apply to both La Plateforme and Le Chat. In addition, La Plateforme and Le Chat are subject to their own specific terms (the “**Terms of Service**”). These Terms of Use fo not apply if You use Our Services through a Cloud Provider. In such a case, only the Terms of Service for cloud usage apply.
 
 Definitions
 -----------
 
 The capitalized words in this document shall have the meaning set forth below:
 
-* “**Account**”: means Your account on the Platform.
+* “**Account**”: means Your account on the Website, which can be either:
+    
+    * An “**Admin Account**’: means an Account that has full access to all features and settings, allowing the Administrator to manage and configure the Services, or
+    * A “**Standard Account**’: means an Account that has limited access to the Services, providing the User with the functionalities and permissions defined by the Administrator.
+* “**Administrator**”: means any User that has an Admin Account.
     
 * “**Agreement**” or or “**Service Agreement**”: means the agreement entered into by and between Mistral AI and You, composed of (a) these Terms of Use, (b) where applicable, the applicable Terms of Service and (c) all materials referred or linked to in the above mentioned documents, as may be amended from time to time.
     
@@ -33,13 +40,15 @@ The capitalized words in this document shall have the meaning set forth below:
     
 * “**Business Days**”: means from Monday to Friday, excluding French public holidays.
     
-* “**Customer Application**”: means the application edited and operated by the Customer under its sole control and responsibility, that the Customer may connect to the Platform to use certain Services.
+* “**Customer Products and Services**”: means any of Your products or services, including but not limited to any applications edited or operated by You, that You make available to End-Users using Our Services or Your Outputs.
     
 * “**Data Controller**”: means the legal person who determines the means and the purposes of the processing of Personal Data.
     
 * “**Data Processor**”: means the legal person that processes the Personal Data on behalf of the Data Controller and under its documented instructions.
     
 * “**Effective Date**”: means the earlier of (i) the date You first use the Services or (ii) the date You accept these Terms of Use.
+    
+* “**End-Users**”: means any person who uses the Customer Products and Services.
     
 * “**Fees**”: means the fees paid or payable by the Customer under this Agreement in consideration for the Paid Services.
     
@@ -49,47 +58,47 @@ The capitalized words in this document shall have the meaning set forth below:
     
 * “**Mistral AI’s Intellectual Property**”: means the Model(s), the Services, and any trade names, trademarks, logos, patents, trade secrets, know-how, designs, drawings, copyrights, engineering, photographs, samples, software, models, algorithm, image, literature, information, ideas, concepts, or improvements pertaining to the Services and other data of any kind that is protectable through copyrights, patent, trade secrets, trademarks, trade dress, service marks, or and includes any modification or enhancement of the Services.
     
-* “**Model(s)**”: means (i) any version of any artificial intelligence model developed by Mistral AI and made accessible in any manner (API, chat, etc….) on the Platform and (ii) the associated documentation as may be amended from time to time (the “**Documentation**”).
+* “**Model(s)**”: means (i) any version of any artificial intelligence model developed by Mistral AI and made accessible in any manner (API, chat, etc….) on the Website and (ii) the associated documentation as may be amended from time to time (the “**Documentation**”).
     
 * **“Parties”:** means You and Mistral AI. In the singular, “**Party**” means one of the Parties.
     
-* “**Payment Services**”: means the online payment services provided by Stripe Technology Europe Limited, having its principal office at The OneBuilding, 1, Lower Grand Canal Street,Dublin 2, Ireland, and registered as a payment service provider in Ireland under number C187865 (the “Payment Services Provider” or the “PSP”), allowing the Customer to pay the Fees on the Platform.
+* “**Payment Services**”: means the online payment services provided by Stripe Technology Europe Limited, having its principal office at The OneBuilding, 1, Lower Grand Canal Street,Dublin 2, Ireland, and registered as a payment service provider in Ireland under number C187865 (the “Payment Services Provider” or the “PSP”), allowing the Customer to pay the Fees on the Website.
     
 * **“Personal Data**”: means any data related to an identified or identifiable natural person.
     
-* “**[Privacy Policy](https://mistral.ai/terms/#privacy-policy)**”: means Mistral AI’s privacy policy.
+* “**[Privacy Policy](https://mistral.ai/terms/#privacy-policy)**”: means Mistral AI’s privacy policy available at [https://mistral.ai/terms/#privacy-policy](https://mistral.ai/terms/#privacy-policy).
     
-* “**Platform**”: means the platform operated by Mistral AI, available at [http://console.mistral.ai](http://console.mistral.ai/).
-    
-* “**Services**”: means the services provided by Mistral AI to You under this Agreement, including but not limited to the Platform, the Model(s) and any other services provided by Mistral AI along with any associated software, application and website. The Services may be free of charge (the “**Free Services**”) or charged to You (the “**Paid Services**”).
+* “**Services**”: means the services provided by Mistral AI to You under this Agreement, including but not limited to the Website, the Model(s) and any other services provided by Mistral AI along with any associated software, application and website. The Services may be free of charge (the “**Free Services**”) or charged to You (the “**Paid Services**”).
     
 * “**Subscription**”: means the Customer’s subscription to the Services.
     
-* “**Subscription Plan**”: means the specific set of Services the Customer subscribes to. The available Subscription Plans are mentioned on the Platform and may be amended from time to time by Mistral AI at its sole discretion.
+* “**Subscription Plan**”: means the specific set of Services the Customer subscribes to. The available Subscription Plans are mentioned on the Website and may be amended from time to time by Mistral AI at its sole discretion.
     
 * “**Support**”: means the support Services provided by Mistral AI to the Customer, which includes:
     
     * “**Customer Support**”: means the service consisting in replying to the Customer’s questions and queries about the Services.
-    * “**Technical Support**”: means the service consisting in fixing the Anomalies notified by the Customer to Mistral AI through the Ticketing Platform.
+    * “**Technical Support**”: means the service consisting in fixing the Anomalies notified by the Customer to Mistral AI through the Ticketing Website.
 * “**Terms of Service**”: means the agreement entered into by and between the Parties and governing the use of specific Services and/or Subscription Services.
     
 * “**Terms of Use**”: refers to these terms of use.
     
-* “**Ticketing Platform**”: means the ticketing application provided by Mistral AI to the Customer, where the Customer can request Technical Support. The Customer may also request Technical Support at [support@mistral.ai](mailto:support@mistral.ai).
+* “**Ticketing Solution**”: means the ticketing application provided by Mistral AI to the Customer, where the Customer can request Technical Support.
     
 * “**Upgrade**”: means any new version of the Services that introduces new features, enhancements, or improvements beyond the current version provided to the Customer under the Customer’s Subscription Plan.
     
 * “**User Data**”: means any of the following data:
     
-    * The “**User Feedback**”: means Your feedback pertaining to the accuracy, relevance, and effectiveness of the Outputs, including but not limited to any identified discrepancies or errors.
-    * The “**User Input Data**”: means any data provided by You that is used by You for the purpose of prompting, fine-tuning or customizing the Services to Your specific needs or use-case, for the duration of this Agreement.
+    * The “**Feedback**”: means Your feedback pertaining to the accuracy, relevance, and effectiveness of the Outputs, including but not limited to any identified discrepancies or errors.
+    * The “**Input Data**”: means any data provided by You that is used by You for the purpose of prompting, fine-tuning or customizing the Services to Your specific needs or use-case, for the duration of this Agreement.
     * The “**Outputs**”: means any and all content generated by the Services in response to a Prompt.
-    * The “**Prompts**”: means any and all instructions, queries or textual cues given by You to the Services in order to generate an Output.
+    * The “**Prompts**”: means any and all instructions, queries, textual cues or Input Data given by You to the Services in order to generate an Output.
 * “**You**”, the “**User**” or the “**Customer**”: means any person who uses, accesses, browses and/or subscribes to the Services. The terms “**Your**”, and “**Yours**” are also used throughout this Agreement to specifically refer to such Customer. The Customer can be:
     
     * A “**Consumer**’: has the meaning given in Section 15 (Provisions applicable to Consumers) of these Terms of Use.
     * A “**Professional Customer**”: means any Customer Subscribing, accessing to or using the Services as part of its business or professional operations.
-* “**Workspace**” or “**Organization**”: means the Professional Customers’ workspace on the Platform which Authorized Users can access, subject to the permissions set out by the Professional Customer.
+* “**Website**”: means the platform and all its features and components, operated by Mistral available at [https://www.mistral.ai](https://www.mistral.ai/), where You can access and use the Services including but not limited to La Plateforme and Le Chat (as defined in their respective Terms of Service).
+    
+* “**Workspace**” or “**Organization**”: means the Professional Customers’ workspace on the Website which Authorized Users can access, subject to the permissions set out by the Professional Customer.
     
 
 2\. Purpose and scope
@@ -101,7 +110,7 @@ The purpose of this Agreement is to describe the rights and responsibilities of 
 
 ### 2.2. Scope and contractual documents
 
-**Scope**. These Terms of Use apply to any Subscription, access to or use of the Services by You on the Platform.
+**Scope**. These Terms of Use apply to any Subscription, access to or use of the Services by You on the Website.
 
 **Additional Terms**. Some Services may be subject to additional terms specific to that Service as set forth in the applicable Terms of Service. By accessing or using a Service covered by the Terms of Service, You also agree to such Terms of Service.
 
@@ -110,7 +119,7 @@ The purpose of this Agreement is to describe the rights and responsibilities of 
 3\. Acceptance
 --------------
 
-**General Principle**. Any access or use of the Services by You implies Your unreserved agreement to these Terms of Use. You must read these Terms of use carefully before using the Services. We recommend You download these Terms of Use, print them and keep a copy thereof. By clicking on “I agree” (or any similar button or checkbox on the Platform) at the time You sign up for a Service or by signing a Purchase Order, You expressly agree to be bound by this Agreement.
+**General Principle**. Any access or use of the Services by You implies Your unreserved agreement to these Terms of Use. You must read these Terms of use carefully before using the Services. We recommend You download these Terms of Use, print them and keep a copy thereof. By clicking on “I agree” (or any similar button or checkbo) at the time You sign up for a Service or by signing a Purchase Order, You expressly agree to be bound by this Agreement.
 
 **Agreement on behalf of another person**. If You agree to any of the terms composing this Agreement on behalf of Your employer or a legal entity, You warrant and represent that You possess the authority to act and accept such terms on their behalf. In such a case, the words “You” or “Customer” in this Agreement will refer to Your employer or that legal entity.
 
@@ -127,29 +136,29 @@ The purpose of this Agreement is to describe the rights and responsibilities of 
 
 ### 4.2. Your Account
 
-**Account creation.** You must create an Account on the Platform to use the Services. To do so, You must fill in the form provided on the Platform. You must provide loyal, complete, correct and up-to-date information to Mistral AI and promptly update the information on Your Account if any changes occur.
+**Account creation.** You must create an Account on the Website to use the Services. To do so, You must fill in the form provided on the Website. You must provide loyal, complete, correct and up-to-date information to Mistral AI and promptly update the information on Your Account if any changes occur.
 
-**Type of accounts.** The Platform offers two types of accounts: administrator Accounts (”**Admin Accounts**”) and regular Accounts (”**Regular Accounts**”).
+**Type of accounts.** The Website offers two types of accounts the Admin Accounts and the Standard Accounts.
 
 #### 4.2.1. Admin Accounts
 
-**Admin Accounts.** Subject to Your Subscription Plan, Admin Accounts are granted additional privileges and functionalities compared to Regular Accounts. These privileges include, but are not limited to, the following:
+**Admin Accounts.** Subject to Your Subscription Plan, Admin Accounts are granted additional privileges and functionalities compared to Standard Accounts. These privileges include, but are not limited to, the following:
 
-* **Invitation of Users:** Admin Account holders may invite Authorized Users to join their Workspace on the Platform by providing their email addresses. Upon receipt of an invitation, the Authorized Individual will be able to create an Account on the Platform.
-* **Automatic adhesion based on domain names:** Admin Account holders may configure the Platform to automatically add Authorized Individuals to their Workspace on the Platform based on the domain name of their email addresses. For example, if an Admin Account holder specifies that all email addresses ending in “@example.com” should be automatically added, any individual with an email address ending in “@example.com” who attempts to create an Account on the Platform will be automatically added to the Admin Account holder’s Workspace on the Platform.
-* **Managing Accounts within Your Workspace:** You can manage Your Organization’s Accounts on the Platform, including deleting such Accounts or changing such Accounts’ permissions, under your sole control and responsibility.
+* **Invitation of Users:** Administrators may invite Authorized Users to join their Workspace by providing their email addresses. Upon receipt of an invitation, the Authorized Individual will be able to create an Account on the Website.
+* **Automatic adhesion based on domain names:** Administrators may configure the Services to automatically add Authorized Individuals to their Workspace based on the domain name of their email addresses. For example, if an Administrator specifies that all email addresses ending in “@example.com” should be automatically added, any individual with an email address ending in “@example.com” who attempts to create an Account on the Website will be automatically added to the Administrator’s Workspace.
+* **Managing Accounts within Your Workspace:** You can manage Your Organization’s Accounts on the Website, including deleting such Accounts or changing such Accounts’ permissions, under your sole control and responsibility.
 
-**Admin Accounts responsibility.** Admin Account holders are responsible for ensuring that all individuals added to their Workspace on the Platform, whether through invitation or automatic addition, comply with these Terms of Service and any applicable laws and regulations. Admin Account holders are also responsible for managing the access and permissions of individuals within their organization.
+**Administrators’ responsibility.** Administrators are responsible for ensuring that all individuals added to their Workspace, whether through invitation or automatic addition, comply with these Terms of Use and any applicable laws and regulations. Administrators are also responsible for managing the access and permissions of Authorized Users within their Workspace.
 
 **Deletion of Your Admin Account.** You can ask Us to delete Your Admin Account at [support@mistral.ai](mailto:support@mistral.ai), subject to (i) Section 13 (Term, Suspension and Termination) of these Terms of Use or the applicable Terms of Service and (ii) payment of any outstanding Fees. The deletion of an Admin Account shall result in the concomitant deletion of the associated Workspace and all related Accounts, unless otherwise agreed.
 
-#### 4.2.2. Regular Accounts
+#### 4.2.2. Standard Accounts
 
-**Deactivation by You**. You may deactivate Your Account at any time by sending an email to [support@mistral.ai](mailto:support@mistral.ai) unless You subscribed to Our Paid Subscription Services. In such a case, You may only delete Your Account under the terms and conditions set forth in Section 13 (Term, Suspension and Termination) of these Terms of Use or in the applicable Terms of Service.
+**Deactivation by You**. Subject to the permissions given by the Administrator, You may delete Your Standard Account at any time by using the “Delete My Account” feature on the Website, unless You subscribed to Our Paid Subscription Services. In such a case, You may only delete Your Account after paying all outstanding Fees, in accordance under with Section 13 (Term, Suspension and Termination) of these Terms of Use or in the applicable Terms of Service.
 
 #### 4.2.3. Provisions applicable to every Account
 
-**Restrictions.** Your Account is intended for Your use only. Unless otherwise stated, You shall not share Your Account with any third party without Mistral AI’s prior written consent. You represent and warrant that You will not create (a) any fake Accounts, (b) more than one Account or (c) an Account on behalf of another individual or entity without such individual’s or entity’s consent.
+**Restrictions.** Your Account is intended for Your individual use only. Unless otherwise stated, You shall not share Your Account with any third party without Mistral AI’s prior written consent. You represent and warrant that You will not create (a) any fake Accounts, (b) more than one Account or (c) an Account on behalf of another individual or entity without such individual’s or entity’s consent.
 
 **Account security.** You must keep Your Identifiers secure and strictly confidential. Mistral AI does not commit to monitoring which individual is using Your Account. You are thus solely responsible for any action carried out via Your Account, whether that action was carried-out by You or not. For the avoidance of doubt, any operation carried out using Your Account will be considered to have been carried-out by You. Therefore, You shall (a) monitor the use of the Services and Your Account closely and (b) notify Mistral AI at [support@mistral.ai](mailto:support@mistral.ai) in the event of any (suspected or confirmed) unauthorized or fraudulent use of Your Account as soon as You become aware of such events.
 
@@ -161,7 +170,7 @@ The purpose of this Agreement is to describe the rights and responsibilities of 
 
 **Subscription Process**. To access and use the Free Services, You must:
 
-* Create Your Account on the Platform in compliance with the Terms of Use, and
+* Create Your Account on the Website in compliance with the Terms of Use, and
 * Accept this Agreement.
 
 #### 4.3.2. Paid Services
@@ -171,28 +180,30 @@ The purpose of this Agreement is to describe the rights and responsibilities of 
 * Create Your Account, in compliance with the Terms of Use,
 * Choose Your Subscription Plan,
 * Choose Your payment method. If You choose to pay the Fees via credit card, an imprint of its credit card may be taken to verify the validity of the card. This process is solely for verification purposes and does not result in any immediate charges unless explicitly stated,
-* Provide Your payment and billing information by filling in the form available on the Platform. You must provide loyal, up-to-date, complete and accurate payment and billing information. You shall promptly update Your payment and/or billing information in order to keep such information current, complete and up-to-date. This change can be made through the Your Account on the Platform,
+* Provide Your payment and billing information by filling in the form available on the Website. You must provide loyal, up-to-date, complete and accurate payment and billing information. You shall promptly update Your payment and/or billing information in order to keep such information current, complete and up-to-date. This change can be made through the Your Account on the Website,
 * Accept this Agreement,
 * Review Your Subscription. During this step, You will be able to modify the Purchase Order if necessary,
 * Confirm Your Subscription, and
 * Depending on the Services You wish to Subscribe to, You may be required to pay for the Fees for the initial subscription month, as outlined in the applicable Terms of Service.
 
-**Confirmation of the Subscription**. Once the Subscription process is complete, a page will appear on the Platform to confirm Your Subscription. Mistral AI will send You a confirmation of Your Subscription at the email address provided by You when creating Your Account (unless such email address is not valid), alongside with a PDF copy of this Agreement. This confirmation does not constitute an invoice. You will be able to access and use the Paid Services once You have received such confirmation.
+**Confirmation of the Subscription**. Once the Subscription process is complete, a page will appear on the Website to confirm Your Subscription. Mistral AI will send You a confirmation of Your Subscription at the email address provided by You when creating Your Account (unless such email address is not valid), alongside with a PDF copy of this Agreement. This confirmation does not constitute an invoice. You will be able to access and use the Paid Services once You have received such confirmation.
 
 **Subscription verification process**. Mistral AI and/or, where applicable, the Payment Services Provider will verify the information provided by You during the Subscription process. Mistral AI reserves the right to decline the Your Subscription to the Paid Services in case of any suspected OFAC regulation violation or instances of fraud and/or misrepresentation. In such cases, (i) Mistral AI will notify You by email, (ii) Mistral AI will refund You of any pre-paid Fees under this Agreement and (iii) this Agreement will automatically terminate.
 
-**Change Subscription Plan**. A Subscription Plan enables the Customer to access specific features and Models as listed on the Platform. If the Customer wishes to access a Model that is not included in its current Subscription Plan, the Customer must subscribe to the relevant Subscription Plan to gain access.
+**Change Subscription Plan**. A Subscription Plan enables the Customer to access specific features and Models as listed on the Website. If the Customer wishes to access a Model or a feature that is not included in its current Subscription Plan, the Customer must subscribe to the relevant Subscription Plan to gain access.
 
 5\. Our Services
 ----------------
 
-**The Platform.** Any User may access and use the Platform free of charge as well as the Free Services. Our Services consist in allowing You to use Our Model(s) for the purpose of generating Outputs. You can access the full list and description of the Services provided by Mistral AI on the Platform and/or on the Documentation, as may be amended from time to time.
+**The Website.** Any User may access and use the Website free of charge as well as the Free Services. Our Services consist in allowing You to use Our Model(s) for the purpose of generating Outputs. You can access the full list and description of the Services provided by Mistral AI on the Website and/or on the Documentation, as may be amended from time to time.
 
-**Restrictions.** Certain Services may not be directly accessible, either due to their payable nature (Paid Services) or restricted access limited to specific Users, such as businesses. The paid or restrictive nature of these Services is explicitly outlined on the Platform and/or the applicable Documentation.
+**Services Restrictions.** Certain Services may not be directly accessible, either due to their payable nature (Paid Services) or restricted access limited to specific Users, such as businesses. The paid or restrictive nature of these Services is explicitly outlined on the Website and/or the applicable Documentation.
+
+**Input Data restrictions.** For certain Services, Input Data may be subject to specific format or size restrictions. Any such restrictions are clearly specified on the Website at the time You use the Services. We strongly advise You to review the Documentation for detailed information regarding these restrictions. You acknowledge and agree that non-compliance with the Input Data restrictions may result in Your inability to submit Your Input Data, thereby rendering the Services unable to perform as intended.
 
 **Evolution of the Services.** Subject to the applicable Terms of Service, We reserve the right to modify, update or enhance Our Services without notice. Such modifications may include, but are not limited to, debugging, feature additions, enhancements or alterations to improve Service quality. You agree that We are not obligated to maintain or provide prior features, functionalities or Services following modifications, updates or upgrades, unless otherwise stated.
 
-**Customer support**. Mistral AI will provide You with all reasonable guidance and information necessary to facilitate the optimal use of the Services, under the terms set out below (the “**Customer Support**”). The Customer shall submit Customer Support requests to Mistral AI through Mistral AI’s Ticketing Platform. Mistral AI will use commercially reasonable efforts to respond to the Customer’s legitimate questions concerning the use of the API Services within a reasonable time, during Business Hours and on Business Days.
+**Customer support**. Mistral AI will provide You with all reasonable guidance and information necessary to facilitate the optimal use of the Services, under the terms set out below (the “**Customer Support**”). The Customer shall submit Customer Support requests to Mistral AI through Mistral AI’s Ticketing Solution. Mistral AI will use commercially reasonable efforts to respond to the Customer’s legitimate questions concerning the use of the Services within a reasonable time, during Business Hours and on Business Days.
 
 **Customer Support exclusions**. This Assistance Service does not cover any inquiries by the Customer:
 
@@ -202,11 +213,11 @@ The purpose of this Agreement is to describe the rights and responsibilities of 
 * Resulting from Your improper, unlawful or unauthorized use of the Services, or
 * When You fail to pay the applicable Fees.
 
-**Technical Support**. You must notify Mistral AI of any Anomaly affecting the Services using the Ticketing Platform. Mistral AI will use commercially reasonable efforts to fix the Anomalies notified by You within commercially reasonable timeframes.
+**Technical Support**. You must notify Mistral AI of any Anomaly affecting the Services using the Ticketing Website. Mistral AI will use commercially reasonable efforts to fix the Anomalies notified by You within commercially reasonable timeframes.
 
 **Adaptive Maintenance**. Mistral AI may perform adaptive maintenance, to ensure the Services continual adaptability and alignment with evolving technological or regulatory standards. You acknowledge and agree that this Agreement does not automatically include any Upgrades for the Services and that any Upgrades may require changing Your Subscription Plan. For the avoidance of any doubt, Mistral AI is under no obligation to improve the Services or provide any Upgrade to You.
 
-**Beta Services**. We may, from time to time, offer certain services, features, or functionalities in beta version (“Beta Services”). Beta Services will be mentioned as such on the Platform. Beta Services are provided “as is” and “as available” without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. We do not warrant that the Beta Services will be uninterrupted, error-free, or free of harmful components.By using the Beta Services, you acknowledge and agree that:
+**Beta Services**. We may, from time to time, offer certain services, features, or functionalities in beta version (“Beta Services”). Beta Services will be mentioned as such on the Website. Beta Services are provided “as is” and “as available” without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. We do not warrant that the Beta Services will be uninterrupted, error-free, or free of harmful components.By using the Beta Services, you acknowledge and agree that:
 
 * **No Guarantee of Availability:** We may discontinue, modify, or limit the availability of the Beta Services at any time without notice.
 * **No Liability:** We shall not be liable for any damages, losses, or costs arising from or related to Your use of the Beta Services.
@@ -219,13 +230,13 @@ The purpose of this Agreement is to describe the rights and responsibilities of 
 
 ### 6.1. Fees
 
-**Applicable Fees**. The Fees are listed on the Platform inclusive of all Taxes. You must pay to Mistral AI the Fees listed in Mistral AI’s then-current price list available on the Platform. Unless otherwise stated and to the extent permitted by applicable law, all amounts paid by the Customer are non-refundable and non-cancellable.
+**Applicable Fees**. The Fees are listed on the Website exclusive of all Taxes. You must pay to Mistral AI the Fees listed in Mistral AI’s then-current price list available on the Website. Unless otherwise stated and to the extent permitted by applicable law, all amounts paid by the Customer are non-refundable and non-cancellable.
 
 **Pricing evolution**. Mistral AI may modify the price list at its own discretion upon giving at least thirty (30) days’ notice in writing to the email address You provided upon Your Subscription. If You do not agree with this modification, You may terminate this Agreement and/or the relevant Purchase Order before the end of this notice period. The Fees will not be increased during this notice period.
 
 ### 6.2. Billing
 
-**Payment method**. The Customer must pay the Fees via credit card or any other payment method available on the Platform.
+**Payment method**. The Customer must pay the Fees via credit card or any other payment method available on the Website.
 
 **Frequency**. The Customer authorizes Mistral AI and/or the Payment Service Provider to charge the Customer’s select payment method every month.
 
@@ -246,28 +257,30 @@ Suspension or termination. We reserve the right to suspend or terminate Your acc
 7\. Your User Data
 ------------------
 
-**Responsibility.** When You use Our Services, You may provide Prompts and Our Services may generate Outputs in return. You are solely responsible for Your use of the Prompts and the Outputs. You shall only use Prompts to which You own all required rights under applicable law and do so in a manner that is consistent with the applicable law. You shall not intentionally make the Services generate Outputs infringing intellectual property rights, third party rights or applicable law, or use such infringing Outputs after You become aware of such infringement.
+**Responsibility.** When You use Our Services, You may provide Prompts or Input Data and Our Services may generate Outputs in return. You are solely responsible for Your use of the Prompts, Input Data and the Outputs. You shall only use Prompts and Input Data to which You own all required rights under applicable law and do so in a manner that is consistent with the applicable law. You shall not intentionally make the Services generate Outputs infringing intellectual property rights, third party rights or applicable law, or use such infringing Outputs after You become aware of such infringement.
 
-**Prompt ownership**. You hereby represent that You own Your Prompts. You retain all the rights, including but not limited to the intellectual property rights to Your Prompts.
+**Prompt and Input Data ownership**. You hereby represent that You own or have obtained all the required rights to use Your (i) Prompts and (ii) Input Data. You retain all the rights, including but not limited to the intellectual property rights to Your Prompts and Input Data.
 
 **Output ownership**.We do not claim any ownership or intellectual property rights of any kind in and to the Outputs generated by Our Models. You are the sole owner of the Outputs. You must not use the Outputs or any modified or derived version of the Outputs to reverse engineer the Services.
 
 **Output similarity**. You agree that, due to the nature of Our Services, if another User uses a Prompt similar to Yours, our Services may generate an Output similar or identical to Yours. We do not warrant that Your Output is not similar or identical to another User’s Output. Consequently and unless otherwise stated, we will not indemnify You in case Your Output is similar or identical to another User’s Output.
 
-**Output accuracy**. You acknowledge and agree that Our Services are inherently subject to certain unpredictabilities, particularly with the Outputs generated, as such Outputs depend on Your Prompt and as the technology behind Our Services is complex and continuously evolving. For the avoidance of any doubt and to the extent permitted by applicable law, Our Services are provided without any express or implied warranty regarding the quality or the accuracy of the Outputs. Consequently, You agree that the Outputs generated by Our Services may be incomplete, not up-to-date or not entirely accurate. Therefore, when using Our Services, You must:
+**Output accuracy**. You acknowledge and agree that Our Services are inherently subject to certain unpredictabilities, particularly with the Outputs generated, as (i) such Outputs depend on Your Prompt or Input Data and (ii) the technology behind Our Services is complex and continuously evolving. For the avoidance of any doubt and to the extent permitted by applicable law, Our Services are provided without any express or implied warranty regarding the quality or the accuracy of the Outputs. Consequently, You agree that the Outputs generated by Our Services may be incomplete, not up-to-date or not entirely accurate. Therefore, when using Our Services, You must:
 
-* Ensure the quality of Your Prompts,
+* Ensure the quality of Your Prompts and Input Data,
     
 * Assess the accuracy and/or the suitability of the Output to your needs before using or sharing the Output,
     
-* Include in Your Prompt any relevant moderation prompt to better filter or adapt the Output, especially if You deactivated the Filters proposed by Mistral AI, and
+* Include in Your Prompt or Input Data any relevant moderation prompt to better filter or adapt the Output, especially if You deactivated the Filters proposed by Mistral AI, and
     
 * Check the information generated by the Output and, in any case, not rely on the Output as a unique source of truth and/or information, as safe and inoffensive in every circumstance, or as a replacement for professional guidance.
     
 
-**License**. You grant Us, for the term of this Agreement, a worldwide, revocable, non-exclusive, non-sublicensable, non-transferable right to use the Prompts, Outputs and User Input Data for the purpose of performing the Services. You grant Us, for the duration of the intellectual property rights under applicable law, a worldwide, non-revocable, non-exclusive, non-sublicensable, non-transferable right to use Your User Feedback for the purpose of improving Our Model(s). This helps us improve the accuracy of the Outputs generated by Our Model(s) and the overall efficiency and/or moderation of Our Services.
+**License**. You grant Us, for the term of this Agreement, a worldwide, non-revocable, non-exclusive, non-sublicensable, non-transferable, royalty-free right to use the Prompts, Outputs and Input Data for the purpose of performing the Services. You grant Us, for the duration of the intellectual property rights under applicable law, a worldwide, non-revocable, non-exclusive, non-sublicensable, non-transferable, royalty-free right to use Your Feedback for the purpose of improving Our Model(s). This helps us improve the accuracy of the Outputs generated by Our Model(s) and the overall efficiency and/or moderation of Our Services.
 
-**Moderation**. We make commercially reasonable efforts to make sure Our Services do not generate Outputs that contain offensive, inappropriate or illicit content. To this end, We have implemented and / or are proposing different moderation mechanisms such as Filters to Our Model(s). Subject to Your Subscription Plan and to the option being available on the Platform, You may deactivate these Filters for legitimate purposes pertaining to Your specific Use-Case. You agree that (a) We do not warrant that the Output generated will not be offensive, inappropriate or illicit, (b) You are solely responsible for the use of Your Output and (c) You shall in no way use the Output for any illicit or unlawful purpose and/or to harm Mistral AI and/or a third party.
+**Training**. If You use Our Free Services, We may use Your Prompts, Input Data, and Outputs to improve, enhance, or train Our Models. Consequently, You grant Us, for the duration of the applicable copyright protection, a worldwide, non-revocable, non-exclusive, non-sublicensable, non-transferable, royalty-free right to use Your Prompts, Outputs, and Input Data for the purpose of improving, enhancing, or training Our Models.
+
+**Moderation**. We make commercially reasonable efforts to make sure Our Services do not generate Outputs that contain offensive, inappropriate or illicit content. To this end, We have implemented and / or are proposing different moderation mechanisms such as Filters to Our Model(s). Subject to Your Subscription Plan and to the option being available on the Website, You may deactivate these Filters for legitimate purposes pertaining to Your specific Use-Case. You agree that (a) We do not warrant that the Output generated will not be offensive, inappropriate or illicit, (b) You are solely responsible for the use of Your Output and (c) You shall in no way use the Output for any illicit or unlawful purpose and/or to harm Mistral AI and/or a third party.
 
 8\. Your obligations
 --------------------
@@ -286,15 +299,17 @@ Suspension or termination. We reserve the right to suspend or terminate Your acc
         
     * Not interfere with or circumvent mechanisms in the Services intended to monitor Your use of Our Services or to limit such use, except as provided for in Section 6 (Your User Data) of these Terms of Use.
         
-    * Not infringe the rights of third parties, including but not limited to intellectual property rights or privacy. You shall only use Prompts to which You own all required rights under applicable law and to do so in a manner that is consistent with the applicable law.
-        
     * Not use the Services in a manner in which, in Mistral AI’s opinion, would affect Mistral AI’s reputation or goodwill or any of its trademarks.
         
 * **Your User Data.** You must:
     
     * Not represent that the Output was generated by a human when it was generated by Our Services.
         
-    * Not use the Output if You are aware that it infringes the rights of third parties, including but not limited to intellectual property rights.
+    * Not infringe the rights of third parties, including but not limited to intellectual property rights, privacy or personality rights. You shall only use Input Data and Prompts for which You own or have obtained any and all required rights under applicable law and to do so in a manner that is consistent with the applicable law.
+        
+    * Not use the Output if You are aware that it infringes the rights of third parties, including but not limited to intellectual property rights, privacy or personality rights.
+        
+    * Not use any Input Data or Prompt that contains illegal content, including but not limited to child pornography.
         
     * Comply with the applicable data protection laws if You use Personal Data as part of Your User Data.
         
@@ -332,7 +347,7 @@ Suspension or termination. We reserve the right to suspend or terminate Your acc
         
     * Not grant a license, sub-licence or access to or sell, lend, lease or distribute, in any form whatsoever, the Services to third parties without the prior written authorization of Mistral AI.
         
-    * Not make the Services accessible to third parties, unless otherwise stated.
+    * Not re-sell the Services to third parties without Mistral AI’s prior written authorization. For the avoidance of doubt, this does not prevent You from integrating Our Services in Your Customer Products or Services.
         
     * Not use Outputs to reverse-engineer Our Services.
         
@@ -360,7 +375,7 @@ Suspension or termination. We reserve the right to suspend or terminate Your acc
 
 **Security.** Mistral AI will use commercially reasonable efforts to implement and maintain reasonable security measures to prevent unauthorized access to the Services, as well as fraudulent destruction, loss, or alteration of data. These security measures may include, but are not limited to, the use of firewalls, encryption, strict access controls, regular backups, and security protocols compliant with good industry standards.
 
-**Illicit content.** You have the availability to report to Mistral AI any Output and/or User Data that (a) incites hate, violence, or discrimination against individuals based on their origin, ethnicity, religion, gender, sexual orientation, etc. (b) glorifies sexual harassment, (c) violates human dignity (e.g., human trafficking or pimping), (d) glorifies crimes against humanity or denying their existence, (e) incites terrorism, (f) glorifies very serious crimes against individuals (e.g., murder or sexual assault) (g) glorifies crimes involving theft, extortion, or material damage posing a danger to individuals (h) are of a pedophilic nature (i) are dangerous for minors. You can report such content by using the report feature on the Platform and/or by sending an email at [support@mistral.ai](mailto:support@mistral.ai). You grant Us the right to access the reported content to improve Our Services (e.g. to help Us make sure that the Model does not generate illicit content). This right is granted worldwide and for the duration of the intellectual property rights under applicable law. You must delete such content using the applicable feature on the Platform.
+**Illicit content.** You have the availability to report to Mistral AI any Output and/or User Data that (a) incites hate, violence, or discrimination against individuals based on their origin, ethnicity, religion, gender, sexual orientation, etc. (b) glorifies sexual harassment, (c) violates human dignity (e.g., human trafficking or pimping), (d) glorifies crimes against humanity or denying their existence, (e) incites terrorism, (f) glorifies very serious crimes against individuals (e.g., murder or sexual assault) (g) glorifies crimes involving theft, extortion, or material damage posing a danger to individuals (h) are of a pedophilic nature (i) are dangerous for minors. You can report such content by using the report feature on the Website and/or by sending an email at [support@mistral.ai](mailto:support@mistral.ai). You grant Us the right to access the reported content to improve Our Services (e.g. to help Us make sure that the Model does not generate illicit content). This right is granted worldwide and for the duration of the intellectual property rights under applicable law. You must delete such content using the applicable feature on the Website.
 
 10\. **Intellectual Property**
 ------------------------------
@@ -369,20 +384,18 @@ Suspension or termination. We reserve the right to suspend or terminate Your acc
 
 **Right to use.** Mistral AI grants You a worldwide, revocable, non-exclusive, non-sublicensable, non-transferable right to use the Services for the term of this Agreement, in compliance with this Agreement and the applicable law. This right to use the Services is subject to the restrictions set out (a) in the Terms of Service and (b) in Section 8 (Your Obligations) of these Terms of Use.
 
-**Mistral AI Intellectual Property.** Mistral AI has and retains all right, title and interest, including all intellectual property rights, in and to the Platform and/or the Free Services, including but not limited to the Model(s). No rights are granted to You, except as expressly set forth in this Agreement. All rights and licenses granted under this Agreement shall terminate when the applicable Agreement and/or the applicable Terms of Service terminates.
-
 ### 10.2. Intellectual property
 
 **Your intellectual property.** You remain the sole owner of all right, title and interest, including all intellectual property rights in and to Your User Data.
 
-**Mistral AI’s Intellectual Property.** Mistral AI remains the sole owner of all right, title and interest, including all intellectual property rights in and to Mistral AI’s Intellectual Property, including but not limited to the Model(s), the Documentation and the Services. The Services are made available on a limited access basis, and no ownership right is conveyed to the Customer, irrespective of the use of terms such as “purchase” or “Subscription”. Any representation or reproduction, in whole or in part, of the Services, by any process whatsoever, without Mistral AI’s prior express authorisation, is strictly prohibited and will constitute an infringement punishable by the provisions of the applicable law.
+**Mistral AI’s Intellectual Property.** Mistral AI remains the sole owner of all right, title and interest, including all intellectual property rights in and to Mistral AI’s Intellectual Property, including but not limited to the Model(s), the Documentation and the Services. No rights are granted to You, except as expressly set forth in this Agreement. All rights and licenses granted under this Agreement shall terminate when the applicable Agreement and/or the applicable Terms of Service terminates.The Services are made available on a limited access basis, and no ownership right is conveyed to the Customer, irrespective of the use of terms such as “purchase” or “Subscription”. Any representation or reproduction, in whole or in part, of the Services, by any process whatsoever, without Mistral AI’s prior express authorisation, is strictly prohibited and will constitute an infringement punishable by the provisions of the applicable law.
 
 11\. Warranties and indemnification
 -----------------------------------
 
 ### 11.1. Mistral AI warranties
 
-**Services provided “as is”**. The Services are provided to You “as is”. To the extent permitted by applicable law, Mistral AI makes no representations or warranties regarding the accuracy, reliability, or completeness of the Services or their suitability for Your specific requirements or use-case. Without limiting Mistral AI’s express obligations under this Agreement, Mistral AI does not warrant that Your use of the Services will increase Your revenues, be error-free, uninterrupted or that Mistral AI will review Your User Data for accuracy. You acknowledge and agree that any use of the Services is at Your own risk, and Mistral AI shall not be liable for any Losses arising from Your misuse, unauthorized or unlawful to use the ServicesPlatform and/or the Free Services, or from the non- suitability of the ServicesPlatform and/or the Free Services to Your specific requirements or use-case, including but not limited to direct, indirect, incidental, consequential, or punitive damages.
+**Services provided “as is”**. The Services are provided to You “as is”. To the extent permitted by applicable law, Mistral AI makes no representations or warranties regarding the accuracy, reliability, or completeness of the Services or their suitability for Your specific requirements or use-case. Without limiting Mistral AI’s express obligations under this Agreement, Mistral AI does not warrant that Your use of the Services will increase Your revenues, be error-free, uninterrupted or that Mistral AI will review Your User Data for accuracy. You acknowledge and agree that any use of the Services is at Your own risk, and Mistral AI shall not be liable for any Losses arising from Your misuse, unauthorized or unlawful to use the ServicesWebsite and/or the Free Services, or from the non- suitability of the ServicesWebsite and/or the Free Services to Your specific requirements or use-case, including but not limited to direct, indirect, incidental, consequential, or punitive damages.
 
 **Mistral AI Warranties**. Mistral AI warrants that:
 
@@ -395,13 +408,13 @@ You represent and warrant that:
 
 * You have the authority to enter into this Agreement,
 * You will use the Services in accordance with the applicable laws and regulations and this Agreement and that the Customer will not use the Services to commit illegal acts, including in particular to harm third parties, and
-* You have obtained all necessary intellectual property rights, including but not limited to, copyrights, patents, trademarks, and trade secrets, or have been granted the appropriate licenses, permissions, and consents to use and provide the Prompts and User Input Data for the purpose of using Our Services and to give us the license set forth in Section 7 of these Terms of Use.
+* You have obtained all necessary rights, including but not limited to, copyrights, patents, trademarks, and trade secrets, or have been granted the appropriate licenses, permissions, and consents to use and provide the Prompts and Input Data for the purpose of using Our Services and to give us the license set forth in Section 7 of these Terms of Use.
 
 ### 11.3. Indemnification
 
 Indemnification by Mistral AI. Mistral AI shall indemnify, defend, and hold the Customer harmless against any liabilities, damages and costs (including reasonable attorneys’ fees) payable to a third party arising out of a third party claim alleging that the Services infringe any third party intellectual property right. Mistral AI shall not indemnify the Customer for any claim arising from or related to:
 
-* The combination of the Services with Customer or third-party software (including but not limited to the Customer Application), hardware or any other equipment not provided by Mistral AI,
+* The combination of the Services with Customer or third-party software (including but not limited to the Customer Products and Services), hardware or any other equipment not provided by Mistral AI,
 * Modification of the Services by You or any party other than Mistral AI, including but not limited to any fine-tuning of Our Models by You or any third-party
 * The Customer’s User Data,
 * The Customer’s modification of the Outputs,
@@ -410,11 +423,11 @@ Indemnification by Mistral AI. Mistral AI shall indemnify, defend, and hold the 
 
 To the extent permitted by applicable law, the liability cap set out in Section (Liability) of these Terms of Use shall apply to the indemnification obligations under this Section.
 
-**Indemnification by the Customer**. The Customer agrees to indemnify, defend, and hold Mistral AI and its affiliates and licensors harmless against any liabilities, damages, and costs (including reasonable attorneys’ fees) payable to a third party arising out of a third party claim related to (a) the use of the Services in violation of this Agreement, (b) the Customer Application (if any), or (c) the User Data. Nothing in this Agreement should limit the Customer’s obligation to indemnify Mistral AI of such a claim in case of unauthorized use of the Services by the Customer or the Authorized User.
+**Indemnification by the Customer**. The Customer agrees to indemnify, defend, and hold Mistral AI and its affiliates and licensors harmless against any liabilities, damages, and costs (including reasonable attorneys’ fees) payable to a third party arising out of a third party claim related to (a) the use of the Services in violation of this Agreement, (b) the Customer Products and Services (if any), or (c) the User Data. Nothing in this Agreement should limit the Customer’s obligation to indemnify Mistral AI of such a claim in case of unauthorized use of the Services by the Customer or the Authorized User.
 
 **Indemnification Procedure**. The indemnification obligations this section of these Terms of Service are subject to the indemnifying Party (a) receiving a prompt written notice of such claim ; (b) being granted the exclusive right to control and direct (including the authority to elect legal counsel) the investigation, defense or settlement strategy of such claim and (c) benefitting from all reasonable necessary cooperation and assistance, including access to the relevant information, by the indemnified Party at the indemnifying Party’s expense. Mistral AI shall consult Customer before entering into any settlement or compromise of any claim, and shall take into account all reasonable comments from Customer.
 
-**Remedies**. The remedies in this section are the sole and exclusive remedies for any third-party claim that the Services, the Customer Application or the User Data infringe intellectual property rights.
+**Remedies**. The remedies in this section are the sole and exclusive remedies for any third-party claim that the Services, the Customer Products or Services or the User Data infringe intellectual property rights.
 
 12\. Liability
 --------------
@@ -425,7 +438,7 @@ To the extent permitted by applicable law, the liability cap set out in Section 
 
 * In case of a Force Majeure Event (as defined in Section 14 of these Terms of Use),
 * In case of temporary unavailability of the Services (a) for maintenance purposes, including but not limited to, to fix anomalies, bugs or errors, to launch new or improved features or Services, or to address immediate security concerns, or (b) in case We suspended Your Account,
-* In relation to third-party content or websites linked or referred to on the Platform,
+* In relation to third-party content or websites linked or referred to on the Website,
 * For any cause not attributable to Mistral AI,
 * For Your use of Your User Data,
 * When You share Your Conversations with third-parties,
@@ -479,7 +492,7 @@ This Agreement will commence on the Effective Date and continue for an indefinit
 
 **Termination for cause**. Either Party may terminate this Agreement if the other Party fails to cure a material breach of this Agreement and/or any relevant Purchase Order within thirty (30) days after notice of such breach, provided that such breach is remediable. For illustrative purposes, any of the following breaches by either Party shall be considered a material breach of this Agreement (a) any unauthorized use of the Services and/or, (b) failure to pay any amounts due under this Agreement.
 
-**Effects of termination**. Upon termination or expiration of this Agreement, (i) You will no longer have access to the Services, (ii) You must pay any outstanding Fees to Mistral AI. Termination or expiry of this Agreement, for any reason whatsoever, shall not entitle You to a refund of any previously paid Fees or charges for the Services, unless expressly agreed upon by both Parties in writing. Termination or expiry of this Agreement will not automatically result in the deletion of Your Account or the Authorized Users’ Accounts. Subject to having paid any outstanding amounts to Mistral AI, You may delete Your Account after the termination of this Agreement, by using the applicable feature on the Platform.
+**Effects of termination**. Upon termination or expiration of this Agreement, (i) You will no longer have access to the Services, (ii) You must pay any outstanding Fees to Mistral AI. Termination or expiry of this Agreement, for any reason whatsoever, shall not entitle You to a refund of any previously paid Fees or charges for the Services, unless expressly agreed upon by both Parties in writing. Termination or expiry of this Agreement will not automatically result in the deletion of Your Account or the Authorized Users’ Accounts. Subject to having paid any outstanding amounts to Mistral AI, You may delete Your Account after the termination of this Agreement, by using the applicable feature on the Website.
 
 **Survival**. All payment obligations incurred during the term of this Agreement and the following Sections shall survive the expiration or termination of these Terms of Use: Section 12 (Liability), Section 10 (Intellectual Property), Section 13 (Term, Suspension, Termination), Section 18 (Dispute resolutions and applicable law).
 
