@@ -1,7 +1,7 @@
 Privacy Policy
 --------------
 
-##### Effective April 2, 2024
+##### Effective April 2nd 2024
 
 * * *
 
