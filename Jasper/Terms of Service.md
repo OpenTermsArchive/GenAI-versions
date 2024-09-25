@@ -1,7 +1,7 @@
 Terms of Service
 ----------------
 
-##### Effective February 7, 2024
+##### Effective February 7th 2024
 
 * * *
 
