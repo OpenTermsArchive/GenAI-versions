@@ -406,14 +406,14 @@ Your privacy rights. How to delete your account
 * You also have a right to request certain details of the basis on which your Personal Data is transferred outside the European Economic Area, but data transfer agreements and/or other details may need to be partially redacted for reasons of commercial confidentiality; and
 * You have a right to lodge a complaint with your local data protection supervisory authority (i.e., your place of habitual residence, place or work or place of alleged infringement) at any time or before the relevant institutions in your place of residence. We ask that you please attempt to resolve any issues with us before you contact your local supervisory authority and/or relevant institution.
 
-5.2 You can exercise your rights by contacting us at [privacy@wordtune.com](mailto:privacy@wordtune.com). You may use an authorized agent to submit a request on your behalf if you provide the authorized agent written permission signed by you. To protect your privacy, we may take steps to verify your identity before fulfilling your request. Subject to legal and other permissible considerations, we will make every reasonable effort to honor your request promptly in accordance with applicable law or inform you if we require further information in order to fulfil your request. When processing your request, we may ask you for additional information to confirm or verify your identity and for security purposes, before processing and/or honoring your request. We reserve the right to charge a fee where permitted by law, for instance if your request is manifestly unfounded or excessive. In the event that your request would adversely affect the rights and freedoms of others (for example, would impact the duty of confidentiality we owe to others) or if we are legally entitled to deal with your request in a different way than initial requested, we will address your request to the maximum extent possible, all in accordance with applicable law.
+5.2 You can exercise your rights by contacting us at [\[email protected\]](https://www.wordtune.com/cdn-cgi/l/email-protection). You may use an authorized agent to submit a request on your behalf if you provide the authorized agent written permission signed by you. To protect your privacy, we may take steps to verify your identity before fulfilling your request. Subject to legal and other permissible considerations, we will make every reasonable effort to honor your request promptly in accordance with applicable law or inform you if we require further information in order to fulfil your request. When processing your request, we may ask you for additional information to confirm or verify your identity and for security purposes, before processing and/or honoring your request. We reserve the right to charge a fee where permitted by law, for instance if your request is manifestly unfounded or excessive. In the event that your request would adversely affect the rights and freedoms of others (for example, would impact the duty of confidentiality we owe to others) or if we are legally entitled to deal with your request in a different way than initial requested, we will address your request to the maximum extent possible, all in accordance with applicable law.
 
 6.
 
 Use by Children
 ---------------
 
-We do not intentionally collect data from children under the age of eighteen (18) years. If you believe that we might have any such information, please contact us at [privacy@wordtune.com](mailto:privacy@wordtune.com). Regardless, in the event that we become aware that you provide Personal Data in violation of applicable privacy laws, we reserve the right to delete it.
+We do not intentionally collect data from children under the age of eighteen (18) years. If you believe that we might have any such information, please contact us at [\[email protected\]](https://www.wordtune.com/cdn-cgi/l/email-protection). Regardless, in the event that we become aware that you provide Personal Data in violation of applicable privacy laws, we reserve the right to delete it.
 
 7.
 
@@ -452,17 +452,17 @@ Analytic tools
 Specific provisions applicable under California privacy law
 -----------------------------------------------------------
 
-10.1. **California Privacy Rights**: California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. To make such a request, please send an email to [privacy@wordtune.com](mailto:privacy@wordtune.com). Please note that we are only required to respond to one request per customer each year.**‍**
+10.1. **California Privacy Rights**: California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. To make such a request, please send an email to [\[email protected\]](https://www.wordtune.com/cdn-cgi/l/email-protection). Please note that we are only required to respond to one request per customer each year.**‍**
 
 10.2. **Our California Do Not Track Notice (Shine the Light)**: Do Not Track (“**DNT**”) is a privacy preference that users can set in certain web browsers. Please note that we do not respond to or honor DNT signals or similar mechanisms transmitted by web browsers.**‍**
 
-10.3. **Deletion Of Content From California Residents**: If you are a California resident under the age of 18 and a registered user, California Business and Professions Code Section 22581 permits you to remove content or Personal Information you have publicly posted. To remove, please send an email to [privacy@wordtune.com](mailto:privacy@wordtune.com). Please be aware that after removal you will not be able to restore removed content. In addition, such removal does not ensure complete or comprehensive removal of the content or Personal Information you have posted and that there may be circumstances in which the law does not require us to enable removal of content
+10.3. **Deletion Of Content From California Residents**: If you are a California resident under the age of 18 and a registered user, California Business and Professions Code Section 22581 permits you to remove content or Personal Information you have publicly posted. To remove, please send an email to [\[email protected\]](https://www.wordtune.com/cdn-cgi/l/email-protection). Please be aware that after removal you will not be able to restore removed content. In addition, such removal does not ensure complete or comprehensive removal of the content or Personal Information you have posted and that there may be circumstances in which the law does not require us to enable removal of content
 
 11.
 
 Contact Us
 ----------
 
-If you have any questions, concerns or complaints regarding our compliance with this notice and the data protection laws, or if you wish to exercise your rights, we encourage you to first contact us at [privacy@wordtune.com](mailto:privacy@wordtune.com).
+If you have any questions, concerns or complaints regarding our compliance with this notice and the data protection laws, or if you wish to exercise your rights, we encourage you to first contact us at [\[email protected\]](https://www.wordtune.com/cdn-cgi/l/email-protection).
 
 Last Updated: September 3, 2023
