@@ -37,7 +37,7 @@ We respect your privacy and are strongly committed to keeping secure any informa
 
 **Changes to this privacy policy** – We will update this privacy policy from time to time after giving proper notice. Read more.
 
-Contact us – Please contact us at: legal@copy.ai, or at our offices located at 1661 International Dr, Memphis, TN 38120, USA.
+Contact us – Please contact us at: [\[email protected\]](https://www.copy.ai/cdn-cgi/l/email-protection), or at our offices located at 1661 International Dr, Memphis, TN 38120, USA.
 
 ‍
 
@@ -237,7 +237,7 @@ Under the Regulation (EU) 2016/679 of the European Parliament and of the Council
 * Your consent when we ask for your consent to process your Personal Data for a specific purpose that we communicate to you. You have the right to withdraw your consent at any time.
 * Compliance with our legal obligations when we use your Personal Data to comply with applicable law or when we protect our or our affiliates’, users’, or third parties’ rights, safety, and property.
 
-At any time, you can contact our privacy team at: legal@copy.ai and request to exercise your rights in accordance with the provisions provided bylaw:
+At any time, you can contact our privacy team at: [\[email protected\]](https://www.copy.ai/cdn-cgi/l/email-protection) and request to exercise your rights in accordance with the provisions provided bylaw:
 
 * You are entitled to access the Personal Data that we keep about you together with information about how and on what basis the Personal Data is being processed and to rectify when such information is inaccurate. If you find that the Personal Data related to you is not accurate, complete or updated, then please provide us the necessary information to correct it.
 * You can contact us if you want to withdraw your consent to the processing of Personal Data related to you. Exercising this right will not affect the lawfulness of processing based on consent before its withdrawal.
@@ -255,7 +255,7 @@ Note that when you send us a request to exercise your rights, we will need to re
 
 Where we process PersonalData as part of the Services, as a data processor of our users, we are committed to assist our data controllers to fulfill the above mentioned rights under the GDPR.
 
-If you have any concerns about the way we process Personal Data related to you, you are welcome to contact our privacy team at: [legal@copy.ai](mailto:legal@copy.ai) or write to us at: Copy.AI, Inc., 1661 International Drive, Memphis, TN 38120, USA.
+If you have any concerns about the way we process Personal Data related to you, you are welcome to contact our privacy team at: [\[email protected\]](https://www.copy.ai/cdn-cgi/l/email-protection) or write to us at: Copy.AI, Inc., 1661 International Drive, Memphis, TN 38120, USA.
 
 11\. **U.S. State Law Disclosures**
 -----------------------------------
@@ -288,15 +288,13 @@ CopyAI, Inc.
 1661 International Drive  
 Memphis, TN 38120, USA  
 ‍  
-‍[legal@copy.ai  
-‍  
-‍](mailto:legal@copy.ai)571-758-3823
+‍[\[email protected\]](https://www.copy.ai/cdn-cgi/l/email-protection)571-758-3823
 
 **Verification.** In order to protect your Personal Data from unauthorized access, change, or deletion, we may require you to verify your credentials before you can submit a request to know, correct, or delete Personal Data. If you do not have an account with us, or if we suspect fraudulent or malicious activity, we may ask you to provide additional Personal Data and proof of residency for verification. If we cannot verify your identity, we will not be able to honor your request.
 
-**Authorized Agents.** You may also submit a rights request through an authorized agent. If you do so, the agent must present signed written permission to act on your behalf and you may also be required to independently verify your identity and submit proof of your residency with us. Authorized agent requests can be submitted to legal@copy.ai.
+**Authorized Agents.** You may also submit a rights request through an authorized agent. If you do so, the agent must present signed written permission to act on your behalf and you may also be required to independently verify your identity and submit proof of your residency with us. Authorized agent requests can be submitted to [\[email protected\]](https://www.copy.ai/cdn-cgi/l/email-protection).
 
-**Appeals.** Depending on where you live, you may have the right to appeal a decision we make relating to requests to exercise your rights under applicable local law. To appeal a decision, please send your request to legal@copy.ai.
+**Appeals.** Depending on where you live, you may have the right to appeal a decision we make relating to requests to exercise your rights under applicable local law. To appeal a decision, please send your request to [\[email protected\]](https://www.copy.ai/cdn-cgi/l/email-protection).
 
 **Additional Privacy Rights for California Residents**
 
@@ -312,7 +310,7 @@ The Services are not directed to children under 13 (or other age as required by 
 
 We retain different types of Personal Data for different periods, depending on the purposes for processing such information, our legitimate business purposes as well as pursuant to legal requirements under the applicable laws.  
 
-We will maintain your contact details, to help us stay in contact with you. At any time before or after the termination of the Services, you can contact our privacy team at: legal@copy.ai, and request to delete your contact details.
+We will maintain your contact details, to help us stay in contact with you. At any time before or after the termination of the Services, you can contact our privacy team at: [\[email protected\]](https://www.copy.ai/cdn-cgi/l/email-protection), and request to delete your contact details.
 
 Note that we may retain your details without using them unless necessary and for the necessary period of time, for legal requirements and proceedings, and that we will not retain the Personal Data related to you for any longer than reasonably necessary for purposes described in this privacy policy.
 
@@ -337,8 +335,6 @@ CopyAI, Inc.
 1661 International Dr  
 Memphis, TN 38120, USA  
 ‍  
-‍[legal@copy.ai  
-‍  
-‍](mailto:legal@copy.ai)571-758-3823
+‍[\[email protected\]](https://www.copy.ai/cdn-cgi/l/email-protection)571-758-3823
 
-If you are an EEA resident and have any concerns about the way we process Personal Data related to you, you are welcome to contact our representative in the EU at: contact@gdprlocal.com. We will look into your inquiry and make good-faith efforts to respond promptly.
+If you are an EEA resident and have any concerns about the way we process Personal Data related to you, you are welcome to contact our representative in the EU at: [\[email protected\]](https://www.copy.ai/cdn-cgi/l/email-protection). We will look into your inquiry and make good-faith efforts to respond promptly.
