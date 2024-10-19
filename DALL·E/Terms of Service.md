@@ -5,22 +5,22 @@ Updated: November 14, 2023
 Europe Terms of Use
 ===================
 
-**Effective: February 15, 2024** ([previous versions](https://openai.com/policies/mar-2023-terms/))
+**Effective: February 15, 2024** ([previous versions⁠](https://openai.com/policies/mar-2023-terms/))
 
-_**These Terms of Use apply if you reside in the European Economic Area (EEA), Switzerland, or UK. If you live outside of the EEA, Switzerland, or UK,**_ [_**these Terms of Use**_](https://openai.com/policies/row-terms-of-use/) _**apply to you.**_
+_**These Terms of Use apply if you reside in the European Economic Area (EEA), Switzerland, or UK. If you live outside of the EEA, Switzerland, or UK,**_ [_**these Terms of Use**_⁠](https://openai.com/policies/row-terms-of-use/) _**apply to you.**_
 
 Thank you for using OpenAI!
 
 These Terms of Use (“**Terms**”) apply to your use of ChatGPT, DALL·E, and OpenAI’s other services for individuals, along with any associated software applications, technology and websites (“**Services**”), including personal, non-commercial use of our Services by consumers. You form a contract with us when you confirm that you accept these Terms or when you otherwise use the Services. 
 
-Our [Business Terms](https://openai.com/policies/business-terms/) govern use of ChatGPT Enterprise, our APIs, and our other services for businesses and developers. 
+Our [Business Terms⁠](https://openai.com/policies/business-terms/) govern use of ChatGPT Enterprise, our APIs, and our other services for businesses and developers. 
 
-Our [Privacy Policy](https://openai.com/policies/privacy-policy/) explains how we collect and use personal information. Although it does not form part of these Terms, it is an important document that you should read.
+Our [Privacy Policy⁠](https://openai.com/policies/privacy-policy/) explains how we collect and use personal information. Although it does not form part of these Terms, it is an important document that you should read.
 
 Who we are
 ----------
 
-OpenAI is an AI research and deployment company. Our mission is to ensure that artificial general intelligence benefits all of humanity. For more information about OpenAI, please visit [https://openai.com/about](https://openai.com/about/). Our Services are provided to you by:
+OpenAI is an AI research and deployment company. Our mission is to ensure that artificial general intelligence benefits all of humanity. For more information about OpenAI, please visit [https://openai.com/about⁠](https://openai.com/about/). Our Services are provided to you by:
 
 * _OpenAI Ireland Ltd,_ a company incorporated in the Republic of Ireland with its registered office at 1st Floor, The Liffey Trust Centre, 117-126 Sheriff Street Upper, Dublin 1, D01 YC43, Ireland and company number 737350, if you are resident in the EEA or Switzerland. 
     
@@ -32,15 +32,15 @@ Additional Service-specific Terms
 
 Depending on the specific Service or features you use, additional Service-specific terms and policies may apply to your use of our Services. The key ones to be aware of, and which form part of these Terms, are described below: 
 
-* [Usage Policies](https://openai.com/policies/usage-policies/): these policies explain how you may use our Services and Content.
+* [Usage Policies⁠](https://openai.com/policies/usage-policies/): these policies explain how you may use our Services and Content.
     
-* [Service Terms](https://openai.com/policies/service-terms/): these terms apply when you use certain Services or features;
+* [Service Terms⁠](https://openai.com/policies/service-terms/): these terms apply when you use certain Services or features;
     
-* [Sharing & Publication Policy:](https://openai.com/policies/sharing-publication-policy/) this policy sets out rules for when you share Content[;](https://openai.com/policies/sharing-publication-policy/)
+* [Sharing & Publication Policy:⁠](https://openai.com/policies/sharing-publication-policy/) this policy sets out rules for when you share Content[;⁠](https://openai.com/policies/sharing-publication-policy/)
     
-* [Service Credit Terms](https://openai.com/policies/service-credit-terms/): these terms govern the purchase and use of service credits on our Services; and 
+* [Service Credit Terms⁠](https://openai.com/policies/service-credit-terms/): these terms govern the purchase and use of service credits on our Services; and 
     
-* [Brand Guidelines](https://openai.com/brand/): these guidelines explain how you may use our name and logo.
+* [Brand Guidelines⁠](https://openai.com/brand/): these guidelines explain how you may use our name and logo.
     
 
 Registration and access
@@ -91,7 +91,7 @@ Content
 
 **Our use of content.** We can use your Content worldwide to provide, maintain, develop, and improve our Services, comply with applicable law, enforce our terms and policies and keep our Services safe. 
 
-**Opt out.** If you do not want us to use your Content to train our models, you have the option to opt out by updating your account settings. Further information can be found in [this Help Center article(opens in a new window)](https://help.openai.com/en/articles/5722486-how-your-data-is-used-to-improve-model-performance). Please note that in some cases this may limit the ability of our Services to better address your specific use case.
+**Opt out.** If you do not want us to use your Content to train our models, you have the option to opt out by updating your account settings. Further information can be found in [this Help Center article⁠(opens in a new window)](https://help.openai.com/en/articles/5722486-how-your-data-is-used-to-improve-model-performance). Please note that in some cases this may limit the ability of our Services to better address your specific use case.
 
 **Accuracy**. Artificial intelligence and machine learning are rapidly evolving fields of study. We are constantly working to improve our Services to make them more accurate, reliable, safe, and beneficial. Given the probabilistic nature of machine learning, use of our Services may in some situations result in Output that does not accurately reflect real people, places, or facts. 
 
@@ -109,7 +109,7 @@ When you use our Services you understand and agree:
 Our IP rights
 -------------
 
-We and our affiliates own all rights, title, and interest in and to the Services. You may only use our name and logo in accordance with our [Brand Guidelines](https://openai.com/brand/).
+We and our affiliates own all rights, title, and interest in and to the Services. You may only use our name and logo in accordance with our [Brand Guidelines⁠](https://openai.com/brand/).
 
 Paid accounts
 -------------
@@ -120,24 +120,24 @@ Paid accounts
 
 **Billing.** If you sign-up for a paid subscription or purchase any Services, you will provide complete and accurate billing information, including a valid payment method. For paid subscriptions, we will automatically charge your payment method on each agreed-upon periodic renewal until you cancel. If your payment cannot be completed, we may downgrade your account or suspend your access to our Services until payment is received. 
 
-**Service credits.** You can pay for some Services in advance by purchasing service credits. All service credits are subject to our [Service credit terms](https://openai.com/policies/service-credit-terms/).
+**Service credits.** You can pay for some Services in advance by purchasing service credits. All service credits are subject to our [Service credit terms⁠](https://openai.com/policies/service-credit-terms/).
 
-**Cooling off period.** You are entitled to cancel your purchase and request a refund without stating the reason during the 14 days following the date of your purchase (the “**Cooling Off Period**”). The refund will cover the relevant subscription fee prorated from the date you request cancellation to the end of the relevant subscription period you have paid for. To cancel and request a refund please [contact Support(opens in a new window)](https://help.openai.com/en/articles/6614161-how-can-i-contact-support) or fill out and send us the [model withdrawal form](https://openai.com/form/model-withdrawal/), or alternatively you may complete the model withdrawal form as described under _**Termination and Suspension**_ below.
+**Cooling off period.** You are entitled to cancel your purchase and request a refund without stating the reason during the 14 days following the date of your purchase (the “**Cooling Off Period**”). The refund will cover the relevant subscription fee prorated from the date you request cancellation to the end of the relevant subscription period you have paid for. To cancel and request a refund please [contact Support⁠(opens in a new window)](https://help.openai.com/en/articles/6614161-how-can-i-contact-support) or fill out and send us the [model withdrawal form⁠](https://openai.com/form/model-withdrawal/), or alternatively you may complete the model withdrawal form as described under _**Termination and Suspension**_ below.
 
-**Cancellation.** Following the Cooling Off Period, you can [cancel(opens in a new window)](https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-plus-subscription) your paid subscription at any time by updating your account settings. You will not be charged after you cancel your paid subscription. You will continue to have access to the Benefits until the end of the subscription period you have paid for, at which point your cancellation will become effective. Unless we specify otherwise, you will not receive a refund or service credit for any days between the day you cancel and the last day of the subscription period you have paid for.
+**Cancellation.** Following the Cooling Off Period, you can [cancel⁠(opens in a new window)](https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-plus-subscription) your paid subscription at any time by updating your account settings. You will not be charged after you cancel your paid subscription. You will continue to have access to the Benefits until the end of the subscription period you have paid for, at which point your cancellation will become effective. Unless we specify otherwise, you will not receive a refund or service credit for any days between the day you cancel and the last day of the subscription period you have paid for.
 
 **Changes.** We may change our prices from time to time. If we increase our subscription prices, we will give you at least 30 days’ notice and any price increase will take effect on your next renewal so that you can cancel if you do not agree to the price increase.
 
 Termination and suspension
 --------------------------
 
-**Your rights**. You can stop using our Services and end your relationship with OpenAI at any time by simply closing your account and stopping your use of the Services. Instructions for how to do this are available [here(opens in a new window)](https://help.openai.com/en/articles/6378407-how-to-delete-your-account). 
+**Your rights**. You can stop using our Services and end your relationship with OpenAI at any time by simply closing your account and stopping your use of the Services. Instructions for how to do this are available [here⁠(opens in a new window)](https://help.openai.com/en/articles/6378407-how-to-delete-your-account). 
 
-**EEA consumer withdrawal right**. If you are an EEA-based consumer, you can close your account and withdraw from these Terms within 14 days of accepting them by [contacting Support(opens in a new window)](https://help.openai.com/en/articles/6614161-how-can-i-contact-support) or filling out and sending us the [model withdrawal form](https://openai.com/form/model-withdrawal/).
+**EEA consumer withdrawal right**. If you are an EEA-based consumer, you can close your account and withdraw from these Terms within 14 days of accepting them by [contacting Support⁠(opens in a new window)](https://help.openai.com/en/articles/6614161-how-can-i-contact-support) or filling out and sending us the [model withdrawal form⁠](https://openai.com/form/model-withdrawal/).
 
 **OpenAI rights**. We may take action to suspend or terminate your access to our Services or close your account if we determine, acting reasonably and objectively:
 
-* You breached these Terms or our [Usage Policies](https://openai.com/policies/usage-policies/).
+* You breached these Terms or our [Usage Policies⁠](https://openai.com/policies/usage-policies/).
     
 * We must do so to comply with the law.
     
@@ -148,7 +148,7 @@ Termination and suspension
 
 **Notice**. If we terminate your account, we will make reasonable efforts to notify you in advance so you can export your Content or your data from the Services, unless it is not appropriate for us to do so, we reasonably believe that continued access to your account will cause damage to OpenAI or anyone else, or we are legally prohibited from doing so.
 
-**Appeals**. If you believe we have suspended or terminated your account in error, you can file an appeal with us by [contacting Support(opens in a new window)](https://help.openai.com/en/articles/6614161-how-can-i-contact-support).
+**Appeals**. If you believe we have suspended or terminated your account in error, you can file an appeal with us by [contacting Support⁠(opens in a new window)](https://help.openai.com/en/articles/6614161-how-can-i-contact-support).
 
 Our commitments to you
 ----------------------
@@ -166,16 +166,16 @@ We do not take responsibility for loss or damage caused by events beyond our rea
 
 **Statutory rights**. You have certain statutory rights that cannot be limited or excluded by a contract like these Terms or that you are legally entitled to, for example, by virtue of being a consumer. These Terms are in no way intended to affect or restrict those rights.
 
-**EEA consumer guarantee**. If you are an EEA-based consumer, then EEA consumer laws provide you with a legal guarantee covering the Services. If you have any questions about your legal guarantee, please [contact Support(opens in a new window)](https://help.openai.com/en/articles/6614161-how-can-i-contact-support).
+**EEA consumer guarantee**. If you are an EEA-based consumer, then EEA consumer laws provide you with a legal guarantee covering the Services. If you have any questions about your legal guarantee, please [contact Support⁠(opens in a new window)](https://help.openai.com/en/articles/6614161-how-can-i-contact-support).
 
 Dispute resolution
 ------------------
 
-**Concerns**. If we have a dispute, we would first like to understand and try to address your concerns before any formal legal action. To share your concerns you can contact us through this [form(opens in a new window)](https://docs.google.com/forms/d/e/1FAIpQLSe6iKNzSYs6mc8CRR1EIGk1yzh9S6BhJUperYaWr5FaElrk0g/viewform).
+**Concerns**. If we have a dispute, we would first like to understand and try to address your concerns before any formal legal action. To share your concerns you can contact us through this [form⁠(opens in a new window)](https://docs.google.com/forms/d/e/1FAIpQLSe6iKNzSYs6mc8CRR1EIGk1yzh9S6BhJUperYaWr5FaElrk0g/viewform).
 
 **Court**. If we cannot resolve our dispute, you or we can go to your local courts.
 
-**EEA consumer alternative dispute resolution**. If you reside in the EEA, you can also raise the dispute with an alternative dispute resolution body via the European Commission’s Online Dispute Resolution (ODR) Platform, which you can access at [https://ec.europa.eu/consumers/odr(opens in a new window)](https://ec.europa.eu/consumers/odr).
+**EEA consumer alternative dispute resolution**. If you reside in the EEA, you can also raise the dispute with an alternative dispute resolution body via the European Commission’s Online Dispute Resolution (ODR) Platform, which you can access at [https://ec.europa.eu/consumers/odr⁠(opens in a new window)](https://ec.europa.eu/consumers/odr).
 
 Copyright complaints
 --------------------
