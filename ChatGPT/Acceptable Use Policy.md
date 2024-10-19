@@ -5,7 +5,7 @@ Updated: January 10, 2024
 Usage policies
 ==============
 
-_We’ve updated our usage policies to be more readable and added service-specific guidance. Customers may sign up to receive notifications of new updates to our usage policies by filling out_ [_this form_(opens in a new window)](https://share.hsforms.com/11ElWDMppRveok1ZzEMFmiQ4sk30)_._
+_We’ve updated our usage policies to be more readable and added service-specific guidance. Customers may sign up to receive notifications of new updates to our usage policies by filling out_ [_this form_⁠(opens in a new window)](https://share.hsforms.com/11ElWDMppRveok1ZzEMFmiQ4sk30)_._
 
 We aim for our tools to be used safely and responsibly, while maximizing your control over how you use them. By using our services, you agree to adhere to our policies.
 
@@ -24,7 +24,7 @@ To maximize innovation and creativity, we believe you should have the flexibilit
     
 3. **Don’t repurpose or distribute output from our services to harm others** – for example, don’t share output from our services to defraud, scam, spam, mislead, bully, harass, defame, discriminate based on protected attributes, sexualize children, or promote violence, hatred or the suffering of others.
     
-4. **Respect our safeguards** - don’t circumvent safeguards or safety mitigations in our services unless supported by OpenAI (e.g., domain experts in our [Red Teaming Network)](https://openai.com/index/red-teaming-network/) or related to research conducted in accordance with our [Sharing & Publication Policy](https://openai.com/policies/sharing-publication-policy/).  
+4. **Respect our safeguards** - don’t circumvent safeguards or safety mitigations in our services unless supported by OpenAI (e.g., domain experts in our [Red Teaming Network)⁠](https://openai.com/index/red-teaming-network/) or related to research conducted in accordance with our [Sharing & Publication Policy⁠](https://openai.com/policies/sharing-publication-policy/).  
     
 
 We report apparent child sexual abuse material (CSAM) to the National Center for Missing and Exploited Children.
@@ -32,7 +32,7 @@ We report apparent child sexual abuse material (CSAM) to the National Center for
 Building with the OpenAI API Platform
 -------------------------------------
 
-The OpenAI Platform allows you to build entirely custom applications. As the developer of your application, you are responsible for designing and implementing how your users interact with our technology. To make this easier, we’ve shared our [Safety best practices(opens in a new window)](https://platform.openai.com/docs/guides/safety-best-practices), and offer tools like our [Moderation Endpoint(opens in a new window)](https://platform.openai.com/docs/guides/moderation) and customizable system messages. 
+The OpenAI Platform allows you to build entirely custom applications. As the developer of your application, you are responsible for designing and implementing how your users interact with our technology. To make this easier, we’ve shared our [Safety best practices⁠(opens in a new window)](https://platform.openai.com/docs/guides/safety-best-practices), and offer tools like our [Moderation Endpoint⁠(opens in a new window)](https://platform.openai.com/docs/guides/moderation) and customizable system messages. 
 
 We recognize that our API introduces new capabilities with scalable impact, so we have service-specific policies that apply to all use of our APIs in addition to our Universal Policies:
 
@@ -131,7 +131,7 @@ These policies may be enforced automatically at submission time or applied retro
 Updates
 -------
 
-Customers may sign up to receive notifications of new updates to our usage policies by filling out [this form(opens in a new window)](https://share.hsforms.com/11ElWDMppRveok1ZzEMFmiQ4sk30).
+Customers may sign up to receive notifications of new updates to our usage policies by filling out [this form⁠(opens in a new window)](https://share.hsforms.com/11ElWDMppRveok1ZzEMFmiQ4sk30).
 
 Changelog
 ---------
