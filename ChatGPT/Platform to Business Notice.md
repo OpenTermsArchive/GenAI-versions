@@ -5,13 +5,13 @@ Updated: November 14, 2023
 Business terms
 ==============
 
-[(Previous versions)](https://openai.com/policies/aug-2023-business-terms/)
+[(Previous versions)⁠](https://openai.com/policies/aug-2023-business-terms/)
 
-_These OpenAI Business Terms govern use of our APIs, ChatGPT Enterprise, ChatGPT Team, and other services for businesses and developers. Use of our services for individuals, such as ChatGPT or DALL·E, are governed by the_ [_Terms of use_](https://openai.com/policies/terms-of-use/)_._
+_These OpenAI Business Terms govern use of our APIs, ChatGPT Enterprise, ChatGPT Team, and other services for businesses and developers. Use of our services for individuals, such as ChatGPT or DALL·E, are governed by the_ [_Terms of use_⁠](https://openai.com/policies/terms-of-use/)_._
 
 Thank you for choosing OpenAI!
 
-These Business Terms are an agreement between OpenAI, L.L.C. and you (“**Customer**”) that governs your use of our Services (as defined below). If you reside within a European Economic Area country or Switzerland, your agreement is with OpenAI Ireland Ltd. By signing up to use the Services, you agree to be bound by these Business Terms. You represent to us that you are lawfully able to enter into contracts and, if you are entering into these Business Terms for an entity, that you have legal authority to bind that entity. These Business Terms also refer to and incorporate the [Service Terms](https://openai.com/policies/service-terms/), [Sharing & Publication Policy](https://openai.com/policies/sharing-publication-policy/), [Usage Policies](https://openai.com/policies/usage-policies/), and any other guidelines or policies we may provide in writing (the “**OpenAI Policies**”) and any ordering document signed by you and OpenAI or OpenAI webpage that you use to purchase the Services (an “**Order Form**”) (collectively, the “**Agreement**”).
+These Business Terms are an agreement between OpenAI, L.L.C. and you (“**Customer**”) that governs your use of our Services (as defined below). If you reside within a European Economic Area country or Switzerland, your agreement is with OpenAI Ireland Ltd. By signing up to use the Services, you agree to be bound by these Business Terms. You represent to us that you are lawfully able to enter into contracts and, if you are entering into these Business Terms for an entity, that you have legal authority to bind that entity. These Business Terms also refer to and incorporate the [Service Terms⁠](https://openai.com/policies/service-terms/), [Sharing & Publication Policy⁠](https://openai.com/policies/sharing-publication-policy/), [Usage Policies⁠](https://openai.com/policies/usage-policies/), and any other guidelines or policies we may provide in writing (the “**OpenAI Policies**”) and any ordering document signed by you and OpenAI or OpenAI webpage that you use to purchase the Services (an “**Order Form**”) (collectively, the “**Agreement**”).
 
 1\. Services
 ------------
@@ -46,7 +46,7 @@ We own all right, title, and interest in and to the Services. You only receive r
 
 3.1 _Customer Content_. You and End Users may provide input to the Services (“Input”), and receive output from the Services based on the Input (“Output”). We call Input and Output together “Customer Content.” As between you and OpenAI, and to the extent permitted by applicable law, you (a) retain all ownership rights in Input and (b) own all Output. We hereby assign to you all our right, title, and interest, if any, in and to Output.
 
-3.2 _Our Obligations for Customer Content_. We will process and store Customer Content in accordance with our [Enterprise privacy](https://openai.com/enterprise-privacy/) commitments. We will only use Customer Content as necessary to provide you with the Services, comply with applicable law, and enforce OpenAI Policies. We will not use Customer Content to develop or improve the Services.
+3.2 _Our Obligations for Customer Content_. We will process and store Customer Content in accordance with our [Enterprise privacy⁠](https://openai.com/enterprise-privacy/) commitments. We will only use Customer Content as necessary to provide you with the Services, comply with applicable law, and enforce OpenAI Policies. We will not use Customer Content to develop or improve the Services.
 
 3.3 _Your Obligations for Customer Content_. You are responsible for all Input and represent and warrant that you have all rights, licenses, and permissions required to provide Input to the Services. You are solely responsible for all use of the Outputs and evaluating the Output for accuracy and appropriateness for your use case, including by utilizing human review as appropriate. 
 
@@ -69,20 +69,20 @@ We own all right, title, and interest in and to the Services. You only receive r
 6\. Privacy
 -----------
 
-6.1 _Personal Data._ If you use the Services to process personal data, you must (a) provide legally adequate privacy notices and obtain necessary consents for the processing of personal data by the Services, (b) process personal data in accordance with applicable law, and (c) if processing “personal data” or “Personal Information” as defined under applicable data protection laws, execute our Data Processing Addendum by filling out [this form(opens in a new window)](https://ironcladapp.com/public-launch/63ffefa2bed6885f4536d0fe).
+6.1 _Personal Data._ If you use the Services to process personal data, you must (a) provide legally adequate privacy notices and obtain necessary consents for the processing of personal data by the Services, (b) process personal data in accordance with applicable law, and (c) if processing “personal data” or “Personal Information” as defined under applicable data protection laws, execute our Data Processing Addendum by filling out [this form⁠(opens in a new window)](https://ironcladapp.com/public-launch/63ffefa2bed6885f4536d0fe).
 
 6.2 _HIPAA._ You agree not to use the Services to create, receive, maintain, transmit, or otherwise process any information that includes or constitutes “Protected Health Information”, as defined under the HIPAA Privacy Rule (45 C.F.R. Section 160.103), unless you have signed a Healthcare Addendum and Business Associate Agreement (together, the “Healthcare Addendum”) with us prior to creating, receiving, maintaining, transmitting, or otherwise processing this information.
 
 7\. Payment; Taxes
 ------------------
 
-7.1 _Fees and Billing._ You agree to pay all fees charged to your account (“Fees”) according to the prices and terms on the [Pricing Page](https://openai.com/api/pricing/), or as otherwise stated in an Order Form. Price changes on the Pricing Page will be effective immediately for all price decreases or changes made for legal reasons. All other price changes will be effective 14 days after they are posted. We have the right to correct pricing errors or mistakes even after issuing an invoice or receiving payment. You authorize us and our third-party payment processor(s) to charge the payment method provided on your account on an agreed-upon periodic basis, but we may reasonably change the date on which the charge is posted. Fees are payable in U.S. dollars and are due upon invoice issuance, unless otherwise agreed in an Order Form. Payments are nonrefundable except as provided in this Agreement.
+7.1 _Fees and Billing._ You agree to pay all fees charged to your account (“Fees”) according to the prices and terms on the [Pricing Page⁠](https://openai.com/api/pricing/), or as otherwise stated in an Order Form. Price changes on the Pricing Page will be effective immediately for all price decreases or changes made for legal reasons. All other price changes will be effective 14 days after they are posted. We have the right to correct pricing errors or mistakes even after issuing an invoice or receiving payment. You authorize us and our third-party payment processor(s) to charge the payment method provided on your account on an agreed-upon periodic basis, but we may reasonably change the date on which the charge is posted. Fees are payable in U.S. dollars and are due upon invoice issuance, unless otherwise agreed in an Order Form. Payments are nonrefundable except as provided in this Agreement.
 
-7.2 _Service Credits._ You may need to prepay for Services through the purchase of credits (“Service Credits”) or we may provide you with promotional Service Credits from time-to-time. All Service Credits are subject to our [Service Credit Terms](https://openai.com/policies/service-credit-terms/).
+7.2 _Service Credits._ You may need to prepay for Services through the purchase of credits (“Service Credits”) or we may provide you with promotional Service Credits from time-to-time. All Service Credits are subject to our [Service Credit Terms⁠](https://openai.com/policies/service-credit-terms/).
 
 7.3 _Taxes._ Fees are exclusive of taxes, which we will charge as required by applicable law in connection with the Services. We will use the name and address in your account as the place of supply for tax purposes. 
 
-7.4 _Disputes and Late Payments._ To dispute an invoice, you must contact [ar@openai.com](mailto:ar@openai.com) within thirty (30) days of issuance. Overdue undisputed amounts may be subject to a finance charge of 1.5% of the unpaid balance per month, and we may suspend the Services immediately after providing written notice of late payment.
+7.4 _Disputes and Late Payments._ To dispute an invoice, you must contact [ar@openai.com⁠](mailto:ar@openai.com) within thirty (30) days of issuance. Overdue undisputed amounts may be subject to a finance charge of 1.5% of the unpaid balance per month, and we may suspend the Services immediately after providing written notice of late payment.
 
 8\. Term; Termination
 ---------------------
@@ -128,7 +128,7 @@ YOU AGREE TO THE FOLLOWING MANDATORY ARBITRATION AND CLASS ACTION WAIVER PROVIS
 
 13.1 _MANDATORY ARBITRATION._ You and OpenAI agree to resolve any claims arising out of or relating to this Agreement or our Services, regardless of when the claim arose, even if it was before this Agreement existed (a “**Dispute**”), through final and binding arbitration.
 
-13.2 _Informal Dispute Resolution._ We would like to understand and try to address your concerns prior to formal legal action. Before either of us files a claim against the other, we both agree to try to resolve the Dispute informally. You agree to do so by sending us notice through [this form(opens in a new window)](https://docs.google.com/forms/d/e/1FAIpQLSeho5zqudbNosAqbzvdaOJJZVn5b4or85nVUu03ruH25k0TRA/viewform). We will do so by sending you notice to the email address associated with your account. If we are unable to resolve a Dispute within 60 days, either of us has the right to initiate arbitration. We also both agree to attend an individual settlement conference if either party requests one during this time. Any statute of limitations will be tolled during this informal resolution process.
+13.2 _Informal Dispute Resolution._ We would like to understand and try to address your concerns prior to formal legal action. Before either of us files a claim against the other, we both agree to try to resolve the Dispute informally. You agree to do so by sending us notice through [this form⁠(opens in a new window)](https://docs.google.com/forms/d/e/1FAIpQLSeho5zqudbNosAqbzvdaOJJZVn5b4or85nVUu03ruH25k0TRA/viewform). We will do so by sending you notice to the email address associated with your account. If we are unable to resolve a Dispute within 60 days, either of us has the right to initiate arbitration. We also both agree to attend an individual settlement conference if either party requests one during this time. Any statute of limitations will be tolled during this informal resolution process.
 
 13.3 _Arbitration Forum._ Both you or OpenAI may commence binding arbitration through National Arbitration and Mediation (NAM), an alternative dispute resolution provider, and if NAM is not available, you and OpenAI will select an alternative arbitral forum. The initiating party must pay all filing fees for the arbitration and payment for other administrative and arbitrator’s costs will be governed by the arbitration provider’s rules. If your claim is determined to be frivolous, you are responsible for reimbursing us for all administrative, hearing, and other fees that we have incurred as a result of the frivolous claim.
 
@@ -156,7 +156,7 @@ YOU AGREE TO THE FOLLOWING MANDATORY ARBITRATION AND CLASS ACTION WAIVER PROVIS
 
 15.2 _Feedback._ If you provide us with feedback regarding the Services (“Feedback”), you grant us the right to use and exploit Feedback without restriction or compensation.
 
-15.3 _Publicity._ You may use our name and marks to describe your use of the Services solely in accordance with our [Brand guidelines](https://openai.com/brand/). We will not publicly use your name or marks without your prior written approval.
+15.3 _Publicity._ You may use our name and marks to describe your use of the Services solely in accordance with our [Brand guidelines⁠](https://openai.com/brand/). We will not publicly use your name or marks without your prior written approval.
 
 15.4 _U.S. Federal Agency Entities._ The Services were developed solely at private expense and are commercial computer software and related documentation within the meaning of the applicable U.S. Federal Acquisition Regulation and agency supplements thereto.
 
@@ -170,7 +170,7 @@ YOU AGREE TO THE FOLLOWING MANDATORY ARBITRATION AND CLASS ACTION WAIVER PROVIS
 
 15.9 _Assignment._ This Agreement cannot be assigned other than as permitted under this Section 15.9 (Assignment). We may assign this Agreement to an affiliate without notice or your consent. Both you and OpenAI may assign this Agreement to a successor to substantially all the respective party’s assets or business, provided that the assigning party provides reasonable (at least 30 days) prior written notice of the assignment. This Agreement will be binding upon the parties and their respective successors and permitted assigns. 
 
-15.10 _Notices._ All notices will be in writing. We may provide you notice using the registration information or the email address associated with your account. Service will be deemed given on the date of receipt if delivered by email or on the date sent via courier if delivered by post. We accept service of process at this address: OpenAI, L.L.C., 3180 18th Street, San Francisco, CA 94110, Attn: [contract-notices@openai.com](mailto:contract-notices@openai.com).
+15.10 _Notices._ All notices will be in writing. We may provide you notice using the registration information or the email address associated with your account. Service will be deemed given on the date of receipt if delivered by email or on the date sent via courier if delivered by post. We accept service of process at this address: OpenAI, L.L.C., 3180 18th Street, San Francisco, CA 94110, Attn: [contract-notices@openai.com⁠](mailto:contract-notices@openai.com).
 
 15.11 _Severability._ In the event that any provision of this Agreement is determined to be illegal or unenforceable, that provision will be limited or eliminated so that this Agreement will otherwise remain in full force and effect and enforceable.
 
