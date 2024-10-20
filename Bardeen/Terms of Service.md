@@ -77,25 +77,23 @@ Bardeen requires payment of a fee for use of the Services (or certain portions t
     
 6. Attempt to access or search the Services or download content from the Services using any engine, software, tool, agent, device or mechanism (including spiders, robots, crawlers, data mining tools or the like) other than the software and/or search agents provided by Bardeen or other generally available third-party web browsers;
     
-7. Send any unsolicited or unauthorized advertising, promotional materials, email, junk mail, spam, chain letters or other form of solicitation;
+7. Use any meta tags or other hidden text or metadata utilizing a Bardeen trademark, logo URL or product name without Bardeen’s express written consent;
     
-8. Use any meta tags or other hidden text or metadata utilizing a Bardeen trademark, logo URL or product name without Bardeen’s express written consent;
+8. Use the Services, or any portion thereof, for any commercial purpose or for the benefit of any third party or in any manner not permitted by these Terms;
     
-9. Use the Services, or any portion thereof, for any commercial purpose or for the benefit of any third party or in any manner not permitted by these Terms;
+9. Forge any TCP/IP packet header or any part of the header information in any email or newsgroup posting, or in any way use the Services to send altered, deceptive or false source-identifying information;
     
-10. Forge any TCP/IP packet header or any part of the header information in any email or newsgroup posting, or in any way use the Services to send altered, deceptive or false source-identifying information;
+10. Attempt to decipher, decompile, disassemble or reverse engineer any of the software used to provide the Services;
     
-11. Attempt to decipher, decompile, disassemble or reverse engineer any of the software used to provide the Services;
+11. Interfere with, or attempt to interfere with, the access of any user, host or network, including, without limitation, sending a virus, overloading, flooding, spamming, or mail-bombing the Services;
     
-12. Interfere with, or attempt to interfere with, the access of any user, host or network, including, without limitation, sending a virus, overloading, flooding, spamming, or mail-bombing the Services;
+12. Collect or store any personally identifiable information from the Services from other users of the Services without their express permission;
     
-13. Collect or store any personally identifiable information from the Services from other users of the Services without their express permission;
+13. Impersonate or misrepresent your affiliation with any person or entity;
     
-14. Impersonate or misrepresent your affiliation with any person or entity;
+14. Violate any applicable law, rule regulation, contract, contractual obligation, or other commitment you may have with a third party in relation to your use of the Services (including without limitation using features of Bardeen’s Services on third-party resources that expressly permit the usage of such features or using the Services to violate any use restrictions, limitations, or other prohibitions on any third-party product or service); or
     
-15. Violate any applicable law, rule regulation, contract, contractual obligation, or other commitment you may have with a third party in relation to your use of the Services (including without limitation using features of Bardeen’s Services on third-party resources that expressly permit the usage of such features or using the Services to violate any use restrictions, limitations, or other prohibitions on any third-party product or service); or
-    
-16. Encourage or enable any other individual to do any of the foregoing.
+15. Encourage or enable any other individual to do any of the foregoing.
     
 
 Bardeen is not obligated to monitor access to or use of the Services or to review or edit any content. However, we have the right to do so for the purpose of operating the Services, to ensure compliance with these Terms and to comply with applicable law or other legal requirements. We reserve the right, but are not obligated, to remove or disable access to any content, including User Content, at any time and without notice, including, but not limited to, if we, at our sole discretion, consider it objectionable or in violation of these Terms. We have the right to investigate violations of these Terms or conduct that affects the Services. We may also consult and cooperate with law enforcement authorities to prosecute users who violate the law.  
