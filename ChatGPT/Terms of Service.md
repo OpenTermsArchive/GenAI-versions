@@ -1,11 +1,11 @@
 EU terms of use | OpenAI
 
-Updated: November 14, 2023
+Updated: October 23, 2024
 
 Europe Terms of Use
 ===================
 
-**Effective: February 15, 2024** ([previous versions⁠](https://openai.com/policies/mar-2023-terms/))
+**Effective: October 23, 2024** ([previous versions⁠](https://openai.com/policies/mar-2023-terms/))
 
 _**These Terms of Use apply if you reside in the European Economic Area (EEA), Switzerland, or UK. If you live outside of the EEA, Switzerland, or UK,**_ [_**these Terms of Use**_⁠](https://openai.com/policies/row-terms-of-use/) _**apply to you.**_
 
@@ -89,7 +89,7 @@ Content
 
 **Similarity of content.** Due to the nature of our Services and artificial intelligence generally, Output may not be unique and other users may receive similar output from our Services. Our assignment above does not extend to other users’ output or any Third Party Output. 
 
-**Our use of content.** We can use your Content worldwide to provide, maintain, develop, and improve our Services, comply with applicable law, enforce our terms and policies and keep our Services safe. 
+**Our use of content.** We can use your Content worldwide to provide, maintain, develop, and improve our Services, comply with applicable law, enforce our terms and policies and keep our Services safe. If you're using ChatGPT through Apple's integrations, see [this Help Center article⁠(opens in a new window)](https://help.openai.com/en/articles/9737562) for how we handle your Content.
 
 **Opt out.** If you do not want us to use your Content to train our models, you have the option to opt out by updating your account settings. Further information can be found in [this Help Center article⁠(opens in a new window)](https://help.openai.com/en/articles/5722486-how-your-data-is-used-to-improve-model-performance). Please note that in some cases this may limit the ability of our Services to better address your specific use case.
 
