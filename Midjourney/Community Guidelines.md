@@ -65,6 +65,20 @@ Rules
 
 * * *
 
+Specific Community Guidelines & Important Reminders for External Image Editor
+-----------------------------------------------------------------------------
+
+The editor is a powerful new tool for unleashing imagination. It’s not for creating images that might deceive, harass, or maliciously harm others.
+
+* Do not abuse the editor to manipulate images of real people, famous or otherwise, in ways that could lead to harassment, abuse, or harm.
+* Do not abuse the editor to create images intended to offend, deceive, or maliciously harm others.
+* Do not abuse the editor to create NSFW or sexualized imagery. We will take especially strict action against anyone attempting to produce sexualized images of real people.
+
+Anyone attempting to violate our Community Guidelines using the editor will face suspension or banning without refund.  
+Use this tool with respect and consideration for others.
+
+* * *
+
 Self-Policing and Reporting
 ---------------------------
 
