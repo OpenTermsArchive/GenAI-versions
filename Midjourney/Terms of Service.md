@@ -5,7 +5,7 @@ Terms of Service
 
 * * *
 
-**Version Effective Date: August 13, 2024**
+**Version Effective Date: October 24, 2024**
 
 Thank you for using the Midjourney platform. These Terms of Service (“Terms”) govern the relationship between Midjourney, Inc. (“Midjourney”,”we”,”our”) and the entity or person (“Customer, “You”, “Your”) using or accessing our services, applications, or platform through our website available at midjourney.com (the “Site”), through any of our Discord servers, or by any other means (together, the “Services”). These Terms explain what rights you have with respect to images and other assets which you might generate with the Service (the "Assets"), or prompts you might enter into the Service (the “Inputs”), your use of the Services, and other important topics like arbitration. Our privacy policy outlines how we handle your data [here](https://docs.midjourney.com/privacy-policy). Please carefully read these Terms, along with our privacy policy, and all other documents referenced in these Terms, including the Subscription Plans page and the Community Guidelines below. Together with the Terms, these documents form a single binding agreement between us (the “Agreement”).
 
@@ -145,7 +145,23 @@ costs, losses, liabilities, and expenses (including attorneys’ fees)
 from third party claims arising out of or relating to your use of the  
 Services and Assets or any violation of these Terms.
 
-### 11\. Miscellaneous
+### 11\. Image Editor
+
+Midjourney’s Image Editor tool (“Editor”) is provided as part of the Services and is subject to the terms and conditions outlined in this Agreement. By accessing and using Editor, you agree to comply with the conditions set forth in this section, which govern Editor availability and usage. If you do not agree to these Editor terms and conditions, you must not access and must stop using Editor.
+
+#### Editor Access and Restrictions
+
+Editor is available exclusively to users who have either purchased a subscription on an annual basis, have created more than 10,000 Assets, or have continuously subscribed to Midjourney for more than 12 months. Your access to Editor is contingent on your subscription status. In order to use Editor, you must meet the age requirements as outlined in this Agreement.
+
+Subject to your compliance with this Agreement, Midjourney grants you the right to access and use Editor. In using Editor, you shall not violate any applicable laws, this Agreement, Midjourney Community Guidelines, or any other Midjoureny policies or guidelines that are made available to you. Midjourney reserves the right to remove any content that you upload or generate using Editor, or suspend or ban your access to Editor at any time, and for any reason.
+
+#### Editor Content
+
+You are responsible for all content, including any images and prompts, that you input or generate when using Editor.
+
+You represent and warrant that you have all necessary rights and permissions to provide, edit, and share such content, including obtaining necessary permission from anyone who may be depicted in the images that you upload and edit using Editor. You will not upload content, enter prompts, or use Editor in any way that infringes or violates any third-party intellectual property or privacy rights.
+
+### 12\. Miscellaneous
 
 1. Force Majeure. Neither party will be liable for failure or delay in performance to the extent caused by circumstances beyond its reasonable control, including acts of God, natural disasters, terrorism, riots, or war.
 2. No Agency. This Agreement does not create any agency, partnership, or joint venture between the parties.
