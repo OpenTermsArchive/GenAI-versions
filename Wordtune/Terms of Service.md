@@ -201,7 +201,7 @@ Patent Notices
 
 AI21 Labs Ltd’s products, including but not restricted to Wordtune, are protected by issued patents in several countries, including the United States of America. This website satisfies the virtual patent marking provisions of those various jurisdictions, including _inter alia_ the US virtual patent marking provisions of 35 § 287(a). AI21 Labs Ltd’s and its subsidiaries’ products are protected by one or more of the following patents:
 
-• In the United States: US11574120, US11610055, US11610056, US11636256,US11699033, US11636257, US11636258, US11610057, US12032921, US12061867.
+• In the United States: US11574120, US11610055, US11610056, US11636256,US11699033, US11636257, US11636258, US11610057, US12032921, US12061867, US12124813.
 
 • In Australia: 2020326435, 2023222905, 2023241291, 2023258365.
 
