@@ -278,7 +278,7 @@ To the extent provided for by local law and subject to applicable exceptions, in
 
 The following table provides additional information about the categories of Personal Data we collect and how we disclose that information. You can read more about the categories of Personal Data we collect in “Personal Data we collect” above, how we use Personal Data in “The purposes of use of the Personal Data” above, and how we retain Personal Data in “Data Retention and Deletion” below.
 
-![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/651da9de23ff82a3d691d9c4_pp%20table.png)
+![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/651da9de23ff82a3d691d9c4_pp%20table.avif)
 
 We don’t “sell” Personal Data or “share” Personal Data for cross-contextual behavioral advertising (as those terms are defined under applicable local law). We also don’t process sensitive Personal Data for the purposes of inferring characteristics about a consumer.
 
