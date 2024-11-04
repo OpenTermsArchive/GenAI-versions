@@ -3,18 +3,18 @@
 Terms of Service - Consumer
 ===========================
 
-_Last Modified: September 16, 2024 ([previous version](https://x.ai/terms-of-service/prev))_
+_Last Modified: September 16, 2024 ([previous version](https://x.ai/legal/terms-of-service/previous))_
 
 Welcome to xAI! Please review these Terms of Service (these “**Terms**”), which describe the terms and conditions by which individuals may access and/or use Grok, our website(s), including x.ai, grok.com, and any successor URL(s), and any and all related products, software, documentation, and online, mobile-enabled, and/or digital services (collectively, the “**Service**”) provided by xAI (including its successors and assigns, “**xAI**,” “**we**,” “**our**,” or “**us**”). These Terms apply to all visitors and users of the Service, and to all others who access the Service (collectively, “Users,” and, as applicable to you, “you” or “your”).
 
 By accessing our Service, you signify that you have read, understood, and agree to be bound by these Terms.
 
-Please read our [Privacy Policy](https://x.ai/privacy-policy), which describes how we collect and use personal information. Although it does not form part of these Terms, it is an important document you should read.
+Please read our [Privacy Policy](https://x.ai/legal/privacy-policy), which describes how we collect and use personal information. Although it does not form part of these Terms, it is an important document you should read.
 
 Please note:
 
 * We reserve the right to modify these Terms.
-* For terms governing use of our services for developers and businesses, including APIs and PromptIDE, you must agree to the [Enterprise Terms of Use](https://x.ai/legal/enterprise/terms-of-service).
+* For terms governing use of our services for developers and businesses, including APIs and PromptIDE, you must agree to the [Enterprise Terms of Use](https://x.ai/legal/terms-of-service-enterprise).
 * For Users who are residents of the European Economic Area (EEA), United Kingdom (UK) and Switzerland, you are agreeing to the EU-Specific Terms in Section 18, which supplement or replace certain sections of these Terms.
 * For Users of our free Service (“Grok Preview”), you must also agree to the specific terms in Section 19.
 
@@ -40,7 +40,7 @@ PLEASE READ THESE TERMS CAREFULLY TO ENSURE THAT YOU UNDERSTAND EACH PROVISION. 
         
 2. **Access to the Service; Service Restrictions**
     
-    1. **Access to the Service and Cooperation.** Subject to your compliance with these Terms, our [Acceptable Use Policy](https://x.ai/legal/enterprise/acceptable-use-policy), and any documentation we may make available to you, you are hereby granted a non-exclusive, limited, non-transferable, and freely revocable right to access and use the Service, solely for your personal use strictly as permitted by the features of the Service. We may terminate the license granted in this Section at any time, for any reason or no reason. We reserve all rights not expressly granted herein in and to the Service. In addition, if you do not comply with these Terms, you agree xAI may contact you and require your reasonable cooperation in remediating any issues resulting from said noncompliance, and you agree to reasonably cooperate as required.
+    1. **Access to the Service and Cooperation.** Subject to your compliance with these Terms, our [Acceptable Use Policy](https://x.ai/legal/acceptable-use-policy), and any documentation we may make available to you, you are hereby granted a non-exclusive, limited, non-transferable, and freely revocable right to access and use the Service, solely for your personal use strictly as permitted by the features of the Service. We may terminate the license granted in this Section at any time, for any reason or no reason. We reserve all rights not expressly granted herein in and to the Service. In addition, if you do not comply with these Terms, you agree xAI may contact you and require your reasonable cooperation in remediating any issues resulting from said noncompliance, and you agree to reasonably cooperate as required.
         
     2. **Restrictions.** Except to the extent a restriction is prohibited by Applicable Law, you will not do, and will not assist, permit, or enable any third party to do, any of the following:
         
@@ -305,6 +305,6 @@ xAI's liability to you for damages caused by mere negligence, irrespective of it
 
 xAI may in its sole discretion provide free access to Grok Preview via the website x.ai/grok. If you wish to access or use Grok Preview, you must read and agree to these additional terms before doing so. If you do not agree to these additional terms, you may not access or use Grok Preview.
 
-When you use Grok Preview for free you grant xAI permission to use for training purposes any data you provide to or obtain from Grok Preview, as further detailed in the xAI [Privacy Policy](https://x.ai/privacy-policy). You are not required to log in to use Grok Preview.
+When you use Grok Preview for free you grant xAI permission to use for training purposes any data you provide to or obtain from Grok Preview, as further detailed in the xAI [Privacy Policy](https://x.ai/legal/privacy-policy). You are not required to log in to use Grok Preview.
 
 You acknowledge that your permission to access and use Grok Preview is limited, and that xAI may in its sole discretion limit the number of requests you may send to or responses you may receive from Grok Preview (“Rate Limits”). You agree that xAI may increase or decrease Rate Limits at any time in its sole discretion and agree that you will not attempt to circumvent or otherwise violate Rate Limits.
