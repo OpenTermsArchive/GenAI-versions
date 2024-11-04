@@ -3,11 +3,11 @@
 xAI Privacy Policy
 ==================
 
-_Last Updated: September 5, 2024 ([previous version](https://x.ai/privacy-policy/previous))_
+_Last Updated: October 29, 2024 ([previous version](https://x.ai/legal/privacy-policy/previous))_
 
 At X.AI Corp. ("**xAI**", "**our**", "**us**" or "**we**"), we value your privacy and are committed to being fair, accountable, and transparent in how we handle your personal information. Our Privacy Policy outlines how we collect and use your personal information when you use our websites, products, applications, and other xAI services (our "**Service**"). It also describes your privacy rights.
 
-This Privacy Policy does not apply to content we process on behalf of our enterprise or business customers, such as our API, which is governed by customer terms. If you access Grok on a website controlled by one of our customers, the customer's privacy policy or other agreement between you and them, and not this Privacy Policy, would apply to such processing. If you wish to discontinue such processing or otherwise exercise your rights with respect to such personal information, please contact the company on whose behalf we are processing such data. For example, your use of Grok on X (previously Twitter) is governed by the [X Privacy Policy](https://x.com/en/privacy) and [X Terms](https://x.com/en/tos), not this Privacy Policy.
+**This Privacy Policy does not apply to content we process on behalf of our enterprise or business customers, such as our API, which is governed by customer terms.** If you access Grok on a website controlled by one of our customers, the customer's privacy policy or other agreement between you and them, and not this Privacy Policy, would apply to such processing. If you wish to discontinue such processing or otherwise exercise your rights with respect to such personal information, please contact the company on whose behalf we are processing such data. For example, your use of Grok on X (previously Twitter) is governed by the [X Privacy Policy](https://x.com/en/privacy) and [X Terms](https://x.com/en/tos), not this Privacy Policy.
 
 Quick links
 
@@ -46,11 +46,11 @@ When you use our Service or communicate with us, you provide certain personal in
     
 * _Contact and Communications Data:_ If you communicate with us, we will collect contact information such as your name, email address, any other contact details you voluntarily choose to provide us, and any additional information you provide in your communications with us.
     
-* _User Content_: When you use our Service, we collect personal information that is included in user inputs to the Service (like prompts and file uploads submitted to Grok) ("**Input**") and outputs of the Service (like the text responses Grok generates based on the Input)("**Output**") (together, "**User Content**"). If you include personal information in Inputs you provide to the Service, this information may be reproduced in the Output. Please do not share any personal information (including any sensitive information) in your Input to the Service.
+* _User Content:_ When you use our Service, we collect personal information that is included in user prompts or inputs to the Service (like the text, photos and images, file uploads, and other materials you submit to Grok) ("Input") and outputs of the Service (like the text responses Grok generates based on your Input) ("Output") (together, "User Content"). If you include personal information in Inputs you provide to the Service, this information may be reproduced in the Output. Please do not share any personal information (including any sensitive information) in your Input to the Service.
     
-* _Feedback Data_: Where applicable, we will collect your Feedback (as defined in our [Terms of Use](https://x.ai/legal/terms-of-service/)). This might arise if, for example, in a given conversation with Grok, you report that Grok returned inaccurate information in an Output or you rate an Output to your Input using the thumbs-up/thumbs-down icons.
+* _Feedback Data:_ Where applicable, we will collect your Feedback (as defined in our Terms of Service). This might arise if, for example, in a given conversation with Grok, you report that Grok returned inaccurate information in an Output or you rate an Output to your Input using the thumbs-up/thumbs-down icons.
     
-* _Applicant Data_: If you apply for a job with xAI, we will collect your personal information such as your contact details, resume/CV, education and work history, and visa status. You also may choose to provide your gender, ethnicity, veteran status, disability status, and links to your website, blog, portfolio, LinkedIn or other public profiles.
+* _Applicant Data:_ If you apply for a job or role with xAI, we will collect your personal information such as your contact details, resume/CV, education and work history, visa status, and other information obtained during interviews (including interview recordings and screenshots, where permissible). You also may choose to provide your gender, ethnicity, veteran status, disability status, and links to your website, blog, portfolio, LinkedIn or other public profiles.
     
 * _Social Media Information_: We have pages on social media sites like Instagram, Facebook, Medium, X, YouTube and LinkedIn. When you interact with our social media pages, we collect personal information that you choose to provide to us, such as your contact details (collectively, “**Social Data**”). In addition, the companies that host our social media pages may provide us with aggregate information and analytics about our social media activity.
     
@@ -68,7 +68,7 @@ We automatically collect certain device and usage information when you use or in
 * _Inferred location data_: your country-level, state-level and city-level location based on the IP address.
     
 
-We may collect this information through our Service or through other methods of web analysis, including with the help of technologies, such as cookies, web beacons, and clear gifs. For more information about THE tracking technologies currently deployed through our Service, see our [Cookie Policy](https://x.ai/cookie-policy).
+We may collect this information through our Service or through other methods of web analysis, including with the help of technologies, such as cookies, web beacons, and clear gifs. For more information about the tracking technologies currently deployed through our Service, see our [Cookie Policy](https://x.ai/legal/cookie-policy).
 
 2.3 Personal information from other sources
 
@@ -76,17 +76,17 @@ The personal information we obtain from other sources may include:
 
 * _Publicly available data_: We collect a variety of information that is publicly available on the internet to train and develop the models that power our Service.In some instances, this information may include personal information (for example, information about politicians, celebrities, published authors or other public figures) and sensitive information (for example, political opinions, religious or philosophical beliefs, or information concerning sexual orientation, among others).
     
-    For more information on the sources of information used to develop our large language models, see this [help center article](#).
+    For more information on the sources of information used to develop our large language models, see our consumer FAQs [here](https://x.ai/legal/faq).
     
 * _Public X posts and internet search data_: In responding to search queries, some aspects of the Service may have a feature that allows searching public X posts and conducting real-time web search of public results from the internet. In some instances, this data may include personal information.
     
 * Datasets we license from third party businesses.
     
 
-In addition, for job applicants, we may receive personal information about you from our affiliated companies and third parties, such as recruitment agencies and social media platforms. This information may include:
+In addition, for job applicants, we may receive personal information about you from our affiliated companies and third parties, such as recruitment agencies, social media platforms, and individuals who refer you. This information may include:
 
 * Mailing addresses, job titles, email addresses, phone numbers, intent data (or user behavior data), IP addresses, social media profiles, LinkedIn URLs, and custom profiles.
-* Resumes and background check information.
+* Resumes, reference information, and background check information.
 
 3\. How we use your personal information (our purposes)
 
@@ -100,11 +100,11 @@ We use your personal information for a variety of purposes, including:
     
 * _To develop and improve our Service_: We use your personal information for research and development purposes, to analyze trends to identify future opportunities for the development, promotion, and improvement of our Service. For example, as noted above, we may process (i) publicly available data, (ii) User Content you provide to us, and (iii) Feedback Data you volunteer, to train and improve the models that power our Service.
     
-* _To ensure the security and integrity of our Service_: We do this by preventing and detecting fraud, unauthorized use, and other unlawful use of our Service by verifying activity, investigating suspicious activity, and enforcing our terms and policies.
+* _To ensure the security and integrity of our Service_: We process your information to protect the security of the Service and our systems, and to detect and prevent fraud, unauthorized use, unlawful activity, and other misuses of our Service by reviewing your activity and User Content, investigating suspicious activity, and enforcing our terms and policies.
     
 * _To comply with our legal obligations_: We process your personal information when cooperating with public and government authorities, courts or regulators in accordance with our legal obligations under applicable laws, to the extent this requires the processing or disclosure of personal information to protect our rights, or is necessary for protecting against misuse or abuse of our Service, protecting personal property or safety, pursuing remedies available to us and limiting our damages, complying with judicial proceedings, court orders or legal processes, or to respond to lawful requests.
     
-* _To process job applications_: We process your personal information if you apply for a job with xAI, to evaluate your application and make hiring decisions, communicate with you and inform you of current and future career opportunities (unless you tell us that you do not want us to keep your details for such purposes), manage and improve our recruiting and hiring processes, or to conduct reference and background checks where required or permitted by applicable local law.
+* _To process job applications_: We process your personal information if you apply for a job or role with xAI, to evaluate your application and make hiring decisions, communicate with you and inform you of current and future career opportunities (unless you tell us that you do not want us to keep your details for such purposes), manage and improve our recruiting and hiring processes, conduct reference and background checks (where required or permitted by applicable local law), and to detect and prevent security incidents or other deceptive, fraudulent, or illegal activity.
     
 * _For our business or commercial purposes_: We may use your personal information for other legitimate business purposes, such as to identify new customers, data analysis, developing new products, identifying usage trends, and operating and expanding our business activities.
     
@@ -115,11 +115,11 @@ We may use your personal information for reasons not described in this Privacy P
 
 We do not share your personal information with third parties, other than as follows:
 
-* _With our contracted vendors, service providers and consultants:_ To assist in providing the Service to you or performing business operations, we provide your personal information to vendors and service providers including providers of hosting services, cloud services, web analytics providers, content delivery services, and payment and transaction providers and other technology service providers, for the purposes described above.
+* _With our contracted vendors, service providers and consultants:_ To assist in providing the Service to you or performing business operations, we provide your personal information to vendors and service providers including providers of hosting services, cloud services, web analytics providers, content delivery services, support and safety monitoring services, and payment and transaction providers and other technology service providers, for the purposes described above.
     
 * _In connection with business transfers:_ In connection with or during negotiation of any merger, financing, acquisition, bankruptcy, dissolution, transaction, or proceeding involving sale, transfer, divestiture, or disclosure of all or a portion of our business or assets to another company. If required by applicable laws, we will use reasonable efforts to notify you of any transfer of personal information to an unaffiliated third party.
     
-* _To comply with our_ _legal obligations:_ To (i) comply with laws or to respond to lawful requests and legal process, (ii) protect the rights and property of xAI and our agents, customers, and others, including to enforce our agreements, policies, and terms of use, or (iii) in an emergency, to protect the personal safety of xAI, its customers, or any person.
+* _To comply with our_ _legal obligations:_ To (i) comply with laws or to respond to lawful requests and legal process, (ii) protect the rights and property of xAI and our agents, customers, and others, including to enforce our agreements, policies, and terms of service, or (iii) in an emergency, to protect the personal safety of xAI, its customers, or any person.
     
 * _With our related companies_: We may disclose personal information to our related companies to the extent such sharing is necessary to fulfill a request you have submitted via our Service or for customer management, customer support, technical operations, or the purposes described above.
     
@@ -144,16 +144,17 @@ However, no security measure or modality of data transmission over the internet 
 
 We retain your personal information where we have an ongoing legitimate business need to do so (e.g., to provide you with a service you have requested or to comply with applicable legal requirements). In certain circumstances, we will need to keep your information for legal reasons after our contractual relationship has ended. The specific retention periods depend on the nature of the information and why it is collected and processed and the nature of the legal requirement.
 
-For example:
+For example, we may retain your personal information:
 
-* we keep your personal information when we have a legal obligation to do so (e.g., if we receive a court order, we would retain your data for longer than our usual retention periods);
-    
-* to deal with and resolve requests and complaints (e.g., if there is an ongoing complaint about you); and
-    
-* to protect individuals' rights and property and for litigation or regulatory matters (e.g., we would retain your information if there was an ongoing legal claim and the information was relevant to the claim).
-    
-    8\. Links to other websites and social media features
-    
+• when we have a legal obligation to do so (e.g., if we receive a court order, we would retain your information for longer than our usual retention periods);
+
+• to deal with and resolve requests and complaints (e.g., if there is an ongoing complaint about you);
+
+• to protect the safety, security, and integrity of our business and the Service, as well as to protect our rights and property and those of others (e.g., if we detect misuse of our Service or otherwise detect unusual activity on your account or in your interactions with us); and
+
+• for litigation or regulatory matters (e.g., we would retain your information if there was an ongoing legal claim and the information was relevant to the claim).
+
+8\. Links to other websites and social media features
 
 Our Service may contain hyperlinks to websites or plugins of social media platforms that are not operated by us. These hyperlinks and plugins are provided for your reference and convenience only. This Privacy Policy only applies to the personal information that we collect or which we receive as detailed in this Privacy Policy, and we cannot be responsible for personal information about you that is collected and stored by third parties.
 
@@ -161,7 +162,7 @@ Third party websites have their own terms and conditions and privacy policies, a
 
 9\. Children's privacy
 
-As noted in the Terms of Use, our Service are not directed at children or minors under the age of 18 and we do not knowingly collect any personal information from them. While we have taken measures to limit undesirable training data and outputs, Grok could produce output that is not appropriate for all ages.
+As noted in the [Terms of Service](https://x.ai/legal/terms-of-service), our Service is not directed at children or minors under the age of 18 and we do not knowingly collect any personal information from them. While we have taken measures to limit undesirable training data and outputs, Grok could produce output that is not appropriate for all ages.
 
 If you are a child under the age of 18, please do not attempt to register for or otherwise use our Service. If we learn that we have inadvertently obtained personal information about a child under the age of 18 via our Service, or from any other source, then we will delete that information as soon as possible.
 
@@ -183,15 +184,16 @@ Legal basis
 
 When we process your personal information, we will only do so in the following situations:
 
-* _Contract_: Where we need it to perform a contract with you, including where necessary to provide you our Service under our consumer [Terms of Use](https://x.ai/legal/enterprise/terms-of-use) (such as processing user prompts to provide a response).
+* _Contract_: Where we need it to perform a contract with you, including where necessary to provide you our Service under our consumer [Terms of Service](https://x.ai/legal/terms-of-service) (such as processing user prompts to provide a response).
     
 * _Legitimate interests_: Where it is necessary for our legitimate interests (or those of a third party) and your interests and rights do not override our interests. Our legitimate interests include:
     
-    * protecting our Service from abuse, fraud, or security risks;
+    * protecting our Service from abuse, fraud, or other misuses;
     * maintaining and improving our Service, including to train and improve the models that power our Service;
     * research and development, including developing new products and features;
-    * ensuring the security of our Service;
-    * detecting, preventing, and enforcing violations of our terms including misuse of services, fraud, abuse, and other trust and safety protocols; and
+    * ensuring the safety and security of our Service;
+    * detecting, preventing, and enforcing violations of our terms including misuse of services, fraud, abuse, and other trust and safety protocols;
+    * processing job applications and managing, improving, and safeguarding our recruiting and hiring processes; and
     * protecting our rights and the rights of others.
 * _Consent_: Where you have given us your consent. When we process personal information based on your consent, it will be expressly indicated to you at the point and time of collection. You have the right to withdraw your consent at any time.
     
@@ -200,17 +202,17 @@ When we process your personal information, we will only do so in the following s
 
 The following table provides more details on our purposes for processing your personal information and the related legal bases. The legal basis under which your personal information is processed will depend on the data concerned and the specific context in which we use it.
 
-| Purpose | Type of Data | Legal Basis |
-| --- | --- | --- |
-| To process payments for our Service | Account Data Contact and Communications Data Payment Data | Contract |
-| To provide our Service (including to provide Output in response to Prompts) | Public X posts and internet search data Account Data Payment Data Contact and Communications Data User Content Technical Usage Data | Contract Otherwise as necessary for our legitimate interests (to provide and maintain our Service) |
-| To provide support and assistance in relation to our Service | Account Data Contact and Communications Data Technical Data User Content Feedback Data | Contract Otherwise as necessary for our legitimate interests (to operate, provide and improve our business and to communicate with you) |
-| To develop and improve our Service | Contact and Communications Data User Content Feedback Data Technical Data See [here](https://x.ai/legal/enterprise/help-center) for more specific information on the data used to train our models. | Legitimate interests (to improve and develop our Service), such as when we train and improve our models. See [here](https://x.ai/legal/enterprise/help-center) for more information.) Consent |
-| To train and improve our models | User Content Feedback Data | Legitimate interests (for example, to improve the accuracy and performance of our models used to power the Services and to train more advanced models) Consent |
-| To ensure the security and integrity of our Service | Account Data Payment Data Contact and Communications Data User Content Feedback Data Technical Data | Necessary for our and our third parties' legitimate interests (to detect or prevent illegal activities and/or to manage the security of our IT infrastructure, and the safety and security of our employees, customers and vendors) |
-| To comply with our legal obligations | Account Data Payment Data Contact and Communications Data User Content Feedback Data Technical Data | Legal obligation Legitimate Interests (in protecting against misuse or abuse of our Service, protecting personal property or safety, pursuing remedies available to us and limiting our damages, complying with judicial proceedings, court orders or legal processes, or to respond to lawful requests) |
-| To process job applications | Applicant Data | Legal obligations Legitimate interests (in assessing the suitability of our candidates and managing our recruiting process) Consent |
-| For our business or commercial purposes | Account Data Contact and Communications Data Social Data User Content Feedback Data Technical Data | Legitimate interests (to identify new customers, data analysis, developing new products, identifying usage trends, and operating and expanding our business activities) |
+| Purpose | Type of Data | Legal Basis |     |
+| --- | --- | --- | --- |
+| To process payments for our Service | * Account Data<br>* Contact and Communications Data<br>* Payment Data | * Contract |     |
+| To provide our Service (including to provide Output in response to Input) | * Public X posts and internet search data<br>* Account Data<br>* Payment Data<br>* Contact and Communications Data<br>* User Content Technical Usage Data | * Contract<br>* Otherwise as necessary for our legitimate interests (to provide and maintain our Service) |     |
+| To provide support and assistance in relation to our Service | * Account Data<br>* Contact and Communications Data<br>* Technical Data<br>* User Content<br>* Feedback Data | * Contract<br>* Otherwise as necessary for our legitimate interests (to operate, provide and improve our business and to communicate with you) |     |
+| To develop and improve our Service | * Contact and Communications Data<br>* User Content<br>* Feedback Data<br>* Technical Data<br>* See [here](https://x.ai/legal/faq) for more specific information on the data used to train our models. | * Legitimate interests (to improve and develop our Service), such as when we train and improve our models. See [here](https://x.ai/legal/faq) for more information.<br>* Consent |     |
+| To train and improve our models | * User Content<br>* Feedback Data | * Legitimate interests (for example, to improve the accuracy and performance of our models used to power the Services and to train more advanced models)<br>* Consent |     |
+| To ensure the security and integrity of our Service | * Account Data<br>* Payment Data<br>* Contact and Communications Data<br>* User Content<br>* Feedback Data<br>* Technical Data | * Necessary for our and our third parties' legitimate interests (to detect or prevent illegal activities and/or to manage the security of our IT infrastructure, and the safety and security of our employees, customers and vendors) |     |
+| To comply with our legal obligations | * Account Data<br>* Payment Data<br>* Contact and Communications Data<br>* User Content Feedback Data<br>* Technical Data | * Legal obligation Legitimate Interests (in protecting against misuse or abuse of our Service, protecting personal property or safety, pursuing remedies available to us and limiting our damages, complying with judicial proceedings, court orders or legal processes, or to respond to lawful requests) |
+| To process job applications | * Applicant Data | * Legal obligations Legitimate interests (in assessing the suitability of our candidates and managing, improving, and safeguarding our recruiting process)<br>* Consent |     |
+| For our business or commercial purposes | * Account Data<br>* Contact and Communications Data<br>* Social Data<br>* User Content Feedback Data<br>* Technical Data | * Legitimate interests (to identify new customers, data analysis, developing new products, identifying usage trends, and operating and expanding our business activities) |     |
 
 With the exception of our recruitment activities, we do not aim to collect sensitive personal information (e.g., information related to racial or ethnic origin, political opinions, religion or other beliefs, health, biometric data, criminal background, or trade union membership) and ask that you do not provide us with any such information.
 
@@ -255,7 +257,7 @@ If you have an xAI account to access the Service, some of these rights may be ex
 
 Please note, however, that your personal information may be exempt from such requests in certain circumstances, for example if we need to keep using your information to comply with our own legal obligations or to establish, exercise or defend legal claims. If an exception applies, we will inform you when responding to your request. We may request that you provide us with information necessary to confirm your identity before responding to any request you make.
 
-For more information on your rights with respect to data we use train out models, please read this [help center article](https://x.ai/legal/enterprise/help-center).
+For more information on your rights with respect to data we use train out models, please read these [FAQs](https://x.ai/legal/faq).
 
 12\. Additional information for U.S. residents
 
@@ -269,9 +271,10 @@ You can find a list of the categories of personal information that we collect in
 | Payment Data, to facilitate your transactions with us | Service providers |
 | Commercial information, such as records of your transaction history | Service providers, analytics partners, and parties you authorize, access, or authenticate |
 | Internet or other electronic network activity information, including your Technical Data | Service providers, analytics partners, and parties you authorize, access, or authenticate |
-| User Content (such as photos), including as provided in the Account Data we receive when you log into our platform | Service providers, analytics partners, and parties you authorize, access, or authenticate |
+| User Content (such as photos and images), including as provided in the Account Data we receive when you log into our platform | Service providers, analytics partners, and parties you authorize, access, or authenticate |
 | Other identifying information that you voluntarily choose to provide, including in the form of User Content, Feedback Data, Social Media Information | Service providers, analytics partners, and parties you authorize, access, or authenticate |
 | Geolocation data, including country or city information based on the IP address, or if you manually provide location information | Service providers, analytics partners, and parties you authorize, access, or authenticate |
+| Professional or employment-related information, to process your job application | Service providers |
 
 Some of the personal information described above may be deemed sensitive personal information under certain state privacy laws. We only collect such information for the purposes allowed by law or with your consent. We do not collect or process sensitive personal information with the purpose of inferring any characteristics about you and have not "sold" or "shared" (as those terms are defined under U.S. privacy laws) personal information. We also do not knowingly sell or share the personal information of individuals under the age of 18.
 
