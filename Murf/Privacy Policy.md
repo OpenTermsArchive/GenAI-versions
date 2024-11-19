@@ -103,7 +103,7 @@ Outside of authorised personnel employed by us, we only share your personal info
 * Marketing platforms, Communications platforms and contractors who we engage to help process personal information and other data; Listed here are external vendors we use for this purpose: Firebase, Google Cloud, Google Analytics, Mixpanel, Toplyne, Clearbit, Sendinblue, Customer.io, Userflow, Hubspot;
 * Cloud services providers such as Amazon Web Services, Inc.;
 * Payment Solutions provided by Stripe Inc.;
-* Softwares review platform G2 Crowd
+* Softwares review platform G2 Crowd and Gartner Peer Insights
 * government third parties, including government agencies, regulatory bodies and law enforcement agencies as required, authorised or permitted by law.
 
 ##### **Service Providers**
