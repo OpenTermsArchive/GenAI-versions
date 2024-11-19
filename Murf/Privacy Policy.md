@@ -120,7 +120,7 @@ Participating in the Data Privacy Frameworks is a voluntary self-certification p
 
 If a complaint cannot be resolved with Murf Inc. directly, there are readily available independent recourse mechanisms by which an individual’s complaints and disputes are investigated and expeditiously resolved at no cost to the individual and by reference to the Principles.
 
-Individuals have the possibility, under certain conditions, to invoke binding arbitration for complaints regarding Privacy Shield compliance not resolved by any of the other Privacy Shield mechanisms. Arbitral decisions will be binding on all parties to the arbitration.  Please visit Annex I for additional information: [https://www.privacyshield.gov/article?id=ANNEX-I-introduction](https://www.privacyshield.gov/article?id=ANNEX-I-introduction).    
+In some cases, the Data Privacy Framework gives you the right to pursue binding arbitration. You can do this to resolve complaints not resolved by Murf, as described in Annex I to the [DPF Framework](https://www.dataprivacyframework.gov/s/framework-text).
 
 In the context of an onward transfer, Murf Inc. has responsibility for the processing of Personal Data it receives under the respective Data Privacy Framework and subsequently transfers to a third party acting as an agent on its behalf. Murf Inc. shall remain liable under the respective Principles if its agent processes such Personal Data in a manner inconsistent with the Principles unless Murf Inc. shows it is not responsible for the event giving rise to the damage. 
 
