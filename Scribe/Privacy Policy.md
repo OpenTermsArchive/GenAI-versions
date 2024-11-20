@@ -52,6 +52,7 @@ We may use the information we collect or receive to communicate directly and ind
 We may share your information in the following ways:
 
 * Service Providers. We may share your information with contractors and third party service providers, as needed to help us operate our business, where we have a legitimate interest to do so. Service providers who are classified as sub-processors are held to standards of data protection no less rigorous than applicable data protection laws require.
+* Organization Administrators. If you create an account using an email address belonging to your employer or another organization, we may share the fact that you have a Scribe account and certain account information, including but not limited to your email address, with your employer or organization to, for example, ensure that you are added to their business account.
 * Protection of Scribe and Others. We will disclose your information where it is required to do so by law or subpoena or if we reasonably believe that such action is necessary to (a) comply with the law and the reasonable requests of law enforcement; (b) to enforce our Terms of Service or to protect the security or integrity of our Service; and/or ( c) to exercise or protect the rights, property, or personal safety of us, our Users or others.
 * Business Transfers. We may buy or sell/divest/transfer the company (including any shares in the company), or any combination of its products, services, assets and/or businesses. This may include assets such as databases. In the event of a transfer of data due to a business transfer, data subjects would be notified promptly and without undue delay of an impending change of controller. Data subjects have the opportunity to object to the transfer via [\[email protected\]](https://scribehow.com/cdn-cgi/l/email-protection).  
 * Aggregate/De-Identified Information. We may share Aggregate/De-Identified Information about use of the Services, such as by publishing a report on usage trends. This Policy places no limitations on our use or sharing of Aggregate/De-Identified Information.
@@ -136,6 +137,6 @@ Adam Brogden 
 
 ### **12\. Changes To Our Privacy Policy**
 
-We may modify or update this Privacy Policy from time to time to reflect the changes in our business and practices, and so you should review this page periodically. We keep our Privacy Policy under review to ensure it is up to date and accurate. When we make a material change to this policy we will notify you as required by law and update the ‘last modified’ date at the bottom of this page. This privacy policy was last modified June 14, 2024.
+We may modify or update this Privacy Policy from time to time to reflect the changes in our business and practices, and so you should review this page periodically. We keep our Privacy Policy under review to ensure it is up to date and accurate. When we make a material change to this policy we will notify you as required by law and update the ‘last modified’ date at the bottom of this page. This privacy policy was last modified November 19, 2024.
 
 #### ‍
