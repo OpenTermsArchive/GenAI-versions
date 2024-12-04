@@ -1,7 +1,7 @@
 Terms of Service
 ================
 
-May 3, 2024
+December 3, 2024
 
 #### **1\. Introduction**
 
@@ -190,37 +190,10 @@ Except to the extent they are preempted by United States federal law, the laws o
 
 Both you and Murf agree that all claims and disputes (whether contract, tort, or otherwise), including statutory claims and disputes, arising out of or relating to this User Agreement or the use of the Site or the Services will be litigated exclusively in federal and state courts in the state of Delaware, United States of America. You and Murf consent to the personal jurisdiction of courts in the state of Delaware, United States of America.
 
-#### **9\. API Terms**
+#### **9\. Product Specific Terms  
+**
 
-These terms apply to a part of our Service offering providing official and supported API access to our Services.
-
-**9.1 Definitions** 
-
-9.1.1 “API” means any machine accessible application programming interface made available by Murf which provides access to Murf’s designated text-to-speech AI models.
-
-9.1.2 “Application” means any web or software service or application operated by you that utilizes or interacts with the API or the Generated Content.
-
-9.1.3 “Generated Content” means on-demand content specifically generated for you with your Content using Murf’s text-to-speech AI models and delivered through the API.
-
-9.1.4 “Use Case” means a consistent set of analyses, displays, or actions performed via the Application and utilizing the API. You agree to submit to Murf all intended Use Case descriptions in writing for review.
-
-**9.2 Licenses**
-
-9.2.1 Subject to these API Terms, Murf grants you a limited, non-exclusive, non-transferable, non-sublicensable, worldwide, revocable license during the term of the User Agreement to use and make calls to the API to generate, access and distribute the Generated Content for the Use Cases approved by Murf in writing.
-
-9.2.2 You grant to Murf, a limited, royalty-free, non-transferable, non-sublicensable, worldwide and perpetual license to incorporate into the Services (including the API) any suggestions, enhancement requests, recommendations or other feedback Murf receives from you.
-
-**9.3 Your responsibilities**
-
-9.3.1. You will comply with all requirements of these API Terms along with the Murf’s Terms of Service and Privacy Policy in all uses of the API, the Generated Content and in providing inputs for generating any Generated Content. You will also comply with the technical and policy-implemented limitations of the API, including any explicit rate limitations on utilizing the API.
-
-9.3.2 You will obtain API credentials (a “**Token**”) to access the API. You will keep such Token and all login information secure and use the Token as your sole means of accessing the API.
-
-9.3.3 You agree that all Use Case descriptions provided to Murf are binding on you, and any substantive deviation from them will constitute a violation of these API Terms. You must notify Murf of any substantive modification to your submitted Use Case. Failure to comply with these TOS can result in suspension and termination of your API and Generated Content access.
-
-**9.4 Usage**
-
-Murf’s text-to-speech usage is based on the number of characters sent through the API to be synthesized into audio each month, including punctuation. The total number of characters in the input string are counted for billing purposes, including spaces. All Speech Synthesis Markup Language (SSML) tags are also included in the character count, except for <speak> and <voice> tags.
+Refer to our [Product-Specific Terms](https://murf.ai/resources/product-specific-terms/) for detailed information.
 
 #### **10\. General Terms**
 
