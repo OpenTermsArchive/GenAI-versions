@@ -1,17 +1,17 @@
 EU terms of use | OpenAI
 
-Updated: October 23, 2024
+Updated: December 11, 2024
 
 Europe Terms of Use
 ===================
 
-**Effective: October 23, 2024** ([previous versions⁠](https://openai.com/policies/mar-2023-terms/))
-
-_**These Terms of Use apply if you reside in the European Economic Area (EEA), Switzerland, or UK. If you live outside of the EEA, Switzerland, or UK,**_ [_**these Terms of Use**_⁠](https://openai.com/policies/row-terms-of-use/) _**apply to you.**_
+Effective: December 11, 2024 ([previous version](https://openai.com/policies/oct-2024-eu-terms/))
 
 Thank you for using OpenAI!
 
-These Terms of Use (“**Terms**”) apply to your use of ChatGPT, DALL·E, and OpenAI’s other services for individuals, along with any associated software applications, technology and websites (“**Services**”), including personal, non-commercial use of our Services by consumers. You form a contract with us when you confirm that you accept these Terms or when you otherwise use the Services. 
+These Terms of Use apply if you reside in the European Economic Area (EEA), Switzerland, or UK. If you live outside of the EEA, Switzerland, or UK, [these Terms of Use⁠](https://openai.com/policies/row-terms-of-use/) apply to you.
+
+These Terms of Use (“Terms”) apply to your use of ChatGPT, DALL·E, and OpenAI’s other services for individuals, along with any associated software applications, technology and websites (“Services”), including personal, non-commercial use of our Services by consumers. You form a contract with us when you confirm that you accept these Terms or when you otherwise use the Services. 
 
 Our [Business Terms⁠](https://openai.com/policies/business-terms/) govern use of ChatGPT Enterprise, our APIs, and our other services for businesses and developers. 
 
@@ -24,7 +24,7 @@ OpenAI is an AI research and deployment company. Our mission is to ensure that a
 
 * _OpenAI Ireland Ltd,_ a company incorporated in the Republic of Ireland with its registered office at 1st Floor, The Liffey Trust Centre, 117-126 Sheriff Street Upper, Dublin 1, D01 YC43, Ireland and company number 737350, if you are resident in the EEA or Switzerland. 
     
-* _OpenAI, L.L.C.,_ a Delaware company with its registered office at 3180 18th Street, San Francisco, California 94110, United States and company number 7063675, if you are resident in the UK.
+* _OpenAI, L.L.C.,_ a Delaware company with its registered office at 1455 3rd Street, San Francisco, CA 94158, United States and company number 7063675, if you are resident in the UK.
     
 
 Additional Service-specific Terms
@@ -180,11 +180,11 @@ Dispute resolution
 Copyright complaints
 --------------------
 
-If you believe that your intellectual property rights have been infringed, please send notice to the address below or fill out [this form](https://openai.com/form/copyright-disputes/). We may delete or disable Content alleged to be infringing and may terminate accounts of repeat infringers.
+If you believe that your intellectual property rights have been infringed, please send notice to the address below or fill out [this form](https://openai.com/form/copyright-disputes/). We may delete or disable content alleged to be infringing and may terminate accounts of repeat infringers.
 
 > OpenAI, L.L.C.  
-> 3180 18th St  
-> San Francisco, California 94110  
+> 1455 3rd Street  
+> San Francisco, CA 94158  
 > Attn: General Counsel / Copyright Agent
 
 Written claims concerning copyright infringement must include the following information:
