@@ -1,7 +1,7 @@
 Terms of Service
 ================
 
-December 3, 2024
+December 19, 2024
 
 #### **1\. Introduction**
 
@@ -153,9 +153,17 @@ If You connect, install or enable Third Party Products for use with the Services
   
 You grant Murf the right to identify Yourself or Your organization as Murf's customer on the Site and Murf's marketing collateral and to include You or Your organization's use of the Services in its case studies.
 
-#### **6\. Disclaimer and Limit of Liability**
+#### **6\. Indemnification,Disclaimer and Limit of Liability**
 
-**6.1 Disclaimer**
+**6.1 Indemnification  
+  
+**To the fullest extent permitted by applicable law, you will indemnify, defend (at our  
+option), and hold harmless Murf and our officers, directors, partners, licensors,  
+employees and agents from and against any losses, liabilities, claims, demands,  
+damages, expenses or costs (Claims) arising out of or related to:  
+(a) your access to or use of the Services; (b) the Content; (c) your violation of these Terms; (d) your violation,misappropriation, or infringement of any rights of another (including intellectual property rights or privacy rights); or (e) your conduct in connection with the Services or the Content. You will cooperate with Murf in defending such Claims, and pay all fees, costs, and expenses associated with defending such Claims (including attorneys fees). Murf will have control of the defense or settlement, at Murf’s sole option, of any third-party Claims. This indemnity is in addition to, and not in lieu of, any other indemnities set forth in a written agreement between you and Murf.
+
+**6.2 Disclaimer**
 
 We cannot guarantee our Site or Services will be available at all times. We may experience hardware, software, or other problems and we may also need to perform maintenance related to our Services which may result in interruptions, delays or errors. We may also need to modify, suspend or stop offering our Services in such situations without notifying you.
 
@@ -165,17 +173,22 @@ For users with a Subscription: we will notify you in advance of making changes t
 
 You agree that we have no liability whatsoever for any loss, damage, or inconvenience caused by your inability to access or use the Site or the Services during any downtime or discontinuance of the Site or the Services. Nothing in this User Agreement will be construed to obligate us to maintain and support the Site or to supply any corrections, updates, or releases in connection with our Services
 
-**6.2 Limitation of Liability**
+Murf further disclaims all warranties, whether express, implied, statutory or otherwise,  
+including warranties of merchantability, fitness for a particular purpose, title and  
+noninfringement. Outputs are generated through machine learning processes and are  
+not tested, verified, endorsed or guaranteed to be accurate, complete or current by  
+Murf. You should independently review and verify all outputs as to appropriateness for  
+any or all Your use cases or applications.
+
+**6.3 Limitation of Liability**
 
 TO THE FULL EXTENT PERMITTED BY LAW, MURF, MURF PERSONNEL OR MURF AFFILIATES, WILL NOT BE LIABLE IN CONNECTION WITH THIS USER AGREEMENT FOR LOST PROFITS OR LOST BUSINESS OPPORTUNITIES, REPUTATION (E.G., OFFENSIVE OR DEFAMATORY STATEMENTS), LOSS OF DATA (E.G., DOWN TIME OR LOSS, USE OF, OR CHANGES TO, YOUR INFORMATION OR CONTENT) OR THIRD-PARTY POLICIES (SUCH AS YOUTUBE REFUSING TO ALLOW MONETIZATION OF VIDEOS WITH SYNTHESIZED VOICES OR ACX DECLINING TEXT TO SPEECH BASED AUDIO BOOKS) OR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL OR PUNITIVE DAMAGES.
 
 MURF AND ITS AFFILIATES WILL NOT BE LIABLE TO YOU IN CONNECTION WITH THIS USER AGREEMENT FOR ANY AMOUNT THAT EXCEEDS THE TOTAL FEES PAID BY YOU TO MURF FOR THE SERVICES DURING THE TERM OF THIS USER AGREEMENT, IF ANY.
 
-**6.3 Basis of the Bargain; Exclusions**
+**6.4 Basis of the Bargain; Exclusions**
 
 The limitations of liability in this Section 6 are part of the basis of the bargain between you and Murf and shall apply to all claims of liability (e.g., warranty, tort, negligence, contract and law) even if Murf or its affiliates have been told of the possibility of any such damage, and even if these remedies fail their essential purpose.
-
-These limitations of liability do not apply to liability for death or personal injury or for fraud, gross negligence or intentional misconduct, to the extent that such liability directly arose from Murf’s actions.
 
 #### **7\. Termination**
 
@@ -201,13 +214,19 @@ Refer to our [Product-Specific Terms](https://murf.ai/resources/product-specific
 
 10.2 This User Agreement (including additional terms that may be provided by us when you engage with a feature of the Services) is the only agreement between us regarding the Services and supersedes all prior agreements for the Services.
 
-10.3 If we don't act to enforce a breach of this User Agreement, that does not mean that Murf has waived its right to enforce this User Agreement. 
+10.3 No conduct by Murf shall be deemed to constitute an acceptance of any terms put  
+forward by You unless such terms are explicitly accepted by signing the document  
+containing such terms. For the avoidance of doubt, Murf does not accept any terms or  
+provisions included by reference in any of the documents provided by You, even if  
+signed by Murf, unless Murf also signs such referenced documents.
 
-10.4 You may not assign or transfer this User Agreement (or your membership or use of Services) to anyone. There are no third-party beneficiaries to this User Agreement.
+10.4 If we don't act to enforce a breach of this User Agreement, that does not mean that Murf has waived its right to enforce this User Agreement. 
 
-10.5 You agree that the only way to provide us legal notice is at the address provided in Section 13.
+10.5 You may not assign or transfer this User Agreement (or your membership or use of Services) to anyone. There are no third-party beneficiaries to this User Agreement.
 
-10.6 Murf may offer optional trials and betas. Use of trials and betas is permitted only for User's self-evaluation during the period designated by Murf. Murf may terminate User's use of trials and betas at any time for any reason. Trials and betas may be inoperable, incomplete or include features never released. Notwithstanding anything else in this User Agreement, Murf offers no warranty, SLA or support for trials and betas and its liability for trials and betas will not in the aggregate exceed USD $1,000.
+10.6 You agree that the only way to provide us legal notice is at the address provided in Section 13.
+
+10.7 Murf may offer optional trials and betas. Use of trials and betas is permitted only for User's self-evaluation during the period designated by Murf. Murf may terminate User's use of trials and betas at any time for any reason. Trials and betas may be inoperable, incomplete or include features never released. Notwithstanding anything else in this User Agreement, Murf offers no warranty, SLA or support for trials and betas and its liability for trials and betas will not in the aggregate exceed USD $1,000.
 
 #### **11\. Do’s and Don’ts**
 
