@@ -68,7 +68,7 @@ The capitalized words in this Agreement shall have the meaning given below:
 
 **Description of the Processing.** Mistral AI processes the Personal Data on behalf of the Customer in order to provide the Customer with the Services under the Agreement. A description of the Processing is available in Exhibit 1 of this DPA. The Customer agrees that Mistral AI may update the description of the Processing from time to time to reflect new Services, features or functionalities.
 
-###2.2. Mistral AI as Data Controller
+### 2.2. Mistral AI as Data Controller
 
 **Mistral AI as Data Controller.** The Customer authorizes Mistral AI to process the User Data and as Data Controller for the purpose of:
 
