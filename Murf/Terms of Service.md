@@ -161,7 +161,11 @@ You grant Murf the right to identify Yourself or Your organization as Murf's cus
 option), and hold harmless Murf and our officers, directors, partners, licensors,  
 employees and agents from and against any losses, liabilities, claims, demands,  
 damages, expenses or costs (Claims) arising out of or related to:  
-(a) your access to or use of the Services; (b) the Content; (c) your violation of these Terms; (d) your violation,misappropriation, or infringement of any rights of another (including intellectual property rights or privacy rights); or (e) your conduct in connection with the Services or the Content. You will cooperate with Murf in defending such Claims, and pay all fees, costs, and expenses associated with defending such Claims (including attorneys fees). Murf will have control of the defense or settlement, at Murf’s sole option, of any third-party Claims. This indemnity is in addition to, and not in lieu of, any other indemnities set forth in a written agreement between you and Murf.
+(a) your access to or use of the Services  
+(b) the Content  
+(c) your violation of these Terms  
+(d) your violation,misappropriation, or infringement of any rights of another (including intellectual property rights or privacy rights) or  
+(e) your conduct in connection with the Services or the Content. You will cooperate with Murf in defending such Claims, and pay all fees, costs, and expenses associated with defending such Claims (including attorneys fees). Murf will have control of the defense or settlement, at Murf’s sole option, of any third-party Claims. This indemnity is in addition to, and not in lieu of, any other indemnities set forth in a written agreement between you and Murf.
 
 **6.2 Disclaimer**
 
