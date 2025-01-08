@@ -1,314 +1,296 @@
 [](https://x.ai/legal)
 
-Terms of Service - Consumer
-===========================
+**Terms of Service - Consumer**
+===============================
 
-_Last Modified: December 20, 2024 ([previous version](https://x.ai/legal/terms-of-service/previous-2024-09-16))_
+_Effective: January 2, 2025 ([previous version](https://x.ai/legal/terms-of-service/previous-2024-12-20))_
 
-Welcome to xAI! These Terms of Service (“**Terms**”) apply to your use of Grok and xAI’s other services for individuals, along with any associated software applications and websites (collectively, the “**Service**”). These Terms are an agreement between you and xAI, L.L.C., a Nevada company (“**xAI**,” “**we**,” “**our**,” or “**us**”). By using our Services, you, the **User**, agree to these Terms.
+**Welcome to xAI!**
+-------------------
 
-Please read our [Privacy Policy](https://x.ai/legal/privacy-policy), which describes how we collect and use personal information. Although it does not form part of these Terms, it is an important document you should read.
+These Terms of Service (”**Terms**”) apply to your use of Grok and xAI’s other services for individuals, along with any associated software applications and websites (collectively, the “**Service**”). These Terms form an agreement between you and xAI, L.L.C., a Nevada company (“**xAI**,” “**we**,” “**our**,” or “**us**”). By using our Service, you agree to these Terms.
 
 Please note:
 
 * We reserve the right to modify these Terms.
-* For terms governing use of our services for developers and businesses, including APIs and PromptIDE, you must agree to the [Enterprise Terms of Use](https://x.ai/legal/terms-of-service-enterprise).
-* For Users who are residents of the European Economic Area (EEA), United Kingdom (UK) and Switzerland, you are agreeing to the EU/UK-Specific Terms in Section 18, which supplement or replace certain sections of these Terms.
-* For Users of our free Service (“Unauthenticated Grok”), you must also agree to the specific terms in Section 19.
+* Our [Enterprise Terms of Use](https://x.ai/legal/terms-of-service-enterprise) govern the use of our services for developers and businesses, including APIs and PromptIDE.
+* If you reside in the European Economic Area, European Union, or the United Kingdom, your use of the Service is governed by the EU/UK Specific Terms below.
+* Please read our [Privacy Policy](https://x.ai/legal/privacy-policy), which describes how we collect and use personal information. Although it does not form part of these Terms, it is an important document you should read.
 
-PLEASE READ THESE TERMS CAREFULLY TO ENSURE THAT YOU UNDERSTAND EACH PROVISION. THESE TERMS CONTAIN A MANDATORY INDIVIDUAL ARBITRATION PROVISION IN SECTION 17.2 (THE “**ARBITRATION AGREEMENT**”) AND A CLASS ACTION/JURY TRIAL WAIVER PROVISION IN SECTION 17.3 (THE “**CLASS ACTION/JURY TRIAL WAIVER**”) THAT REQUIRE, UNLESS YOU OPT OUT PURSUANT TO THE INSTRUCTIONS IN THE ARBITRATION AGREEMENT, THE EXCLUSIVE USE OF FINAL AND BINDING ARBITRATION ON AN INDIVIDUAL BASIS TO RESOLVE DISPUTES BETWEEN YOU AND US, INCLUDING ANY CLAIMS THAT AROSE OR WERE ASSERTED BEFORE YOU AGREED TO THESE TERMS. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW (AS DEFINED BELOW), YOU EXPRESSLY WAIVE YOUR RIGHT TO SEEK RELIEF IN A COURT OF LAW AND TO HAVE A JURY TRIAL ON YOUR CLAIMS, AS WELL AS YOUR RIGHT TO PARTICIPATE AS A PLAINTIFF OR CLASS MEMBER IN ANY CLASS, COLLECTIVE, PRIVATE ATTORNEY GENERAL, OR REPRESENTATIVE ACTION OR PROCEEDING.
+**Who we are**
+--------------
 
-1. **How We Administer the Service**
-    
-    1. **Eligibility.** This is a contract between you and xAI. You must read and agree to these Terms before using the Service. If you do not agree, you may not use the Service. You may use the Service only if you can form a legally binding contract with us, and only in compliance with these Terms and all applicable local, state, national, and international laws, rules, and regulations (“**Applicable Law**”). You must be at least 13 years old or the minimum age required in your country to use the Service. If you are a teenager between 13 and 18 years old, you must have your parent or legal guardian’s permission to use the Service. Parents of teenagers between 13 and 18 years old must agree to these Terms, and are urged to exercise care in monitoring the use of this Service. The Service may have content such as some suggestive dialogue, coarse language, crude humor, sexual situations, or violence. The Service is not available to any Users we previously removed from the Service.
-        
-    2. **User Accounts**
-        
-        1. Your User Account. Your account on the Service (your “**User Account**”) gives you access to certain services and functionalities that we may, in our sole discretion, establish and maintain as part of the Service from time to time. You acknowledge that, notwithstanding anything to the contrary herein, you do not own your User Account, nor do you possess any rights to data stored by or on behalf of xAI on the servers running the Service. We may maintain different types of User Accounts for different types of Users.
-            
-        2. Connecting Via Third-Party Services. By connecting to the Service via a third-party service, including via your X account, you give us permission to access and use your information from that service, as permitted by that service, and to store your log-in credentials and/or access tokens for that service.
-            
-        3. User ID; Account Security. For some aspects of the Service, you must create an account (or use your X account) and agree to comply with all the terms associated with that account. We will not be liable for, and expressly disclaim liability for, any losses caused by any unauthorized use of your User Account and/or any changes to your User Account. You will notify us immediately of any breach of security or unauthorized use of your User Account.
-            
-        4. Account Settings. You may control certain aspects of your User Account and any associated User profile, and of the way you interact with the Service, by changing the settings in your settings page. By providing us with your email address, you consent to our using that email address to send you Service-related notices, including any notices required by Applicable Law, in lieu of communication by postal mail. We may also use that email address to send you other messages as necessary to provide the Service.
-            
-    3. **Changes, Suspension, and Termination.** You may delete your User Account at any time. We may, with or without prior notice, change the Service, stop providing the Service or features of the Service to you or to Users generally, or create usage limits for the Service. We may, with or without prior notice, permanently terminate or temporarily suspend your access to your User Account and/or the Service without liability, with or without cause, and for any or no reason, including if, in our sole determination, you violate any provision of these Terms. Upon their termination for any reason or no reason, you continue to be bound by these Terms.
-        
-    4. **Your Interactions with Other Users.** YOU ARE SOLELY RESPONSIBLE FOR YOUR INTERACTIONS, INCLUDING SHARING OF INFORMATION, WITH EITHER THE PUBLIC OR OTHER USERS. WE RESERVE THE RIGHT, BUT HAVE NO OBLIGATION, TO MONITOR DISPUTES BETWEEN YOU AND OTHER USERS. WE EXPRESSLY DISCLAIM ALL LIABILITY ARISING FROM YOUR INTERACTIONS WITH OTHER USERS, AND FOR ANY USER’S ACTION OR INACTION, INCLUDING RELATING TO INPUT (AS DEFINED BELOW).
-        
-2. **Access to the Service; Service Restrictions**
-    
-    1. **Access to the Service and Cooperation.** Subject to your compliance with these Terms, our [Acceptable Use Policy](https://x.ai/legal/acceptable-use-policy), and any documentation we may make available to you, you are hereby granted a non-exclusive, limited, non-transferable, and freely revocable right to access and use the Service, solely for your personal use strictly as permitted by the features of the Service. We may terminate the license granted in this Section at any time, for any reason or no reason. We reserve all rights not expressly granted herein in and to the Service. In addition, if you do not comply with these Terms, you agree xAI may contact you and require your reasonable cooperation in remediating any issues resulting from said noncompliance, and you agree to reasonably cooperate as required.
-        
-    2. **Restrictions.** Except to the extent a restriction is prohibited by Applicable Law, you will not do, and will not assist, permit, or enable any third party to do, any of the following:
-        
-        1. disassemble, reverse engineer, decode, or decompile any part of the Service;
-            
-        2. use any robot, spider, scraper, off-line reader, data mining tool, data gathering or extraction tool, or any other automated means to access the Service in a manner that sends more request messages to the servers running the Service than a human can reasonably produce in the same period of time by using a conventional on-line web browser (except that xAI grants the operators of public search engines revocable permission to use spiders to copy publicly available materials from the Service for the sole purpose of, and solely to the extent necessary for, creating publicly available searchable indices of, but not caches or archives of, such materials, and only as specified in the applicable robots.txt file);
-            
-        3. use any content available on or via the Service (including any caption information, keywords, or other metadata) for any machine learning and/or artificial intelligence training or development purposes, or for any technologies designed or intended for the identification of natural persons;
-            
-        4. buy, sell or transfer API keys without our prior written consent in each case;
-            
-        5. copy, rent, lease, sell, loan, transfer, assign, license or purport to sublicense, resell, distribute, modify, alter, or create derivative works of any part of the Service or any of our xAI Intellectual Property (as defined below), including, without limitation by any automated or non-automated “scraping”;
-            
-        6. use the Service in any manner that impacts (i) the stability of the servers running the Service, (ii) the operation or performance of the Service or any User’s use of the Service, or (iii) the behavior of other applications that use the Service;
-            
-        7. take any action that imposes, or may impose (as determined by us, in our sole discretion), an unreasonable or disproportionately large load on our infrastructure;
-            
-        8. use the Service in any manner or for any purpose that (i) violates, or promotes the violation of, any Applicable Law, contractual obligation, or right of any person, including, but not limited to, intellectual property rights (as defined below), privacy rights, and/or rights of personality, (ii) is fraudulent, false, deceptive, or defamatory, (iii) promotes hatred, violence, or harm against any individual or group, or (iv) otherwise may be harmful or objectionable (in our sole discretion) to us or to our providers, our suppliers, Users, or any other third party;
-            
-        9. use or display the Service in competition with us, to develop competing products or services, for benchmarking or competitive analysis of the Service, or otherwise to our detriment or disadvantage;
-            
-        10. access any content available on or via the Service through any technology or means other than those provided by the Service or authorized by us;
-            
-        11. bypass the measures we may use to prevent or restrict access to the Service, including, without limitation, features that prevent or restrict use or copying of any content or that enforce limitations on use of the Service or any portion thereof;
-            
-        12. attempt to interfere with, compromise the system integrity or security of, or decipher any transmissions to or from, the servers running the Service;
-            
-        13. use the Service to transmit spam, chain letters, or other unsolicited email;
-            
-        14. use the Service to automatically or programmatically extract data or output;
-            
-        15. transmit invalid data, viruses, worms, or other software agents through the Service;
-            
-        16. impersonate another person or entity, misrepresent your affiliation with a person or entity, hide or attempt to hide your identity, or otherwise use the Service for any invasive or fraudulent purpose;
-            
-        17. collect or harvest any personal information, including Users’ names, from the Service;
-            
-        18. identify or refer to us or to the Service in a manner that could reasonably imply a relationship that involves endorsement, affiliation, or sponsorship between you (or a third party) and us without our prior express written consent; or
-            
-        19. represent any Output (defined below) as human generated when they are not.
-            
-3. **Intellectual Property**
-    
-    1. **Input and Output**
-        
-        1. As between us and you, you (or your licensors) will own any and all information, data, and other content, in any form or medium, that is collected, downloaded, or otherwise received, directly or indirectly, from you (or on your behalf) by or through the Service, including your prompts into the Service (collectively, “**Input**”).
-            
-        2. You may provide Input to the Service and receive output from the Service based on the Input ("**Output**"). Input and Output are collectively "**Content**". You (or your licensors) retain ownership rights in the Input and own the Output.
-            
-        3. You grant, and you represent and warrant that you have all rights necessary to grant, to us, under all of your intellectual property rights, an irrevocable, perpetual, transferable, sublicensable (through multiple tiers), fully paid, royalty-free, and worldwide right and license to use, copy, store, modify, distribute, reproduce, publish, list information regarding, make derivative works of, and display your Input and Output (collectively, “Content”): (i) to maintain and provide the Service; (ii) to improve our products and the Service and for our other business purposes, such as data analysis, customer research, developing new products or features, and identifying usage trends; and (iii) to perform such other actions as described in our Privacy Policy or as authorized by you in connection with your use of the Service.
-            
-        4. You affirm, represent, and warrant the following:
-            
-            1. you will not use the Service to assist you in identifying a person or to solicit or infer private or sensitive information of others;
-                
-            2. you have the written consent of each and every identifiable natural person referred to or mentioned in the Input, if any, to use such person’s name, voice, and likeness in the manner contemplated by the Service and these Terms, and each such person has released you from any liability that may arise in relation to such use;
-                
-            3. you have obtained, and are solely responsible for obtaining, all consents required by Applicable Law to provide Input relating to third parties;
-                
-            4. your Input and Output (defined above) and our use thereof as contemplated by these Terms and the Service will not violate any Applicable Law or infringe any rights of any third party, including, but not limited to, any intellectual property rights and privacy rights;
-                
-            5. your Input does not include any information or material that a governmental body deems to be sensitive or classified information, and your provision of Input in connection with the Service is not violative of any confidentiality rights of any third party;
-                
-            6. you will not use the Service as a substitute for professional advice, including but not limited to legal advice, medical/ health advice, diagnosis, treatment, or financial advice;
-                
-            7. you will not use the Service to provide tailored professional advice (including but not limited to legal, medical/ health or financial advice), as such services need review by a professional and disclosure of the use of AI assistance and its potential limitations;
-                
-            8. we may exercise the rights to your Input granted to us under these Terms without liability for payment of any guild or other fees, residuals, payments, or royalties payable under any collective bargaining agreement or otherwise;
-                
-            9. You will not upload or make available through the Service, either directly or by other means: any personal information of children under 13;
-                
-            10. your Input does not include nudity; hate speech, threats, or direct attacks on an individual or group; content that is abusive, harassing, tortious, defamatory, libelous, or invasive of another’s privacy; discriminatory content; content that contains self-harm or excessive violence; fake or impostor profiles; illegal content or content in furtherance of harmful or illegal activities; malicious programs or code; any person’s personal information without such person’s consent; spam, machine-generated content, or unsolicited messages; and/or otherwise objectionable content; and
-                
-            11. to the best of your knowledge, all Input and other information that you provide to us is truthful and accurate.
-                
-        5. WE CLAIM NO OWNERSHIP RIGHTS OVER YOUR INPUT. WE TAKE NO RESPONSIBILITY AND ASSUME NO LIABILITY FOR ANY INPUT. YOU WILL BE SOLELY RESPONSIBLE FOR YOUR INPUT AND THE CONSEQUENCES OF SUBMITTING, POSTING, DISPLAYING, PROVIDING, SHARING, OR OTHERWISE MAKING IT AVAILABLE ON OR THROUGH THE SERVICE, AND YOU UNDERSTAND AND ACKNOWLEDGE THAT WE ARE ACTING ONLY AS A PASSIVE CONDUIT FOR YOUR ONLINE DISTRIBUTION AND PUBLICATION OF YOUR INPUT.
-            
-    2. **xAI Intellectual Property.** You understand and acknowledge that we (or our licensors, including other Users, as applicable) own and will continue to own all rights (including intellectual property rights), title, and interest in and to the Service–but excluding your Input and Output–all materials and content displayed or otherwise made available on and/or through the Service (including, without limitation, images, text, graphics, illustrations, logos, photographs, audio, videos, music), and all software, algorithms, code, technology, and intellectual property underlying and/or included in or with the Service (collectively and individually, “**xAI Intellectual Property**”). Except as may be explicitly provided herein, nothing in these Terms will be deemed to create a license in or under any such intellectual property rights, and you will not access, sell, license, rent, modify, distribute, copy, reproduce, transmit, display, perform, publish, adapt, edit, or create derivative works of any xAI Intellectual Property. Use of any xAI Intellectual Property for any purpose not expressly permitted by these Terms is strictly prohibited.
-        
-    3. **Output.** You shall not represent that Output was human-generated or use the Output to train your own machine learning models, systems, or services.
-        
+xAI is a company working on building artificial intelligence to accelerate human scientific discovery. We are guided by our mission to advance our collective understanding of the universe. As part of our mission, we have developed “Grok,” a conversational generative AI powered by xAI’s large language models. For more information about xAI, please visit [https://x.ai/](https://x.ai/).
 
-DUE TO THE NATURE OF OUR SERVICE AND ARTIFICIAL INTELLIGENCE GENERALLY, THE OUTPUT MAY NOT BE UNIQUE ACROSS USERS AND OTHER USERS MAY RECEIVE THE SAME OR SIMILAR OUTPUT FROM OUR SERVICE.
+xAI is a separate company from X Corp ("X", previously Twitter).
 
-GIVEN THE PROBABILISTIC NATURE OF MACHINE LEARNING, USE OF THE SERVICE MAY IN SOME SITUATIONS RESULT IN OUTPUT THAT DOES NOT ACCURATELY REFLECT REALITY, PEOPLE, PLACES OR FACTS. YOU MUST EVALUATE ANY OUTPUT FOR ACCURACY AND APPROPRIATENESS FOR YOUR USE CASE, INCLUDING BY USING HUMAN REVIEW AND/OR SEEKING PROFESSIONAL ADVICE AS APPROPRIATE.
+**Registration and access**
+---------------------------
 
-YOU MUST NOT USE ANY OUTPUT RELATING TO A PERSON FOR ANY PURPOSE THAT COULD HAVE A LEGAL OR MATERIAL IMPACT ON THAT PERSON, SUCH AS MAKING CREDIT, EDUCATIONAL, EMPLOYMENT, HOUSING, INSURANCE, LEGAL, LAW ENFORCEMENT, CITIZENSHIP, MEDICAL, OR OTHER IMPORTANT DECISIONS ABOUT THEM.
+Minimum age. You must be at least 13 years old or the minimum age required in your country to use the Service. If you are a teenager between 13 and 18 years old, you must have your parent or legal guardian’s permission to use the Service. Parents of teenagers between 13 and 18 years old must agree to these Terms, and are urged to exercise care in monitoring the use of this Service. Depending on how a user interacts with the Service, the Service may have content such as some suggestive dialogue, coarse language, crude humor, sexual situations, or violence.
 
-YOU UNDERSTAND AND AGREE THAT THE OUTPUT MAY CONTAIN “HALLUCINATIONS” AND MAY BE OFFENSIVE, INACCURATE, OBJECTIONABLE, INAPPROPRIATE, OR OTHERWISE NOT SUITABLE FOR YOUR PURPOSE, AND YOU AGREE THAT WE SHALL NOT BE LIABLE FOR ANY DAMAGES YOU OR ANY THIRD PARTY ALLEGES TO INCUR AS A RESULT OF OR RELATING TO ANY OUTPUT OR OTHER CONTENT GENERATED BY OR ACCESSED ON OR THROUGH THE SERVICE.
+Registration. You must provide accurate and complete information to register for an account to use our Service. You may not share your account credentials or make your account available to anyone else and are responsible for all activities that occur under your account. If you create an account or use the Service on behalf of another person or entity, you must have the authority to accept these Terms on their behalf.
 
-“UNHINGED MODE” IS A BETA TECHNOLOGY INTENDED TO BE OBJECTIONABLE, INAPPROPRIATE, AND OFFENSIVE, MUCH LIKE AN AMATEUR STAND-UP COMIC WHO IS STILL LEARNING THE CRAFT. YOU ARE NOT PERMITTED TO USE THIS MODE, WHERE AVAILABLE, UNLESS YOU AGREE TO INTERACT WITH SUCH MATERIAL.
+Connecting Via Third-Party Service. By connecting to the Service via a third-party service, including via your X account, you give us permission to access, use, and store your information from that service, as permitted by that service, which may include log-in credentials and/or access tokens for that service. If connecting to xAI using your X account, you may elect (opt-in) to bring your X activity, X post history, and Grok in X conversation history to your xAI account.
 
-Certain features of the Service may allow you to share Input and Output with others, including through your social networks or other third-party services, such as X. If you share Input or Output from the Service with others, you authorize xAI to share those materials with the applicable third party. Please review the policies of any third-party service providers you share Input or Output with or through for additional information about how they may use those materials. YOU ARE SOLELY RESPONSIBLE FOR ANY INPUT OR OUTPUT YOU SHARE WITH OTHERS, INCLUDING VIA SOCIAL NETWORKS, AND ARE SUBJECT TO THE RESTRICTIONS IN SECTION 2.2 ABOVE.
+**Using our Service**
+---------------------
 
-4. **Usage Data.** We may collect, or you may provide to us, diagnostic, technical, usage, and/or related information, including information about your computers, mobile devices, systems, and software (collectively, “**Usage Data**”). All Usage Data is and will be owned solely and exclusively by us, and, to the extent any ownership rights in or to the Usage Data vest in you, you hereby assign to us all rights (including intellectual property rights), title, and interest in and to same. Accordingly, we may use, maintain, and/or process the Usage Data or any portion thereof for any lawful purpose, including, without limitation: (a) to provide and maintain the Service; (b) to improve our products and services (including the Service), and to develop new products, services, and/or features; (c) to monitor your usage of the Service; (d) for research and analytics, including, without limitation, data analysis, identifying usage trends, and/or customer research; and (e) to share analytics and other derived Usage Data with third parties, solely in de-identified or aggregated form. The Service may contain technological measures designed to prevent unauthorized or illegal use of the Service; you understand and acknowledge that we may use these and other lawful measures to verify your compliance with these Terms and to enforce our rights, including intellectual property rights, in and to the Service.
-    
-    5. **Feedback.** To the extent you provide us any suggestions, recommendations, or other feedback relating to the Service or to any other xAI products or services (collectively, “**Feedback**”), you hereby assign to us all rights (including intellectual property rights), title, and interest in and to the Feedback. Accordingly, we are free to use the Feedback and any ideas, know-how, concepts, techniques, and/or other intellectual property contained in the Feedback, without providing any attribution or compensation to you or to any third party, for any purpose whatsoever, although we are not required to use any Feedback. Feedback is deemed our Confidential Information (as defined below). You acknowledge that, by acceptance of your submission of Feedback, we do not waive any rights to use similar or related ideas previously known to us, or developed by our employees, or obtained from sources other than you.
-        
-    6. **Opt-out**. If you do not want us to use your Content to train our models, you have the option to opt out by updating your account settings.
-        
-5. **Confidential Information**
-    
+What you can do. Subject to your compliance with these Terms, you may access and use our Service. You must comply with all applicable laws as well as our [Acceptable Use Policy](https://x.ai/legal/acceptable-use-policy) and any other documentation, guidelines, or policies we make available to you.
 
-The Service may include non-public, proprietary, or confidential information of xAI and/or of other Users (“**Confidential Information**”). Confidential Information includes any information that should reasonably be understood to be confidential given the nature of the information and the circumstances of disclosure, including non-public business, product, technology, and marketing information. You will: (a) protect and safeguard the confidentiality of all Confidential Information with at least the same degree of care as you would use protect your own highly sensitive confidential information, but in no event with less than a reasonable degree of care; (b) not use any Confidential Information for any purpose other than to exercise your rights, or to perform your obligations, under these Terms; and (c) not disclose any Confidential Information to any person or entity, except your service providers or financial or legal advisors who/that (i) need to know the Confidential Information and (ii) are bound by non-use and non-disclosure restrictions at least as restrictive as those set forth in this Section.
+What you cannot do. You are prohibited from using our Service for any illegal, harmful, or abusive activity, including but not limited to:
 
-5. **Copyright Complaints**
+* Detrimentally impacting the Service, including by:
+    * Modifying, copying, leasing, selling, distributing, reverse engineering, or decompiling our Service.
+    * Using the Service or any Output, to develop models or services that compete with xAI
+    * Disrupting, interfering, or unauthorized access to the Service or its safety systems
+* Causing harm or engaging in abusive activity, including by:
+    * Critically harming or promoting critically harming human life (yours or anyone else’s)
+    * Violating copyright, trademark, or other intellectual property law
+    * Violating a person’s privacy or their right to publicity
+    * The sexualization or exploitation of children
+    * Espionage, hacking, defrauding, defamation, scamming, spamming, or phishing
+* Not complying with laws or regulations, including by:
+    * Taking unauthorized actions on behalf of others
+    * Operating in a regulated industry or region without complying with those regulations
+    * Making high-stakes automated decisions that affect a person’s safety, legal or material rights, or well-being (such as making credit, educational, employment, housing, insurance, legal, medical, or other important decisions about or for them).
+    * Misleading others or not being transparent regarding your use of AI
 
-If you believe that your copyrighted work has been copied in a way that constitutes copyright infringement and is accessible via the Service, please notify our copyright agent by following these instructions. For your complaint to be valid, you must provide all of the following information in writing:
+Who the Service is not available to.
 
-1. an electronic or physical signature of a person authorized to act on behalf of the copyright owner;
-    
-    2. identification of the copyrighted work that you claim has been infringed;
-        
-        3. identification of the material that is claimed to be infringing and its location on the Service;
-            
-        4. information reasonably sufficient to permit us to contact you, such as your address, telephone number, and email address;
-            
-        5. a statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or law; and
-            
-        6. a statement, made under penalty of perjury, that the above information is accurate, and that you are the copyright owner or are authorized to act on behalf of the owner.
-            
+* Anyone who violates these Terms, Acceptable Use Policy, other documentation, guidelines, or policies we make available to you.
+* Anyone who has been previously removed from the Service.
 
-The above information must be submitted to our Copyright Agent, using the following contact information:
+Third-party services and software. Our Service may include or be integrated with third-party software, products, or services that are subject to their own terms. Our software may include open source software that is governed by its own licenses.
 
-| Attn: | Legal: Copyright Agent X.AI LLC | | | :---- | :---- | ----- | | Address: | 1450 Page Mill Road Palo Alto, CA 94304 | |
+Downloadable software. Our Service may allow you to download software, such as mobile applications, which may update automatically to ensure you are using the latest version.
 
-UNDER UNITED STATES FEDERAL LAW, IF YOU KNOWINGLY MISREPRESENT THAT ONLINE MATERIAL IS INFRINGING, YOU MAY BE SUBJECT TO CRIMINAL PROSECUTION FOR PERJURY AND CIVIL PENALTIES, INCLUDING MONETARY DAMAGES, COURT COSTS, AND ATTORNEYS’ FEES.
+**Content**
+-----------
 
-We have adopted a policy of terminating, in appropriate circumstances, Users who are deemed to be repeat infringers. We may also, at our sole discretion, limit access to the Service and/or terminate the User Accounts of any Users who infringe any intellectual property rights of others, whether or not there is any repeat infringement.
+Your content. You may provide input to the Service (”Input”) and receive output from the Service based on the Input (”Output”). Collectively, Input and Output are “Content.” You are responsible for Content, including ensuring that it does not violate any applicable law or these Terms. You represent and warrant that you have all rights, licenses, and permissions needed to provide Input to our Service.
 
-6. **Fees; Payments; Cancellation**
+Ownership of Content. To the extent permitted by applicable law and as between you and xAI: you retain your ownership rights to the Input, and you own the Output.
 
+Our use of Content. You grant, an irrevocable, perpetual, transferable, sublicensable, royalty-free, and worldwide right to xAI to use, copy, store, modify, distribute, reproduce, publish, list information regarding, make derivative works of, and display your Content): (i) to maintain and provide the Service; (ii) to improve our products and the Service and for our other business purposes, such as data analysis, customer and market research, developing new products or features, and identifying usage trends; and (iii) to perform such other actions to enforce these Terms, comply with our Privacy Policy, comply with applicable law, keep our Service safe, or as authorized by you in connection with your use of the Service. For safety and compliance purposes, Temporary Chat Content and Content that you request to be deleted is maintained on our backend systems for up to 30 days before deletion.
+
+Accuracy. Artificial intelligence is rapidly evolving and is probabilistic in nature; it may therefore sometimes result in Output that contains “hallucinations,” may be offensive, may not accurately reflect real people, places or facts, may be objectionable, inappropriate, or otherwise not be suitable for your intended purpose.
+
+Similarity of content. Due to the nature of artificial intelligence, outputs may not be unique and users may receive similar output from our Service. Your rights to Output does not extend to other’s rights.
+
+Sharing of Content. Certain features of the Service may allow you to share Input and Output with others, including through your social networks or other third-party services, such as X. If you share Input or Output from the Service with others, you authorize xAI to share those materials with the applicable third-party. Please review the policies of any third-party service providers you share Input or Output with or through for additional information about how they may use those materials.
+
+Opt out of training. If you do not want us to use your Content to train our models and improve our services, you can go to your account settings to opt out.
+
+When you use our Service, you understand and agree that:
+
+* Output may not always be accurate. Output from our services is not professional advice. You should conduct your own thorough research and should not rely on Output as the truth.
+* You are responsible for evaluating the Output for accuracy and appropriateness for your use, including using human review and supervision, before using or sharing Output.
+* Our Service may provide incomplete, incorrect, or offensive Output that does not represent xAI’s views. Outputs are not meant to endorse a person or third-party’s views.
+
+**Beta technologies**
+---------------------
+
+We continue to add features to our Service, many in beta testing, which you accept “AS IS.”
+
+We may implement rate limitations to accommodate system resources or usage needs.
+
+“Temporary Chat” is beta technology where your conversation will not appear in your conversation history, and is removed from our system in about 30 days.
+
+“Unhinged Mode” is a beta technology where the responses Grok provides are intended to be objectionable, inappropriate, and offensive, much like an amateur stand-up comic who is still learning the craft. You are not permitted to use “Unhinged Mode,” where available, unless you agree to interact with such material.
+
+We may, where available, allow users to access Grok without logging in. When doing so, you agree that we will use any data you provide to or obtain from Grok for model training purposes, as further detailed in the Privacy Policy. Also, we may limit the number of requests you may send or responses you may receive from Grok. If you do not agree to these additional terms, you may not access or use Grok without logging in.
+
+Grok conversation history from your X account. You may share your Grok conversation history from when you accessed Grok from your X account to the Grok mobile app or [grok.com](http://grok.com/) website by opting in when you sign into your xAI account using your X account credentials. You remain responsible for your use and activities on X, and xAI does not assume any of those responsibilities.
+
+**xAI’s Intellectual Property Rights**
+--------------------------------------
+
+We and our affiliates own all rights, title, and interest in and to the Service.
+
+Usage data relating to our Service. We may collect, or you may provide to us, diagnostic, technical, usage, and/or related information, including information about your computers, mobile devices, systems, and software (collectively, “**Usage Data**”). All Usage Data is and will be owned solely and exclusively by us, and, to the extent any ownership rights in or to the Usage Data vest in you, you hereby assign to us all rights (including intellectual property rights), title, and interest in and to the same. Accordingly, we may use, maintain, and/or process the Usage Data or any portion thereof for any lawful purpose, including, without limitation: (a) to provide and maintain the Service; (b) to improve our products and services (including the Service), and to develop new products, services, and/or features; (c) to monitor your usage of the Service; (d) for research and analytics, including, without limitation, data analysis, identifying usage trends, and/or customer or market research; and (e) to share analytics and other derived Usage Data with third-parties, solely in de-identified or aggregated form.
+
+Feedback. To the extent you provide us any suggestions, recommendations, or other feedback relating to the Service or to any other xAI products or services (collectively, “**Feedback**”), you hereby assign to us all rights (including intellectual property rights), title, and interest in and to the Feedback. Accordingly, we are free to use the Feedback and any ideas, know-how, concepts, techniques, and/or other intellectual property contained in the Feedback, without providing any attribution or compensation to you or to any third-party, for any purpose whatsoever, although we are not required to use any Feedback.
+
+**Privacy and Data Security**
+-----------------------------
+
+**Privacy.** We care about your privacy. By using the Service, you acknowledge that we may collect, use, and disclose your personal information and aggregated and/or de-identified data as set forth in our Privacy Policy, and that your personal information will be transferred to, and/or processed in, the United States.
+
+**Security.** We care about the integrity and security of your personal information. However, we cannot guarantee that unauthorized third-parties will never be able to defeat our security measures or to use your data for improper purposes. You acknowledge that you provide your data at your own risk. You will notify us immediately of any breach of security or unauthorized use of your User Account.
+
+**Paid accounts**
+-----------------
+
+Fees; Payments; Cancellation.  
 If you purchase any aspect of the Service, you must provide complete and accurate billing information, including a valid payment method. For paid subscriptions, we will automatically charge your payment method on each periodic renewal until you cancel. We will charge tax when required. If your payment is not successful, we may downgrade your account or suspend your access to the Service until payment is received. You can cancel your paid subscription at any time; however, payments already made are non-refundable, except where required by law.
 
 Upon 30 days’ notice we may increase our subscription prices; any price increase will take effect on your next renewal so that you can cancel if you do not agree to the price increase.
 
-Certain aspects of the Service may also be accessed via a third party, such as X . If you chose to access such aspects of the Service via your X account, you must also agree to the [X Terms of Service](https://x.com/en/tos).
+Certain aspects of the Service may also be accessed via a third-party, such as X . If you chose to access such aspects of the Service via your X account, you must also agree to the [X Terms of Service](https://x.com/en/tos).
 
-7. **Privacy; Data Security**
-    
-    1. **Privacy.** We care about your privacy. By using the Service, you acknowledge that we may collect, use, and disclose your personal information and aggregated and/or anonymized data as set forth in our Privacy Policy, and that your personal information will be transferred to, and/or processed in, the United States.
-        
-    2. **Security.** We care about the integrity and security of your personal information. However, we cannot guarantee that unauthorized third parties will never be able to defeat our security measures or to use your data for improper purposes. You acknowledge that you provide your data at your own risk.
-        
-8. **Additional Terms for Apps**
-    
-    1. **General.** To use any App, you must have a mobile device that is compatible with such App. xAI does not warrant that any App will be compatible with your mobile device. You may use mobile data in connection with an App and may incur additional charges from your wireless provider in connection with such App. You understand and acknowledge that you are solely responsible for any such charges. We hereby grant you a non-exclusive, limited, non-transferable, and freely revocable license to use a compiled code copy of the App(s) under your User Account on one (1) or more mobile devices owned or controlled solely by you (except to the extent Apple or Google permits any shared access and/or use of the iOS App or Android App (as each of those terms is defined below), respectively), solely in accordance with these Terms. The foregoing license grant is not a sale of any App or of any copy thereof. You may not: (a) modify, disassemble, decompile, or reverse engineer any App, except to the extent that such restriction is expressly prohibited by Applicable Law; (b) rent, lease, loan, resell, sublicense, distribute, or otherwise transfer any App to any third party, or use any App to provide time sharing or similar services for any third party; (c) make any copies of any App; (d) remove, circumvent, disable, damage, or otherwise interfere with security-related features of any App, features that prevent or restrict use or copying of any content accessible through any App, or features that enforce limitations on use of the Apps; or (e) delete the copyright or other proprietary rights notices on any App. You acknowledge that we may, from time to time, issue upgraded versions of the Apps, and may automatically electronically upgrade the version of the App that you are using on your mobile device. You consent to such automatic upgrading on your mobile device, and you understand and acknowledge that the terms and conditions of these Terms will apply to all such upgrades. Any third-party code that may be incorporated into an App is covered by the applicable open source or third-party license, if any, authorizing use of such code. We or our third-party partners or suppliers retain all right, title, and interest in and to the Apps (and any copies thereof). Any attempt by you to transfer or delegate any of the rights, duties, or obligations hereunder, except as expressly provided for in these Terms, is void. We reserve all rights not expressly granted under these Terms.
-        
-    2. **iOS App.** This paragraph applies to any App you acquire from the Apple App Store (such App, “**iOS App**”). You and xAI understand and acknowledge that these Terms are solely between you and xAI, not Apple, Inc. (“**Apple**”), and that Apple has no responsibility for the iOS App or content thereof. Your access to and use of the iOS App must comply with the usage rules set forth in Apple’s then-current [Apple Media Services Terms and Conditions](https://www.apple.com/legal/internet-services/itunes/) and with the applicable [Volume Content Terms](https://www.apple.com/legal/internet-services/itunes/vppbusiness/ww/). You acknowledge that Apple has no obligation whatsoever to furnish any maintenance and support services with respect to the iOS App. In the event of any failure of the iOS App to conform to any applicable warranty, you may notify Apple, and Apple will refund the purchase price (if any) for the iOS App to you; to the maximum extent permitted by applicable law, Apple will have no other warranty obligation whatsoever with respect to the iOS App, and any other claims, losses, liabilities, damages, costs, or expenses attributable to any failure to conform to any warranty will be governed solely by these Terms and any law applicable to xAI as provider of the iOS App. You and xAI acknowledge that Apple is not responsible for addressing any claims of you or any third party relating to the iOS App or your possession and/or use of the iOS App, including, but not limited to: (a) product liability claims; (b) any claim that the iOS App fails to conform to any applicable legal or regulatory requirement; and (c) claims arising under consumer protection or similar legislation. You acknowledge that, in the event of any third-party claim that the iOS App, or your possession and use of that iOS App, infringes that third party’s intellectual property rights, xAI, not Apple, will be solely responsible for the investigation, defense, settlement, and discharge of any such intellectual property infringement claim, to the extent required by these Terms. You and xAI acknowledge and agree that Apple and Apple’s subsidiaries are third-party beneficiaries of these Terms as relates to your license of the iOS App, and that, upon your acceptance of the terms and conditions of these Terms, Apple will have the right (and will be deemed to have accepted the right) to enforce these Terms as relates to your license of the iOS App against you as a third-party beneficiary thereof.
-        
-    3. **Android App.** This paragraph applies to any App you acquire from the Google Play Store (such App, “**Android App**”): (a) you acknowledge that these Terms are between you and xAI only, and not Google LLC or any affiliate thereof (collectively, “**Google**”); (b) your access to and use of the Android App must comply with Google’s then-current [Google Play Terms of Service](https://play.google.com/about/play-terms/); (c) Google is only a provider of the Google Play Store where you obtained the Android App; (d) xAI, and not Google, is solely responsible for the Android App; (e) Google has no obligation or liability to you with respect to the Android App or these Terms; and (f) you understand and acknowledge that Google is a third-party beneficiary to these Terms as they relate to the Android App.
-        
-9. **Your Use of Third-Party Services**
-    
+**Termination, suspension, discontinuation**
+--------------------------------------------
 
-THE SERVICE MAY CONTAIN LINKS TO THIRD-PARTY SITES, MATERIALS, AND/OR SERVICES (COLLECTIVELY, “**THIRD-PARTY SERVICES**”) THAT ARE NOT OWNED OR CONTROLLED BY US, AND CERTAIN FUNCTIONALITIES OF THE SERVICE MAY REQUIRE YOUR USE OF THIRD-PARTY SERVICES. IF YOU USE A THIRD-PARTY SERVICE IN CONNECTION WITH THE SERVICE, YOU ARE SUBJECT TO AND AGREE TO, AND MUST COMPLY WITH, THE THIRD PARTY’S TERMS AND CONDITIONS MADE AVAILABLE VIA, OR AGREED IN CONNECTION WITH, ITS SERVICES. WE DO NOT ENDORSE OR ASSUME ANY RESPONSIBILITY FOR ANY THIRD-PARTY SERVICES. IF YOU ACCESS A THIRD-PARTY SERVICE FROM THE SERVICE OR SHARE YOUR INPUT OR OUTPUT ON OR THROUGH ANY THIRD-PARTY SERVICE, YOU DO SO AT YOUR OWN RISK, AND YOU UNDERSTAND THAT THESE TERMS AND OUR PRIVACY POLICY DO NOT APPLY TO YOUR USE OF ANY THIRD-PARTY SERVICE. YOU EXPRESSLY RELIEVE US FROM ANY AND ALL LIABILITY ARISING FROM YOUR ACCESS TO AND/OR USE OF ANY THIRD-PARTY SERVICE. ADDITIONALLY, YOUR DEALINGS WITH, OR PARTICIPATION IN PROMOTIONS OF, ADVERTISERS FOUND ON THE SERVICE, INCLUDING AS RELATES TO PAYMENT AND DELIVERY OF GOODS, AND ANY OTHER TERMS (SUCH AS WARRANTIES) ARE SOLELY BETWEEN YOU AND SUCH ADVERTISERS. YOU UNDERSTAND AND ACKNOWLEDGE THAT WE WILL NOT BE RESPONSIBLE FOR ANY LOSS OR DAMAGE OF ANY SORT RELATING TO YOUR DEALINGS WITH SUCH ADVERTISERS.
+Termination. You are free to stop using our Service at any time.
 
-10. **Release**
+We may terminate or suspend your access to our Service or delete your account at any time without notice to you if we determine, at our sole discretion, that:
 
-You hereby release us from all claims, damages (whether direct, indirect, incidental, consequential, or otherwise), obligations, losses, liabilities, costs, debts, and expenses, in each case of every kind and nature, known and unknown, arising out of a dispute between you and a third party (including any other User) in connection with the Service. In addition, you waive any Applicable Law that says, in substance: “A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE RELEASING PARTY DOES NOT KNOW OR SUSPECT TO EXIST IN HIS OR HER FAVOR AT THE TIME OF EXECUTING THE RELEASE, WHICH, IF KNOWN BY HIM OR HER, WOULD HAVE MATERIALLY AFFECTED HIS OR HER SETTLEMENT WITH THE RELEASED PARTY.”
+* You breached these Terms or our Acceptable Use Policy, guidelines, or other policies
+* We must do so to comply with the law
+* Your use of our Service could cause risk or harm to xAI, our users, or anyone else
+* Your account has been inactive for over a year and you do not have a paid account
 
-11. **Indemnity**
+If we terminate your access to the Services due to a violation of these Terms or our Acceptable Use Policy, you will not be entitled to any refund.
 
-To the maximum extent permitted by applicable law, you will defend, indemnify, and hold us and our subsidiaries and affiliates, and our and their respective agents, suppliers, licensors, employees, contractors, officers, and directors (collectively, including xAI, the “**xAI Indemnitees**”) harmless from and against any and all claims, damages (whether direct, indirect, incidental, consequential, or otherwise), obligations, losses, liabilities, costs, debts, and expenses (including, but not limited to, legal fees) arising from: (a) your access to and/or use of the Service, including your use of Output; (b) your violation of any term of these Terms, including, without limitation, your breach of any of your representations and warranties set forth in these Terms; (c) your violation of any third-party right, including, without limitation, any privacy right or xAI Intellectual Property Right; (d) your violation of any Applicable Law; (e) Input or any content that is submitted via your User Account, including, without limitation, any misleading, false, defamatory, or inaccurate information; (f) your willful misconduct; or (g) any third party’s access to and/or use of the Service with your username(s), password(s), or other authentication credential(s).
+Appeals: If you believe we have suspended or terminated your account in error, you can file an appeal with us by contacting [support@x.AI](mailto:support@x.AI)
 
-12. **No Warranty; Disclaimers**
+We may decide to discontinue our Service. If we do, we will provide you notice and any applicable refund for prepaid, unused services.
 
-TO THE FULLEST EXTENT PERMITTED BY LAW, THE SERVICE IS PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS. YOUR USE OF THE SERVICE IS AT YOUR OWN RISK. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SERVICE, THE INTELLECTUAL PROPERTY, AND ANY OTHER INFORMATION AVAILABLE ON OR THROUGH THE SERVICE ARE PROVIDED WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND/OR NON-INFRINGEMENT. XAI DOES NOT GUARANTEE THAT THE FUNCTIONS OR FEATURES OF THE SERVICES WILL BE UNINTERRUPTED OR ERROR-FREE OR THAT DEFECTS WILL BE CORRECTED.
+**Disclaimer of warranties**
+----------------------------
 
-THE LAWS OF SOME JURISDICTIONS DO NOT ALLOW THE DISCLAIMER OF IMPLIED WARRANTIES OR CERTAIN TYPES OF DAMAGES, SO SOME OR ALL OF THE DISCLAIMERS AND LIMITATIONS OF LIABILITY IN THESE TERMS MAY NOT APPLY TO YOU.
+TO THE FULLEST EXTENT PERMITTED BY LAW, THE SERVICE IS PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS. YOUR USE OF THE SERVICE IS AT YOUR OWN RISK. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SERVICE, THE INTELLECTUAL PROPERTY, AND ANY OTHER INFORMATION AVAILABLE ON OR THROUGH THE SERVICE ARE PROVIDED WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND/OR NON-INFRINGEMENT. XAI DOES NOT GUARANTEE THAT THE FUNCTIONS OR FEATURES OF THE SERVICE WILL BE UNINTERRUPTED OR ERROR-FREE OR THAT DEFECTS WILL BE CORRECTED.
 
-13. **Limitation of Liability**
+YOU ACCEPT AND AGREE THAT ANY USE OF OUTPUTS FROM OUR SERVICE IS AT YOUR SOLE RISK AND YOU WILL NOT RELY ON OUTPUT AS THE SOLE SOURCE OF TRUTH OR FACTUAL INFORMATION, OR AS PROFESSIONAL ADVICE.
 
-TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL XAI OR ANY XAI INDEMNITEE BE LIABLE FOR ANY INDIRECT, PUNITIVE, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES, INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, OR DATA, OR OTHER INTANGIBLE LOSSES, ARISING OUT OF OR RELATING TO THE USE OF, OR INABILITY TO USE, THE SERVICE OR ANY PORTION THEREOF. UNDER NO CIRCUMSTANCES WILL XAI BE RESPONSIBLE FOR ANY DAMAGE, LOSS, OR INJURY RESULTING FROM HACKING, TAMPERING, OR OTHER UNAUTHORIZED ACCESS TO OR USE OF THE SERVICE OR YOUR USER ACCOUNT OR THE INFORMATION CONTAINED THEREIN.
+**Indemnity**
+-------------
 
-TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, WE ASSUME NO LIABILITY OR RESPONSIBILITY FOR ANY (A) ERRORS, MISTAKES, OR INACCURACIES OF CONTENT; (B) PERSONAL INJURY OR PROPERTY DAMAGE, OF ANY NATURE WHATSOEVER, RESULTING FROM YOUR ACCESS TO OR USE OF THE SERVICE; (C) ANY UNAUTHORIZED ACCESS TO OR USE OF THE SERVERS RUNNING THE SERVICE AND/OR ANY AND ALL PERSONAL INFORMATION STORED THEREIN; (D) ANY INTERRUPTION OR CESSATION OF TRANSMISSION TO OR FROM THE SERVICE; (E) ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE THAT MAY BE TRANSMITTED TO OR THROUGH THE SERVICE BY ANY THIRD PARTY; (F) ANY ERRORS OR OMISSIONS IN ANY CONTENT, OR ANY LOSS OR DAMAGE INCURRED AS A RESULT OF THE USE OF ANY CONTENT POSTED, EMAILED, TRANSMITTED, OR OTHERWISE MADE AVAILABLE THROUGH THE SERVICE; AND/OR (G) YOUR DATA, ANY INPUT, OR THE DEFAMATORY, OFFENSIVE, OR ILLEGAL CONDUCT OF ANY THIRD PARTY.
+To the fullest extent permitted by law, you will defend, indemnify, and hold us and our subsidiaries and affiliates, and our and their respective agents, suppliers, licensors, employees, contractors, officers, and directors (collectively, including xAI, the “xAI Indemnitees”) harmless from and against any and all claims, damages (whether direct, indirect, incidental, consequential, or otherwise), obligations, losses, liabilities, costs, debts, and expenses (including, but not limited to, legal fees) arising from: (a) your access to and/or use of the Service, including your use of Output; (b) your violation of any term of these Terms, including, without limitation, your breach of any of your representations and warranties set forth in these Terms; (c) your violation of any third-party right, including, without limitation, any privacy right or xAI Intellectual Property Right; (d) your violation of any Applicable Law; (e) Input or any content that is submitted via your User Account, including, without limitation, any misleading, false, defamatory, or inaccurate information; (f) your willful misconduct; or (g) any third-party’s access to and/or use of the Service with your username(s), password(s), or other authentication credential(s).
+
+**Limitation of liability**
+---------------------------
+
+TO THE FULLEST EXTENT PERMITTED BY LAW, IN NO EVENT WILL XAI OR ANY XAI INDEMNITEE BE LIABLE FOR ANY INDIRECT, PUNITIVE, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES, INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, OR DATA, OR OTHER INTANGIBLE LOSSES, ARISING OUT OF OR RELATING TO THE USE OF, OR INABILITY TO USE, THE SERVICE OR ANY PORTION THEREOF. UNDER NO CIRCUMSTANCES WILL XAI BE RESPONSIBLE FOR ANY DAMAGE, LOSS, OR INJURY RESULTING FROM HACKING, TAMPERING, OR OTHER UNAUTHORIZED ACCESS TO OR USE OF THE SERVICE OR YOUR USER ACCOUNT OR THE INFORMATION CONTAINED THEREIN.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, XAI OR ANY XAI INDEMNITEE ASSUMES NO LIABILITY OR RESPONSIBILITY FOR ANY (A) ERRORS, MISTAKES, OR INACCURACIES OF CONTENT; (B) PERSONAL INJURY OR PROPERTY DAMAGE, OF ANY NATURE WHATSOEVER, RESULTING FROM YOUR ACCESS TO OR USE OF THE SERVICE; (C) ANY UNAUTHORIZED ACCESS TO OR USE OF THE SERVERS RUNNING THE SERVICE AND/OR ANY AND ALL PERSONAL INFORMATION STORED THEREIN; (D) ANY INTERRUPTION OR CESSATION OF TRANSMISSION TO OR FROM THE SERVICE; (E) ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE THAT MAY BE TRANSMITTED TO OR THROUGH THE SERVICE BY ANY THIRD-PARTY; (F) ANY ERRORS OR OMISSIONS IN ANY CONTENT, OR ANY LOSS OR DAMAGE INCURRED AS A RESULT OF THE USE OF ANY CONTENT POSTED, EMAILED, TRANSMITTED, OR OTHERWISE MADE AVAILABLE THROUGH THE SERVICE; AND/OR (G) YOUR DATA, ANY INPUT, OR THE DEFAMATORY, OFFENSIVE, OR ILLEGAL CONDUCT OF ANY THIRD-PARTY.
 
 TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL XAI OR ANY XAI INDEMNITEE BE LIABLE TO YOU FOR ANY CLAIMS, PROCEEDINGS, LIABILITIES, OBLIGATIONS, DAMAGES, LOSSES, OR COSTS IN AN AMOUNT EXCEEDING THE AMOUNT YOU PAID TO US HEREUNDER OR ONE HUNDRED U.S. DOLLARS ($100.00), WHICHEVER IS GREATER. THIS LIMITATION OF LIABILITY SECTION APPLIES WHETHER THE ALLEGED LIABILITY IS BASED ON CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY, OR ANY OTHER BASIS, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-14. **Governing Law, Arbitration, and Class Action/Jury Trial Waiver**
-    
-    1. **Governing Law.** These Terms will be governed by the internal substantive laws of the State of Texas, without respect to its conflict of laws principles. The parties acknowledge that these Terms evidence a transaction involving interstate commerce. Notwithstanding the preceding sentences with respect to the substantive law governing these Terms, the Federal Arbitration Act (9 U.S.C. §§ 1-16) (as it may be amended, “**FAA**”) governs the interpretation and enforcement of the Arbitration Agreement below and preempts all state laws (and laws of other jurisdictions) to the fullest extent permitted by Applicable Law. If the FAA is found to not apply to any issue that arises from or relates to the Arbitration Agreement, then that issue will be resolved under and governed by the law of the U.S. state where you live (if applicable) or the jurisdiction mutually agreed upon in writing by you and us. The application of the United Nations Convention on Contracts for the International Sale of Goods is expressly excluded. You agree to submit to the exclusive personal jurisdiction of the federal and state courts located in Tarrant County, Texas for any actions for which we retain the right to seek injunctive or other equitable relief in a court of competent jurisdiction to prevent the actual or threatened infringement, misappropriation, or violation of our data security, Confidential Information, or intellectual property rights, as set forth in the Arbitration Agreement below, including any provisional relief required to prevent irreparable harm. You agree that Tarrant County, Texas is the proper and exclusive forum for any appeals of an arbitration award, or for trial court proceedings in the event that the Arbitration Agreement below is found to be unenforceable. These Terms were drafted in the English language and this English language version of the Terms is the original, governing instrument of the understanding between you and us. In the event of any conflict between the English version of these Terms and any translation, the English version will prevail.
-        
-    2. **Arbitration Agreement**
-        
-        1. General. READ THIS SECTION CAREFULLY BECAUSE IT REQUIRES THE PARTIES TO ARBITRATE THEIR DISPUTES AND LIMITS THE MANNER IN WHICH YOU CAN SEEK RELIEF FROM US. This Arbitration Agreement applies to and governs any dispute, controversy, or claim between you and us that arises out of or relates to, directly or indirectly: (i) these Terms, including the formation, existence, breach, termination, enforcement, interpretation, validity, and enforceability thereof; (ii) access to or use of the Service, including receipt of any advertising or marketing communications; (iii) any transactions through, by, or using the Service; or (iv) any other aspect of your relationship or transactions with us, directly or indirectly, as a User or consumer (each, a “**Claim**,” and, collectively, “**Claims**”). This Arbitration Agreement will apply, without limitation, to all Claims that arose or were asserted before or after your consent to these Terms.
-            
-        2. Opting Out of Arbitration Agreement. If you are a new User, you can reject and opt out of this Arbitration Agreement within thirty (30) days of accepting these Terms by emailing us at [support@x.ai](mailto:support@x.ai) with your full, legal name and stating your intent to opt out of this Arbitration Agreement. Opting out of this Arbitration Agreement does not affect the binding nature of any other part of these Terms, including the provisions regarding controlling law or the courts in which any disputes must be brought.
-            
-        3. Dispute-Resolution Process. For any Claim, you will first contact us at legal@x.ai and meet and confer to attempt to resolve the Claim with us informally. In the unlikely event that we have not been able to resolve a Claim after sixty (60) days, we each agree to resolve such Claim exclusively through binding arbitration by AAA before a single arbitrator (the “**Arbitrator**”), under the Expedited Arbitration Procedures then in effect for AAA (the “**Rules**”), except as provided herein. AAA may be contacted at www.adr.org, where the Rules are available. In the event of any conflict between the Rules and this Arbitration Agreement, this Arbitration Agreement will control. The arbitration will be conducted by videoconference, unless the Arbitrator determines it must be in person, in which case it will be conducted in the U.S. county where you live (if applicable) or Tarrant County, Texas, unless you and xAI agree otherwise. If you are using the Service for commercial purposes, each party will be responsible for paying any AAA filing and administrative fees and Arbitrator fees in accordance with the Rules, and the award rendered by the Arbitrator will include costs of arbitration, reasonable attorneys’ fees, and reasonable costs for expert and other witnesses. If you are an individual using the Service for non-commercial purposes: (i) AAA may require you to pay a fee for the initiation of your case, unless you apply for and successfully obtain a fee waiver from AAA; (ii) the award rendered by the Arbitrator may include your costs of arbitration, your reasonable attorneys’ fees, and your reasonable costs for expert and other witnesses; and (iii) you may sue in a small claims court of competent jurisdiction without first engaging in arbitration, but this would not absolve you of your commitment to engage in the informal dispute resolution process. Any judgment on the award rendered by the Arbitrator may be entered in any court of competent jurisdiction. You and we agree that the Arbitrator, and not any federal, state, or local court or agency, will have exclusive authority to resolve any disputes relating to the scope, interpretation, applicability, enforceability, or formation of this Arbitration Agreement, including any claim that all or any part of this Arbitration Agreement is void or voidable. The Arbitrator will also be responsible for determining all threshold arbitrability issues, including issues relating to whether these Terms are, or whether any provision of these Terms is, unconscionable or illusory, and any defense to arbitration, including waiver, delay, laches, unconscionability, and/or estoppel.
-            
-        4. Equitable Relief. NOTHING IN THIS ARBITRATION AGREEMENT WILL BE DEEMED AS: PREVENTING US FROM SEEKING INJUNCTIVE OR OTHER EQUITABLE RELIEF FROM THE COURTS AS NECESSARY TO PREVENT THE ACTUAL OR THREATENED INFRINGEMENT, MISAPPROPRIATION, OR VIOLATION OF OUR DATA SECURITY, CONFIDENTIAL INFORMATION, OR INTELLECTUAL PROPERTY RIGHTS; OR PREVENTING YOU FROM ASSERTING CLAIMS IN A SMALL CLAIMS COURT, PROVIDED THAT YOUR CLAIMS QUALIFY AND SO LONG AS THE MATTER REMAINS IN SUCH COURT AND ADVANCES ON ONLY AN INDIVIDUAL (NON-CLASS, NON-COLLECTIVE, AND NON-REPRESENTATIVE) BASIS.
-            
-        5. Severability. If this Arbitration Agreement is found to be void, unenforceable, or unlawful, in whole or in part, the void, unenforceable, or unlawful provision, in whole or in part, will be severed. Severance of the void, unenforceable, or unlawful provision, in whole or in part, will have no impact on the remaining provisions of this Arbitration Agreement, which will remain in force, or on the parties’ ability to compel arbitration of any remaining Claims on an individual basis pursuant to this Arbitration Agreement. Notwithstanding the foregoing, if the Class Action/Jury Trial Waiver below is found to be void, unenforceable, or unlawful, in whole or in part, because it would prevent you from seeking public injunctive relief, then any dispute regarding the entitlement to such relief (and only that relief) must be severed from arbitration and may be litigated in a civil court of competent jurisdiction. All other claims for relief subject to arbitration under this Arbitration Agreement will be arbitrated under its terms, and the parties agree that litigation of any dispute regarding the entitlement to public injunctive relief will be stayed pending the outcome of any individual claims in arbitration.
-            
-    3. **Class Action/Jury Trial Waiver.** BY ENTERING INTO THESE TERMS, YOU AND XAI ARE EACH WAIVING THE RIGHT TO A TRIAL BY JURY OR TO BRING, JOIN, OR PARTICIPATE IN ANY PURPORTED CLASS ACTION, COLLECTIVE ACTION, PRIVATE ATTORNEY GENERAL ACTION, OR OTHER REPRESENTATIVE PROCEEDING OF ANY KIND AS A PLAINTIFF OR CLASS MEMBER. THE FOREGOING APPLIES TO ALL USERS (BOTH NATURAL PERSONS AND ENTITIES), REGARDLESS OF WHETHER YOU HAVE OBTAINED OR USED THE SERVICE FOR PERSONAL, COMMERCIAL, OR OTHER PURPOSES. THIS CLASS ACTION/JURY TRIAL WAIVER APPLIES TO CLASS ARBITRATION, AND, UNLESS WE AGREE OTHERWISE, THE ARBITRATOR MAY NOT CONSOLIDATE MORE THAN ONE PERSON’S OR ENTITY’S CLAIMS. YOU AND XAI AGREE THAT THE ARBITRATOR MAY AWARD RELIEF ONLY TO AN INDIVIDUAL CLAIMANT AND ONLY TO THE EXTENT NECESSARY TO PROVIDE RELIEF ON YOUR INDIVIDUAL CLAIM(S). ANY RELIEF AWARDED MAY NOT AFFECT OTHER USERS.
-        
-15. **U.S. Government Restricted Rights**
-    
+Some countries and states do not allow the disclaimer of certain warranties or the limitation of certain damages, so some or all of the terms above may not apply to you, and you may have additional rights.
 
-To the extent the Service is being used by or on behalf of the U.S. Government, the Service will be deemed commercial computer software or commercial computer software documentation (as applicable). Accordingly, if you are an agency of the U.S. Government or any contractor therefor, you receive only those rights with respect to the Service as are granted to all other Users hereunder, in accordance with 48 C.F.R. §227.7202 and 48 C.F.R. §12.212, as applicable.
+**Copyright complaints**
+------------------------
 
-16. **Export Controls**
+If you believe that your copyrighted work has been infringed and is accessible via the Service, please notify our copyright agent by following these instructions. We may delete or disable content that we believe violates these Terms or is alleged to be infringing and will terminate accounts of repeat infringers at our sole discretion.
 
-You understand and acknowledge that the Service may be subject to export control laws and regulations. You will comply with all applicable import and export and re-export control and trade and economic sanctions laws and regulations, including the Export Administration Regulations maintained by the U.S. Department of Commerce, trade and economic sanctions maintained by the U.S. Treasury Department’s Office of Foreign Assets Control (“**OFAC**”), and the International Traffic in Arms Regulations maintained by the U.S. State Department. You represent and warrant that you are not, and that no person to whom you make the Service available or that is acting on your behalf, is (a) listed on the List of Specially Designated Nationals and Blocked Persons or on any other list of sanctioned, prohibited, or restricted parties administered by OFAC or by any other governmental entity, or (b) located in, a national or resident of, or a segment of the government of, any country or territory for which the United States maintains trade or economic sanctions or embargoes or that has been designated by the U.S. Government as a “terrorist supporting” region.
+Written claims concerning copyright infringement must include all of the following information:
 
-17. **General Provisions**
-    
-    1. **Assignment.** These Terms, and any rights and licenses granted hereunder, may not be transferred or assigned by you without our prior express written consent, but may be assigned by us without restriction. Any attempted transfer or assignment in violation hereof will be null and void.
-        
-    2. **Notification Procedures and Changes to these Terms.** We may provide notifications, whether such notifications are required by Applicable Law or are for marketing or other business-related purposes, to you via email notice or written or hard copy notice, or through posting of such notice on the Service, as we determine, at our sole discretion. We reserve the right to determine the form and means of providing notifications to Users, provided that you may opt out of certain means of notification, as required under Applicable Law or as described in these Terms. We are not responsible for any automatic filtering you or your network provider may apply to email notifications we send to the email address you provide us. We may, in our sole discretion, modify or update these Terms from time to time, and so you should review this page periodically. When we change these Terms in a material manner, we will update the ‘last modified’ date at the top of this page and notify you that material changes have been made to these Terms. These Terms apply to and govern your access to and use of the Service effective as of the start of your access to the Service, even if such access began before publication of these Terms. Your continued use of the Service after any change to these Terms constitutes your acceptance of the new Terms of Service. If you do not agree to any part of these Terms or to any future Terms of Service, do not access or use (or continue to access or use) the Service.
-        
-    3. **Entire Agreement; Severability.** These Terms, together with any amendments and any additional agreements you may enter into with us in connection with the Service, will constitute the entire agreement between you and us concerning the Service. Any statements or comments made between you and any of our employees or representatives are expressly excluded from these Terms and will not apply to you or us, or to your access to or use of the Service. Except as otherwise stated in the Arbitration Agreement, if any provision of these Terms is deemed invalid by a court of competent jurisdiction, the invalidity of such provision will not affect the validity of the remaining provisions of these Terms, which will remain in full force and effect.
-        
-    4. **No Waiver.** No waiver of any term of these Terms will be deemed a further or continuing waiver of such term or of any other term, and our failure to assert any right or provision under these Terms will not constitute a waiver of such right or provision.
-        
-    5. **California Residents.** The provider of the Service is set forth herein. If you are a California resident, in accordance with Cal. Civ. Code §1789.3, you may report complaints to the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs by contacting it in writing at 1625 North Market Blvd., Suite N 112 Sacramento, CA 95834, or by telephone at (800) 952-5210 or (916) 445-1254.
-        
-    6. **Contact.** If you have any questions about these Terms and/or the Service, please contact us at [support@x.ai](about:blank).
-        
-18. **Special Terms for Residents of the European Economic Area (EEA), United Kingdom (UK) and Switzerland ("EU/UK-Specific Terms")**
-    
+* An electronic or physical signature of a person authorized to act on behalf of the copyright owner
+* A description of the copyrighted work that you claim has been infringed upon
+* A description of where the allegedly infringing material is located on our Service, so we can find it
+* Your address, telephone number, and e-mail address
+* A statement by you that you have a good-faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law
+* A statement by you, made under penalty of perjury, that the above information is accurate, and that you are the copyright owner or are authorized to act on behalf of the copyright owner.
 
-**Definition of Consumer**. For the purposes of these EU/UK-Specific Terms "**EU/UK-Consumers"** are those natural persons with a habitual place of residence in the EEA, UK or Switzerland who enter into a contract subject to these Terms for a purpose outside their trade, business or profession.
+The above information must be submitted to our Copyright Agent at:
 
-**Governing Law**. These Terms and any action related thereto will be governed by the laws of the State of Texas, excluding its conflict of laws principles. If you are an EU-Consumer, you will benefit from any mandatory provisions of the law of the country in which you are resident as well as of the provisions of these EU specific terms.
+Attn: Legal - Copyright Agent X.AI LLC 1450 Page Mill Road Palo Alto, CA 94304 USA
 
-**Venue of jurisdiction**. If you are an EU-Consumer, the arbitration agreement in Section 14 shall not apply to you. As an EU-Consumer, you may bring any dispute which may arise under these Terms or in connection with the use of the Service, at your discretion, in your local courts. We shall bring any dispute which may arise under these Terms or in connection with your use of the Service to the competent court of your country of habitual residence if that country is within the EEA, the UK or Switzerland.
+**Dispute resolution**
+----------------------
 
-**Online Dispute Resolution**. If you are an EU-Consumer resident in the EEA and have a dispute with x.AI (and not another User), you can also raise the dispute with an alternative dispute resolution body via the European Commission's Online Dispute Resolution (ODR) Platform, which you can access at: [http://ec.europa.eu/consumers/odr/](http://ec.europa.eu/consumers/odr/). We are not obliged to participate in online dispute resolution and have chosen not to do so.
+READ THIS SECTION CAREFULLY BECAUSE IT REQUIRES THE PARTIES TO ARBITRATE THEIR DISPUTES AND LIMITS THE MANNER IN WHICH YOU CAN SEEK RELIEF FROM US.
+
+You and xAI agree to the following mandatory arbitration and class action waiver provisions:
+
+MANDATORY ARBITRATION. You and xAI agree to resolve any claims arising out of or relating to these Terms or our Service, regardless of when the claim arose, even if it was before these Terms existed (a “Claim”), through final and binding arbitration. You may opt out of arbitration within 30 days of account creation or of any updates to these arbitration terms within 30 days after the update has taken effect by emailing us at [legal@x.ai](mailto:legal@x.ai) with your full, legal name and stating your intent to opt out of this Arbitration Agreement. If you opt out of an update, the last set of agreed upon arbitration terms will apply. Opting out of this Arbitration Agreement does not affect the binding nature of any other part of these Terms, including the provisions regarding controlling law or the courts in which any disputes must be brought.
+
+Dispute-Resolution Process. For any Claim, you will first contact us at [legal@x.ai](mailto:legal@x.ai) and meet and confer to attempt to resolve the Claim with us informally. In the unlikely event that we have not been able to resolve a Claim after sixty (60) days, we each agree to resolve such Claim exclusively through binding arbitration by AAA before a single arbitrator (the “Arbitrator”), under the Expedited Arbitration Procedures then in effect for AAA (the “Rules”), except as provided herein. AAA may be contacted at [www.adr.org](http://www.adr.org/), where the Rules are available. In the event of any conflict between the Rules and this Arbitration Agreement, this Arbitration Agreement will control. The arbitration will be conducted by videoconference, unless the Arbitrator determines it must be in person, in which case it will be conducted in the U.S. county where you live (if applicable) or Palo Alto, California, unless you and xAI agree otherwise. If you are using the Service for commercial purposes, each party will be responsible for paying any AAA filing and administrative fees and Arbitrator fees in accordance with the Rules, and the award rendered by the Arbitrator will include costs of arbitration, reasonable attorneys’ fees, and reasonable costs for expert and other witnesses. If you are an individual using the Service for non-commercial purposes: (i) AAA may require you to pay a fee for the initiation of your case, unless you apply for and successfully obtain a fee waiver from AAA; (ii) the award rendered by the Arbitrator may include your costs of arbitration, your reasonable attorneys’ fees, and your reasonable costs for expert and other witnesses; and (iii) you may sue in a small claims court of competent jurisdiction without first engaging in arbitration, but this would not absolve you of your commitment to engage in the informal dispute resolution process. Any judgment on the award rendered by the Arbitrator may be entered in any court of competent jurisdiction. You and we agree that the Arbitrator, and not any federal, state, or local court or agency, will have exclusive authority to resolve any disputes relating to the scope, interpretation, applicability, enforceability, or formation of this Arbitration Agreement, including any claim that all or any part of this Arbitration Agreement is void or voidable. The Arbitrator will also be responsible for determining all threshold arbitrability issues, including issues relating to whether these Terms are, or whether any provision of these Terms is, unconscionable or illusory, and any defense to arbitration, including waiver, delay, laches, unconscionability, and/or estoppel.
+
+Exceptions. This section does not require informal dispute resolution or arbitration of the following claims: (i) individual claims brought in small claims court; and (ii) injunctive or other equitable relief to stop unauthorized use or abuse of the Service or intellectual property infringement or misappropriation.
+
+CLASS ACTION AND JURY TRIAL WAIVERS. BY ENTERING INTO THESE TERMS, YOU AND XAI ARE EACH WAIVING THE RIGHT TO A TRIAL BY JURY OR TO BRING, JOIN, OR PARTICIPATE IN ANY PURPORTED CLASS ACTION, COLLECTIVE ACTION, PRIVATE ATTORNEY GENERAL ACTION, OR OTHER REPRESENTATIVE PROCEEDING OF ANY KIND AS A PLAINTIFF OR CLASS MEMBER. THE FOREGOING APPLIES TO ALL USERS (BOTH NATURAL PERSONS AND ENTITIES), REGARDLESS OF WHETHER YOU HAVE OBTAINED OR USED THE SERVICE FOR PERSONAL, COMMERCIAL, OR OTHER PURPOSES. THIS CLASS ACTION/JURY TRIAL WAIVER APPLIES TO CLASS ARBITRATION, AND, UNLESS WE AGREE OTHERWISE, THE ARBITRATOR MAY NOT CONSOLIDATE MORE THAN ONE PERSON’S OR ENTITY’S CLAIMS. YOU AND XAI AGREE THAT THE ARBITRATOR MAY AWARD RELIEF ONLY TO AN INDIVIDUAL CLAIMANT AND ONLY TO THE EXTENT NECESSARY TO PROVIDE RELIEF ON YOUR INDIVIDUAL CLAIM(S). ANY RELIEF AWARDED MAY NOT AFFECT OTHER USERS.
+
+Governing Law. These Terms will be governed by the internal substantive laws of the State of California, without respect to its conflict of laws principles.
+
+Severability. If any part of these arbitration terms is found to be illegal or unenforceable, the remainder will remain in effect, except that if a finding of partial illegality or unenforceability would allow class arbitration, class action, or representative action, this entire dispute resolution section will be unenforceable in its entirety.
+
+**General Provisions**
+----------------------
+
+Assignment. These Terms, and any rights and licenses granted hereunder, may not be transferred or assigned by you without our prior express written consent, but may be assigned by us without restriction. Any attempted transfer or assignment in violation hereof will be null and void.
+
+Notification Procedures and Changes to these Terms. We may provide notifications, whether such notifications are required by applicable law or are for marketing or other business-related purposes, to you via email notice or written or hard copy notice, or through posting of such notice on the Service, as we determine, at our sole discretion. When we change these Terms in a material manner, we will update the ‘Effective’ date at the top of this page. Your continued use of the Service after any change to these Terms constitutes your acceptance of the new Terms of Service. If you do not agree to any part of these Terms or to any future Terms of Service, do not access or use (or continue to access or use) the Service.
+
+Entire Agreement; Severability. These Terms, together with any amendments and any additional written agreements you may enter into with us in connection with the Service, will constitute the entire agreement between you and us concerning the Service. Any statements or comments made between you and any of our employees or representatives are expressly excluded from these Terms and will not apply to you or us, or to your access to or use of the Service. Except as otherwise stated in the Arbitration Agreement, if any provision of these Terms is deemed invalid by a court of competent jurisdiction, the invalidity of such provision will not affect the validity of the remaining provisions of these Terms, which will remain in full force and effect.
+
+No Waiver. No waiver of any term of these Terms will be deemed a further or continuing waiver of such term or of any other term, and our failure to assert any right or provision under these Terms will not constitute a waiver of such right or provision.
+
+California Residents. The provider of the Service is set forth herein. If you are a California resident, in accordance with Cal. Civ. Code §1789.3, you may report complaints to the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs by contacting it in writing at 1625 North Market Blvd., Suite N 112 Sacramento, CA 95834, or by telephone at (800) 952-5210 or (916) 445-1254.
+
+**Contact.** If you have any questions about these Terms and/or the Service, please contact us at [support@x.ai](mailto:support@x.ai).
+
+**Export Controls**
+-------------------
+
+U.S. Government Restricted Rights. To the extent the Service is being used by or on behalf of the U.S. Government, the Service will be deemed commercial computer software or commercial computer software documentation (as applicable). Accordingly, if you are an agency of the U.S. Government or any contractor therefor, you receive only those rights with respect to the Service as are granted to all other Users hereunder, in accordance with 48 C.F.R. §227.7202 and 48 C.F.R. §12.212, as applicable.
+
+Export Controls. You understand and acknowledge that the Service may be subject to export control laws and regulations. You will comply with all applicable import and export and re-export control and trade and economic sanctions laws and regulations, including the Export Administration Regulations maintained by the U.S. Department of Commerce, trade and economic sanctions maintained by the U.S. Treasury Department’s Office of Foreign Assets Control (“**OFAC**”), and the International Traffic in Arms Regulations maintained by the U.S. State Department. You represent and warrant that you are not, and that no person to whom you make the Service available or that is acting on your behalf, is (a) listed on the List of Specially Designated Nationals and Blocked Persons or on any other list of sanctioned, prohibited, or restricted parties administered by OFAC or by any other governmental entity, or (b) located in, a national or resident of, or a segment of the government of, any country or territory for which the United States maintains trade or economic sanctions or embargoes or that has been designated by the U.S. Government as a “terrorist supporting” region.
+
+**Mobile Apps**
+---------------
+
+Additional Terms for Mobile Apps. To use any mobile App, you must have a mobile device that is compatible with such App. xAI does not warrant that any App will be compatible with your mobile device. You may use mobile data in connection with an App and may incur additional charges from your wireless provider in connection with such App. You understand and acknowledge that you are solely responsible for any such charges. We hereby grant you a non-exclusive, limited, non-transferable, and freely revocable license to use a compiled code copy of the App(s) under your User Account on one (1) or more mobile devices owned or controlled solely by you (except to the extent Apple or Google permits any shared access and/or use of the iOS App or Android App (as each of those terms is defined below), respectively), solely in accordance with these Terms. The foregoing license grant is not a sale of any App or of any copy thereof. You consent to such automatic upgrading on your mobile device.
+
+iOS App. This paragraph applies to any App you acquire from the Apple App Store (such App, “iOS App”). You and xAI understand and acknowledge that these Terms are solely between you and xAI, not Apple, Inc. (“Apple”), and that Apple has no responsibility for the iOS App or content thereof. Your access to and use of the iOS App must comply with the usage rules set forth in Apple’s then-current Apple Media Services Terms and Conditions and with the applicable Volume Content Terms. You acknowledge that Apple has no obligation whatsoever to furnish any maintenance and support services with respect to the iOS App. In the event of any failure of the iOS App to conform to any applicable warranty, you may notify Apple, and Apple will refund the purchase price (if any) for the iOS App to you; to the maximum extent permitted by applicable law, Apple will have no other warranty obligation whatsoever with respect to the iOS App, and any other claims, losses, liabilities, damages, costs, or expenses attributable to any failure to conform to any warranty will be governed solely by these Terms and any law applicable to xAI as provider of the iOS App. You and xAI acknowledge that Apple is not responsible for addressing any claims of you or any third-party relating to the iOS App or your possession and/or use of the iOS App, including, but not limited to: (a) product liability claims; (b) any claim that the iOS App fails to conform to any applicable legal or regulatory requirement; and (c) claims arising under consumer protection or similar legislation. You acknowledge that, in the event of any third-party claim that the iOS App, or your possession and use of that iOS App, infringes that third-party’s intellectual property rights, xAI, not Apple, will be solely responsible for the investigation, defense, settlement, and discharge of any such intellectual property infringement claim, to the extent required by these Terms. You and xAI acknowledge and agree that Apple and Apple’s subsidiaries are third-party beneficiaries of these Terms as relates to your license of the iOS App, and that, upon your acceptance of the terms and conditions of these Terms, Apple will have the right (and will be deemed to have accepted the right) to enforce these Terms as relates to your license of the iOS App against you as a third-party beneficiary thereof.
+
+Android App. This paragraph applies to any App you acquire from the Google Play Store (such App, “Android App”): (a) you acknowledge that these Terms are between you and xAI only, and not Google LLC or any affiliate thereof (collectively, “Google”); (b) your access to and use of the Android App must comply with Google’s then-current Google Play Terms of Service; (c) Google is only a provider of the Google Play Store where you obtained the Android App; (d) xAI, and not Google, is solely responsible for the Android App; (e) Google has no obligation or liability to you with respect to the Android App or these Terms; and (f) you understand and acknowledge that Google is a third-party beneficiary to these Terms as they relate to the Android App.
+
+**EU/UK - Specific Terms**
+--------------------------
+
+**Special Terms for Residents of the European Economic Area (EEA), United Kingdom (UK) and Switzerland ("EU/UK-Specific Terms")**
+
+Definition of Consumer. For the purposes of these EU/UK-Specific Terms "**EU/UK-Consumers"** are those natural persons with a habitual place of residence in the EEA, UK or Switzerland who enter into a contract subject to these Terms for a purpose outside their trade, business or profession.
+
+Governing Law. \*\*\*\*These Terms and any action related thereto will be governed by the laws of the State of California, excluding its conflict of laws principles. If you are an EU-Consumer, you will benefit from any mandatory provisions of the law of the country in which you are resident as well as of the provisions of these EU specific terms.
+
+Venue of jurisdiction. If you are an EU-Consumer, the arbitration agreement in Section 14 shall not apply to you. As an EU-Consumer, you may bring any dispute which may arise under these Terms or in connection with the use of the Service, at your discretion, in your local courts. We shall bring any dispute which may arise under these Terms or in connection with your use of the Service to the competent court of your country of habitual residence if that country is within the EEA, the UK or Switzerland.
+
+Online Dispute Resolution. If you are an EU-Consumer resident in the EEA and have a dispute with [x.AI](https://x.ai/) (and not another User), you can also raise the dispute with an alternative dispute resolution body via the European Commission's Online Dispute Resolution (ODR) Platform, which you can access at: [http://ec.europa.eu/consumers/odr/](http://ec.europa.eu/consumers/odr/). We are not obliged to participate in online dispute resolution and have chosen not to do so.
 
 **Right of Withdrawal**.  As an EU-Consumer with residence in the EEA, you have the right to close your account and withdraw from this contract within 14 days of accepting them without giving any reason. The withdrawal period is 14 days and commences upon the conclusion of the contract.
 
-To exercise your right of withdrawal, you must inform us, X.AI LLC, 1450 Page Mill Road, Palo Alto, CA 94304 U.S.A., legal@x.ai, of your decision to withdraw from this contract by an unequivocal statement (e.g., a letter sent by post or by email). You may use the Model Withdrawal Form below, but it is not obligatory. To meet the withdrawal deadline, it is sufficient for you to send the notification of the exercise of the right of withdrawal before the expiry of the withdrawal period.
+To exercise your right of withdrawal, you must inform us, [X.AI](https://x.ai/), LLC, 1450 Page Mill Road, Palo Alto, CA 94304 U.S.A., [legal@x.ai](mailto:legal@x.ai), of your decision to withdraw from this contract by an unequivocal statement (e.g., a letter sent by post or by email). You may use the Model Withdrawal Form below, but it is not obligatory. To meet the withdrawal deadline, it is sufficient for you to send the notification of the exercise of the right of withdrawal before the expiry of the withdrawal period.
 
-**Consequences of Withdrawal**.  If you withdraw from this contract and you have signed-up for a paid subscription, we must repay you all payments that we have received from you, without delay and at the latest within 14 days from the day on which we received the notification of your withdrawal from this contract. For this repayment, we will use the same means of payment that you used for the original transaction, unless expressly agreed otherwise with you; in no case will you be charged any fees because of this repayment. Please note this does not include an X Premium or X Premium+ account charges. Please refer to the [X Premium Terms of Use](https://legal.x.com/en/purchaser-terms.html) for further details of how to claim a refund for those charges.
+Consequences of Withdrawal.  If you withdraw from this contract and you have signed-up for a paid subscription, we must repay you all payments that we have received from you, without delay and at the latest within 14 days from the day on which we received the notification of your withdrawal from this contract. For this repayment, we will use the same means of payment that you used for the original transaction, unless expressly agreed otherwise with you; in no case will you be charged any fees because of this repayment. Please note this does not include an X Premium or X Premium+ account charges. Please refer to the [X Premium Terms of Use](https://legal.x.com/en/purchaser-terms.html) for further details of how to claim a refund for those charges.
 
-If you requested to begin the performance of Services during the withdrawal period and you have signed-up for a paid subscription, you shall pay us an amount which is in proportion to what has been provided until you have communicated to us your withdrawal from this contract, in comparison with the full coverage of the contract.
+If you requested to begin the performance of Service during the withdrawal period and you have signed-up for a paid subscription, you shall pay us an amount which is in proportion to what has been provided until you have communicated to us your withdrawal from this contract, in comparison with the full coverage of the contract.
 
-**Exceptions to the right of withdrawal.**  
-The right of withdrawal does not apply to contracts:  
-a) for events which have been put together individually at your request and which are adapted to your personal needs,  
-b) which we conclude with entrepreneurs,  
-c) which are not concluded exclusively using means of distance communication (e.g., e-mail, post).
+Exceptions to the right of withdrawal.
 
-**Model Withdrawal Form.** (If you wish to withdraw from the contract, you can fill in this form and return it to us.)
+The right of withdrawal does not apply to contracts:
 
-\- To X.AI LLC, 1450 Page Mill Road, Palo Alto, CA 94304 U.S.A., legal@x.ai:  
-\- I/we (\*) hereby revoke the contract concluded by me/us (\*) for the purchase of the following goods (\*)/the provision of the following service (\*)  
-\- Ordered on (\*)/received on (\*)  
-\- Name of the consumer(s)  
-\- Address of the consumer(s)  
-\- Signature of consumer(s) (only in case of paper communication)  
-\- Date  
-(\*) Delete where inapplicable.
+1. for events which have been put together individually at your request and which are adapted to your personal need,
+2. which we conclude with entrepreneurs,
+3. which are not concluded exclusively using means of distance communication (e.g., e-mail, post).
 
-**Limitation of Liability**. The limitation of liability provided for in Section 13 does not apply to EU/UK-Consumers; instead, the following limitation of liability applies:
+Model Withdrawal Form. (If you wish to withdraw from the contract, you can fill in this form and return it to us.)
 
-xAI's liability to you for damages caused by mere negligence, irrespective of its legal ground, shall be limited as follows: (a)  for any breach of a material contractual obligation, xAI will be liable up to the amount of foreseeable damages typically occurring for this type of contract; and (b) for a breach of any non-material contractual obligations nor for the merely negligent breach of any other applicable duty of care xAI will not be liable. The aforementioned limitations of liability, as well as any other limitations of liability contained in these Terms, will not apply to any mandatory statutory obligation, in particular to statutory obligation under applicable product liability laws, and any liability for death or personal injury caused by negligence. Additionally, such limitations of liability will not apply if and to the extent that xAI has made a specific guarantee. The foregoing exclusions and limitations of liability shall also apply to the same extent in favor of xAI's executive bodies, legal representatives, employees and vicarious agents.
+* To [X.AI](https://x.ai/) LLC, 1450 Page Mill Road, Palo Alto, CA 94304 U.S.A., [legal@x.ai](mailto:legal@x.ai):
+    
+    * I/we (_) hereby revoke the contract concluded by me/us (_) for the purchase of the following goods (_)/the provision of the following service (_)
+        
+        * Name of the consumer(s)
+            
+        * Address of the consumer(s)
+            
+        * Ordered on (_)/received on (_)
+            
+        * Signature of consumer(s) (only in case of paper communication)
+            
+        * Date
+            
+        
+        (\*) Delete where inapplicable.
+        
 
-**Information regarding Warranty and Compatibility/interoperability**. Section 13 is not applicable to EU/UK-Consumers. The Services, as a digital product, are subject to a statutory warranty for defects. xAI will inform and supply you with updates that are necessary to keep the Services in conformity during the relevant contractual term.
+Limitation of Liability. The limitation of liability provided for in Section 13 does not apply to EU/UK-Consumers; instead, the following limitation of liability applies: xAI's liability to you for damages caused by mere negligence, irrespective of its legal ground, shall be limited as follows: (a)  for any breach of a material contractual obligation, xAI will be liable up to the amount of foreseeable damages typically occurring for this type of contract; and (b) for a breach of any non-material contractual obligations nor for the merely negligent breach of any other applicable duty of care xAI will not be liable. The aforementioned limitations of liability, as well as any other limitations of liability contained in these Terms, will not apply to any mandatory statutory obligation, in particular to statutory obligation under applicable product liability laws, and any liability for death or personal injury caused by negligence. Additionally, such limitations of liability will not apply if and to the extent that xAI has made a specific guarantee. The foregoing exclusions and limitations of liability shall also apply to the same extent in favor of xAI's executive bodies, legal representatives, employees and vicarious agents.
 
-**No Release; Indemnity.** The release according to Section 10 and the indemnity obligations according to Section 11 of the Terms shall not be applicable to EU/UK-Consumers subject to these EU/UK-Specific Terms.
+Information regarding Warranty and Compatibility/interoperability. Section 13 is not applicable to EU/UK-Consumers. The Service, as a digital product, is subject to a statutory warranty for defects. xAI will inform and supply you with updates that are necessary to keep the Service in conformity during the relevant contractual term.
 
-**Changes to the Terms and the EU/UK-Specific Terms**. Contrary to Section 17(2), with respect to EU/UK-Consumers, xAI may unilaterally make changes to these Terms (including the EU/UK-Specific Terms) only when it is necessary to do so, particularly as a result of changes of law or to ensure a better functionality of the Service. xAI shall take proportionate measures to notify Users of such changes to the Terms and when the changes will take effect on our websites and in our Apps. xAI will provide this notice at least 14 calendar days prior to the date on which the changes will take effect. However, if the change is particularly significant, xAI shall notify you of the changes at least one month in advance. If you do not agree to the amended Terms, you may object and discontinue your use of the Services. If you do not object and continue to use the Service, you will be deemed to have acknowledged the amendment and agreed to be bound by it.
+No Release; Indemnity. The release according to Section 10 and the indemnity obligations according to Section 11 of the Terms shall not be applicable to EU/UK-Consumers subject to these EU/UK-Specific Terms.
 
-19. **Special Terms for Users of Unauthenticated Grok**
-
-xAI may in its sole discretion provide free access to Grok. If you wish to access or use Grok without logging in to authenticate (“Unauthenticated Grok User”, you must read and agree to these additional terms before doing so. If you do not agree to these additional terms, you may not access or use Grok.
-
-When you use Grok for free, you understand that xAI will use any data you provide to or obtain from Grok for model training purposes, as further detailed in the xAI Privacy Policy.
-
-You acknowledge that your permission to access and use Grok is limited, and that xAI may in its sole discretion limit the number of requests you may send to or responses you may receive from Grok (“Rate Limits”). You agree that xAI may increase or decrease Rate Limits at any time in its sole discretion and agree that you will not attempt to circumvent or otherwise violate Rate Limits.
+Changes to the Terms and the EU/UK-Specific Terms. Contrary to Section 17(2), with respect to EU/UK-Consumers, xAI may unilaterally make changes to these Terms (including the EU/UK-Specific Terms) only when it is necessary to do so, particularly as a result of changes of law or to ensure a better functionality of the Service. xAI shall take proportionate measures to notify Users of such changes to the Terms and when the changes will take effect on our websites and in our Apps. xAI will provide this notice at least 14 calendar days prior to the date on which the changes will take effect. However, if the change is particularly significant, xAI shall notify you of the changes at least one month in advance. If you do not agree to the amended Terms, you may object and must discontinue your use of the Service. If you do not object and continue to use the Service, you will be deemed to have acknowledged the amendment and agreed to be bound by it.
