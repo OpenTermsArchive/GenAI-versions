@@ -1,7 +1,7 @@
 Terms of Use
 ============
 
-**Last modified: April 7, 2020**
+**Last modified: January 9th, 2025**
 
 Welcome to Scribe! Your use of Scribe’s services, including the services Scribe makes available through this website and all related websites, data files, and applications which link to these terms of service (the “Website”) and to all software or services offered by Scribe in connection with any of those (each a “Service” and collectively, the “Services”), is governed by these terms of service (the “Terms” or the “Terms of Use”), so please carefully read them before using the Services. For the purposes of these Terms, “we,” “our,” “us,” “Company” and “Scribe” refer to Colony Labs, Inc., the providers and operators of the Services.
 
@@ -292,4 +292,4 @@ Please visit this page regularly to review these Terms for any changes.
 
 #### 14.13 Entire Agreement.
 
-The Terms are the final, complete and exclusive agreement of the parties with respect to the subject matter hereof and supersedes and merges all prior discussions between the parties with respect to such subject matter.
+The Terms, inclusive of the Scribe Data Processing Agreement available at [scribehow.com/legal/dpa,](http://scribehow.com/legal/dpa) are the final, complete and exclusive agreement of the parties with respect to the subject matter hereof and supersedes and merges all prior discussions between the parties with respect to such subject matter.
