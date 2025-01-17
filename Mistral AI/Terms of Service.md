@@ -247,7 +247,7 @@ The capitalized words in this document shall have the meaning set forth below:
 
 **Input ownership**. You represent that You own or have obtained all the required rights to use Your Input. You retain all the rights, including but not limited to all intellectual property rights in and to Your Input. We do not claim any ownership or intellectual property rights of any kind in and to the Input.
 
-**Output ownership**.We do not claim any ownership or intellectual property rights of any kind in and to the Output. You are the sole owner of the Output and retain all the rights, including but not limited to all intellectual property rights, in and to Your Output.
+**Output ownership**.We do not claim any ownership or intellectual property rights of any kind in and to the Output. You are the sole owner of the Output and retain all the rights, including but not limited to all intellectual property rights, in and to Your Output. For the avoidance of doubt, Output does not include any third-party content, such as thumbnails or snippets, displayed as a source when you use our web-search features on Le Chat (the “Third-Party Content”). Any use of such Third-Party Content is subject to the Additional Terms for Le Chat.
 
 **Output restriction**. You must not use the Outputs or any modified or derived version of the Outputs to reverse engineer the Services.
 
