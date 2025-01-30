@@ -1,6 +1,6 @@
 Usage policies | OpenAI
 
-Updated: January 10, 2024
+Updated: January 29, 2025
 
 Usage policies
 ==============
@@ -18,13 +18,35 @@ Universal Policies
 
 To maximize innovation and creativity, we believe you should have the flexibility to use our services as you see fit, so long as you comply with the law and don’t harm yourself or others. When using any OpenAI service, like ChatGPT, labs.openai.com, and the OpenAI API, these rules apply:
 
-1. **Comply with applicable laws** – for example, don’t compromise the privacy of others,  engage in regulated activity without complying with applicable regulations, or promote or engage in any illegal activity, including the exploitation or harm of children and the development or distribution of illegal substances, goods, or services.
+1. **Comply with applicable laws**—for example, do not: 
     
-2. **Don’t use our service to harm yourself or others** – for example, don’t use our services to promote suicide or self-harm, develop or use weapons, injure others or destroy property, or engage in unauthorized activities that violate the security of any service or system. 
+    1. Compromise the privacy of others 
+        
+    2. Engage in regulated activity without complying with applicable regulations
+        
+    3. Promote or engage in any illegal activity, including the exploitation or harm of children and the development or distribution of illegal substances, goods, or services
+        
+    4. Use subliminal, manipulative, or deceptive techniques that distort a person’s behavior so that they are unable to make informed decisions in a way that is likely to cause harm
+        
+    5. Exploit any vulnerabilities related to age, disability, or socio-economic circumstances
+        
+    6. Create or expand facial recognition databases without consent
+        
+    7. Conduct real-time remote biometric identification in public spaces for law enforcement purposes
+        
+    8. Evaluate or classify individuals based on their social behavior or personal traits (including social scoring or predictive profiling) leading to detrimental or unfavorable treatment
+        
+    9. Assess or predict the risk of an individual committing a criminal offense based solely on their personal traits or on profiling
+        
+    10. Infer an individual’s emotions in the workplace and educational settings, except when necessary for medical or safety reasons
+        
+    11. Categorize individuals based on their biometric data to deduce or infer sensitive attributes such as their race, political opinions, religious beliefs, or sexual orientation
+        
+2. **Don’t use our service to harm yourself or others**—for example, don’t use our services to promote suicide or self-harm, develop or use weapons, injure others or destroy property, or engage in unauthorized activities that violate the security of any service or system. 
     
-3. **Don’t repurpose or distribute output from our services to harm others** – for example, don’t share output from our services to defraud, scam, spam, mislead, bully, harass, defame, discriminate based on protected attributes, sexualize children, or promote violence, hatred or the suffering of others.
+3. **Don’t repurpose or distribute output from our services to harm others**—for example, don’t share output from our services to defraud, scam, spam, mislead, bully, harass, defame, discriminate based on protected attributes, sexualize children, or promote violence, hatred or the suffering of others.
     
-4. **Respect our safeguards** - don’t circumvent safeguards or safety mitigations in our services unless supported by OpenAI (e.g., domain experts in our [Red Teaming Network)⁠](https://openai.com/index/red-teaming-network/) or related to research conducted in accordance with our [Sharing & Publication Policy⁠](https://openai.com/policies/sharing-publication-policy/).  
+4. **Respect our safeguards**—don’t circumvent safeguards or safety mitigations in our services unless supported by OpenAI (e.g., domain experts in our [Red Teaming Network)⁠](https://openai.com/index/red-teaming-network/) or related to research conducted in accordance with our [Sharing & Publication Policy⁠](https://openai.com/policies/sharing-publication-policy/).  
     
 
 We report apparent child sexual abuse material (CSAM) to the National Center for Missing and Exploited Children.
@@ -136,6 +158,8 @@ Customers may sign up to receive notifications of new updates to our usage polic
 Changelog
 ---------
 
+* 2025-01-29: We've updated our Universal Policies to clarify prohibitions under applicable laws.
+    
 * 2024-01-10:  We've updated our Usage Policies to be clearer and provide more service-specific guidance.
     
 * 2023-02-15: We’ve combined our use case and content policies into a single set of usage policies, and have provided more specific guidance on what activity we disallow in industries we’ve considered high risk.
@@ -144,16 +168,16 @@ Changelog
     
 * 2022-10-25: Updated App Review process (devs no longer need to wait for approval after submitting as long as they comply with our policies). Moved to an outcomes-based approach and updated Safety Best Practices.
     
-* 2022-06-07: Refactored into categories of applications and corresponding requirements
+* 2022-06-07: Refactored into categories of applications and corresponding requirements.
     
-* 2022-03-09: Refactored into “App Review”
+* 2022-03-09: Refactored into “App Review”.
     
-* 2022-01-19: Simplified copywriting and article writing/editing guidelines
+* 2022-01-19: Simplified copywriting and article writing/editing guidelines.
     
 * 2021-11-15: Addition of “Content guidelines” section; changes to bullets on almost always approved uses and disallowed uses; renaming document from “Use case guidelines” to “Usage guidelines”.
     
-* 2021-08-04: Updated with information related to code generation
+* 2021-08-04: Updated with information related to code generation.
     
-* 2021-03-12: Added detailed case-by-case requirements; small copy and ordering edits
+* 2021-03-12: Added detailed case-by-case requirements; small copy and ordering edits.
     
-* 2021-02-26: Clarified the impermissibility of Tweet and Instagram generators
+* 2021-02-26: Clarified the impermissibility of Tweet and Instagram generators.
