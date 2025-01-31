@@ -1,4 +1,4 @@
-Updated: 2023-04-17
+Updated: 2025-01-20
 
 SOUNDRAW Terms of Service
 =========================
@@ -53,7 +53,7 @@ These Terms of Service shall apply to all use of "SOUNDRAW" (the "Service") oper
     8. (8) Acts in violation of laws and regulations, these Terms of Service or public order and morals, or acts that promote, or are likely to promote, such violations
     9. (9) Acts of using the Service to entice other users or third parties to other websites
     10. (10) Acts that interfere with the operation of the Service
-    11. (11) Acts of selling, distributing for free or sublicensing music itself created using the Service (this excludes videos and other products created using said music). For details on the license check [https://soundraw.io/en/license](https://soundraw.io/license)
+    11. (11) Acts of selling, distributing for free or sublicensing music itself created using the Service (this excludes videos and other products created using said music). For details on the license check [https://explore.soundraw.io/license](https://explore.soundraw.io/license)
     12. (12) Downloading with external application
     13. (13) Other acts that SOUNDRAW deems inappropriate
     14. (14) It is forbidden to use output from the Service to develop models that compete with SOUNDRAW, such as training an AI model
