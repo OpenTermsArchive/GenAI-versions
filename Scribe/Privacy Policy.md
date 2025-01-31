@@ -17,7 +17,7 @@ Capitalized terms that are not defined in this Privacy Policy have the meaning g
 
 **Information you provide us directly. We collect a variety of information that you provide directly to us, including:**
 
-* Account Information. When you first sign in to your account, you will need to provide us with a username, password, your first and last name, and your email address.
+* Account Information. When you first sign in to your account, you will need to provide us with a username, password, your first and last name, and your email address. This may include authentication information from your employer's identity and access management provider in the event that your organization has performed Single Sign on Integration.
 * Your User Content. When you use the Service to capture workflows, we collect your clicks, keystrokes, and the content that appears on your screen during the capturing period. Scribe does not perform video recording. The capture period begins when you initiate it via the capturing feature, and it concludes when you turn off the capturing feature. The user must initiate the capturing feature for it to collect data. Data collection on your clicks, keystrokes, and screen images only occurs during this capturing period. You may choose to have information shared by you removed at any time by contacting us at [\[email protected\]](https://scribehow.com/cdn-cgi/l/email-protection).
 
 **Information we automatically collect.** When you use our Service, we may automatically collect certain information, including:
@@ -26,6 +26,7 @@ Capitalized terms that are not defined in this Privacy Policy have the meaning g
 * Cookies information. When you visit the Service, we may send one or more cookies — a small text file containing a string of alphanumeric characters — to your computer that uniquely identifies your browser and lets us help you log in faster and enhance your navigation through the site. A cookie may also convey information to us about how you use the Service (e.g., the pages you view, the links you click and other actions you take on the Service), and allow us or our business partners to track your usage of the Service over time. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. You can choose to remove a persistent cookie any time by following your web browser’s directions about how to erase or delete cookies. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, key features of the Service may not function properly if the ability to accept cookies is disabled or if you erase our cookies. Please review our [Cookies Policy](https://scribehow.com/legal/cookies) for additional details.
 * Do Not Track Signals and Similar Mechanisms. While it is Scribe’s intent to honor browser-initiated Do Not Track Signals, industry standards for how to prevent tracking and continue to provide functionality are not defined. Please do not use this service if you are concerned about Do Not Track capabilities.
 * Log file information. Log file information is automatically reported by your browser or mobile device each time you access the Service. When you use our Service, our servers automatically record certain log file information. These server logs may include your web request, Internet Protocol (“IP”) address, browser type, referring / exit pages and URLs, number of clicks and how you interact with links on the Service, domain names, landing pages, pages viewed, and other such information.
+* Authentication information. When you use our Service as a member of an organization that has performed Single Sign On integration, we collect information from the identity and access management provider related to your role, contact information, and name.
 
 ### **2\. How We Use Your Information**
 
@@ -42,6 +43,16 @@ We use your information for various purposes, including, but not limited to:
 * Enforce legal agreements, including our Terms of Service and this Privacy Policy
 
 We may aggregate and/or de-identify information collected through the Services so that such information can no longer be linked to you or your device (“Aggregate/De-Identified Information”).
+
+We do not use any data obtained through your organization's identity and access management providers ("IDP"), including Google Workspace APIs, for developing, improving, or training any artificial intelligence (AI) or machine learning (ML) algorithms. Specifically:
+
+* Personalized AI/ML Models: Our application does not utilize your organization's IDP data to train or enhance any personalized AI or ML models.
+* Generalized/Non-Personalized AI/ML Models: No IDP data is used to develop, improve, or train generalized or non-personalized AI/ML models.
+* Third-Party AI Tools: We do not transfer IDP data to any third-party AI tools for any purpose, including but not limited to AI/ML model training, whether personalized or generalized.
+
+We only access and process IDP data as necessary to provide the core functionality of our application, in strict compliance with IDP API policies and with your explicit consent.
+
+‍
 
 ### **3\. Commercial And Marketing Communications**
 
@@ -137,6 +148,6 @@ Adam Brogden 
 
 ### **12\. Changes To Our Privacy Policy**
 
-We may modify or update this Privacy Policy from time to time to reflect the changes in our business and practices, and so you should review this page periodically. We keep our Privacy Policy under review to ensure it is up to date and accurate. When we make a material change to this policy we will notify you as required by law and update the ‘last modified’ date at the bottom of this page. This privacy policy was last modified November 19, 2024.
+We may modify or update this Privacy Policy from time to time to reflect the changes in our business and practices, and so you should review this page periodically. We keep our Privacy Policy under review to ensure it is up to date and accurate. When we make a material change to this policy we will notify you as required by law and update the ‘last modified’ date at the bottom of this page. This privacy policy was last modified January 30th, 2025.
 
 #### ‍
