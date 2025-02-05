@@ -1,5 +1,4 @@
 Additional Terms - La Plateforme
-================================
 
 Preamble
 --------
