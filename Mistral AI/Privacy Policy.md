@@ -1,5 +1,4 @@
 Privacy Policy
-==============
 
 Preamble
 --------
