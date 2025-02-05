@@ -1,29 +1,21 @@
-Legal notice
-============
-
 Editor
 ------
 
-In accordance with the provisions of article 6(I) (1) of law no. 2004-575 of 21 June 2004 on confidence in the digital economy, the publisher of the website [https://www.mistral.ai/](https://www.mistral.ai/) is:
+In accordance with the provisions of article 6(I) (1) of law no. 2004-575 of 21 June 2004 on confidence in the digital economy, the publisher of the website https://www.mistral.ai/ is:
 
 Mistral AI, a simplified joint stock company with capital of EUR 15,000, listed on the Paris Trade and Companies Register (R.C.S.) under number 952 418 325, with registered offices at 15 RUE DES HALLES, 75001 PARIS, FRANCE.
 
-Contact email address: [contact@mistral.ai](mailto:contact@mistral.ai).
+Contact email address: contact@mistral.ai.
 
 Publication owner
 -----------------
 
-The publication director of the website at [https://www.mistral.ai/](https://www.mistral.ai/) is Arthur Mensch, Chief Executive Officer of Mistral AI.
+The publication director of the website at https://www.mistral.ai/ is Arthur Mensch, Chief Executive Officer of Mistral AI.
 
 Hosting
 -------
 
-The company tasked with hosting the [https://www.mistral.ai/](https://www.mistral.ai/) website is Cloudflare Inc., 101 Townsend St, San Francisco, CA 94107, United States of America.
-
-Credits
--------
-
-This website is made with [Hugo](https://gohugo.io/) and great open-source software.
+The company tasked with hosting the https://www.mistral.ai/ website is Cloudflare Inc., 101 Townsend St, San Francisco, CA 94107, United States of America.
 
 Tracking
 --------
