@@ -1,5 +1,4 @@
 Data Processing Agreement
-=========================
 
 **Preamble.** This Data Processing Agreement amends and forms part of the Agreement between Mistral AI and the Customer. This Data Processing Agreement prevails over any conflicting terms of the Agreement but does not otherwise modify the Agreement.
 
