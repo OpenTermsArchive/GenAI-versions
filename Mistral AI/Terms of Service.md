@@ -1,5 +1,4 @@
-Terms of Use
-============
+Terms of use
 
 Preamble
 --------
