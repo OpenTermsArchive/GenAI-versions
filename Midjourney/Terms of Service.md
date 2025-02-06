@@ -5,7 +5,7 @@ Terms of Service
 
 * * *
 
-**Version Effective Date: October 24, 2024**
+**Version Effective Date: February 5, 2025**
 
 Thank you for using the Midjourney platform. These Terms of Service (“Terms”) govern the relationship between Midjourney, Inc. (“Midjourney”,”we”,”our”) and the entity or person (“Customer, “You”, “Your”) using or accessing our services, applications, or platform through our website available at midjourney.com (the “Site”), through any of our Discord servers, or by any other means (together, the “Services”). These Terms explain what rights you have with respect to images and other assets which you might generate with the Service (the "Assets"), or prompts you might enter into the Service (the “Inputs”), your use of the Services, and other important topics like arbitration. Our privacy policy outlines how we handle your data [here](https://docs.midjourney.com/privacy-policy). Please carefully read these Terms, along with our privacy policy, and all other documents referenced in these Terms, including the Subscription Plans page and the Community Guidelines below. Together with the Terms, these documents form a single binding agreement between us (the “Agreement”).
 
@@ -65,7 +65,7 @@ Please be aware that any image You make in a shared or open space, such as a Dis
 
 _Notification Procedures_
 
-We respect the intellectual property rights of others. If you believe that material located on or linked to by the Services violates your copyright or trademark, please send a notice of claimed infringement to takedown@midjourney.com with the subject “Takedown Request,” and include the following:
+We respect the intellectual property rights of others. If you believe that material located on or linked to by the Services violates your copyright or trademark, please send a notice of claimed infringement by using [this form](https://docs.google.com/forms/d/e/1FAIpQLSd1DfIhFV33cdMWpimIf6kQgzxPJ_CUQ9x2lpfVSs4SkoqtsA/viewform) or by email to takedown@midjourney.com with the subject "Takedown Request", and include the following:
 
 1. Your physical or electronic signature.
 2. Identification of the copyrighted work (or mark) you believe to have been infringed or, if the claim involves multiple works, a representative list of such works.
