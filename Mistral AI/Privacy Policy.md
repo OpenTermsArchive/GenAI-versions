@@ -1,6 +1,6 @@
 Privacy Policy
 
-**Effective 6 February 2025**
+**Effective 6 February 2025** - [French Version/Version Française](https://mistral.ai/static/doc/fr-politique-de-confidentialite.pdf "French Version/Version Française")
 
 **Welcome to Mistral AI!**
 
