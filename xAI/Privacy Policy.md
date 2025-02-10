@@ -11,7 +11,7 @@ _Effective: January 2, 2025_
 * [November 11, 2024](https://x.ai/legal/privacy-policy/previous-2024-11-11)
 * [October 29, 2024](https://x.ai/legal/privacy-policy/previous-2024-10-29)
 
-At x.AI, L.L.C. ("**xAI**", "**our**", "**us**" or "**we**"), we value your privacy and are committed to being fair, accountable, and transparent in how we handle your personal information. Our Privacy Policy outlines how we collect and use your personal information when you use our websites, applications, and other xAI services (our "**Service**"). It also describes your privacy rights.
+At X.AI LLC ("**xAI**", "**our**", "**us**" or "**we**"), we value your privacy and are committed to being fair, accountable, and transparent in how we handle your personal information. Our Privacy Policy outlines how we collect and use your personal information when you use our websites, applications, and other xAI services (our "**Service**"). It also describes your privacy rights.
 
 This Privacy Policy does not apply to data that we process on behalf of customers of our business offerings, such as our API. Our use of that data is governed by customer agreements covering access to and use of those business offerings. This Privacy Policy also does not apply if you access our Service through a third-party’s service. In that case, the third-party’s privacy policy would apply, and you would contact that third-party regarding the processing of your personal information. For example, your use of X (previously Twitter), including use of Grok on X, is governed by the [X Privacy Policy](https://x.com/en/privacy) and [X Terms](https://x.com/en/tos), not this xAI Privacy Policy.
 
@@ -134,7 +134,7 @@ If you are located in the European Economic Area ("**EEA**"), United Kingdom ("*
 
 ### **11.1 Data controller**
 
-x.AI, L.L.C. is the controller of your personal information as described in this Privacy Policy, unless otherwise specified.
+X.AI LLC is the controller of your personal information as described in this Privacy Policy, unless otherwise specified.
 
 ### **11.2 Legal basis**
 
@@ -267,5 +267,5 @@ If you have any queries or complaints about our collection, use or storage of yo
 
 |     |     |
 | --- | --- |
-| Attn: Privacy Team  <br>Name: x.AI LLC  <br>Email: [privacy@x.ai](mailto:privacy@x.ai)  <br>Post: 1450 Page Mill Road, Palo Alto, CA 94304 | **In the EU**:  <br>Name: Lionheart Squared (Europe) Ltd  <br>Email: [xai@lionheartsquared.eu](mailto:xai@lionheartsquared.eu)  <br>Post: Lionheart Squared (Europe) Ltd FAO x.ai, 2 Pembroke House, Upper Pembroke Street 28-32 Dublin, D02 EK84, Republic of Ireland |
+| Attn: Privacy Team  <br>Name: X.AI LLC  <br>Email: [privacy@x.ai](mailto:privacy@x.ai)  <br>Post: 1450 Page Mill Road, Palo Alto, CA 94304 | **In the EU**:  <br>Name: Lionheart Squared (Europe) Ltd  <br>Email: [xai@lionheartsquared.eu](mailto:xai@lionheartsquared.eu)  <br>Post: Lionheart Squared (Europe) Ltd FAO x.ai, 2 Pembroke House, Upper Pembroke Street 28-32 Dublin, D02 EK84, Republic of Ireland |
 | **In the UK**:  <br>Name: Lionheart Squared Limited  <br>Email: [xai@lionheartsquared.co.uk](mailto:xai@lionheartsquared.co.uk)  <br>Post: Lionheart Squared Limited FAO x.ai, 17 Glasshouse Studios, Fryern Court Road, Fordingbridge Hampshire, SP6 1QX United Kingdom | **In Switzerland**:  <br>Name: Lionheart Squared Switzerland SarL  <br>Email: [xai@lionheartsquared.ch](mailto:xai@lionheartsquared.ch)  <br>Post: Lionheart Squared Switzerland SarL FAO x.ai, Blvd George Favon 43 CH-1204 Geneva |
