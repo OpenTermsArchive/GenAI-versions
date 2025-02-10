@@ -253,7 +253,7 @@ Online Dispute Resolution. If you are an EU-Consumer resident in the EEA and hav
 
 **Right of Withdrawal**.  As an EU-Consumer with residence in the EEA, you have the right to close your account and withdraw from this contract within 14 days of accepting them without giving any reason. The withdrawal period is 14 days and commences upon the conclusion of the contract.
 
-To exercise your right of withdrawal, you must inform us, [X.AI](https://x.ai/), LLC, 1450 Page Mill Road, Palo Alto, CA 94304 U.S.A., [legal@x.ai](mailto:legal@x.ai), of your decision to withdraw from this contract by an unequivocal statement (e.g., a letter sent by post or by email). You may use the Model Withdrawal Form below, but it is not obligatory. To meet the withdrawal deadline, it is sufficient for you to send the notification of the exercise of the right of withdrawal before the expiry of the withdrawal period.
+To exercise your right of withdrawal, you must inform us, [x.AI](https://x.ai/), LLC, 1450 Page Mill Road, Palo Alto, CA 94304 U.S.A., [legal@x.ai](mailto:legal@x.ai), of your decision to withdraw from this contract by an unequivocal statement (e.g., a letter sent by post or by email). You may use the Model Withdrawal Form below, but it is not obligatory. To meet the withdrawal deadline, it is sufficient for you to send the notification of the exercise of the right of withdrawal before the expiry of the withdrawal period.
 
 Consequences of Withdrawal.  If you withdraw from this contract and you have signed-up for a paid subscription, we must repay you all payments that we have received from you, without delay and at the latest within 14 days from the day on which we received the notification of your withdrawal from this contract. For this repayment, we will use the same means of payment that you used for the original transaction, unless expressly agreed otherwise with you; in no case will you be charged any fees because of this repayment. Please note this does not include an X Premium or X Premium+ account charges. Please refer to the [X Premium Terms of Use](https://legal.x.com/en/purchaser-terms.html) for further details of how to claim a refund for those charges.
 
@@ -269,7 +269,7 @@ The right of withdrawal does not apply to contracts:
 
 Model Withdrawal Form. (If you wish to withdraw from the contract, you can fill in this form and return it to us.)
 
-* To [X.AI](https://x.ai/) LLC, 1450 Page Mill Road, Palo Alto, CA 94304 U.S.A., [legal@x.ai](mailto:legal@x.ai):
+* To [x.AI](https://x.ai/) LLC, 1450 Page Mill Road, Palo Alto, CA 94304 U.S.A., [legal@x.ai](mailto:legal@x.ai):
     
     * I/we (_) hereby revoke the contract concluded by me/us (_) for the purchase of the following goods (_)/the provision of the following service (_)
         
