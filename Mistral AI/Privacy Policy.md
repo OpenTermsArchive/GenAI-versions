@@ -296,7 +296,7 @@ Additionally, we may share all or part of your personal data with our service pr
     * **Data location:** Ireland
 * **Google Cloud Platform:**
     
-    * **Purpose:** Cloud Infrastructure for the US version of Our APIs
+    * **Purpose:** Cloud Infrastructure for Le Chat and the US version of Our APIs
     * **Data location:** United States
 * **Intercom:**
     
