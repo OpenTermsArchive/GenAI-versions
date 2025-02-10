@@ -128,7 +128,7 @@ Upon Customer’s written request, taking into account the nature of the Process
 Customer provides a prior and general authorization allowing Mistral AI to appoint any Subprocessors to assist Mistral AI in the provision of the Services and in the Processing, in accordance with the terms of this DPA. This authorisation is subject to the following:
 
 * Mistral AI will maintain an up-to-date list of its Subprocessors on Mistral AI’s website, including in the online version of Exhibit 1 of this DPA,
-* Mistral AI will notify Customer of any changes to this list in accordance with this Section 7 (Subprocessing),
+* Mistral AI will notify Customer of any addition or replacement of a Subprocessor to this list in accordance with this Section 7 (Subprocessing),
 * Mistral AI will enter into a written agreement with each Subprocessor imposing data protection terms that require the Subprocessor to protect the Personal Data to the same standards provided by this DPA, and
 * Mistral AI will remain liable to Customer if such Subprocessor fails to fulfill its data protection obligations with regard to the relevant Processing activities under the DPA.
 
@@ -348,7 +348,7 @@ Mistral AI may update the description of the Processing from time to time to ref
     * **Opt-out:** Customer can opt-out of using Brave at any time by using the settings in Customer’s account.
 * **Google Cloud Platform:**
     * **Purpose:** Cloud Infrastructure.
-    * **Data location:** Ireland.
+    * **Data location:** Ireland, United States.
 * **Cerebras:**
     * **Purpose:** Cloud infrastructure. The Personal Data is encrypted and zero data retention is activated (data is retained solely for the duration of processing the request).
     * **Data location:** United States.
