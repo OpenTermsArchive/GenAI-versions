@@ -134,13 +134,14 @@ If your personal data is publicly available on the Internet, we may use it to tr
 #### 3.4.2. Input and Output provided on La Plateforme
 
 * **If you use our paid Services:** We do not use your Input and Output to train or improve our models.
-* **If you use our free Services:** We use your Input and Output to train our general-purpose artificial intelligence models. We use commercially reasonable efforts to de-identify such data before using it to train or improve our models.
+* **If you use our free Services:** We use your Input and Output to train our general-purpose artificial intelligence models. We use commercially reasonable efforts to de-identify such data before using it to train or improve our models. For clarity and as set out in Section 8 (Your rights), you have the right to object to this processing (opt-out) by contacting us at [privacy@mistral.ai](mailto:privacy@mistral.ai), or using any other method provided in Section 8 (Your rights). 
+    
 
 **Lawful basis:** Our legitimate interests in providing advanced artificial intelligence models to our customers.
 
 #### 3.4.3. Le Chat
 
-* **If you use Le Chat for free:** We use your Input, Output and Feedback to train our general-purpose artificial intelligence models. We use commercially reasonable efforts to de-identify such data before using it to train or improve our models.
+* **If you use Le Chat for free:** We use your Input, Output and Feedback to train our general-purpose artificial intelligence models. We use commercially reasonable efforts to de-identify such data before using it to train or improve our models. For clarity and as set out in Section 8 (Your rights), you have the right to object to this processing (opt-out) by contacting us at privacy@mistral.ai, or using any other method provided in Section 8 (Your rights).
 * **If you use Le Chat Pro:** You can opt-out of training at any time by using the feature available on your account. In this case, we do not use your Input, Output and Feedback to train our artificial intelligence models.
 * **If you use Le Chat Team or Le Chat Enterprise:** We do not use your Input, Output and Feedback to train our artificial intelligence models. If you wish to allow us to use such data to train our artificial intelligence models, you can opt-in of training at any time by using the feature available on your account.
 
