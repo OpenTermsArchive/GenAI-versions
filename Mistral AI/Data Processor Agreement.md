@@ -338,6 +338,9 @@ Mistral AI may update the description of the Processing from time to time to ref
 
 **Sub-processors:**
 
+* **Azure:** 
+    * **Purpose:** Cloud Infrastructure.
+    * **Data location:** Sweden. 
 * **Black Forest Labs:**
     * **Purpose:** Image generation.
     * **Data location:** United States.
@@ -346,13 +349,16 @@ Mistral AI may update the description of the Processing from time to time to ref
     * **Purpose:** Websearch.
     * **Data location:** United States.
     * **Opt-out:** Customer can opt-out of using Brave at any time by using the settings in Customer’s account.
-* **Google Cloud Platform:**
-    * **Purpose:** Cloud Infrastructure.
-    * **Data location:** Ireland, United States.
 * **Cerebras:**
     * **Purpose:** Cloud infrastructure. The Personal Data is encrypted and zero data retention is activated (data is retained solely for the duration of processing the request).
     * **Data location:** United States.
     * **Opt-out:** Customer can opt-out of using Cerebra's at any time by using the settings in Customer’s account (deactivating flash answers).
+* **E2B:**
+    * **Purpose:** provide the code interpreter feature on Le Chat. 
+    * **Data location:** United States. 
+* **Google Cloud Platform:**
+    * **Purpose:** Cloud Infrastructure.
+    * **Data location:** Ireland, United States.
 
 ### 3 Providing Support Services through Partners
 
