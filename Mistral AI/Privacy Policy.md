@@ -192,11 +192,11 @@ When you visit our website, we use cookies (small text files stored on your devi
 **Cookies that do not require consent:** Our site uses essential cookies that are necessary for its operation:
 
 * **Technical cookie.** These cookies are strictly necessary for the proper functioning of the website and cannot technically be deactivated from the site. However, you can manage these cookies through your browser settings.
+* **Support cookie:** These cookies are strictly necessary to provide support to you, when you use our support chat on our Help Center. They cannot be deactivated. 
 
 **Cookies that require your consent:** Our website also uses cookies that require your prior consent:
 
 * **Performance and analytics cookies:** These cookies help us to understand the customer's use of our website. All data collected is anonymous and we do not retain information that will identify you personally.
-* **Support cookie:** These cookies collect information about you to help us answer your questions.
 
 ### 4.2. Cookie management
 
