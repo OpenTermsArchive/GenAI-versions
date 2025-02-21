@@ -3,13 +3,13 @@
 **xAI Privacy Policy**
 ======================
 
-_Effective: February 14, 2025_
+_Effective: February 20, 2025_
 
 At X.AI LLC ("**xAI**", "**our**", "**us**" or "**we**"), we value your privacy and are committed to being fair, accountable, and transparent in how we handle your personal information. Our Privacy Policy outlines how we collect, use, and disclose your personal information when you use our websites and applications (the Grok mobile app ([iOS](https://apps.apple.com/app/grok/id6670324846) or [Android](https://play.google.com/store/apps/details?id=ai.x.grok)) or the [Grok.com](http://grok.com/) website), and other xAI services (our "**Service**"). It also describes your privacy rights.
 
 This Privacy Policy does not apply to data that we process on behalf of customers of our business offerings, such as the xAI API, or to any employment-related personal information processed in consideration of employment with xAI. This Privacy Policy also does not apply if you access our Service through a third-party’s service. In that case, the third-party’s privacy policy would apply. For example, your use of X (previously Twitter), including use of Grok on the X platform, is governed by the [X Privacy Policy](https://x.com/en/privacy) and [X Terms](https://x.com/en/tos), not this xAI Privacy Policy.
 
-For individuals in the European Economic Area, United Kingdom, and Switzerland (collectively, “Europe”), for Europe-specific additional information not already discussed on this page, please see xAI’s [Europe Privacy Policy Addendum](https://x.ai/legal/europe-privacy-policy-addendum).
+For individuals in the European Economic Area, United Kingdom, and Switzerland (collectively, “Europe”), for Europe-specific additional information not already discussed on this page, please see [xAI’s Europe Privacy Policy Addendum](https://x.ai/legal/europe-privacy-policy-addendum).
 
 **1\. About xAI and Grok**
 --------------------------
@@ -36,7 +36,7 @@ We may collect personal information from you and about you. Some examples of the
     * How we may collect it: Directly from you.
     * How we may use it: To provide, analyze, and maintain our Service; to provide support and assistance in relation to our Service; to develop and improve our Service and to conduct research; to communicate with you; to ensure the security and integrity of our Service; for legal purposes.
     * How we may disclose it: To our contracted service providers; in connection with business transfers, for legal purposes; and to our related companies.
-* User Content: You may provide personal information in prompts and other content you upload, such as files, images, and other material (“Input”). Outputs of the Service (“Output”), including responses Grok generates, are based on your Input (together, "User Content"). If you include personal information in Inputs you provide to the Service, this information may be reproduced in the Output. We ask that you do not include personal information in your Inputs, however, we cannot control what you provide to us.
+* User Content: You may provide personal information in prompts and other content you upload, such as files, images, audio, and other material (“Input”). Outputs of the Service (“Output”), including responses Grok generates, are based on your Input (together, "User Content"). If you include personal information in Inputs you provide to the Service, this information may be reproduced in the Output. We ask that you do not include personal information in your Inputs, however, we cannot control what you provide to us.
     
     * How we may collect it: Directly from you.
     * How we may use it: To provide, analyze, and maintain our Service; to provide support and assistance in relation to our Service; to develop and improve our Service and to conduct research; to ensure the security and integrity of our Service; for legal purposes.
@@ -134,7 +134,7 @@ As noted in the [Terms of Service](https://x.ai/terms-of-service), our Service i
 **10\. Privacy rights and choices**
 -----------------------------------
 
-Depending on where you are located and subject to applicable legal exceptions, you may have certain rights in relation to your personal information. For information on the privacy rights that may be available to you under European privacy laws, please review xAI’s [Europe Privacy Policy Addendum](https://x.ai/legal/europe-privacy-policy-addendum).
+Depending on where you are located and subject to applicable legal exceptions, you may have certain rights in relation to your personal information. For information on the privacy rights that may be available to you under European privacy laws, please review [xAI’s Europe Privacy Policy Addendum](https://x.ai/legal/europe-privacy-policy-addendum).
 
 * You may have the right to request to access, correct, update or delete your personal information, subject to certain applicable legal exceptions. Please note that we cannot guarantee the factual accuracy of Output from our models. If Output contains factually inaccurate personal information relating to you, you can submit a correction request and we will make reasonable efforts to correct this information — but due to the technical complexity of our models, it may not be feasible for us to do so.
 * If we have collected and processed your personal information with your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.
