@@ -31,7 +31,7 @@ Use of OpenRouter by anyone under 13 years of age is prohibited. You represent t
 You agree not to use OpenRouter to:
 
 * Violate the rights of another party or any applicable laws;
-* Violate any of these Terms or our policies, or policies of third-party providers that power the models on OpenRouter, which can be found by visiting [the documentation](https://openrouter.ai/docs).
+* Violate any of these Terms or our policies, or policies of third-party providers that power the models on OpenRouter, which can be found by visiting [the documentation](https://openrouter.ai/docs/features/provider-routing#terms-of-service).
 * Reverse assemble, reverse compile, decompile, translate or otherwise attempt to discover the source code or underlying components of models, algorithms, and systems of OpenRouter, the models, or their underlying technologies;
 * Abuse, harm, interfere with, reverse engineer, or disrupt OpenRouter, the models, or their underlying technologies, such as by accessing or using them in fraudulent or deceptive ways, introducing malware, or spamming, hacking, or bypassing any protective measures;
 * Use OpenRouter or the models in a prohibitied fashion, such as by exceeding any rate limits set forth by us from time to time, or by repeatedly creating accounts without paying for access;
