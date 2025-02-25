@@ -65,10 +65,10 @@ Except for the limited license to use the Software in Section 1 (Service), we re
 
 * * *
 
-[​](#3-feedback-usage-data-customer-content-privacy)
+[​](#3-feedback%3B-usage-data%3B-customer-content%3B-privacy)
 
 3\. Feedback; Usage Data; Customer Content; Privacy
------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 You may, but are not required to, give us suggestions, feedback, or comments about the Product or related offerings (“Feedback”), in which case you give Feedback “AS IS.” We may use all Feedback freely without any restriction or obligation. We may collect, analyze, and share with contractors and third-party vendors any Usage Data or Customer Content in order to (i) provide the Service to you; or (ii) evaluate and improve or train the functions, features, and operation of the Product or the products or services developed by our third-party vendors from time to time.
 
@@ -90,10 +90,10 @@ You are solely responsible for all Customer Content. You shall not upload or oth
 
 * * *
 
-[​](#4-fees-payments-taxes)
+[​](#4-fees%3B-payments%3B-taxes)
 
 4\. Fees; Payments; Taxes
---------------------------------------------------------
+--------------------------------------------------------------
 
 You shall pay the fees, if any, prescribed by the applicable Order Form or the Website, at such times as may be prescribed therein. We reserve the right to increase our fees or terminate or limit any freemium use rights at any time upon prior notice. Fees are exclusive of applicable taxes. Late payments may be subject to interest or other charges set forth on the Order Form or the Website.
 
