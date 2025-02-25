@@ -1,9 +1,9 @@
 Replit Privacy Policy
 =====================
 
-Last updated: 10/9/2024 to update corporate address.
+Last updated: 02/24/2025 to update URL links.
 
-Replit, Inc. and its affiliates (“Replit,” “we,” “our,” and/or “us”) value the privacy of individuals who use our website and related services (collectively, our “Services”). This privacy policy (the “Privacy Policy”) explains how we collect, use, and share information from or about you or your device as you use the Services. By using our Services, you agree to the collection, use, disclosure, and procedures this Privacy Policy describes. If you are an entity customer located in the European Economic Area (“EEA”), Switzerland or the United Kingdom, you also agree to be bound by the Data Processing Agreement (“DPA”) at [https://repl.it/site/dpa](https://repl.it/site/dpa). If you are a Local Educational Agency in the United States, you also agree that our [U.S. Student Data Protection Addendum](https://docs.replit.com/teams-edu/us-student-dpa) applies and is incorporated herein by reference. Beyond the Privacy Policy, your use of our Services is also subject to our [Terms of Service](https://repl.it/site/terms).
+Replit, Inc. and its affiliates (“Replit,” “we,” “our,” and/or “us”) value the privacy of individuals who use our website and related services (collectively, our “Services”). This privacy policy (the “Privacy Policy”) explains how we collect, use, and share information from or about you or your device as you use the Services. By using our Services, you agree to the collection, use, disclosure, and procedures this Privacy Policy describes. If you are an entity customer located in the European Economic Area (“EEA”), Switzerland or the United Kingdom, you also agree to be bound by the Data Processing Agreement (“DPA”) at [https://repl.it/site/dpa](https://repl.it/site/dpa). Beyond the Privacy Policy, your use of our Services is also subject to our [Terms of Service](https://repl.it/site/terms).
 
 **Information We Collect**
 --------------------------
