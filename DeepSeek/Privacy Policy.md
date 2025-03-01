@@ -1,3 +1,7 @@
+Other language versions →
+
+[日本語 (ja-JP)](https://cdn.deepseek.com/policies/ja-JP/deepseek-privacy-policy.html)
+
 DeepSeek Privacy Policy
 =======================
 
