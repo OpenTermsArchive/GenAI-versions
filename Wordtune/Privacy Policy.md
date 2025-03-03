@@ -158,7 +158,7 @@ Cannot send you marketing communications
 
 ### 1.2. When you make use of, or interact with the Tool and/or App (including, without limitation, the document summarization service)
 
-#### 1.2.1. When download and make use of the Tool and/or App
+#### 1.2.1. When download and/or make use of the Tool and/or App
 
 * User name and email address (optional)
     
@@ -232,7 +232,7 @@ Cannot charge you and therefore cannot provide you with paid-for features
 
 Cannot attribute the payment to you
 
-* User content (including text, documents, or other content or information uploaded, entered, or otherwise transmitted by you in connection with your use of the Tool)
+* User content (including text, documents, or other content or information uploaded, entered, or otherwise transmitted by you and/or in connection with your use of the Tool)
     
 
 * To provide you with the Tool
@@ -241,7 +241,7 @@ Cannot attribute the payment to you
     
 * To customize the services to you
     
-* To improve our services and the Tool
+* To improve our services and/or the Tool
     
 
 Processing is necessary for the performance of a contract to which the data subject is party (EULA).
@@ -281,8 +281,7 @@ Legitimate interest
     
 * Amplitude (analytics)
     
-* Hotjar (analytics)
-    
+* Braze
 
 Cannot provide you with the Tool
 
@@ -440,7 +439,6 @@ Analytic tools
     [https://www.google.com/policies/privacy/](https://www.google.com/policies/privacy/). You may learn more about how Google collects and processes data specifically in connection with Google Analytics at [https://www.google.com/policies/privacy/partners/](https://www.google.com/policies/privacy/partners/). You may prevent your data from being used by Google Analytics by downloading and installing the Google Analytics Opt-out Browser Add-on, available at [https://tools.google.com/dlpage/gaoptout/](https://tools.google.com/dlpage/gaoptout/).
 * **Facebook Pixels and SDKs**. We use Facebook pixels or SDKs, which are tools that provide help to website owners and publishers, developers, advertisers, business partners (and their customers) and others integrate, use and exchange information with Facebook, as such the collection and use of information for ad targeting. Please note that third parties, including Facebook, use cookies, web beacons, and other storage technologies to collect or receive information from your websites and elsewhere on the internet and use that information to provide measurement services and target ads. Facebook’s ability to use and share information is governed by the Facebook Tools Terms, available at: [https://www.facebook.com/legal/technology\_terms/](https://www.facebook.com/legal/technology_terms/). You can prevent your data from being used by Facebook Pixels and SDKs by exercising your choice through these mechanisms: [https://www.aboutads.info/](https://www.aboutads.info/) choices or [https://www.youronlinechoices.eu/](https://www.youronlinechoices.eu/).
 * **Facebook Custom Audience, Lookalike Audience, Amplitude** (used in the context of our Tool)**, Braze, Intercom**
-* **Hotjar**. The App uses Hotjar in order to better understand our users’ needs and to optimize this service and experience. Hotjar is a technology service that helps us better understand our users experience (e.g. how much time they spend on which pages, which links they choose to click, what users do and don’t like, etc.) and this enables us to build and maintain our service with user feedback. Hotjar uses cookies and other technologies to collect data on our users’ behavior and their devices. This includes a device's IP address(processed during your session and stored in a de-identified form), device screen size, device type (unique device identifiers), browser information, geographic location (country only), and the preferred language used to display our App. Hotjar stores this information in a pseudonymized user profile. For further details, please see Hotjar’s privacy policy at [https://www.hotjar.com/legal/policies/privacy](https://www.hotjar.com/legal/policies/privacy). You can opt-out to the creation of a user profile, Hotjar’s storing of data about your usage of our Website and Hotjar’s use of tracking cookies on other websites on this link [https://www.hotjar.com/legal/compliance/opt-out](https://www.hotjar.com/legal/compliance/opt-out).
 * **Inspectlet.** We have engaged Inspectlet to analyze the activities of visitors to this Website, and Inspectlet’s authorized use of cookies and other tracking technologies enable it to have access to Personal Information of visitors to this website. Such access to and use of Personal Information by Inspectlet is governed by Inspectlet's Privacy Policy.
 * **YouTube API.** Our Website and Tool uses YouTube API to collect and process the captions of YouTube’s videos, as requested by you. We do not intend to collect or share any Personal Data with YouTube via the API. For further details please see the YouTube's Terms of Service at [https://www.youtube.com/t/terms](https://www.youtube.com/t/terms) and the Google privacy policy at [http://www.google.com/policies/privacy](http://www.google.com/policies/privacy).
 * **Stripe.** We use Stripe for payment, analytics, and other business services. Stripe collects identifying information about the devices that connect to its services. Stripe uses this information to operate and improve the services it provides to us, including for fraud detection. You can learn more about Stripe and read its privacy policy at [https://stripe.com/privacy](https://stripe.com/privacy).
