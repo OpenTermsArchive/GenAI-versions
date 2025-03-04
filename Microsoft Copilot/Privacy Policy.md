@@ -241,7 +241,7 @@ You can choose whether you wish to receive promotional communications from Micro
 
 To opt out of receiving personalised advertising from Microsoft, including Xandr, visit our [opt-out page](https://go.microsoft.com/fwlink/?LinkID=286759). When you opt out, your preference is stored in a cookie that is specific to the web browser you are using. The opt-out cookie has an expiration date of five years. If you delete the cookies on your device, you need to opt out again.
 
-You can also link your opt-out choice with your personal Microsoft account. It will then apply on any device where you use that account and will continue to apply until someone signs in with a different personal Microsoft account on that device. If you delete the cookies on your device, you will need to sign in again for the settings to apply. You can view [our third party ad partners](https://learn.microsoft.com/xandr/policies-regulations/third-party-providers) on the [U.S. State Data Privacy Laws Notice](https://aka.ms/USStatePrivacyNotice), and opt-out of data sharing with third parties at our opt-out page.
+You can also link your opt-out choice with your personal Microsoft account. It will then apply on any device where you use that account and will continue to apply until someone signs in with a different personal Microsoft account on that device. If you delete the cookies on your device, you will need to sign in again for the settings to apply. You can view [our third party ad partners](https://learn.microsoft.com/xandr/policies-regulations/third-party-providers) on the [U.S. State Data Privacy Laws Notice](https://aka.ms/USStatePrivacyNotice), and opt-out of data sharing with third parties at our opt-out [page](https://go.microsoft.com/fwlink/?linkid=2214802).
 
 For Microsoft-controlled advertising that appears in apps on Windows, you may use the opt-out linked to your personal Microsoft account, or opt out of interest-based advertising by turning off the advertising ID in Windows settings.
 
@@ -593,6 +593,8 @@ Please see the [Advertising](https://privacy.microsoft.com/privacystatement#mai
 
 **Rights.** You have the right to (i) know what personal data we collect, use, disclose, “share” and sell, (ii) delete your personal data, (iii) correct your personal data, (iv) restrict the use and disclosure of your sensitive data, (v) receive a copy of your personal data, and (vi) opt-out of “sharing” your personal data with third parties for personalised advertising purposes on third-party sites. You may make these requests yourself or through an authorised agent. If you use an authorised agent, we provide your agent with [detailed guidance](https://privacy.microsoft.com/ccpa-guidance) on how to exercise your privacy rights. Please see our [U.S. State Data Privacy Laws Notice](https://aka.ms/USStatePrivacyNotice) for additional information on how to exercise these rights.
 
+**Universal Opt-Outs.** Microsoft receives and responds to the Global Privacy Control (GPC) browser opt-out signal. Microsoft will turn off sharing your data with third parties for personalised ads if we receive a GPC signal from you when you visit our sites.
+
 You may have additional rights related to your consumer health data as defined by applicable state consumer health privacy laws. Please see our  [Consumer Health Data Privacy Policy](https://privacy.microsoft.com/microsoft-consumer-health-data-privacy-policy) for information on the rights available under Washington State’s My Health My Data Act (MHMDA) and other applicable U.S. consumer health privacy laws.
 
 If you have a Microsoft account, you can exercise your rights through the [Microsoft privacy dashboard](https://account.microsoft.com/privacy), which requires you to log in to your Microsoft account. If you have an additional request or questions after using the dashboard, you may contact Microsoft at the address in the [How to contact us](https://privacy.microsoft.com/privacystatement#mainhowtocontactusmodule) section, use our [web form](https://go.microsoft.com/fwlink/?linkid=2126612), or call our US toll free number +1 (844) 931 2038. If you do not have an account, you may exercise your rights by contacting us as described above. To further protect your personal data, we may ask for additional information, such as your country of residence, email address, and phone number to validate your identity and request before honoring the request.
@@ -697,7 +699,7 @@ We do not use or disclose your sensitive data for purposes other than the follow
 
 **Parties that control collection of personal data**. In certain situations, we may allow a third party to control the collection of your personal data. For example, third party applications or extensions that run on Windows or Edge browser may collect personal data based on their own practices.
 
-Microsoft allows advertising companies to collect information about your interactions with our websites in order to deliver personalised ads on Microsoft’s behalf.  You can view [our third party ad partners](https://learn.microsoft.com/en-us/xandr/policies-regulations/third-party-providers) on the [U.S. State Data Privacy Laws Notice](https://aka.ms/USStatePrivacyNotice), and opt-out of data sharing with third parties at our [opt-out page](https://aka.ms/yourcaliforniaprivacychoices).
+Microsoft allows advertising companies to collect information about your interactions with our websites in order to deliver personalised ads on Microsoft’s behalf.  You can view [our third party ad partners](https://learn.microsoft.com/en-us/xandr/policies-regulations/third-party-providers) on the [U.S. State Data Privacy Laws Notice](https://aka.ms/USStatePrivacyNotice), and opt-out of data sharing with third parties at our opt-out [page](https://go.microsoft.com/fwlink/?linkid=2214802).
 
 [Back to top](#)
 
@@ -985,9 +987,9 @@ To use Microsoft Launcher, the application must be installed on your Android dev
 
 **News Feed**. When you sign in with your Microsoft account, you can enjoy a personalised news feed and advertisements in Launcher’s News Feed, synchronised across all your devices. You can also receive local curated news when you grant Microsoft Launcher permission to access your location information. You can manage your ad preferences through the Microsoft privacy dashboard to tailor your experience.
 
-**Weather Notifications**. Microsoft Launcher allows you to receive the latest and most important weather changes on your home screen with MSN Weather. You can receive up-to-date local weather information when you allow Launcher to access to your location or provide your postcode.
+**Weather Notifications**. Microsoft Launcher allows you to receive the latest and most important weather changes on your home screen with MSN Weather. You can receive up-to-date local weather information when you allow Launcher to access your location or provide your postcode.
 
-**Back-up and Restore**: Easily transfer between phones or try different home screen set-ups with Microsoft Launcher’s back-up and restore feature. Backups can be stored locally on your device or saved to your OneDrive account associated with your Microsoft Account for easy access.
+**Backup and Restore**: Easily transfer between phones or try different home screen set-ups with Microsoft Launcher’s back-up and restore feature. Backups can be stored locally on your device or saved to your OneDrive account associated with your Microsoft Account for easy access.
 
 Microsoft Launcher supports Android work profile features, enabling you to maintain a clear boundary between personal and work data on your device. This means you can securely access work resources without mixing them with your personal apps and data.
 
@@ -1003,15 +1005,17 @@ Teams is an all-in-one collaboration and communication hub. Teams lets you stay 
 
 As part of providing these features, Microsoft collects data about the usage of the features as well as information about your communications, including the time and date of the communication and users that are part of the communication. Microsoft may share this information with Enterprise customers when you interact through meetings and chats with end users who are using their school or work account. For instance, if you engage in a Teams chat with a user who is using Teams associated with their school account, Microsoft may share your information with that user's school as part of providing the Teams service.
 
-**Teams profile**. Your Teams profile includes information you provided when you set up a Microsoft account. To enable other people to find you on Teams (or products that interact with Teams for personal use, including Teams for enterprise) your display name and picture are visible to other users on Teams that have your contact information. Your Teams profile may be visible to Enterprise customers and their end users when you engage with an end user of an organisation in chats and meetings.
+**Compatibility with Skype**. As a Teams user, you can also log into Skype using your Teams account. If you log into Skype via your Teams credentials, you can use Skype to chat with and call other Skype and Teams users, and you can access your Teams chat history through Skype. Skype users will be able to contact you on Teams and see your Teams presence status. For more information about Skype, see the [Skype section](https://privacy.microsoft.com/en-us/privacystatement#mainskypemodule) of this privacy statement.
+
+**Finding Teams and Skype Contacts**. Your Teams profile includes information you provided when you set up a Microsoft account. To enable other people to find you on Teams (or products that interact with Teams for personal use, including Teams for enterprise and Skype), your Teams profile is included in the Teams and Skype public search directories, and may be displayed on Skype and Teams. Depending on your settings, Skype and Teams users can find you by your name, email, and/or phone number. Your profile includes your username, avatar, and any other data you choose to add to your profile or display to others. Your Teams profile may be visible to Enterprise customers and their end users when you engage with an end user of an organisation in chats and meetings.
 
 **Teams contacts**. With your permission, Teams will sync your device, Outlook, and Skype contacts periodically and check for other Teams users that match contacts in your device, Outlook, or Skype address books. You are always in control of your contacts and can stop syncing at any time. If you choose to stop syncing your device, Outlook or Skype contacts, or you are inactive on your device, any contacts that have not been matched during the synchronisation process will be deleted from Teams. If you wish to invite any of your device, Outlook, or Skype contacts to join a conversation, you can invite users to a 1:1 directly, or Microsoft can send an invitation on your behalf via SMS or email for invitations to group conversations. You can block users if you do not want to receive their communications; additionally, you can report a concern to Microsoft.
 
-**Notice to non-user contacts.** If your information appears in the device, Outlook, or Skype address books of a Teams user who chooses to sync their device, Outlook, or Skype contacts with their Teams contacts, Microsoft may process your data in order to determine whether you are a current Teams user and to allow Teams users to invite you to the service, including via SMS and email. As long as the Teams user continues to be active on Teams on their device and continues to enable contact syncing with the applicable device or service, your information will be stored on our servers and we will periodically process your information as a part of the Teams user’s contact syncing experience to check whether you have subsequently joined Teams.
+**Notice to non-user contacts.** If your information appears in the device, Outlook, or Skype address books of a Teams user who chooses to sync their device, Outlook, or Skype contacts with their Teams contacts, Microsoft may process your data in order to determine whether you are a current Teams user and to allow Teams users to invite you to the service, including via SMS and email. As long as the Teams user continues to be active on Teams on their device and continues to enable contact syncing with the applicable device or service, your information will be stored on our servers, and we will periodically process your information as a part of the Teams user’s contact syncing experience to check whether you have subsequently joined Teams.
 
 [Learn more about how we process your information in connection with the contact syncing feature offered to Teams users](https://support.microsoft.com/topic/cdf3c478-df79-4efe-8c4b-8202078a1a67).
 
-If you do choose to join Teams, you will appear as a suggested new Teams contact for any Teams users with your information in their device, Outlook, or Skype address books. As a Teams user, you will be able to block other Teams users if you do not want to receive their communications; additionally, you can report a concern to Microsoft.
+If you do choose to join Teams, you will appear as a suggested new Teams contact for any Teams or Skype users with your information in their device, Outlook, or Skype address books. As a Teams user, you will be able to block other Teams and Skype users if you do not want to receive their communications; additionally, you can report a concern to Microsoft.
 
 **Third-party contacts.** You can also choose to sync contacts from third-party providers. If you choose to unsync your third-party contacts on Teams, all third-party contacts are deleted from Teams. If you gave your consent to use those third-party contacts on other Microsoft apps and services, these contacts will still be available to those other Microsoft apps and services.
 
@@ -1073,7 +1077,9 @@ Skype lets you send and receive voice, video, SMS, and instant message communica
 
 As part of providing these features, Microsoft collects usage data about your communications that includes the time and date of the communication and the numbers or user names that are part of the communication.
 
-**Skype profile.** Your Skype profile includes information you provided when you set up a Microsoft account. To enable other people to find you on Skype (or products that interact with Skype, such as Skype for Business), depending on your profile settings, your Skype profile is included in the Skype public search. Your profile includes your username, avatar and any other data you choose to add to your profile or display to others.
+**Compatibility with Teams.** As a Skype user, you can also log into Teams using your Skype account. If you log into Teams via your Skype credentials, you can use Teams to chat with and call other Skype and Teams users, and you can access your Skype missed calls and chat history through Teams. Teams users will be able to contact you on Skype and see your Skype presence status. For more information about Teams, see the [Microsoft Teams section](https://privacy.microsoft.com/en-us/privacystatement#mainteamsmodule) of this privacy statement.
+
+**Finding Teams and Skype Contacts.** Your Skype profile includes information you provided when you set up a Microsoft or Skype account. To enable other people to find you on Skype (or products that interact with Skype, such as Skype for Business or Microsoft Teams), your Skype profile is included in Skype and Teams public search directories and may be visible on both Skype and Teams. Depending on your profile settings, Skype and Teams users can find you by your name, email, and/or phone number. Your profile includes your username, avatar and any other data you choose to add to your profile or display to others.
 
 **Emergency calling in the United States.** If you enable location sharing for emergency calling, your location will be periodically collected to enable Microsoft to share your location with emergency calling service providers if you dial 911. Your location information is only shared if you enable location sharing for emergency calling and you initiate a 911 call.
 
@@ -1083,7 +1089,7 @@ As part of providing these features, Microsoft collects usage data about your co
 
 [Learn more about how we process your information in connection with the contact syncing feature offered to Skype users](https://support.microsoft.com/topic/cdf3c478-df79-4efe-8c4b-8202078a1a67).
 
-If you do choose to join Skype, you will appear as a suggested new Skype contact for any Skype users with your information in their device or Outlook address books. As a Skype user, you will be able to block other Skype users if you do not want to receive their communications; additionally, you can report a concern to Microsoft.
+If you do choose to join Skype, you will appear as a suggested new Skype contact for any Skype and Teams users with your information in their device or Outlook address books. As a Skype user, you will be able to block other Skype and Teams users if you do not want to receive their communications; additionally, you can report a concern to Microsoft.
 
 **Partner companies**. To make Skype available to more people, we partner with other companies to allow Skype to be offered via those companies’ services. If you use Skype through a company other than Microsoft, that company’s privacy policy governs how it handles your data. To comply with applicable law or respond to valid legal process, or to help our partner company or local operator comply or respond, we may access, transfer, disclose, and preserve your data. That data could include, for example, your private content, such as the content of your instant messages, stored video messages, voicemails, or file transfers.
 
@@ -1614,6 +1620,30 @@ You can turn off these features at any time. In order to provide search results,
 
 [Back to top](#)
 
+#### Windows AI Features
+
+**Click to Do**
+
+Click to Do can run in partnership with Recall or as a stand-alone feature. Once started, you can use Click to Do to capture and analyse screenshots and identify the presence of text and images, then allowing you to take relevant actions for each. For instance, Click to Do can give you options to edit a screenshot image, or revise or rework text that it captures. Click to Do is unable to identify the content of the text or images identified within a screenshot, but you can use local AI and other tools to modify the content if you wish. Everything remains on your local device unless you make an explicit choice, like sending an image off to Bing for a search, asking Click to Do to provide a summary of text the user has selected (in which case it will be sent to Microsoft’s Azure AI cloud service), or using another local AI or other tool to modify a Click to Do screenshot.
+
+Click to Do also allows you to use your microphone to search for text within a capture screenshot. When you click on the microphone button, Click to Do starts listening to what’s said, which is entered into the Search box, and will highlight all the matches from the search. The audio captured by the microphone is not transmitted off your device.
+
+**Windows Recall**
+
+Recall is a Windows feature only available in CoPilot+ PCs that allows users to find things they've seen on their device using the text and visual clues they remember. To use Recall, a user must opt-in to save snapshots on their Copilot+ PC, which are images of everything open and visible on the user’s screen and include associated metadata such as the app name and time-date stamp. All data is stored locally on the device and is protected with Windows Hello Enhanced Sign-in Security (ESS), which provides more secure biometric sign-ins and helps ensure only the customer can have access to their information. Every time a user launches Recall they will be asked to authenticate using Windows Hello biometric sign-in or PIN before the contents of the snapshot folder will decrypt. Click to Do runs on top of snapshots in Recall and helps the user get things done faster by allowing them to take actions with their content, either images or text, on the screen. The analysis of snapshots is always performed locally on the device and the actions available to take change based on what kind of content is detected.
+
+Recall also allows you to use your Copilot+ PC device microphone as a way to search for text within captured snapshots. When you click on the microphone button located inside the Search input box within the Recall window, it starts listening to what’s said and enters it into the Search box. The microphone remains in use until you pause your speech, at which point it is turned off until you explicitly press the microphone button again. All the matches from the search will be highlighted in the results. The audio captured by the microphone is not transmitted off your device.
+
+Data captured by Recall including personal data (e.g. snapshots, metadata, processing results, and user queries) remain local to the device within your signed-in account on the Copilot+ PC, and is not transmitted off the device unless you take certain action. For example, if you copy and paste a snapshot into another app, or choose to include a snapshot when submitting feedback through the Windows Feedback Hub. The only way Recall content can be shared with anyone is by explicit on-device action taken by the user.
+
+You can control your content (such as Snapshots, metadata, search queries, and history) by pausing or deleting snapshots, filtering content, or using a supported browser in privacy mode. Learn more about your privacy and control over your Recall experience [here](https://support.microsoft.com/en-us/windows/privacy-and-control-over-your-recall-experience-d404f672-7647-41e5-886c-a3c59680af15).
+
+In addition to the Recall search feature, Recall also has a timeline, in which your snapshots are organised chronologically and visualised in a horizontal scrollbar that you can use to find and leverage your past activities on your PC. In addition to the features available within the timeline, you can delete snapshots from this view, either individually or by all snapshots containing a website domain (e.g., all from www.bing.com) or those from a specific app.
+
+Recall also has a Sensitive Content filter that is on by default to help prevent the retention of information that might be more delicate in nature (e.g., credit card numbers, state issued ID numbers, etc.). Users can turn this filter off if they wish in Windows Settings.
+
+[Back to top](#)
+
 #### Windows apps
 
 A number of Microsoft apps are included with Windows and others are available in Microsoft Store. Some of those apps include:
@@ -1844,6 +1874,6 @@ Microsoft Privacy Statement
 
 ===============================
 
-Last Updated: January 2025
+Last Updated: March 2025
 
 [What's new?](https://go.microsoft.com/fwlink/p/?LinkId=780766)
