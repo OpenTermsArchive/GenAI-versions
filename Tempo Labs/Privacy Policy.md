@@ -319,7 +319,7 @@ Contact Information
 
 Tempo welcomes your comments and questions regarding this Policy and the collection and use of your information. If you have questions or concerns, please email us at [support@tempolabs.ai](mailto:support@tempolabs.ai).
 
-[Figma to Tempo](https://tempolabsinc.mintlify.app/FigmaPlugin)[Terms of Service](https://tempolabsinc.mintlify.app/tempo-terms)
+[Next.js + Supabase + Stripe](https://tempolabsinc.mintlify.app/Next.jsSupabaseStripe)[Terms of Service](https://tempolabsinc.mintlify.app/tempo-terms)
 
 [x](https://www.linkedin.com/company/tempo-labs)[website](https://www.tempolabs.ai/)[linkedin](https://linkedin.com/company/mintlify)
 
