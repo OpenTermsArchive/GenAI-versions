@@ -267,6 +267,11 @@ Mistral AI may update the description of the Processing from time to time to ref
 * **Azure:**
     * **Purpose:** Cloud Infrastructure.
     * **Data location:** Sweden.
+* **Cerebras:**
+    * **Purpose:** Cloud infrastructure. The Personal Data is encrypted and zero data retention is activated (data is retained solely for the duration of processing the request).
+    * **Data location:** United States.
+    * **Opt-in:** By default, Customer Data is not processed by Cerebras. Customer Data is only processed by Cerebras if Customer opts-in. 
+
 * **Google Cloud Platform (only if you use the US API):**
     * **Purpose:** Cloud Infrastructure only for the US API.
     * **Data location:** United States.
