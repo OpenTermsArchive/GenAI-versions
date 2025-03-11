@@ -142,9 +142,10 @@ If your personal data is publicly available on the Internet, we may use it to tr
 
 #### 3.4.3. Le Chat
 
-* **If you use Le Chat for free:** We use your Input, Output and Feedback to train our general-purpose artificial intelligence models. We use commercially reasonable efforts to de-identify such data before using it to train or improve our models. For clarity and as set out in Section 8 (Your rights), you have the right to object to this processing (opt-out) by contacting us at privacy@mistral.ai, or using any other method provided in Section 8 (Your rights).
-* **If you use Le Chat Pro:** You can opt-out of training at any time by using the feature available on your account. In this case, we do not use your Input, Output and Feedback to train our artificial intelligence models.
+* **If you use Le Chat for free:** We use your Input, Output and Feedback to train our general-purpose artificial intelligence models. We use commercially reasonable efforts to de-identify such data before using it to train or improve our models. You can opt-out of training at any time by using the feature available on your account. In this case, we do not use your Input, Output and Feedback to train our artificial intelligence models, unless you expressly authorize us to do so.  
+* **If you use Le Chat Pro:** You can opt-out of training at any time by using the feature available on your account. In this case, we do not use your Input, Output and Feedback to train our artificial intelligence models, unless you expressly  authorize us to do so.
 * **If you use Le Chat Team or Le Chat Enterprise:** We do not use your Input, Output and Feedback to train our artificial intelligence models. If you wish to allow us to use such data to train our artificial intelligence models, you can opt-in of training at any time by using the feature available on your account.
+* **Feedback:** If you click on "Thumbs Up" or "Thumbs Down" to rate an Output, we use your Feedback to improve our artificial intelligence models. If you do not want us to use your Feedback to improve our artificial intelligence models, please do not click on  "Thumbs Up" or "Thumbs Down". 
 
 **Lawful basis:** Our legitimate interests in providing advanced artificial intelligence models to our customers.
 
@@ -156,7 +157,7 @@ We use your personal data for the following marketing activities:
 * **Lead Development.** Identifying and nurturing potential business opportunities.
 * **Event Invitations.** Inviting you to our events and webinars.
 
-**Lawful Basis:** Your consent, for sending you our newsletters. You can withdraw your consent at any time by unsubscribing or contacting us at [privacy@mistral.ai](mailto:privacy@mistral.ai). Our legitimate interest, for lead development and event invitations, which helps us promote our Services and grow our business.
+**Lawful Basis:** Your consent, for sending you our newsletters. You can withdraw your consent at any time by unsubscribing . Our legitimate interest, for lead development and event invitations, which helps us promote our Services and grow our business.
 
 ### 3.6. Commercial Management
 
