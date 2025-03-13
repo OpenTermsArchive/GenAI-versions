@@ -129,6 +129,8 @@ We use the Personal Data we collect for all of the following purposes: To provid
 
 • To comply with our legal obligations.
 
+• To personalize your experience and to display ads relevant to your interests, we may use data collected through cookies and other tracking technologies to retarget you across different websites and apps.
+
 • Subject to your consent, if such is required under applicable law, to send you e-mails or other messages and/or newsletters about us or our Services, including through one of our service providers. At any time, you can unsubscribe from our mailing list by clicking on the unsubscribe link on the message.
 
 We will process, use, retain and share Personal Data solely for the purposes described in this privacy policy and only when reasonably necessary and proportionate to achieve such purposes for which such information was collected and processed.
