@@ -185,6 +185,10 @@ No waiver by either Party of any of the provisions of this Agreement is effectiv
 
 If any provision of this Agreement is held to be unenforceable or illegal by a court or tribunal of competent jurisdiction, such provision will be modified to the extent necessary to render it enforceable, or will be severed from this Agreement, and all other provisions of this Agreement will remain in full force and effect. Headings are provided for convenience only and will not be used to interpret the substance of this Agreement. Unless the intent is expressly otherwise in specific instances, use of the words “include,” “includes,” or “including” in this Agreement shall not be limiting, and “or” shall not be exclusive.
 
+Was this page helpful?
+
+YesNo
+
 [Privacy Policy](https://tempolabsinc.mintlify.app/tempo-privacy)
 
 [x](https://www.linkedin.com/company/tempo-labs)[website](https://www.tempolabs.ai/)[linkedin](https://linkedin.com/company/mintlify)
