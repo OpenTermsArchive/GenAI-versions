@@ -319,6 +319,10 @@ Contact Information
 
 Tempo welcomes your comments and questions regarding this Policy and the collection and use of your information. If you have questions or concerns, please email us at [support@tempolabs.ai](mailto:support@tempolabs.ai).
 
+Was this page helpful?
+
+YesNo
+
 [Building Mobile Apps with Expo](https://tempolabsinc.mintlify.app/Mobile)[Terms of Service](https://tempolabsinc.mintlify.app/tempo-terms)
 
 [x](https://www.linkedin.com/company/tempo-labs)[website](https://www.tempolabs.ai/)[linkedin](https://linkedin.com/company/mintlify)
