@@ -1,229 +1,192 @@
-模型服务协议
-======
+Terms of Service
+================
 
-用户协议
-----
+**Effective Date:** January 5, 2024
 
-欢迎签署本《用户协议》（下称"本协议"）并使用 Kimi 智能助手（定义见下文）服务。
+Welcome to use Kimi! These Terms of Service apply to your use of Kimi, along with any associated software applications and websites (hereinafter referred to as “Kimi” or “Services”). These Terms form an agreement (“this Agreement”) between you and Beijing Moonshot Technology Co., Ltd (hereinafter referred to as “we” or “us”), and it takes effect upon your confirmation of acceptance or upon the occurrence of your use of Services. Unless otherwise explicitly provided, any new functions, products added to our Services are unconditionally subject to this Agreement.
 
-### 相关定义说明
+**Use of Services**
+-------------------
 
-* **Kimi 智能助手**：指北京月之暗面科技有限公司经营的问答对话生成平台产品。
+**Registration.** Before using our Services, you are required to register as a user and complete the real-name authentication.
+
+**User Eligibility.** You shall possess the civil conduct capacity that is commensurate with your actions stipulated by the laws of your jurisdiction before you use our Services. If you do not possess the aforementioned capacity and still register as a user, you and your guardian shall bear all consequences as stipulated by law. You acknowledge that if you are a person without civil conduct capacity or with limited civil conduct capacity improperly registers as a user, the agreement between you and us is void from the beginning. Upon discovery, we are entitled to immediately cease Services to you or delete your account. Free Use. Notwithstanding that we provide you with free Services until now, you acknowledge and agree that this free use may be adjusted according to research progress. You promise not to hold us responsible for any adjustments to the rules or the expiration of free use.
+
+Account
+-------
+
+**Account Registration.** If there is evidence or if we, based on relevant rules, determines that you have improperly registered or used multiple accounts, we may take measures such as freezing, deleting the aforementioned accounts or refusing to provide Services, etc. If this causes loss to us or related parties, you shall also bear the liability for compensation.
+
+**Account Security.** You agree that you are solely responsible for maintaining the confidentiality of your password and account, and for all activities that occur under your password or account. Kimi will never actively ask for your account password at any time. Therefore, if your account is compromised due to your disclosure or as a result of being attacked, defrauded, or otherwise, we will not be liable for any losses or damage arising from your failure to comply with this paragraph.
+
+**Account Transfer.** You may transfer your account only under the following conditions: there is a legal provision, a judicial ruling, or consent from us, and it complies with the user account transfer process stipulated by this Agreement. Once your account is transferred, the rights and obligations associated with that account are also transferred. Otherwise, your account may not be transferred in any way, or we retain the rights to pursue your breach of contract, and any resulting liabilities and consequences shall be borne by you.
+
+**Update and Maintenance.** You shall promptly update the information you provide. In cases where the laws explicitly require us to verify certain user information, we will periodically check and verify your information in accordance with the law. You should cooperate by providing the most up-to-date, true, complete, and effective information. We may issue inquiries or requests for rectification and require you to re-certify until it suspends or terminates the provision of some or all of our Services to you. To the extent of the following circumstances, we are not liable:
+
+* If we cannot contact you based on the last information you provided;
     
-* **Kimi 智能助手服务提供者**：指 Kimi 智能助手的互联网信息及软件技术服务提供者北京月之暗面科技有限公司。
+* If you do not provide the information in a timely manner as requested;
     
-* 用户或您：指使用 Kimi 智能助手产品或服务的人。
-    
-
-### 协议适用范围
-
-本协议由您和月之暗面签署，自您确认接受之时起或自您使用 Kimi 智能助手的行为发生之时起生效。 除非另有明确规定，平台新增的任何新功能、新产品、新服务，均无条件地适用本协议。
-
-### 账号与使用说明
-
-在您使用 Kimi 智能助手服务时，需要您先进行：
-
-* 用户注册
-    
-* 实名认证
-    
-
-#### 用户资格说明
-
-请确认在您开始注册程序使用 Kimi 智能助手服务前，您已具备中华人民共和国法律规定的与您行为相适应的民事行为能力。若您不具备前述与您行为相适应的民事行为能力而进行用户注册，则您及您的监护人应依照法律规定承担因此而导致的一切后果。 您知悉，无民事行为能力人、限制民事行为能力人不当注册为 Kimi 智能助手用户的，其与 Kimi 智能助手之间的服务协议自始无效，一经发现，Kimi 智能助手有权立即停止为该用户服务或注销该用户账号。
-
-#### 账户注册说明
-
-账户注册是指用户登录 Kimi 智能助手，按要求填写相关信息并确认同意履行本协议的过程。如有证据证明或 Kimi 智能助手根据相关规则判断您存在不当注册或不当使用多个 Kimi 智能助手账户的情形，Kimi 智能助手可采取冻结或关闭账户、拒绝提供服务等措施，如给 Kimi 智能助手及相关方造成损失的，您还应承担赔偿责任。
-
-#### 账户安全说明
-
-您有权使用您设置或确认的手机号码及您设置的密码登录 Kimi 智能助手。您的账户为您自行设置并由您保管，Kimi 智能助手在任何时候均不会主动要求您提供您的账户密码。因此，若账户因您主动泄露或因您遭受他人攻击、诈骗等行为导致的损失及后果，Kimi 智能助手并不承担责任，您应通过司法、行政等救济途径向侵权行为人追偿。
-
-#### 账户转让说明
-
-仅在有法律明文规定、司法裁定或经 Kimi 智能助手平台同意，并符合 Kimi 智能助手平台规则规定的用户账户转让流程的情况下，您可进行账户的转让。您的账户一经转让，该账户项下权利义务一并转移。 除此以外，您的账户不得以任何方式转让，否则 Kimi 智能助手平台有权追究您的违约责任，且由此产生的责任及后果均由您自行承担。
-
-#### 更新维护说明
-
-您应当及时更新您提供的信息，在法律有明确规定要求 Kimi 智能助手作为平台服务提供者必须对部分用户的信息进行核实的情况下，Kimi 智能助手将依法不时地对您的信息进行检查核实，您应当配合提供最新、真实、完整、有效的信息。 Kimi 智能助手可向您发出询问或要求整改的通知，并要求您进行重新认证，直至中止、终止对您提供部分或全部 Kimi 智能助手平台服务，当出现如下情况时，Kimi 智能助手对此不承担任何责任：
-
-* 如 Kimi 智能助手按您最后一次提供的信息与您联系未果；
-    
-* 您未按 Kimi 智能助手的要求及时提供信息；
-    
-* 您提供的信息存在明显不实或行政司法机关核实您提供的信息无效的，您将承担因此对您自身、他人及 Kimi 智能助手造成的全部损失与不利后果。
+* If the information you provide is obviously false or is verified as invalid by administrative or judicial authorities, you will bear all losses and adverse consequences caused to yourself, others, and us.
     
 
-### 平台的权利和义务
+Your Rights and Obligations
+---------------------------
 
-1. Kimi 智能助手有义务在现有技术上维护整个平台的正常运行，并努力提升和改进技术，保障您的产品和服务使用体验。
-    
-2. 对于您在注册使用 Kimi 智能助手平台时遇到的与本产品或服务有关的问题及反映的情况，Kimi 智能助手将在法律规定期限内及时作出回复。
-    
-3. 对于您在 Kimi 智能助手平台上的不当行为，或任何 Kimi 智能助手认为应当终止服务的情况，Kimi 智能助手有权实施屏蔽相关信息、终止提供服务等处理措施，并将相关情况及时通知于您和告知有关部门；您对 Kimi 智能助手的处理措施存在异议的，可以提供相关证据予以说明。若经核实，您的行为确有违反本平台用户协议或违法违规情况的，Kimi 智能助手有权终止对您提供服务。
-    
-4. 为不断改善 Kimi 智能助手的服务质量，Kimi 智能助手可能使用您输入 Kimi 智能助手的和 Kimi 智能助手向您输出的内容进行进一步的开发训练。您完全理解并接受该种使用，并不因该种使用而向 Kimi 智能助手主张权利或主张 Kimi 智能助手侵犯您的权益。
-    
-5. Kimi 智能助手将尽最大努力、采取必要合理措施，保障 Kimi 智能助手网络安全和稳定运行。
-    
-6. 如 Kimi 智能助手为您提供免费服务的，您理解并同意，该种免费使用可能根据研究进展进行调整。您承诺不会因该规则的调整、免费使用权益的失效而向 Kimi 智能助手追究任何责任。
-    
-7. 您不得以任何方式删除、篡改、隐匿 Kimi 智能助手在输出内容中生成的深度合成服务标识。
-    
+**Generated Content.** You shall not to input or induce Kimi to generate any content as follows:
 
-### 您的权利和义务
-
-1. 您有权根据本协议的约定享受 Kimi 智能助手提供的以下服务：问答对话生成服务。Kimi 智能助手有权依据业务需要增加或减少服务的内容。
+* Inciting, resisting, or undermining the implementation of the Constitution and laws, administrative regulations;
     
-2. 您应当保证在使用 Kimi 智能助手时不采取不正当行为，不扰乱平台正常秩序。
+* Inciting subversion of state power, overthrowing the socialist system;
     
-3. 您不得向 Kimi 智能助手输出或诱导 Kimi 智能助手向您输出包含以下内容的言论，否则 Kimi 智能助手平台可对您发布的信息依法或依本协议进行删除或屏蔽，并将您发布信息的情况和向有关机关报告：
+* Inciting secession, undermining national unity;
     
-
-* 煽动、抗拒、破坏宪法和法律、行政法规实施的；
+* Inciting ethnic hatred, ethnic discrimination, undermining national unity;
     
-* 煽动颠覆国家政权，推翻社会主义制度的；
+* Any content containing discrimination based on race, gender, religion, region, etc.;
     
-* 煽动、分裂国家，破坏国家统一的；
+* Fabricating or distorting facts, spreading rumors, disrupting social order;
     
-* 煽动民族仇恨、民族歧视，破坏民族团结的；
+* Promoting feudal superstition, obscenity, pornography, gambling, violence, murder, terrorism, inciting crime;
     
-* 任何包含对种族、性别、宗教、地域内容等歧视的；
+* Publicly insulting others or fabricating facts to defame others, or engaging in other malicious attacks;
     
-* 捏造或者歪曲事实，散布谣言，扰乱社会秩序的；
+* Damaging the reputation of state organs;
     
-* 宣扬封建迷信、淫秽、色情、赌博、暴力、凶杀、恐怖、教唆犯罪的；
+* Other content that violates social public interests or public morality or is not suitable for publication on Kimi as stipulated by this Agreement;
     
-* 公然侮辱他人或者捏造事实诽谤他人的，或者进行其他恶意攻击的；
-    
-* 损害国家机关信誉的；
-    
-* 其他违背社会公共利益或公共道德或依据相关 Kimi 智能助手平台协议、规则的规定不适合在 Kimi 智能助手平台上发布的；
-    
-* 其他违反宪法、法律和行政法规的。
+* Other content that violates laws and regulations.
     
 
-4. 您不应以以下方式不当使用 Kimi 智能助手：
+**Service Misuse.** You acknowledge that without the written consent of us and/or the relevant rights holders, (i)you have no authority to use Kimi and the content generated by Kimi in any commercial manner; (ii)you may not use our Services to develop products or services that compete with us. You likewise agree not to use our Services in the following ways:
+
+* In a manner that infringes upon the rights of any third party;
+    
+* By reverse engineering any algorithms, source code, mechanisms, etc., of Kimi;
+    
+* By engaging in any improper conduct or disrupt the normal order of our Services.
+    
+* By deleting, altering, or concealing the deep synthesis service mark generated by Kimi in any way.
+    
+* By using Kimi to develop, train, or improve algorithms, models, etc., that are in direct or indirect competition with us;
+    
+* Using Kimi for any services that have specific requirements for the subject's qualifications, including but not limited to medical services, legal services, psychological counseling, infrastructure construction, etc.;
+    
+* Other ways that may harm the interests of us.
     
 
-* 以侵犯任何人权利的方式；
+**Service for Third Party.** You acknowledge that if you use Kimi to provide any services to any third parties, the corresponding rights, obligations, and responsibilities are borne by you, and we are not liable for any losses caused thereby. **Overseas Use.** When using Kimi overseas, you shall comply with all the laws, regulations, policies, restrictions, and supervision of foreign entities such as the United States, the European Union, and/or other jurisdictions.
+
+Our Rights and Obligations
+--------------------------
+
+We are obliged to maintain the normal operation of the Services with the existing technology and strive to improve and enhance the technology to ensure your experience.
+
+For issues and feedback related to the Services that you encounter when using the Services, we will respond promptly within the legal time limit.
+
+For improper conduct by you on Kimi, or any situation that we deem should result in the termination of Services, we are entitled to take measures such as blocking related Content and terminating the Services, and will notify you and the relevant supervisors in a timely manner. If you have objections to our measures, you may provide relevant evidence for clarification. If it is verified that your conduct indeed violates these terms or is illegal or non-compliant, we have the right to terminate the Services to you.
+
+You acknowledge and agree that we may use the Content for further development and training to continuously improve the quality of our Services. You fully understand and accept this use and do not claim rights against us or claim that we have infringed upon your rights due to this use.
+
+We will make every effort and take necessary and reasonable measures to ensure the network security and stable operation of Kimi.
+
+Ownership
+---------
+
+**Software.** You acknowledge and agree that you may only use Kimi in a non-commercial, personal research, and study manner. Kimi and its programs, software, information, data, development documents, and related elements, components, etc., are protected by the laws and regulations of the People's Republic of China and the corresponding international treaties, and are owned by us and the relevant rights holders. **Content.** The copyright of any content you input into Kimi belongs to you, and if the author has a copyright declaration or the original work is reprinted from another website with an attached original copyright declaration, the ownership shall be determined according to the attached declaration. The ownership of the content generated based on Kimi is maintained by you, and you are responsible for its independent judgment and use. Any intellectual property issues arising from the use of content generated by Kimi are handled by you, and we are not responsible for any losses caused thereby. If you cause any loss to us, we have the right to recover from you.
+
+Breach of Contract
+------------------
+
+If you conduct as follows, it is considered a breach of contract, and we are entitled to take corresponding actions, including but not limited to:
+
+* Inspect your registration data and service usage history, and if it finds or suspects there are issues, we will issue inquiries and/or correction notices to you. If you do not respond reasonably within a reasonable period, we may take measures such as blocking, deleting, or other restrictions on your registration data or product/service usage;
     
-* 对 Kimi 智能助手的任何算法、源代码、机制等进行反向工程；
+* If a national legal document or administrative penalty decision confirms that you have committed illegal acts, or if we have sufficient factual basis to determine that you have committed illegal or service agreement violation acts, we are entitled to legally disclose your illegal acts on the website;
     
-* 利用 Kimi 智能助手开发、训练或改善其他与北京月之暗面科技有限公司存在直接或间接竞争关系的算法、模型等；
-    
-* 将 Kimi 智能助手使用于任何对主体资格有要求的服务中，包括但不限于医疗服务、法律服务、心理咨询、基础设施建设等；
-    
-* 其他可能损害北京月之暗面科技有限公司利益的使用方式。
+* If you publish improper types of information, including but not limited to: (i) information that we have reason to believe contains fraudulent or malicious or false content; (ii) information that we have reason to believe disrupts the normal order of the platform; (iii) information that we have reason to believe violates public interests or may seriously harm the legitimate interests of us and other users; we are entitled to delete or take other restrictive measures without notifying you.
     
 
-5. 如您利用 Kimi 智能助手向任何第三方提供服务，相应的权利义务和责任均由您承担，Kimi 智能助手不对由此造成的任何损失负责。
+Termination
+-----------
+
+You have the right to terminate this Agreement by any of the following methods:
+
+* deleting your account; after you submit a delete application to us, and upon our review and agreement, we will delete your account, and you will be released from this Agreement.
     
-6. 在海外使用 Kimi 智能助手应遵守美国、欧盟和/或其他政府机关等外国实体的全部法律、法规、政策的限制与监督。
+* explicitly refusing to continue using our Services.
+    
+* ceasing to use and explicitly refusing to accept the changes before they take effect;
     
 
-### 服务协议的终止
+Under the following circumstances, we will terminate the Services provided to you:
 
-1. 您有权通过以下任一方式终止本协议：
+* When you violate this Agreement, we may terminate the Services based on _**Breach of Contract**_. we will notify you when terminating the Services. However, if you register again directly or indirectly in the name of another person after we terminates the Services, we are entitled to unilaterally terminate the Services to you again;
     
-
-* 您注销您的账户的；
+* If we, through the information you provided, finds that the email address or phone number you filled in during registration no longer exists or cannot receive information, and you have not provided it within three working days after being notified by us to change it using other contact information you provided at registration, or if we cannot contact you based on the information you reserved at registration;
     
-* 变更事项生效前您停止使用并明示不愿接受变更事项的；
+* If we discover that the main content of your registration information is false;
     
-* 您明示不愿继续使用 Kimi 智能助手平台服务，且符合平台终止条件的。 由您向 Kimi 智能助手提出注销账号申请后，经 Kimi 智能助手审核同意，由 Kimi 智能助手注销该注册用户，您即解除与 Kimi 智能助手的服务协议关系。
+* When these terms are terminated or updated, and you explicitly refuse to accept the new service agreement;
     
-
-2. 当出现下列情况下时，Kimi 智能助手可以通过注销用户的方式终止服务：
+* If your Content infringes any intellectual property or other proprietary rights and interests of any party, or engage in other serious illegal or breach of contract on us;
     
-
-* 在您违反本服务协议相关规定时，Kimi 智能助手依据违约条款终止本协议。Kimi 智能助手将在终止服务时通知您。但如您在 Kimi 智能助手终止提供服务后，再一次直接或间接以他人名义注册为 Kimi 智能助手用户的，Kimi 智能助手有权再次单方面终止向您提供服务；
+* In addition to the above circumstances, if we, based on these terms, seal your account due to your multiple violations of the terms and the circumstances are serious;
     
-* 如 Kimi 智能助手通过您提供的信息与您联系时，发现您在注册时填写的电子邮箱或手机等已不存在或无法接收信息的，经 Kimi 智能助手以您在注册时填写的其他联系方式通知您更改，而您在三个工作日内仍未能提供，或 Kimi 智能助手无法根据您注册时预留的信息联系到您的；
-    
-* 经 Kimi 智能助手发现您注册信息中主要内容是虚假的；
-    
-* 本服务协议终止或更新时，您明示不愿接受新的服务协议的；
-    
-* 您在 Kimi 智能助手平台有发布违法信息、侵犯他人合法权益或其他严重违法违约行为的；
-    
-* 除上述情形外，因您多次违反 Kimi 智能助手平台规则相关规定且情节严重，Kimi 智能助手依据平台规则对您的账户予以查封的；
-    
-* 其它 Kimi 智能助手认为需终止服务的情况。
+* Other circumstances where we believe it is necessary to terminate the service.
     
 
-3. 协议终止后的处理 本协议终止后，除法律有明确规定外，Kimi 智能助手无义务向您或您指定的第三方披露您账户中的任何信息。 本协议终止后，Kimi 智能助手仍享有下列权利：
+After the termination of this Agreement, except as provided by law, we are not obliged to disclose any information in your account to you or a third party designated by you. After the termination of this Agreement, we still have the following rights:
+
+* To continue to store various types of information you have retained on Kimi, after anonymizing your user information;
+    
+* To continue to hold you accountable for any past breaches of contract under this agreement.
     
 
-* 在匿名化处理您的用户信息的前提下，继续保存您留存于 Kimi 智能助手平台的各类信息；
+Personal Information Protection
+-------------------------------
+
+For non-personal information that you provide, publish, and form during the use of Kimi, the intellectual property rights, portrait rights, and other rights will not be transferred due to uploading, publishing, and other actions. Unless we state otherwise, within the scope allowed by law, you grant us and our affiliates a non-exclusive, unrestricted, perpetual, free license to use and re-license to third parties, as well as the right to take action against third-party infringements in their own name.
+
+Data Charges
+------------
+
+You are responsible for any mobile charges that you may incur for using our services. This includes data charges and charges for messaging, such as SMS, MMS, or other messaging protocols or technologies. If you are not sure what you may be charged, you should ask your mobile service provider before using our services.
+
+Disclaimer of Warranty
+----------------------
+
+Kimi is provided on an “AS IS” and “AS AVAILABLE” basis. We expressly disclaim all warranties of any kind, whether express, implied or statutory, including, but not limited to the implied warranties of merchantability, fitness for a particular purpose, title and non- infringement.
+
+Due to the technical limitations, we make no warranty that:
+
+* Content generated by Kimi will meet your actual or specific needs or purposes;
     
-* 对于您过往的违约行为，Kimi 智能助手仍可依据本协议向您追究违约责任。
+* Content generated by Kimi is accurate, reliable, functional, timely, safe, error-free, uninterrupted, stable, and free from any faults;
+    
+* the accuracy, stability, and completeness of the code, programs, and the content they point to in Kimi.
     
 
-### 关于生成内容的知识产权
+Although the content generated by Kimi has been automatically filtered by artificial intelligence algorithms, it does not exclude the possibility that some information may be flawed, unreasonable, or cause user discomfort, and the content generated does not represent the team's attitude or views.
 
-1. 您充分理解并同意，您仅可以非商业的、个人研究学习的方式使用 Kimi 智能助手。Kimi 智能助手及其程序、软件、信息、数据、开发文档及相关的元素、组件等内容均受中华人民共和国法律法规和相应的国际条约保护，由北京月之暗面科技有限公司及相关权利人享有知识产权。
-    
-2. 未经北京月之暗面科技有限公司及相关权利人书面同意：
-    
+Limitation of Liability
+-----------------------
 
-* 您无权以任何商业化方式使用 Kimi 智能助手及 Kimi 智能助手生成的内容；
-    
-* 您不得利用 Kimi 智能助手开发与 Kimi 智能助手相竞争的产品或服务。
-    
+We are not liable for the following reasons leading to contract performance obstacles, defects, delays, or changes in content:
 
-3. 您输入 Kimi 智能助手的任何内容的版权均仅归原作者所有，若作者有版权声明或原作从其他网站转载而附带有原版权声明者，其版权归属以附带声明为准。
+* Due to force majeure factors such as natural disasters, strikes, riots, wars, government actions, judicial administrative orders, etc.;
     
-4. 您基于 Kimi 智能助手生成的内容的版权由您自行维护并对其独立判断后使用，基于 Kimi 智能助手生成内容产生的任何知识产权问题由您自行处理，北京月之暗面科技有限公司对由此造成的任何损失不负责任，您由此给北京月之暗面科技有限公司造成损失的北京月之暗面科技有限公司有权向您追偿。
+* Due to routine or emergency equipment and system maintenance, equipment and system failures, network information and data security, and other factors.
     
 
-### 生成内容相关的责任限制说明
+Dispute Resolution
+------------------
 
-1. Kimi 智能助手依照法律规定履行基础保障义务，但对于下述原因导致的合同履行障碍、履行瑕疵、履行延后或履行内容变更等情形，Kimi 智能助手并不承担相应的违约责任：
-    
+The conclusion, effectiveness, interpretation, revision, supplementation, termination, execution, and dispute resolution of this agreement shall be governed by the laws of the People's Republic of China, Mainland; in the absence of relevant legal provisions, commercial practices and/or industry practices shall be referred to.
 
-* 因自然灾害、罢工、暴乱、战争、政府行为、司法行政命令等不可抗力因素；
-    
-* 因常规或紧急的设备与系统维护、设备与系统故障、网络信息与数据安全等因素。
-    
+If any provision of this Agreement is deemed to be invalid, ineffective, or unenforceable, such provision shall be deemed severable and shall not affect the validity and enforceability of the remaining provisions of this Agreement.
 
-2. 由于 Kimi 智能助手提供服务所依赖的技术瓶颈，Kimi 智能助手不对以下事项作出任何保证：
-    
+Contact Us
+----------
 
-* 不保证 Kimi 智能助手将符合您的实际或特定需求或目的；
-    
-* 不保证 Kimi 智能助手准确可靠、功能可用、及时、安全、无错误、不受干扰、无中断、持续稳定、不存在任何故障；
-    
-* Kimi 智能助手的生成内容虽已经过人工智能算法自动过滤，但仍不排除其中部分信息具有瑕疵、不合理或引发用户不适，且其生成的内容不代表团队的态度或观点；
-    
-* 不保证 Kimi 智能助手中的代码、程序及其指向的内容的准确性、稳定性和完整性。
-    
-
-### 用户信息保护方法及如何授权
-
-对于您提供、发布及在使用 Kimi 智能助手平台服务中形成的除个人信息外的非个人信息，均不会因上传、发布等行为发生知识产权、肖像权等权利的转移。 除非我们另行说明，在法律允许的范围内，您免费授予北京月之暗面科技有限公司及其关联公司非排他的、无地域限制的、永久的、免费的许可使用及可再许可第三方使用的权利，以及可以自身名义对第三方侵权行为取证及提起诉讼的权利。
-
-### 违约责任及处理办法
-
-您存在下列行为的，视为违约，Kimi 智能助手有权做出相应处理：
-
-* Kimi 智能助手有权对您的注册数据及产品/服务使用行为进行查阅，发现或怀疑注册数据或产品/服务使用行为中存在问题，有权向您发出询问和/或要求改正的通知，若您未在合理期限内作出合理回应，Kimi 智能助手可以对您的注册数据或产品/服务使用做出屏蔽、删除等处理；
-    
-* 经国家生效法律文书或行政处罚决定确认您存在违法行为，或者 Kimi 智能助手有足够事实依据可以认定您存在违法或违反服务协议行为的，Kimi 智能助手有权在网站上以合法的形式公示您的违法行为；
-    
-* 经国家生效法律文书或行政处罚决定确认您存在违法行为，或者 Kimi 智能助手有足够事实依据可以认定您存在违法或违反服务协议行为的，Kimi 智能助手有权在网站上以网络发布形式公布您的违法行为；
-    
-* 对于您在 Kimi 智能助手发布的下列各类信息，Kimi 智能助手有权在不通知您的前提下进行删除或采取其他限制性措施。包括 Kimi 智能助手有理由相信存在欺诈等恶意或虚假内容的信息；Kimi 智能助手有理由相信存在试图扰乱正常平台秩序因素的信息；Kimi 智能助手有理由相信违反公共利益或可能严重损害 Kimi 智能助手和其他用户合法利益的信息。
-    
-
-### 法律适用范围与争议解决
-
-1. 本协议之订立、生效、解释、修订、补充、终止、执行与争议解决均适用中华人民共和国大陆地区法律；如法律无相关规定的，参照商业惯例及/或行业惯例。
-    
-2. 本协议任一条款被视为废止、无效或不可执行，该条应视为可分的且并不影响本协议其余条款的有效性及可执行性。
-    
-
-### 联系我们
-
-如您在使用产品时对协议有任何问题，可通过发送邮件至 [support@moonshot.cn](mailto:support@moonshot.cn) 或通过本产品意见反馈渠道或网站上标识的方式与我们联系
+If you have any questions about this Agreement when using Kimi, you can contact us by sending an email to [support@moonshot.cn](mailto:support@moonshot.cn) or through the feedback channel identified on our website.
