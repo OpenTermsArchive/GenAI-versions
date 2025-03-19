@@ -292,7 +292,7 @@ iii.怂恿、诱导他人参与可能会造成人身伤害或导致死亡的危�
   
 **12、开源许可**
 
-本软件及相关服务包括根据开源许可条款或其他许可条款提供的软件，移动端具体可查看[《安卓版开源声明》](https://www.doubao.com/legal/opensource/android)或[《iOS版开源声明》](https://www.doubao.com/legal/opensource/ios)，电脑版可查看[《电脑版开源声明》](https://www.doubao.com/legal/opensource/desktop)。许可条款中可能有一些条款明确覆盖了本协议的部分内容，因此请务必阅读具体许可证。
+本软件及相关服务包括根据开源许可条款或其他许可条款提供的软件，移动端具体可查看[《安卓版开源声明》](https://www.doubao.com/legal/opensource/android)、[《iOS版开源声明》](https://www.doubao.com/legal/opensource/ios)或[《鸿蒙版开源声明》](https://www.doubao.com/legal/opensource/harmony)，电脑版可查看[《电脑版开源声明》](https://www.doubao.com/legal/opensource/desktop)。许可条款中可能有一些条款明确覆盖了本协议的部分内容，因此请务必阅读具体许可证。
 
   
 **13、其他**
