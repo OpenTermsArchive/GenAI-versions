@@ -124,6 +124,8 @@ We use your personal data for the following administrative purposes:
 
 We use personal data to develop and train our general-purpose artificial intelligence models, which help us provide state-of-the-art services to our customers.
 
+If you connect a third-party service to our Services, we do not use this third-party service (or the content stored on this third-party service) to train or improve our artificial intelligence models. 
+
 **Here’s how we handle personal data in different scenarios:**
 
 #### 3.4.1. Data publicly available on the Internet
@@ -145,8 +147,6 @@ If your personal data is publicly available on the Internet, we may use it to tr
 * **If You use Le Chat Free or Le Chat Pro:** We use your Input, Output and Feedback to train our general-purpose artificial intelligence models. We use commercially reasonable efforts to de-identify such data before using it to train or improve our models. You can opt-out of training at any time by using the feature available on your account. In this case, we do not use your Input, Output and Feedback to train our artificial intelligence models, unless you expressly authorize us to do so. 
 * **If you use Le Chat Team or Le Chat Enterprise:** We do not use your Input, Output and Feedback to train our artificial intelligence models. If you wish to allow us to use such data to train our artificial intelligence models, you can opt-in of training at any time by using the feature available on your account.
 * **Feedback:** If you click on "Thumbs Up" or "Thumbs Down" to rate an Output, we use your Feedback to improve our artificial intelligence models. If you do not want us to use your Feedback to improve our artificial intelligence models, please do not click on  "Thumbs Up" or "Thumbs Down". 
-
-If you connect third-party services to Le Chat, we do not use these third-party services (or the content stored on these third-party services) to train, improve or generalize our artificial intelligence models. 
 
 **Lawful basis:** Our legitimate interests in providing advanced artificial intelligence models to our customers.
 
