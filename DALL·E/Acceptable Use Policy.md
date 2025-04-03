@@ -1,5 +1,7 @@
 Usage policies | OpenAI
 
+Select language
+
 Updated: January 29, 2025
 
 Usage policies
