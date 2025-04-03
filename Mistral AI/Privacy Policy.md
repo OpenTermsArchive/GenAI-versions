@@ -219,7 +219,7 @@ You have several options to control and manage cookies. Remember that deleting o
 5\. How long do we keep your personal data?
 -------------------------------------------
 
-When your personal data is no longer required for these purposes, we will perform We store your personal data only as long as needed for the purposes described in Section 4 of this Privacy Policy. Sometimes, we may keep it longer if required by law or for legal proceedings.
+We store your personal data only as long as needed for the purposes described in Section 3 of this Privacy Policy. Sometimes, we may keep it longer if required by law or for legal proceedings.
 
 For illustrative purposes, here are the applicable data retention periods:
 
