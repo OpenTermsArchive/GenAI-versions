@@ -1,5 +1,7 @@
 EU terms of use | OpenAI
 
+Select language
+
 Updated: December 11, 2024
 
 Europe Terms of Use
