@@ -17,7 +17,10 @@ We know that your privacy is important, and we're committed to protecting it. Th
 
 **How to contact us:**
 
-* By email: [privacy@mistral.ai](mailto:privacy@mistral.ai)
+By using the contact form available here https://mistral.ai/en/contact in the section “data and privacy”
+
+* By using the contact form available [here](https://mistral.ai/en/contact) in the section “Data and privacy”
+* Through our Help Center available via your Mistral AI Account
 * By mail: Mistral AI, 15 rue des Halles, 75001 Paris, France.
 
 ### 1.2. Mistral AI as data processor
@@ -124,8 +127,6 @@ We use your personal data for the following administrative purposes:
 
 We use personal data to develop and train our general-purpose artificial intelligence models, which help us provide state-of-the-art services to our customers.
 
-If you connect a third-party service to our Services, we do not use this third-party service (or the content stored on this third-party service) to train or improve our artificial intelligence models. 
-
 **Here’s how we handle personal data in different scenarios:**
 
 #### 3.4.1. Data publicly available on the Internet
@@ -137,18 +138,22 @@ If your personal data is publicly available on the Internet, we may use it to tr
 #### 3.4.2. Input and Output provided on La Plateforme
 
 * **If you use our paid Services:** We do not use your Input and Output to train or improve our models.
-* **If you use our free Services:** We use your Input and Output to train our general-purpose artificial intelligence models. We use commercially reasonable efforts to de-identify such data before using it to train or improve our models. For clarity and as set out in Section 8 (Your rights), you have the right to object to this processing (opt-out) by contacting us at [privacy@mistral.ai](mailto:privacy@mistral.ai), or using any other method provided in Section 8 (Your rights). 
+* **If you use our free Services:** We use your Input and Output to train our general-purpose artificial intelligence models. We use commercially reasonable efforts to de-identify such data before using it to train or improve our models. For clarity and as set out in Section 8 (Your rights), you have the right to object to this processing (opt-out) by using the contact form available [here,](https://mistral.ai/en/contact) via the "Data and privacy" section, or using any other method provided in Section 8 (Your rights). 
     
 
 **Lawful basis:** Our legitimate interests in providing advanced artificial intelligence models to our customers.
 
 #### 3.4.3. Le Chat
 
-* **If You use Le Chat Free or Le Chat Pro:** We use your Input, Output and Feedback to train our general-purpose artificial intelligence models. We use commercially reasonable efforts to de-identify such data before using it to train or improve our models. You can opt-out of training at any time by using the feature available on your account. In this case, we do not use your Input, Output and Feedback to train our artificial intelligence models, unless you expressly authorize us to do so. 
-* **If you use Le Chat Team or Le Chat Enterprise:** We do not use your Input, Output and Feedback to train our artificial intelligence models. If you wish to allow us to use such data to train our artificial intelligence models, you can opt-in of training at any time by using the feature available on your account.
-* **Feedback:** If you click on "Thumbs Up" or "Thumbs Down" to rate an Output, we use your Feedback to improve our artificial intelligence models. If you do not want us to use your Feedback to improve our artificial intelligence models, please do not click on  "Thumbs Up" or "Thumbs Down". 
+* **If You use Le Chat Free, Le Chat Pro or Le Chat Student:** We use your Input, Output and Feedback to train our general-purpose artificial intelligence models. We use commercially reasonable efforts to de-identify such data before using it to train or improve our models. You can opt-out of training at any time by using the feature available on your account. In this case, we do not use your Input and Output to train our artificial intelligence models, unless you expressly authorize us to do so. 
+* **If you use Le Chat Team :** We do not use your Input, Output and Feedback to train our artificial intelligence models. If you wish to allow us to use such data to train our artificial intelligence models, you can opt-in of training at any time by using the feature available on your account.
+* **Feedback:** If you click on "Thumbs Up" or "Thumbs Down" to rate an Output, we use your Feedback to train our artificial intelligence models. If you do not want us to use your Feedback to improve our artificial intelligence models, please do not click on  "Thumbs Up" or "Thumbs Down". 
 
 **Lawful basis:** Our legitimate interests in providing advanced artificial intelligence models to our customers.
+
+**3.4.4. Third-party services**
+
+If you connect a third-party service to our Services, we do not use this third-party service to train or improve our artificial intelligence models. 
 
 ### 3.5. Marketing operations
 
@@ -188,33 +193,7 @@ We use your personal data to reply to Your requests to exercise Your rights on Y
 4\. Cookies
 -----------
 
-When you visit our website, we use cookies (small text files stored on your device) to enhance your experience on our Services.
-
-### 4.1. What cookies do we use?
-
-**Cookies that do not require consent:** Our site uses essential cookies that are necessary for its operation:
-
-* **Technical cookie.** These cookies are strictly necessary for the proper functioning of the website and cannot technically be deactivated from the site. However, you can manage these cookies through your browser settings.
-* **Support cookie:** These cookies are strictly necessary to provide support to you, when you use our support chat on our Help Center. They cannot be deactivated. 
-
-**Cookies that require your consent:** Our website also uses cookies that require your prior consent:
-
-* **Performance and analytics cookies:** These cookies help us to understand the customer's use of our website. All data collected is anonymous and we do not retain information that will identify you personally.
-
-### 4.2. Cookie management
-
-Upon your initial visit to our website, a banner will prompt you to accept or decline cookies that are not strictly necessary for the website's operation, categorized by type of cookie. Within this banner, you will find a list of cookies that may be placed based on your preferences.
-
-You have several options to control and manage cookies. Remember that deleting or blocking cookies may affect your user experience and limit access to certain parts of the site.
-
-**Mistral’s cookie management:** If you wish to modify, restrict or delete cookies from the [chat.mistral.ai](http://chat.mistral.ai/) site, you can manage your settings here to adjust your cookie preferences.
-
-**Browser settings:** Most browsers allow you to view installed cookies, delete them individually, block cookies from specific websites or all websites, or delete all cookies when you close your browser. The configuration for each browser is different. For guidance, here are some examples of configuration pages for different browsers:
-
-* Microsoft Internet Explorer: [Configuration Page](http://windows.microsoft.com/fr-fr/internet-explorer/delete-manage-cookies#ie=ie-11)
-* Safari: [Configuration Page](https://support.apple.com/fr-fr/HT201265)
-* Google Chrome: [Configuration Page](https://support.google.com/chrome/answer/95647?hl=fr&hlrm=en)
-* Firefox: [Configuration Page](https://support.mozilla.org/fr/kb/activer-desactiver-cookies?redirectlocale=fr&redirectslug=Activer+et+d%C3%A9sactiver+les+cookies)
+When you visit our website, we use cookies (small text files stored on your device) to enhance your experience on our Services. For more information about the way we use cookies, please see our [Cookie Policy](https://mistral.ai/terms#cookie-policy). 
 
 5\. How long do we keep your personal data?
 -------------------------------------------
@@ -357,7 +336,7 @@ We will take every step to make sure we reply to your requests. However, when yo
 
 You can exercise these rights:
 
-* By sending us an email at [privacy@mistral.ai](mailto:privacy@mistral.ai)
+* By using the contact form available [here](https://mistral.ai/en/contact) in the section “Data and privacy”
 * By making a request using our Help Center available on your account
 * By sending us a letter at Mistral AI, Attn: Privacy Team, Mistral AI, 15 rue des Halles, 75001 Paris, France.
 
