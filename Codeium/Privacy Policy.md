@@ -3,13 +3,13 @@ Privacy Policy
 
 **PRIVACY POLICY**
 
-**Last updated: February 14, 2025**
+**Last updated: April 6, 2025**
 
-Thank you for choosing to be part of our community at Exafunction, Inc. ("**Company**," "**we**," "**us**," or "**our**"). We are committed to protecting your Personal Information and your right to privacy. If you have any questions or concerns about this Privacy Policy or our practices with regard to your Personal Information, please contact us at [privacy@codeium.com](mailto:privacy@codeium.com).
+Thank you for choosing to be part of our community at Exafunction, Inc. ("**Company**," "**we**," "**us**," or "**our**"). We are committed to protecting your Personal Information and your right to privacy. If you have any questions or concerns about this Privacy Policy or our practices with regard to your Personal Information, please contact us at [privacy@windsurf.com](mailto:privacy@windsurf.com).
 
 This Privacy Policy describes how we might use your information if you:
 
-* Visit our website at codeium.com
+* Visit our website at windsurf.com
 * Engage with us in other related ways ― including any sales, marketing, or events
 
 In this Privacy Policy, if we refer to:
@@ -18,7 +18,7 @@ In this Privacy Policy, if we refer to:
 * "**Website**," we are referring to any website of ours that references or links to this policy
 * "**Services**," we are referring to our Website, and other related services, including our downloadable extension, application programming interfaces ("**APIs**"), associated software, tools, developer services, data and documentation
 
-The purpose of this Privacy Policy is to explain to you in the clearest way possible what Personal Information we collect, how we use it, and what rights you have in relation to it. If there are any terms in this Privacy Policy that you do not agree with, please discontinue use of our Services immediately. **By using our Services, you agree to the collection, use, disclosure and procedures this Privacy Policy describes.** Beyond this Privacy Policy, your use of our Services is also subject to our [Terms of Service](https://codeium.com/terms-of-service-individual?__hstc=83355465.e0a87fcb8dcdbd2ec367c39a8df14dc3.1744029055139.1744029055139.1744029055139.1&__hssc=83355465.2.1744029055139&__hsfp=3680548619).
+The purpose of this Privacy Policy is to explain to you in the clearest way possible what Personal Information we collect, how we use it, and what rights you have in relation to it. If there are any terms in this Privacy Policy that you do not agree with, please discontinue use of our Services immediately. **By using our Services, you agree to the collection, use, disclosure and procedures this Privacy Policy describes.** Beyond this Privacy Policy, your use of our Services is also subject to our [Terms of Service](https://windsurf.com/terms-of-service-individual).
 
 This Privacy Policy also applies to the residents of certain U.S. states that have enacted comprehensive privacy laws and explains how we collect and process information about you as a controller and how you can exercise your rights under those privacy laws. If you are a resident of California, please also review our [California Resident Privacy Notice](https://codeium.com/california-resident-privacy-notice) for more information about the types of personal information we collect and disclose, as well as how to exercise your rights under California law.
 
@@ -94,7 +94,7 @@ We may use the information we collect or receive:
 * **To provide and maintain our Services.** We may use any of the categories of Personal Information described in Section 1 above to provide our Service and troubleshoot technical issues.
 * **To facilitate account creation and logon process.** We use Communications Information to facilitate account creation and logon process for the performance of the contract. If you choose to link your account with us to a third-party account (such as your Google or Facebook account), we also use the Information from Third-Party Services and Registration Information for this purpose.
 * **To train, develop, and improve the artificial intelligence, machine learning, and models that we use to support our Services.** We may use your Log and Usage Information and Prompts and Outputs Information for this purpose.
-* **To post testimonials.** We post testimonials on our Website that may contain Testimonial Information. Prior to posting such a testimonial, we will obtain your consent to use your name and the content of the testimonial. We also post on our Website or social media accounts testimonials collected as Information from Third-party Community-Driven Platforms. If you wish to update or delete your testimonial, please contact us at [privacy@codeium.com](mailto:privacy@codeium.com) and be sure to include your name, testimonial location, and contact information.
+* **To post testimonials.** We post testimonials on our Website that may contain Testimonial Information. Prior to posting such a testimonial, we will obtain your consent to use your name and the content of the testimonial. We also post on our Website or social media accounts testimonials collected as Information from Third-party Community-Driven Platforms. If you wish to update or delete your testimonial, please contact us at [privacy@windsurf.com](mailto:privacy@windsurf.com) and be sure to include your name, testimonial location, and contact information.
 * **Request feedback.** We may use your Communications Information to request feedback and to contact you about your use of our Website or Services.
 * **To manage user accounts.** We may use your Registration Information, Communications Information, and Information from Third-party Services for the purposes of managing your account and keeping it in working order.
 * **To send administrative information to you.** We may use your Registration Information Communications Information, and Log and Usage Information to send you product, service and new feature information and/or information about changes to our terms, conditions, and policies.
@@ -182,7 +182,7 @@ We have implemented appropriate technical and organizational security measures d
 
 **_In Short: We do not knowingly collect data from or market to children under 18 years of age._**
 
-We do not knowingly solicit data from or market to children under 18 years of age. By using the Website, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Website. If you become aware of any Personal Information we may have collected from children under age 18, please contact us at [privacy@codeium.com](mailto:privacy@codeium.com).
+We do not knowingly solicit data from or market to children under 18 years of age. By using the Website, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Website. If you become aware of any Personal Information we may have collected from children under age 18, please contact us at [privacy@windsurf.com](mailto:privacy@windsurf.com).
 
 **12\. WHAT ARE YOUR PRIVACY RIGHTS?**
 
@@ -202,11 +202,11 @@ Some U.S. states provide consumers certain rights regarding their Personal Infor
 * The right to appeal any decision with regard to your privacy request.
 * The right to opt out of profiling in furtherance of producing legal or significant decisions concerning a consumer. We do not engage in such profiling.
 
-**Submitting Requests**. You can submit access, correction, deletion, and appeal requests by sending us an email to [privacy@codeium.com](mailto:privacy@codeium.com).
+**Submitting Requests**. You can submit access, correction, deletion, and appeal requests by sending us an email to [privacy@windsurf.com](mailto:privacy@windsurf.com).
 
-**Verification.** Requests for access to, deletion, or correction of Personal Information are subject to our ability to verify your identity. If you have a Codeium account, we will verify your identity by asking you to log into your account. If you do not have an account, we will attempt to verify your identity by asking for information that we may have about you, such as your name, email address, and other information.
+**Verification.** Requests for access to, deletion, or correction of Personal Information are subject to our ability to verify your identity. If you have a Windsurf account, we will verify your identity by asking you to log into your account. If you do not have an account, we will attempt to verify your identity by asking for information that we may have about you, such as your name, email address, and other information.
 
-**Authorizing an Agent**. If you are acting as an authorized agent on behalf of another consumer, please send an email to [privacy@codeium.com](mailto:privacy@codeium.com) and attach a written authorization signed by the resident. Depending on the nature of the request, we may still require the consumer to directly verify their identity and confirm that they have provided you permission to submit the request.
+**Authorizing an Agent**. If you are acting as an authorized agent on behalf of another consumer, please send an email to [privacy@windsurf.com](mailto:privacy@windsurf.com) and attach a written authorization signed by the resident. Depending on the nature of the request, we may still require the consumer to directly verify their identity and confirm that they have provided you permission to submit the request.
 
 Your EEA, Switzerland, and the UK Privacy Rights
 
@@ -218,7 +218,7 @@ If you are a resident in the EEA or UK and you believe we are unlawfully process
 
 If you are a resident in Switzerland, the contact details for the data protection authorities are available here: [https://www.edoeb.admin.ch/edoeb/en/home.html](https://www.edoeb.admin.ch/edoeb/en/home.html).
 
-If you have questions or comments about your privacy rights, you may email us at [privacy@codeium.com](mailto:privacy@codeium.com).
+If you have questions or comments about your privacy rights, you may email us at [privacy@windsurf.com](mailto:privacy@windsurf.com).
 
 **Account Information**
 
@@ -247,7 +247,7 @@ We may update this Privacy Policy from time to time. The updated version will be
 
 **15\. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?**
 
-Exafunction, Inc. is responsible and the data controller for processing your Personal Information. If you have questions or comments about this notice, you may email us at [privacy@codeium.com](mailto:privacy@codeium.com) or by post to:
+Exafunction, Inc. is responsible and the data controller for processing your Personal Information. If you have questions or comments about this notice, you may email us at [privacy@windsurf.com](mailto:privacy@windsurf.com) or by post to:
 
 Exafunction, Inc.
 
@@ -259,4 +259,4 @@ United States
 
 **16\. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?**
 
-Based on the applicable laws of your country, you may have the right to request access to the Personal Information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your Personal Information, please visit: codeium.com/contact.
+Based on the applicable laws of your country, you may have the right to request access to the Personal Information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your Personal Information, please visit: windsurf.com/contact.
