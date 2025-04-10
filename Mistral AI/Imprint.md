@@ -15,12 +15,7 @@ The publication director of the website at https://www.mistral.ai/ is Arthur Men
 Hosting
 -------
 
-The company tasked with hosting the https://www.mistral.ai/ website is Cloudflare Inc., 101 Townsend St, San Francisco, CA 94107, United States of America.
-
-Tracking
---------
-
-This website does not use cookies to track you. No annoying banner ;-)
+The company tasked with hosting the https://www.mistral.ai/ website is Vercel Inc, 650 California St, San Francisco, CA 94108, US.
 
                                                                    ...::-=-.                  
                                                          ..:::-----------*%%*-:               
