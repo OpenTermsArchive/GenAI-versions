@@ -130,7 +130,7 @@ Fireworks AI
 Address:  
 2317 Broadway Ste 200  
 Redwood City, CA 94063  
-Tel.: 650-870-7981  
+Tel.: 650-870-8665  
 Email: [copyright@fireworks.ai](mailto:copyright@fireworks.ai)  
 
 Under United States federal law, if you knowingly misrepresent that online material is infringing, you may be subject to criminal prosecution for perjury and civil penalties, including monetary damages, court costs, and attorneys’ fees.
