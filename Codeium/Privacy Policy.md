@@ -3,7 +3,7 @@ Privacy Policy
 
 **PRIVACY POLICY**
 
-**Last updated: April 6, 2025**
+**Last updated: April 14, 2025**
 
 Thank you for choosing to be part of our community at Exafunction, Inc. ("**Company**," "**we**," "**us**," or "**our**"). We are committed to protecting your Personal Information and your right to privacy. If you have any questions or concerns about this Privacy Policy or our practices with regard to your Personal Information, please contact us at [privacy@windsurf.com](mailto:privacy@windsurf.com).
 
@@ -53,7 +53,7 @@ If you do not provide your Personal Information when requested, you may not be a
 
 _Registration Information._ We collect Personal Information that you voluntarily provide to us when you register an account on the Website, such as your name, email address, phone number, information regarding your role and work, and password. If you sign up using another account, such as a social media account, we will also receive information from those services such as your name and email address.
 
-_Communications Information._ We collect Personal Information when you use our Services or otherwise contact us, such as your name, email address, job titles, contact or authentication data, phone numbers, usernames, passwords, newsletter subscription status, and other similar information. The Personal Information that we collect depends on the context of your interactions with us and the Website, the choices you make and the products and features you use.
+_Communications Information._ We collect Personal Information when you use our Services or otherwise contact us, such as your name, email address, job titles, contact or authentication data, phone numbers, usernames, passwords, newsletter subscription status, and other similar information. When you communicate with us online, third party vendors receive and store these communications on our behalf. The Personal Information that we collect depends on the context of your interactions with us and the Website, the choices you make and the products and features you use.
 
 All Personal Information that you provide to us must be true, complete and accurate, and you must notify us of any changes to such Personal Information.
 
