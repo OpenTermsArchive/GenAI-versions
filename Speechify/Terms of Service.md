@@ -1,6 +1,8 @@
 Terms & Conditions
 ==================
 
+  
+
  _Updated June 20, 2024_ 
 
 CONTAINS MANDATORY ARBITRATION, CLASS ACTION WAIVER, PRE-DISPUTE TRAVEL, TIMELY NOTIFICATION OF CONSCINOUNABILITY CHALLENGE. UPDATES AFFECT PAST UNREPORTED DISPUTES, CHECK BACK MONTHLY, AT LEAST QUARTERLY, AND UPON NOTICE.
@@ -360,16 +362,13 @@ If the dispute is not resolved informally, the Claimant shall prepare a Notice o
 A Notice of Dispute must include:
 
 * A video statement recording explaining the dispute, your identity, and the desired outcome.
-
-* State your name and address, describe the dispute, and the the resolution or outcome you are seeking from Speechify or that we are seeking from you.
-* The video should be between two and five minutes to ensure conciseness.
-* Two to five minutes in a quiet, well-lit room using a simple digital camera or your smartphone, for convenience.
-* If a party is represented by counsel, they shall seek their counsel’s advice and coaching for the video statement.
-
+* * State your name and address, describe the dispute, and the the resolution or outcome you are seeking from Speechify or that we are seeking from you.
+    * The video should be between two and five minutes to ensure conciseness.
+    * Two to five minutes in a quiet, well-lit room using a simple digital camera or your smartphone, for convenience.
+    * If a party is represented by counsel, they shall seek their counsel’s advice and coaching for the video statement.
 * Any supporting documentation of incidents, receipts, dates relevant to your claim, etc.
 * A printed, dated letter to the defendant, notarized in-person by the Claimant with a photocopy of legal identification. If the Claimant is not an individual, then a copy of their Articles of Incorporation shall suffice. This is needed to verify the authenticity of the claim and the validity of the Claimant’s identity. Claimant shall sign the cover letter with wet ink and provide a current physical address, email address, and phone number. If the Claimant is a Speechify user, you must provide your Speechify log-in info (username and IP address, as displayed in your account settings and in a site like whatismyipaddress.com respectively). Neither party shall share the personal information of the other except for with legal counsel. Each party will retain personal information only as long as needed to resolve the legal dispute.
-
-* **(Optional) Public Key:** The Claimant may provide a copy of their public key and public key of their counsel (if available) on the USB drive, to be able to receive secure communication in response. The notarized note ensures no communication is subject to man-of-the-middle attacks as the keys are provided with identity verification.
+* * **(Optional) Public Key:** The Claimant may provide a copy of their public key and public key of their counsel (if available) on the USB drive, to be able to receive secure communication in response. The notarized note ensures no communication is subject to man-of-the-middle attacks as the keys are provided with identity verification.
 
 **Step 3: Sending the Notice of Dispute**
 
