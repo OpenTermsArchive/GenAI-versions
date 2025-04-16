@@ -286,6 +286,4 @@ SECURITY MEASURES
 
 **Security Evaluations.** OpenAI performs regular security and vulnerability testing to assess whether key controls are implemented properly and are effective as measured against industry security standards and its policies and procedures and to ensure continued compliance with obligations imposed by law, regulation, or contract with respect to the security of Customer Data as well as the maintenance and structure of OpenAI’s information systems\_.\_
 
-* [Execute Data Processing Agreement
-    
-    (opens in a new window)](https://ironcladapp.com/public-launch/63ffefa2bed6885f4536d0fe)
+* [Execute Data Processing Agreement(opens in a new window)](https://ironcladapp.com/public-launch/63ffefa2bed6885f4536d0fe)
