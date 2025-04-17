@@ -31,7 +31,7 @@ Access to the Service, or to certain features of the Service, may require you to
 4.2 Credit Expiration; Auto Recharge
 ------------------------------------
 
-Unused credits expire three hundred sixty-five (365) days after purchase. When purchasing Credits, you will have the option to automatically add Credits to your account by charging the payment method of your choosing when your available Credits are below a threshold amount you have set on your account (“**Auto Recharge**”). If you elect the Auto Recharge option, you authorize OpenRouter to automatically charge payments to your account. You may update or cancel Auto Recharge at any time through your account page.
+OpenRouter reserves the right to expire unused credits three hundred sixty-five (365) days after purchase. When purchasing Credits, you will have the option to automatically add Credits to your account by charging the payment method of your choosing when your available Credits are below a threshold amount you have set on your account (“**Auto Recharge**”). If you elect the Auto Recharge option, you authorize OpenRouter to automatically charge payments to your account. You may update or cancel Auto Recharge at any time through your account page.
 
 4.3 Currency; Payment Processing
 --------------------------------
