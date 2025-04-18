@@ -26,7 +26,7 @@ To access most features of the Service, you must register for an account. When y
 4.1 Pre-Paid Credits; Refunds
 -----------------------------
 
-Access to the Service, or to certain features of the Service, may require you to pay fees for pre-paid credits that are linked to your account (“Credits”), along with payment processing fees and transaction fees. Before you pay any fees, you will have an opportunity to review and accept the fees that you will be charged. Currently, OpenRouter requires users to purchase Credits to make API calls and access the Service, with a minimum and maximum purchase amount of $5 and $25,000 per transaction, respectively. Once purchased, any unused Credits are non-refundable after twenty-four (24) hours have elapsed from the time the transaction was processed. If you would like a refund for Credits purchased but not used, you must email OpenRouter at support@openrouter.ai within twenty-four (24) hours of purchase to request a refund. After twenty-four (24) hours have elapsed, any remaining unused Credits are non-refundable. Cryptocurrency payments are never refundable.
+Access to the Service, or to certain features of the Service, may require you to pay fees for pre-paid credits that are linked to your account (“Credits”), along with payment processing fees and transaction fees. Before you pay any fees, you will have an opportunity to review and accept the fees that you will be charged. Currently, OpenRouter requires users to purchase Credits to make API calls and access the Service, with a minimum and maximum purchase amount of $5 and $25,000 per transaction, respectively. Once purchased, refunds for unused Credits may be requested within twenty-four (24) hours from the time the transaction was processed. If no refund request is received within twenty-four (24) hours following the purchase, any unused Credits become non-refundable. To request a refund within the eligible period, you must email OpenRouter at support@openrouter.ai. Cryptocurrency payments are never refundable.
 
 4.2 Credit Expiration; Auto Recharge
 ------------------------------------
@@ -95,7 +95,7 @@ BY USING THE SERVICE YOU AGREE NOT TO:
     
 3. violate, or encourage others to violate, any right of a third party, including by infringing or misappropriating any third-party intellectual property right;
     
-4. post, upload, or distribute any Input or other content that is unlawful, defamatory, libelous, inaccurate, or that a reasonable person could deem to be objectionable, profane, indecent, pornographic, harassing, threatening, embarrassing, hateful, or otherwise inappropriate;
+4. post, upload, or distribute any Input or other content that is unlawful, or is not in compliance with the Terms of Service for the AI Model or Provider you are using;
     
 5. interfere with security-related features of the Service, including by: (a) disabling or circumventing features that prevent or limit use or copying of any content; or (b) reverse engineering or otherwise attempting to discover the source code of any portion of the Service except to the extent that the activity is expressly permitted by applicable law;
     
