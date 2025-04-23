@@ -187,4 +187,4 @@ We endeavor to respond to a verifiable consumer request within 45 days of its re
 
 ### 7\. Contact Us
 
-If you have any questions about this Policy, or would otherwise like to exercise your rights under this Policy or applicable law, you can contact us at [privacy@together.ai](mailto:privacy@together.ai)
+If you have any questions about this Policy, or would otherwise like to exercise your rights under this Policy or applicable law, you can contact us at [security-privacy@together.ai](mailto:security-privacy@together.ai)
