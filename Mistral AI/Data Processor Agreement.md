@@ -360,7 +360,7 @@ Mistral AI may update the description of the Processing from time to time to ref
     * **Opt-out:** Customer can opt-out of using Cerebra's at any time by using the settings in Customer’s account (deactivating flash answers).
 * **E2B:**
     * **Purpose:** provide the code interpreter feature on Le Chat. 
-    * **Data location:** United States. 
+    * **Data location:** EEA.
 * **Google Cloud Platform:**
     * **Purpose:** Cloud Infrastructure.
     * **Data location:** Ireland, United States.
