@@ -2,27 +2,27 @@ EU terms of use | OpenAI
 
 Select language
 
-Updated: December 11, 2024
+Updated: April 29, 2025
 
 Europe Terms of Use
 ===================
 
-Effective: December 11, 2024 ([previous version](https://openai.com/policies/oct-2024-eu-terms/))
+Effective: April 29, 2025 ([previous version](https://openai.com/policies/dec-2024-eu-terms/))
 
 Thank you for using OpenAI!
 
 These Terms of Use apply if you reside in the European Economic Area (EEA), Switzerland, or UK. If you live outside of the EEA, Switzerland, or UK, [these Terms of Use⁠](https://openai.com/policies/row-terms-of-use/) apply to you.
 
-These Terms of Use (“Terms”) apply to your use of ChatGPT, DALL·E, and OpenAI’s other services for individuals, along with any associated software applications, technology and websites (“Services”), including personal, non-commercial use of our Services by consumers. You form a contract with us when you confirm that you accept these Terms or when you otherwise use the Services. 
+These Terms of Use (“Terms”) apply to your use of ChatGPT, DALL·E, and OpenAI’s other services for individuals, along with any associated software applications, technology and websites (“Services”), including personal, non-commercial use of our Services by consumers. You form a contract with us when you confirm that you accept these Terms or when you otherwise use the Services.
 
-Our [Business Terms⁠](https://openai.com/policies/business-terms/) govern use of ChatGPT Enterprise, our APIs, and our other services for businesses and developers. 
+Our [Business Terms⁠](https://openai.com/policies/business-terms/) govern use of ChatGPT Enterprise, our APIs, and our other services for businesses and developers.
 
 Our [Privacy Policy⁠](https://openai.com/policies/privacy-policy/) explains how we collect and use personal information. Although it does not form part of these Terms, it is an important document that you should read.
 
 Who we are
 ----------
 
-OpenAI is an AI research and deployment company. Our mission is to ensure that artificial general intelligence benefits all of humanity. For more information about OpenAI, please visit [https://openai.com/about⁠](https://openai.com/about/). Our Services are provided to you by:
+OpenAI is an AI research and deployment company. Our mission is to ensure that artificial general intelligence benefits all of humanity. For more information about OpenAI, please visit [https://openai.com/about](https://openai.com/about/). Our Services are provided to you by:
 
 * _OpenAI Ireland Ltd,_ a company incorporated in the Republic of Ireland with its registered office at 1st Floor, The Liffey Trust Centre, 117-126 Sheriff Street Upper, Dublin 1, D01 YC43, Ireland and company number 737350, if you are resident in the EEA or Switzerland. 
 * _OpenAI, L.L.C.,_ a Delaware company with its registered office at 1455 3rd Street, San Francisco, CA 94158, United States and company number 7063675, if you are resident in the UK.
@@ -32,11 +32,13 @@ Additional Service-specific Terms
 
 Depending on the specific Service or features you use, additional Service-specific terms and policies may apply to your use of our Services. The key ones to be aware of, and which form part of these Terms, are described below: 
 
-* [Usage Policies⁠](https://openai.com/policies/usage-policies/): these policies explain how you may use our Services and Content.
+* [Usage Policies⁠](https://openai.com/policies/usage-policies/): these policies explain how you may use our Services and Content,
 * [Service Terms⁠](https://openai.com/policies/service-terms/): these terms apply when you use certain Services or features;
-* [Sharing & Publication Policy:⁠](https://openai.com/policies/sharing-publication-policy/) this policy sets out rules for when you share Content[;⁠](https://openai.com/policies/sharing-publication-policy/)
+* [Sharing & Publication Policy:⁠](https://openai.com/policies/sharing-publication-policy/) this policy sets out rules for when you share Content[;⁠⁠](https://openai.com/policies/sharing-publication-policy/)
 * [Service Credit Terms⁠](https://openai.com/policies/service-credit-terms/): these terms govern the purchase and use of service credits on our Services; and 
 * [Brand Guidelines⁠](https://openai.com/brand/): these guidelines explain how you may use our name and logo.
+
+For more information on our moderation and enforcement processes, see our [Transparency & Content Moderation page](https://openai.com/transparency-and-content-moderation/).
 
 Registration and access
 -----------------------
@@ -53,6 +55,7 @@ Using our Services
 **What you cannot do**. You may not use our Services for any illegal, harmful, or abusive activity. For example, you are prohibited from:
 
 * Using our Services in a way that infringes, misappropriates or violates anyone’s rights.
+* Misusing our reporting or appeals processes, including providing manifestly unfounded submissions.
 * Modifying, copying, leasing, selling or distributing any of our Services.
 * Attempting to or assisting anyone to reverse engineer, decompile or discover the source code or underlying components of our Services, including our models, algorithms, or systems (except to the extent this restriction is prohibited by applicable law).
 * Automatically or programmatically extracting data or Output (defined below).
@@ -62,9 +65,9 @@ Using our Services
 
 **Software.** Our Services may allow you to download software, such as mobile applications, which may update automatically to ensure you’re using the latest version. Our software may include open source software that is governed by its own licences that we’ve made available to you.
 
-**Corporate domains.** If you create an account using an email address owned by an organisation (for example, your employer), that account may be added to the organisation's business account with us, in which case we will provide notice to you so that you can help facilitate the transfer of your account (unless your organisation has already provided notice to you that it may monitor and control your account). Once your account is transferred, the organisation’s administrator will be able to control your account, including being able to access Content (defined below) and restrict or remove your access to the account. 
+**Corporate domains.** If you create an account using an email address owned by an organisation (for example, your employer), that account may be added to the organisation's business account with us, in which case we will provide notice to you so that you can help facilitate the transfer of your account (unless your organisation has already provided notice to you that it may monitor and control your account). Once your account is transferred, the organisation’s administrator will be able to control your account, including being able to access Content (defined below) and restrict or remove your access to the account.
 
-**Third party Services**. Our services may include third party software, products, or services, (“Third Party Services”) and some parts of our Services, like our browse feature, may include output from those services (“Third Party Output”). Third Party Services and Third Party Output are subject to their own terms, and we are not responsible for them. 
+**Third party Services**. Our services may include third party software, products, or services, (“Third Party Services”) and some parts of our Services, like our browse feature, may include output from those services (“Third Party Output”). Third Party Services and Third Party Output are subject to their own terms, and we are not responsible for them.
 
 **Feedback**. We appreciate your feedback about our Services, but you agree that we may use it to provide, maintain, develop, and improve our Services, without compensation to you.
 
@@ -77,7 +80,11 @@ Content
 
 **Similarity of content.** Due to the nature of our Services and artificial intelligence generally, Output may not be unique and other users may receive similar output from our Services. Our assignment above does not extend to other users’ output or any Third Party Output. 
 
-**Our use of content.** We can use your Content worldwide to provide, maintain, develop, and improve our Services, comply with applicable law, enforce our terms and policies and keep our Services safe. If you're using ChatGPT through Apple's integrations, see [this Help Center article⁠(opens in a new window)](https://help.openai.com/en/articles/9737562) for how we handle your Content.
+**Our use of content.** We can use your Content worldwide to provide, maintain, develop, and improve our Services, comply with applicable law, enforce our terms and policies and keep our Services safe. If you're using ChatGPT through Apple's integrations, see [this Help Center article⁠⁠(opens in a new window)](https://help.openai.com/en/articles/9737562) for how we handle your Content.
+
+**Content moderation.** We use automated systems and human review to identify and address content that violates our Terms, including our Usage Policies. If we become aware of violations, we may remove or restrict content, limit your access to features, or suspend or terminate your account.
+
+For more details on our content moderation process and complaint procedures, see our [Transparency & Content Moderation page](https://openai.com/transparency-and-content-moderation/).
 
 **Opt out.** If you do not want us to use your Content to train our models, you have the option to opt out by updating your account settings. Further information can be found in [this Help Center article⁠(opens in a new window)](https://help.openai.com/en/articles/5722486-how-your-data-is-used-to-improve-model-performance). Please note that in some cases this may limit the ability of our Services to better address your specific use case.
 
@@ -115,20 +122,20 @@ Paid accounts
 Termination and suspension
 --------------------------
 
-**Your rights**. You can stop using our Services and end your relationship with OpenAI at any time by simply closing your account and stopping your use of the Services. Instructions for how to do this are available [here⁠(opens in a new window)](https://help.openai.com/en/articles/6378407-how-to-delete-your-account). 
+**Your rights**. You can stop using our Services and end your relationship with OpenAI at any time by simply closing your account and stopping your use of the Services. Instructions for how to do this are available [here⁠⁠(opens in a new window)](https://help.openai.com/en/articles/6378407-how-to-delete-your-account).
 
 **EEA consumer withdrawal right**. If you are an EEA-based consumer, you can close your account and withdraw from these Terms within 14 days of accepting them by [contacting Support⁠(opens in a new window)](https://help.openai.com/en/articles/6614161-how-can-i-contact-support) or filling out and sending us the [model withdrawal form⁠](https://openai.com/form/model-withdrawal/).
 
-**OpenAI rights**. We may take action to suspend or terminate your access to our Services or close your account if we determine, acting reasonably and objectively:
+**OpenAI rights**. We may take action to restrict, suspend, or terminate your access to our Services or close your account if we determine, acting reasonably and objectively:
 
-* You breached these Terms or our [Usage Policies⁠](https://openai.com/policies/usage-policies/).
+* You breached these Terms, including our [Usage Policies⁠](https://openai.com/policies/usage-policies/).
 * We must do so to comply with the law.
 * Your use of our Services could cause risk or harm to OpenAI, our users, or anyone else.
-* Your account has been inactive for over a year and you do not have a paid account. 
+* Your account has been inactive for over a year and you do not have a paid account.
 
 **Notice**. If we terminate your account, we will make reasonable efforts to notify you in advance so you can export your Content or your data from the Services, unless it is not appropriate for us to do so, we reasonably believe that continued access to your account will cause damage to OpenAI or anyone else, or we are legally prohibited from doing so.
 
-**Appeals**. If you believe we have suspended or terminated your account in error, you can file an appeal with us by [contacting Support⁠(opens in a new window)](https://help.openai.com/en/articles/6614161-how-can-i-contact-support).
+**Appeals**. If you believe we have suspended or terminated your account in error, you can file an appeal with us by [contacting Support⁠⁠(opens in a new window)](https://help.openai.com/en/articles/6614161-how-can-i-contact-support).
 
 Our commitments to you
 ----------------------
@@ -193,7 +200,9 @@ We will give you at least 30 days advance notice of changes that materially adve
 
 **Trade controls.** You must comply with all applicable trade laws, including sanctions and export control laws. Our Services may not be used in or for the benefit of, or exported or re-exported to (a) any U.S. embargoed country or territory or (b) any individual or entity with whom dealings are prohibited or restricted under applicable trade laws. Our Services may not be used for any end use prohibited by applicable trade laws, and your Input may not include material or information that requires a government licence for release or export. 
 
-**Governing law.** The law of the jurisdiction where you are a resident will govern these Terms.
+**Governing law**. The law of the jurisdiction where you are a resident will govern these Terms. 
+
+**Breach of contract.** If you reside in the United Kingdom, you may have the right to bring a claim for breach of contract if we take certain actions—against your Content or your account—that are in breach of these Terms.
 
 Business use of the Services addendum
 -------------------------------------
