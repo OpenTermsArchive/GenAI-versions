@@ -5,16 +5,16 @@ Updated: November 14, 2023
 Business terms
 ==============
 
-[(Previous versions)⁠](https://openai.com/policies/aug-2023-business-terms/)
+[View previous business terms](https://openai.com/policies/aug-2023-business-terms/)
 
-_These OpenAI Business Terms govern use of our APIs, ChatGPT Enterprise, ChatGPT Team, and other services for businesses and developers. Use of our services for individuals, such as ChatGPT or DALL·E, are governed by the_ [_Terms of use_⁠](https://openai.com/policies/terms-of-use/)_._
+_These OpenAI Business Terms govern use of our APIs, ChatGPT Enterprise, ChatGPT Team, and other services for businesses and developers. Use of our services for individuals, such as ChatGPT or DALL·E, are governed by the_ [_Terms of use⁠_](https://openai.com/policies/terms-of-use/)_._
 
 Thank you for choosing OpenAI!
 
 These Business Terms are an agreement between OpenAI, L.L.C. and you (“**Customer**”) that governs your use of our Services (as defined below). If you reside within a European Economic Area country or Switzerland, your agreement is with OpenAI Ireland Ltd. By signing up to use the Services, you agree to be bound by these Business Terms. You represent to us that you are lawfully able to enter into contracts and, if you are entering into these Business Terms for an entity, that you have legal authority to bind that entity. These Business Terms also refer to and incorporate the [Service Terms⁠](https://openai.com/policies/service-terms/), [Sharing & Publication Policy⁠](https://openai.com/policies/sharing-publication-policy/), [Usage Policies⁠](https://openai.com/policies/usage-policies/), and any other guidelines or policies we may provide in writing (the “**OpenAI Policies**”) and any ordering document signed by you and OpenAI or OpenAI webpage that you use to purchase the Services (an “**Order Form**”) (collectively, the “**Agreement**”).
 
-1\. Services
-------------
+1\. Services.
+-------------
 
 1.1 _Use of Services_. We grant you a non-exclusive right to access and use the Services during the Term (as defined below). This includes the right to use OpenAI’s application programming interfaces (“**APIs**”) to integrate the Services into your applications, products, or services (each a “**Customer Application**”) and to make Customer Applications available to End Users (as defined below). “**Services**” means any services for businesses and developers we make available for purchase or use, along with any of our associated software, tools, developer services, documentation, and websites, but excluding any Third Party Offering.
 
@@ -29,15 +29,15 @@ We own all right, title, and interest in and to the Services. You only receive r
 
 (a) use the Services or Customer Content (as defined below) in a manner that violates any applicable laws or OpenAI Policies;
 
-(b) use the Services or Customer Content in a manner that infringes, misappropriates, or otherwise violates any third party’s rights;
+(b) use the Services or Customer Content in a manner that infringes, misappropriates, or otherwise violates any third party’s rights;
 
-(c) send us any personal information of children under 13 or the applicable age of digital consent or allow minors to use our Services without consent from their parent or guardian;
+(c) send us any personal information of children under 13 or the applicable age of digital consent or allow minors to use our Services without consent from their parent or guardian;
 
-(d) reverse assemble, reverse compile, decompile, translate, engage in model extraction or stealing attacks, or otherwise attempt to discover the source code or underlying components of the Services, algorithms, and systems of the Services (except to the extent these restrictions are contrary to applicable law);
+(d) reverse assemble, reverse compile, decompile, translate, engage in model extraction or stealing attacks, or otherwise attempt to discover the source code or underlying components of the Services, algorithms, and systems of the Services (except to the extent these restrictions are contrary to applicable law);
 
-(e) use Output (as defined below) to develop any artificial intelligence models that compete with our products and services. However, you can use Output to (i) develop artificial intelligence models primarily intended to categorize, classify, or organize data (e.g., embeddings or classifiers), as long as such models are not distributed or made commercially available to third parties and (ii) fine tune models provided as part of our Services;
+(e) use Output (as defined below) to develop any artificial intelligence models that compete with our products and services. However, you can use Output to (i) develop artificial intelligence models primarily intended to categorize, classify, or organize data (e.g., embeddings or classifiers), as long as such models are not distributed or made commercially available to third parties and (ii) fine tune models provided as part of our Services;
 
-(f) use any method to extract data from the Services other than as permitted through the APIs; or
+(f) use any method to extract data from the Services other than as permitted through the APIs; or
 
 (g) buy, sell, or transfer API keys from, to or with a third party.
 
@@ -48,9 +48,9 @@ We own all right, title, and interest in and to the Services. You only receive r
 
 3.2 _Our Obligations for Customer Content_. We will process and store Customer Content in accordance with our [Enterprise privacy⁠](https://openai.com/enterprise-privacy/) commitments. We will only use Customer Content as necessary to provide you with the Services, comply with applicable law, and enforce OpenAI Policies. We will not use Customer Content to develop or improve the Services.
 
-3.3 _Your Obligations for Customer Content_. You are responsible for all Input and represent and warrant that you have all rights, licenses, and permissions required to provide Input to the Services. You are solely responsible for all use of the Outputs and evaluating the Output for accuracy and appropriateness for your use case, including by utilizing human review as appropriate. 
+3.3 _Your Obligations for Customer Content_. You are responsible for all Input and represent and warrant that you have all rights, licenses, and permissions required to provide Input to the Services. You are solely responsible for all use of the Outputs and evaluating the Output for accuracy and appropriateness for your use case, including by utilizing human review as appropriate.
 
-3.4 _Similarity of Output_. You acknowledge that due to the nature of our Services and artificial intelligence generally, Output may not be unique and other users may receive similar content from our services. Responses that are requested by and generated for other users are not considered your Output. Our assignment of Output  above does not extend to other users’ output or any content delivered as part of a Third Party Offering.
+3.4 _Similarity of Output_. You acknowledge that due to the nature of our Services and artificial intelligence generally, Output may not be unique and other users may receive similar content from our services. Responses that are requested by and generated for other users are not considered your Output. Our assignment of Output above does not extend to other users’ output or any content delivered as part of a Third Party Offering.
 
 4\. Confidentiality
 -------------------
@@ -62,34 +62,34 @@ We own all right, title, and interest in and to the Services. You only receive r
 5\. Security
 ------------
 
-5.1 _Our Security Program._ We will maintain an information security program (including the adoption and enforcement of internal policies and procedures) designed to (a) protect the Services and Customer Content against accidental or unlawful loss, access, or disclosure, (b) identify reasonably foreseeable and internal risks to security and unauthorized access, and (c) minimize security risks, including through regular risk assessments and testing. 
+5.1 _Our Security Program._ We will maintain an information security program (including the adoption and enforcement of internal policies and procedures) designed to (a) protect the Services and Customer Content against accidental or unlawful loss, access, or disclosure, (b) identify reasonably foreseeable and internal risks to security and unauthorized access, and (c) minimize security risks, including through regular risk assessments and testing.
 
 5.2 _Our Security Obligations._ As part of our information security program, we will: (a) implement and enforce policies related to electronic, network, and physical monitoring and data storage, transfer, and access; (b) deploy production infrastructure behind VPNs where possible; (c) require multi-factor authentication for employees; (d) configure network security, firewalls, accounts, and resources for least-privilege access; (e) maintain a logging and incident response process; (f) maintain corrective action plans to respond to potential security threats; and (g) conduct periodic reviews of our security and the adequacy of our information security program as aligned to industry best practices and our own policies and procedures.
 
 6\. Privacy
 -----------
 
-6.1 _Personal Data._ If you use the Services to process personal data, you must (a) provide legally adequate privacy notices and obtain necessary consents for the processing of personal data by the Services, (b) process personal data in accordance with applicable law, and (c) if processing “personal data” or “Personal Information” as defined under applicable data protection laws, execute our [Data Processing Addendum⁠](https://openai.com/policies/data-processing-addendum/) by filling out [this form⁠(opens in a new window)](https://ironcladapp.com/public-launch/63ffefa2bed6885f4536d0fe).
+6.1 _Personal Data._ If you use the Services to process personal data, you must (a) provide legally adequate privacy notices and obtain necessary consents for the processing of personal data by the Services, (b) process personal data in accordance with applicable law, and (c) if processing “personal data” or “Personal Information” as defined under applicable data protection laws, execute our [Data Processing Addendum⁠](https://openai.com/policies/data-processing-addendum/) by filling out [this form⁠⁠(opens in a new window)](https://ironcladapp.com/public-launch/63ffefa2bed6885f4536d0fe).
 
 6.2 _HIPAA._ You agree not to use the Services to create, receive, maintain, transmit, or otherwise process any information that includes or constitutes “Protected Health Information”, as defined under the HIPAA Privacy Rule (45 C.F.R. Section 160.103), unless you have signed a Healthcare Addendum and Business Associate Agreement (together, the “Healthcare Addendum”) with us prior to creating, receiving, maintaining, transmitting, or otherwise processing this information.
 
 7\. Payment; Taxes
 ------------------
 
-7.1 _Fees and Billing._ You agree to pay all fees charged to your account (“Fees”) according to the prices and terms on the [Pricing Page⁠](https://openai.com/api/pricing/), or as otherwise stated in an Order Form. Price changes on the Pricing Page will be effective immediately for all price decreases or changes made for legal reasons. All other price changes will be effective 14 days after they are posted. We have the right to correct pricing errors or mistakes even after issuing an invoice or receiving payment. You authorize us and our third-party payment processor(s) to charge the payment method provided on your account on an agreed-upon periodic basis, but we may reasonably change the date on which the charge is posted. Fees are payable in U.S. dollars and are due upon invoice issuance, unless otherwise agreed in an Order Form. Payments are nonrefundable except as provided in this Agreement.
+7.1 _Fees and Billing._ You agree to pay all fees charged to your account (“Fees”) according to the prices and terms on the [Pricing Page⁠](https://openai.com/api/pricing/), or as otherwise stated in an Order Form. Price changes on the Pricing Page will be effective immediately for all price decreases or changes made for legal reasons. All other price changes will be effective 14 days after they are posted. We have the right to correct pricing errors or mistakes even after issuing an invoice or receiving payment. You authorize us and our third-party payment processor(s) to charge the payment method provided on your account on an agreed-upon periodic basis, but we may reasonably change the date on which the charge is posted. Fees are payable in U.S. dollars and are due upon invoice issuance, unless otherwise agreed in an Order Form. Payments are nonrefundable except as provided in this Agreement.
 
 7.2 _Service Credits._ You may need to prepay for Services through the purchase of credits (“Service Credits”) or we may provide you with promotional Service Credits from time-to-time. All Service Credits are subject to our [Service Credit Terms⁠](https://openai.com/policies/service-credit-terms/).
 
-7.3 _Taxes._ Fees are exclusive of taxes, which we will charge as required by applicable law in connection with the Services. We will use the name and address in your account as the place of supply for tax purposes. 
+7.3 _Taxes._ Fees are exclusive of taxes, which we will charge as required by applicable law in connection with the Services. We will use the name and address in your account as the place of supply for tax purposes.
 
-7.4 _Disputes and Late Payments._ To dispute an invoice, you must contact [ar@openai.com⁠](mailto:ar@openai.com) within thirty (30) days of issuance. Overdue undisputed amounts may be subject to a finance charge of 1.5% of the unpaid balance per month, and we may suspend the Services immediately after providing written notice of late payment.
+7.4 _Disputes and Late Payments._ To dispute an invoice, you must contact [ar@openai.com⁠⁠](mailto:ar@openai.com) within thirty (30) days of issuance. Overdue undisputed amounts may be subject to a finance charge of 1.5% of the unpaid balance per month, and we may suspend the Services immediately after providing written notice of late payment.
 
 8\. Term; Termination
 ---------------------
 
-8.1 _Term._ The term of this Agreement will commence upon the earlier of your online acceptance of these Business Terms, the Effective Date of an Order Form, or the date you first use the Services, and will remain in effect until terminated pursuant to this Section 8 (“Term”). If you purchase a subscription to the Services, the subscription term will automatically renew for successive periods unless either of us gives the other notice of its intent not to renew. That notice must be given at least thirty days before the start of the next renewal period. 
+8.1 _Term._ The term of this Agreement will commence upon the earlier of your online acceptance of these Business Terms, the Effective Date of an Order Form, or the date you first use the Services, and will remain in effect until terminated pursuant to this Section 8 (“Term”). If you purchase a subscription to the Services, the subscription term will automatically renew for successive periods unless either of us gives the other notice of its intent not to renew. That notice must be given at least thirty days before the start of the next renewal period.
 
-8.2 _Termination._ Unless you purchase Services for a committed duration, you may terminate this Agreement at any time by deleting your account. Both you and OpenAI may terminate this Agreement upon written notice (a) if the other party materially breaches this Agreement and does not cure the breach within thirty (30) days after receiving written notice of the breach or (b) if the other party ceases its business operations or becomes subject to insolvency proceedings. We may suspend your or any End User’s access to the Services or terminate this Agreement or any Order Form: (i) if required to do so by law; (ii) to prevent a security risk or other credible risk of harm or liability to us, the Services, or any third party; or (iii) for repeated or material violations of the OpenAI Policies. We will use reasonable efforts to notify you of any suspension or termination and give you the opportunity to resolve the issue prior to suspension or termination. 
+8.2 _Termination._ Unless you purchase Services for a committed duration, you may terminate this Agreement at any time by deleting your account. Both you and OpenAI may terminate this Agreement upon written notice (a) if the other party materially breaches this Agreement and does not cure the breach within thirty (30) days after receiving written notice of the breach or (b) if the other party ceases its business operations or becomes subject to insolvency proceedings. We may suspend your or any End User’s access to the Services or terminate this Agreement or any Order Form: (i) if required to do so by law; (ii) to prevent a security risk or other credible risk of harm or liability to us, the Services, or any third party; or (iii) for repeated or material violations of the OpenAI Policies. We will use reasonable efforts to notify you of any suspension or termination and give you the opportunity to resolve the issue prior to suspension or termination.
 
 8.3 _Effect of Termination._ Termination or expiration will not affect any rights or obligations, including the payment of amounts due, which have accrued under this Agreement up to the date of termination or expiration. Upon termination or expiration of this Agreement, the provisions that are intended by their nature to survive termination will survive and continue in full force and effect in accordance with their terms, including confidentiality obligations, limitations of liability, and disclaimers. Upon termination of this Agreement, we will delete all Customer Content from our systems within 30 days, unless we are legally required to retain it.
 
@@ -156,7 +156,7 @@ YOU AGREE TO THE FOLLOWING MANDATORY ARBITRATION AND CLASS ACTION WAIVER PROVIS
 
 15.2 _Feedback._ If you provide us with feedback regarding the Services (“Feedback”), you grant us the right to use and exploit Feedback without restriction or compensation.
 
-15.3 _Publicity._ You may use our name and marks to describe your use of the Services solely in accordance with our [Brand guidelines⁠](https://openai.com/brand/). We will not publicly use your name or marks without your prior written approval.
+15.3 _Publicity._ You may use our name and marks to describe your use of the Services solely in accordance with our [Brand guidelines](https://openai.com/brand/). We will not publicly use your name or marks without your prior written approval.
 
 15.4 _U.S. Federal Agency Entities._ The Services were developed solely at private expense and are commercial computer software and related documentation within the meaning of the applicable U.S. Federal Acquisition Regulation and agency supplements thereto.
 
