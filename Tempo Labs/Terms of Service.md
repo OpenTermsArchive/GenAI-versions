@@ -189,7 +189,7 @@ Was this page helpful?
 
 YesNo
 
-[Privacy Policy](https://tempolabsinc.mintlify.app/tempo-privacy)
+[Privacy Policy](https://tempolabsinc.mintlify.app/tempo-privacy)[OpenAI MCP App](https://tempolabsinc.mintlify.app/Openai)
 
 [x](https://www.linkedin.com/company/tempo-labs)[website](https://www.tempolabs.ai/)[linkedin](https://linkedin.com/company/mintlify)
 
