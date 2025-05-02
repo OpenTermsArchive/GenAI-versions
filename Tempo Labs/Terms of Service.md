@@ -189,8 +189,8 @@ Was this page helpful?
 
 YesNo
 
-[Privacy Policy](https://tempolabsinc.mintlify.app/tempo-privacy)[OpenAI MCP App](https://tempolabsinc.mintlify.app/Openai)
+[Privacy Policy](https://tempolabsinc.mintlify.app/tempo-privacy)
 
 [x](https://www.linkedin.com/company/tempo-labs)[website](https://www.tempolabs.ai/)[linkedin](https://linkedin.com/company/mintlify)
 
-[Powered by Mintlify](https://mintlify.com/preview-request?utm_campaign=poweredBy&utm_medium=docs&utm_source=tempolabsinc)
+[Powered by Mintlify](https://mintlify.com/preview-request?utm_campaign=poweredBy&utm_medium=referral&utm_source=tempolabsinc)
