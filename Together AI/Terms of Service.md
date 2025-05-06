@@ -1,7 +1,7 @@
 Terms of service
 ================
 
-Updated May 13, 2023
+Updated May 06, 2025
 
 Welcome to the website for Together Computer, which is owned and operated by Together Computer Inc., a Delaware corporation (the “Company,” “we,” or “us”). The Company has developed and makes available programmatic APIs and web interfaces to host, use, fine tune and train large AI models (the “Services”). The Company may also provide training, migration or other professional services to you (“Professional Support”).
 
@@ -99,3 +99,4 @@ Email:  takedowns@together.xyz
 2. https://ai.google.dev/gemma/terms[‍](https://www.cartesia.ai/legal/terms.html)‍
 3. https://www.cartesia.ai/legal/terms.html
 4. https://blackforestlabs.ai/terms-of-service/
+5. Use of Services with NVIDIA Inference Microservices is subject to NVIDIA AI Enterprise terms: [_https://www.nvidia.com/en-us/agreements/enterprise-software/product-specific-terms-for-ai-products/_](https://www.nvidia.com/en-us/agreements/enterprise-software/product-specific-terms-for-ai-products/)_; and_ [_https://www.nvidia.com/en-us/agreements/enterprise-software/nvidia-software-license-agreement/_](https://www.nvidia.com/en-us/agreements/enterprise-software/nvidia-software-license-agreement/)‍
