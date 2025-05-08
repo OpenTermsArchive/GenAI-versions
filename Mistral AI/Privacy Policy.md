@@ -1,313 +1,114 @@
 Privacy Policy
 
-**Effective 6 February 2025** - [French Version/Version Française](https://mistral.ai/static/doc/fr-politique-de-confidentialite.pdf "French Version/Version Française")
+_Effective 7 May 2025_
 
-**Welcome to Mistral AI!**
+**Welcome to Mistral AI!** We know that your privacy is important, and we're committed to protecting it. This Privacy Policy explains, in a clear and simple way, how we collect, use, and protect your personal data when you use our generative AI Mistral AI Products such as Le Chat or La Plateforme (the "**Mistral AI Products**").
 
-We know that your privacy is important, and we're committed to protecting it. This Privacy Policy explains, in a clear and simple way, how we collect, use, and protect your personal data when you use our generative AI services ("**Services**").
+**Scope of this Privacy Policy.**  This Privacy Policy does not apply if you use our Mistral AI Products to process personal data in the context of your business activities. In this case, you are the data controller, and Mistral AI is the data processor processing on your behalf.
 
 1\. Who collects your data?
 ---------------------------
 
-### 1.1. Mistral AI as data controller
+**Mistral AI.** In the context of this Privacy Policy, Mistral AI is the data controller. This means that Mistral AI is the entity that decides how and why your personal data is collected and used.
 
-**Mistral AI is the data controller.** This means that Mistral AI is the entity that decides how and why your personal data is collected and used.
-
-**Who we are.** Mistral AI is a French company incorporated in Paris, under number 952 418 325, having its registered offices at 15 rue des Halles, 75001 Paris (“We”, “Us” or “Mistral AI”).
+**Who we are.** Mistral AI is a French company incorporated in Paris, under number 952 418 325, having its registered offices at 15 rue des Halles, 75001 Paris (“**We**”, “**Us**” or “**Mistral AI**”).
 
 **How to contact us:**
 
-By using the contact form available here https://mistral.ai/en/contact in the section “data and privacy”
-
-* By using the contact form available [here](https://mistral.ai/en/contact) in the section “Data and privacy”
-* Through our Help Center available via your Mistral AI Account
-* By mail: Mistral AI, 15 rue des Halles, 75001 Paris, France.
-
-### 1.2. Mistral AI as data processor
-
-**Mistral AI is your data processor.** If you use our Services to process personal data on behalf of your business, you are the data controller, and Mistral AI is the data processor. This means that you decide how and why the personal data is processed, and we process such data on your behalf and according to your instructions to provide you with the Services.
-
-**Scope of this Privacy Policy.** This Privacy Policy only covers the processing activities we carry out as a data controller. It does not apply to the processing activities we carry out as a data processor on your behalf, which are governed by our Data Processing Agreement.
+* By using the “Privacy Requests” contact form available [here.](https://mistral.ai/en/contact) 
+* Through our [Help Center](https://help.mistral.ai/en/). 
+* By sending us a letter at Mistral AI, Attn: Privacy Team, Mistral AI, 15 rue des Halles, 75001 Paris, France. 
 
 2\. What data do we collect?
 ----------------------------
 
 ### 2.1. Data you provide directly to us
 
-**Identity, account and contact data:**
+|     |     |
+| --- | --- |
+| **Category of personal data** | **When do we collect your personal data ?** |
+| **Civil Identity,** such as your first and last name.<br><br>**Account data,** such as the means to retrieve your password and to verify your account.<br><br>**Contact Data,** such as your email address.<br><br>**Contract Data,** such as the Mistral AI Product your subscribe to. | When you create your Mistral AI Account and subscribe to a Mistral AI Product. |
+| **Contact Data,** such as your email address. | When you subscribe to receive our communications. |
+| **Payment and billing information,** such as your invoices or your billing address. | When you subscribe to a paid Mistral AI Product |
+| “**Input**”, any data you provide to generate an Output, such as prompts or fine-tuning data. <br><br>**“Feedback”,** any information you provide when you rate an Output, such as “thumbs up” or “thumbs down", and the associated Input and Output. | When you use the Mistral AI Products |
 
-* When you create your account on our platform to use our Services;
-* When you subscribe to our newsletter.
+### 2.2. Personal data generated when you use the Mistral AI Products
 
-**Payment and billing information:**
-
-* When you subscribe to our paid Services.
-
-**Data you provide when you use the Services:** We collect Input and Feedback when you use the Services.
-
-* **Input.** This is the input you provide to the Services to generate an Output, such as your prompts or your fine-tuning data.
-* **Feedback.** This is the ratings or comments you choose to provide on the Output.
-
-### 2.2. Personal data generated by your use of our Services
-
-When you use the Services, we automatically collect the following information:
-
-* Security logs;
-* Technical information such as, for instance, your IP address ;
-* **Output.** This is the content generated by the Services based on your Input. If you include personal data in Your Input, then such personal data may be included in the Output.
+|     |     |
+| --- | --- |
+| **Category of personal data** | **When do we collect your personal data ?** |
+| “**Technical Data**”, any log or technical data that your browser and device automatically send when you use the Mistral AI Products, such as your IP address or the type of network protocol you use.<br><br>**Cookies** listed [here.](https://mistral.ai/terms#cookie-policy)<br><br>"**Usage Data**", any data that relates to how you use the Mistral AI Products.<br><br>**“Output”,** any content generated by the Mistral AI Products based on your Input. | When you use the Mistral AI Products |
 
 ### 2.3. Personal data that is indirectly provided to us
 
-**Data publicly available on the Internet.** Our models are trained on data that is publicly available on the Internet, which may contain personal data, even if we use good practices to filter out such personal data.
+**Data publicly available on the Internet.** Our artificial intelligence models are trained on data that is publicly available on the Internet, which may contain personal data, even if we use good practices to filter out such personal data.
 
 **Data provided by third-parties:**
 
-* **Hugging Face.** If you download our models on Hugging Face, we collect your username and email address to enforce our license and send you communications about our new models.
-* **Third-Party Content.** When you use our websearch or news tool on Le Chat, we may display content from third parties on Le Chat, such as links, thumbnails, or snippets. This content is displayed to help you understand the Output better. If you include personal data in your Input, personal data might also appear in the Third-Party Content. We do not use this Third-Party Content to train or improve our models or Services.
+* **Hugging Face.** If you download our artificial intelligence models on Hugging Face, we collect your username and email address to enforce our license and send you communications about our new models.
+    
+* ****Third-Party Content.**** When you use certain features that interact with third party Mistral AI Products, such as Web Search or verified news on Le Chat, we may display content from third parties on Le Chat, such as links, thumbnails, or snippets (the "**Third Party Content**"). This content is displayed to help you understand the Output better. If you include personal data in your Input, personal data might also appear in the Third-Party Content. We do not use this Third-Party Content to train our models.
+    
 
 3\. Why do we use your personal data?
 -------------------------------------
 
-We use your personal data:
-
-* To provide and improve the Services;
-* For the general administration and security of the Services;
-* To manage and enforce our license agreement;
-* To develop and train our general-purpose artificial intelligence models;
-* To send you newsletters and marketing communications;
-* To manage your commercial relationship with us;
-* For dispute resolution;
-* To reply to your requests regarding your personal data.
-
-If you want to know more about why we use your personal data, you will find more details below.
-
-### 3.1. To provide and improve the Services
-
-**For users acting as consumers:**
-
-* **Account Management:** Create and administer your account.
-* **Providing Le Chat to you, including:**
-    * Generating Outputs and displaying Third-Party Content based on your Input. 
-    * We  use part of your IP address to make your experience better, such as, for instance, to provide you with more accurate Outputs depending on the country associated with your IP address. You can opt-out of this processing at any time through your user preferences. 
-    * Displaying your conversation history (Input, Output and Third-Party Content).
-* **Providing La Plateforme:**
-    * Generating Outputs based on your Input.
-    * Allowing you to fine-tune our models using Our Fine-Tuning API.
-    * Allowing you to create agents through the Agent Builder.
-* **Customer Support:** Answer and manage your support requests, including fixing errors or bugs related to your use of our Services.
-
-**Lawful basis for the processing:** The performance of the agreement between you and Mistral AI.
-
-**For all users:**
-
-* **Service Improvement:** Generate aggregated and anonymized statistics about the use of the Services to enhance their functionality and performance.
-
-**Lawful basis for the processing:** Our legitimate interest to continuously improve the Services.
-
-### 3.2. General administration of our Services
-
-We use your personal data for the following administrative purposes:
-
-* **Security management.** Manage the security of Our Services;
-* **Non-marketing communications.** Communicate with you for purposes other than marketing, such as:
-    * Notifying you of temporary unavailability or disruptions to our Services.
-    * Sending you important updates or information related to your account or the Services.
-* **Cookie Management.** Use cookies and similar technologies to enhance your user experience.
-
-**Lawful basis:** Our legitimate interests to manage the security and administration of the Services and for cookies that are technically required. Your consent for cookies that are not technically required.
-
-### 3.3. To manage and enforce our license agreement
-
-* **Abuse monitoring.** Automatically monitor breaches of our Terms of Service or Usage Policy;
-* **License management.** Manage requests for downloading our artificial intelligence models and enforce our open source and commercial licenses.
-
-**Lawful basis:** The performance of the contract between you and Mistral AI.
-
-### 3.4. Develop and train our Models
-
-We use personal data to develop and train our general-purpose artificial intelligence models, which help us provide state-of-the-art services to our customers.
-
-**Here’s how we handle personal data in different scenarios:**
-
-#### 3.4.1. Data publicly available on the Internet
-
-If your personal data is publicly available on the Internet, we may use it to train our general-purpose artificial intelligence models, even though we apply good practices to filter out personal data. Our models (large language models) are trained to answer questions, generate text according to context/Inputs (e-mails, letters, reports, computer code, etc.), translating, summarizing and correcting text, classifying text, analyzing feelings, etc.
-
-**Lawful basis:** Our legitimate interests in providing advanced artificial intelligence models to our customers.
-
-#### 3.4.2. Input and Output provided on La Plateforme
-
-* **If you use our paid Services:** We do not use your Input and Output to train or improve our models.
-* **If you use our free Services:** We use your Input and Output to train our general-purpose artificial intelligence models. We use commercially reasonable efforts to de-identify such data before using it to train or improve our models. For clarity and as set out in Section 8 (Your rights), you have the right to object to this processing (opt-out) by using the contact form available [here,](https://mistral.ai/en/contact) via the "Data and privacy" section, or using any other method provided in Section 8 (Your rights). 
-    
-
-**Lawful basis:** Our legitimate interests in providing advanced artificial intelligence models to our customers.
-
-#### 3.4.3. Le Chat
-
-* **If You use Le Chat Free, Le Chat Pro or Le Chat Student:** We use your Input, Output and Feedback to train our general-purpose artificial intelligence models. We use commercially reasonable efforts to de-identify such data before using it to train or improve our models. You can opt-out of training at any time by using the feature available on your account. In this case, we do not use your Input and Output to train our artificial intelligence models, unless you expressly authorize us to do so. 
-* **If you use Le Chat Team :** We do not use your Input, Output and Feedback to train our artificial intelligence models. If you wish to allow us to use such data to train our artificial intelligence models, you can opt-in of training at any time by using the feature available on your account.
-* **Feedback:** If you click on "Thumbs Up" or "Thumbs Down" to rate an Output, we use your Feedback to train our artificial intelligence models. If you do not want us to use your Feedback to improve our artificial intelligence models, please do not click on  "Thumbs Up" or "Thumbs Down". 
-
-**Lawful basis:** Our legitimate interests in providing advanced artificial intelligence models to our customers.
-
-**3.4.4. Third-party services**
-
-If you connect a third-party service to our Services, we do not use this third-party service to train or improve our artificial intelligence models. 
-
-### 3.5. Marketing operations
-
-We use your personal data for the following marketing activities:
-
-* **Newsletters.** Sending you our newsletters with updates and information about our Services.
-* **Lead Development.** Identifying and nurturing potential business opportunities.
-* **Event Invitations.** Inviting you to our events and webinars.
-
-**Lawful Basis:** Your consent, for sending you our newsletters. You can withdraw your consent at any time by unsubscribing . Our legitimate interest, for lead development and event invitations, which helps us promote our Services and grow our business.
-
-### 3.6. Commercial Management
-
-We use your personal data for the following commercial management purposes:
-
-* **Contract Management.** Administering and managing our contractual relationship with you.
-* **Invoicing.** Generating and sending invoices for the fees applicable to our Services.
-* **Payment Processing.** Processing your payments to ensure timely and accurate billing.
-
-**Lawful Basis:** The performance of the agreement between you and Mistral AI. To comply with our legal requirements to invoice for our Services.
-
-### 3.7. Dispute Resolution
-
-We use your personal data for the following purposes:
-
-* **Dispute Resolution:** To investigate and resolve any disputes that may arise out of your use of the Services.
-* **Contract Enforcement:** To enforce our contract, including actions such as suspending your account.
-
-**Lawful Basis:** Our legitimate interest to protect and exercise our legal rights. The performance of the Agreement between you and Mistral AI.
-
-### 3.8. Data Subject Requests
-
-We use your personal data to reply to Your requests to exercise Your rights on Your Personal Data.
-
-**Lawful basis:** Our legal obligation to reply to your requests.
+|     |     |     |
+| --- | --- | --- |
+| **Why we use your personal data** | **Categories of personal data** | **Lawful basis** |
+| **To provide and maintain the Mistral AI Products provided to you under the conditions set forth in our Terms of Service** | Your Civil Identity Data<br><br>Your Account Data <br><br>Your Contract Data<br><br>Your Technical Data<br><br>Your Input, Output and Feedback<br><br>Your Usage Data. _Please note that we use part of your IP address to make your experience better, such as, for instance, to provide you with more accurate Outputs depending on where you use our Mistral AI Products. You can opt-out of this processing at any time through your user preferences on your Mistral AI Account._ | The performance of the contract between you and Mistral AI |
+| **To create and administer your Mistral AI Account** | Your Civil Identity Data<br><br>Your Account Data<br><br>Your Contract Data | The performance of the contract between you and Mistral AI. |
+| **To provide customer support, including debugging and fixing errors reported by you** | Your Civil Identity Data<br><br>Your Contact Data<br><br>Your Feedback<br><br>Your Input and Output | The performance of the contract between you and Mistral AI. |
+| **To manage the security and integrity of the Mistral AI Products** | Your Civil Identity Data<br><br>Your Account Data <br><br>Your Technical Data <br><br>Your Contact Data<br><br>Your Usage Data | To comply with our legal obligations.<br><br>Our legitimate interests in managing the security and integrity of the Mistral AI Products. |
+| **To communicate with you, including to send you newsletters or non-marketing communications about the Mistral AI Products** | Your Civil Identity Data<br><br>Your Contact Data | Your consent, for marketing communications.<br><br>The performance of the agreement, for all non-marketing communication (e.g. to send you notifications about changes to our terms). |
+| **To improve the Mistral AI Products or develop new products (but excluding model training), such as to conduct research or to make aggregated and anonymous statistics** | Your Civil Identity Data<br><br>Your Feedback<br><br>Your Input and Output<br><br>Aggregated and anonymous statistics | Our legitimate interest in continuously improving the Mistral AI Products and to introduce new features. |
+| **To train our  artificial intelligence models (large language models)** to answer questions, generate text, translate, summarize and correct text, classify text, analyze feelings, etc. according to context, Inputs (e-mails, letters, reports, computer code, etc.) and Outputs. | Personal data included in the data publicly available on the Internet, despite our efforts to filter out such personal data<br><br>Your Input and Output, subject to your opt-out. _Please note that we do not use your Input and Output to train our artificial intelligence models when you use Le Chat Team, Le Chat Enterprise or the paid version of our APIs. If you connect a third-party service to the Mistral AI Products, we do not use this third-party service to train our artificial intelligence models._ <br><br>Your Feedback. | Our legitimate interest in developing and providing state-of-the-art large language models as part of the Mistral AI Products. |
+| ****To manage and enforce our Terms of Service and licenses, including moderation and abuse monitoring**** | Your Civil Identity Data<br><br>Your Account Data<br><br>Your Contact Data<br><br>Your Input and Output<br><br>Your Feedback | The performance of the contract between you and Mistral AI. |
+| ******To manage our commercial relationship with you, including to process payments and manage billing****** | Your Civil Identity Data<br><br>Your Account Data<br><br>Your Contact Data<br><br>Your Payment and Billing information | The performance of the agreement between you and Mistral AI.<br><br>Our legal obligations. |
+| **To investigate and resolve disputes between you and Mistral AI** | If applicable and depending on the dispute:<br><br>Your Civil Identity <br><br>Your Account Data<br><br>Your Contact Data<br><br>Your Contract Data<br><br>Your Technical Data <br><br>Your Usage Data<br><br>Your Input, Output and Feedback<br><br>Any other data necessary for the investigation or resolution  of the dispute. | Our legitimate interest in protecting and exercising our legal rights.<br><br>The performance of the Agreement between you and Mistral AI. |
+| ****To reply to your requests to exercise your rights on your personal data**** | Your Civil Identity Data <br><br>Your Account Data<br><br>Your Contact Data <br><br>Any other personal data included in your privacy request | Our legal obligation to reply to your requests. |
 
 4\. Cookies
 -----------
 
-When you visit our website, we use cookies (small text files stored on your device) to enhance your experience on our Services. For more information about the way we use cookies, please see our [Cookie Policy](https://mistral.ai/terms#cookie-policy). 
+When you visit our website, we use cookies (small text files stored on your device) to enhance your experience on the Mistral AI Products. For more information about the way we use cookies, please see our [Cookie Policy](https://mistral.ai/terms#cookie-policy).
 
 5\. How long do we keep your personal data?
 -------------------------------------------
 
-We store your personal data only as long as needed for the purposes described in Section 3 of this Privacy Policy. Sometimes, we may keep it longer if required by law or for legal proceedings.
+We store your personal data only as long as needed for the purposes described in Section 3 of this Privacy Policy. For instance, we retain your:
 
-For illustrative purposes, here are the applicable data retention periods:
+* **Input/Output & Feedback on Le Chat:** until you delete your account or until you delete the conversation from Le Chat. Subject to your opt-out, we de-identify such data before using it to train our artificial intelligence models. 
+* **Input/Output On La Plateforme:** we keep your Input and Output for the period necessary to generate the Output and then for 30 rolling days to monitor abuse (unless zero data retention is activated); we keep your fine-tuning data until you delete it from La Plateforme or until you delete your account.
+* **Non-essential cookies data:** only as long as you consent to their use.
+* **Your contact data (used for marketing operations):** only as long as you are subscribed to our newsletter.
+* **Leads identity and contact data:** for 3 years from collection.
+* **B2B customer data:** for the duration of the contract and for three years following the termination of the contract
 
-**Data we use to provide and improve the Services:**
+Sometimes, we may keep your data longer to comply with our legal obligations and/or for legal proceedings, as detailed below. Please note that the categories of personal data we retain longer will not be accessed or used by any member of our teams during their legal keeping periods, except to fulfill our legal obligations or in case of dispute or litigation (e.g. to recover an unpaid invoice). Once the legal retention periods have expired, we will permanently delete these categories of data.
 
-* **Account data:** for as long as you're registered and 1 year after you terminate your account in accordance with our legal obligations.
-* **On La Plateforme:**
-    * We keep your Input and Output for the period necessary to generate the Output and then for thirty (30) rolling days to monitor abuse, unless zero data retention is activated.
-    * We keep your fine-tuning data until you delete it from La Plateforme or until you delete your account.
-* **On Le Chat:**
-    * If you use Le Chat without an account, we keep your Input, Output and Feedback in an identifying form for the duration of your conversation on Le Chat.
-    * If you use Le Chat with an account, we keep your Input, Output and Feedback in an identifying form until you delete your account.
-* **Technical support data:** We keep your data until your request is processed and for 5 years for record-keeping.
-
-**Data we use to administer and manage the security of the Services:**
-
-* **Security Data:** Security logs are kept for 1 rolling year.
-* **Cookies:** As long as you consent to their use.
-
-**Data we use to manage our license agreement:**
-
-* **On La Plateforme:** we keep your Input and Output for thirty (30) rolling days to monitor abuse.
-* **Contracts and contact details for the subscription to a commercial license to use our Models:** we keep your data for the duration of the contract and for five years following the contract.
-
-**Data we use to manage your commercial relationship with us:**
-
-* **Contracts:** term of the contract and 5 years from the termination date.
-* **Invoices:** For 10 years from the year-end date.
-
-**Data we use for marketing operations:**
-
-* **Contact data:** until you unsubscribe from our newsletter.
-* **Leads identity and contact data:** for 3 years from collection.
-* **B2B customer data:** for the duration of the contract and for three years following the termination of the contract.
-
-**Data we use for dispute resolution:** until the appeal period ends, provided that we may keep such data longer for archival purposes.
-
-**Data we use to reply to your privacy requests:** for the duration of processing the request and for six (6) years following the request.
+* **Your Civil Identity Data (your first and last name, etc.):** for 5 years after the termination of your Mistral AI account. 
+* **Account Data (such as the phone number or email address you provided to verify or change your account password, etc.):** for 1 year after you delete your account. 
+* **Technical data (such as the types of protocols used to connect to our service, etc.):** for 1 rolling year from the date of connection, for each operation contributing to the operation of connection.
+* **Invoices and related correspondence:** for 10 years from the close of the relevant financial yea
+* **Contracts, commercial licenses to use our Models and contact details relating to both:** we keep your data for the duration of the contract and for 5 years following the termination of the contract. 
+* **Data relating to dispute resolution:** until the appeal period ends, provided that we may keep such data longer for archival purpose.
+* **Data relating to your privacy requests:** for the duration of processing the request and for 6 years following the request.
+* **Technical support data:** We keep your data until your request is processed and for 5 years for record-keeping.
 
 6\. Who do we share your personal data with?
 --------------------------------------------
 
 We may share your personal data on a need-to-know basis with the following parties:
 
-* **Our Team Members.** Authorized members of our teams who need access to perform their jobs.
-* **Financial Institutions.** Banks and other financial organizations.
-* **Regulatory Authorities.** Such as the French data protection authority (CNIL).
-* **Legal and Professional Services.** When appropriate, we may share data with competent courts, mediators, accountants, auditors, lawyers, bailiffs, and debt collection agencies.
+* **Our Team Members.** Authorized members of our teams who need to access your personal data, strictly to perform their jobs
+* **Financial Institutions.** Banks and other financial organizations
+* **Regulatory Authorities.** Such as the French data protection authority (CNIL)
+* **Legal and Professional services.** When appropriate, we may share data with competent courts, mediators, accountants, auditors, lawyers, bailiffs, and debt collection agencies.
 
-Additionally, we may share all or part of your personal data with our service providers. Before engaging with any provider, we conduct audits to ensure they meet our privacy and security standards, and we sign a dedicated data protection agreement with them.
+Additionally, we may share all or part of your personal data with our service providers. Before engaging with any provider which handles customer data, our security team conducts audits to ensure they meet our privacy and security standards, in accordance with our certifications.We sign a dedicated data protection agreement with each of these providers.
 
-**Our main providers are:**
-
-* **Azure:**
-    
-    * **Purpose:** Cloud Infrastructure
-    * **Data location:** Sweden
-* **Black Forest Labs:**
-    
-    * **Purpose:** Image generation based on Your Input. Black Forest Labs accesses Your Input and Output. Your Input is stored for 15 days and then permanently deleted from Black Forest Labs’ systems. Your Outputs are permanently destroyed within 1 day from Black Forest Labs’ systems. Black Forest Labs does not use Your User Data to train their models.
-    * **Data location:** United States
-* **Brave, Inc.:**
-    
-    * **Purpose:** Search engine providing content to generate Outputs. Brave accesses Your Input and the content sent to Mistral AI to generate the Output. Brave Inc. does not access the Output. Brave, Inc. does not use Your User Data to train any artificial intelligence models or for any other purposes than to provide content to generate an Output.
-    * **Data location:** United States
-* **Cerebras:**
-    
-    * **Purpose:** Cloud Infrastructure
-    * **Data location:** United States
-    * **Opt-out:** You can opt-out of Cerebras any time by using the feature available on your account.
-* **: Cloudflare**
-    * **Purpose:** Security of the Services. 
-    * **Data location:** United States
-* **E2B:**
-    
-    * **Purpose:** Providing our code interpreter feature on Le Chat.
-    * **Data location:** United States
-* **Google Cloud Platform:**
-    
-    * **Purpose:** Cloud Infrastructure
-    * **Data location:** Ireland
-* **Google Cloud Platform:**
-    
-    * **Purpose:** Cloud Infrastructure for Le Chat and the US version of Our APIs
-    * **Data location:** United States
-* **Intercom:**
-    
-    * **Purpose:** Support
-    * **Data location:** United States
-* **Kong:**
-    
-    * **Purpose:** API security
-    * **Data location:** United States
-* **Lago:**
-    
-    * **Purpose:** Billing
-    * **Data location:** EEA
-* **Mailjet:**
-    
-    * **Purpose:** Mailing
-    * **Data location:** United States
-* **Ory:**
-    
-    * **Purpose:** Authentication on the Services
-    * **Data location:** EEA
-* **Stripe:**
-    
-    * **Purpose:** Payment management
-    * **Data location:** United States
+Our main providers are listed on our [Trust Center](https://trust.mistral.ai/subprocessors).
 
 7\. Do we transfer Your Personal Data Outside of the European Union?
 --------------------------------------------------------------------
@@ -319,13 +120,13 @@ We take the necessary steps to ensure that all contracts with service providers 
 8\. Your rights
 ---------------
 
-You can exercise:
+You can exercise the following rights :
 
-* **Access.** You have the right to know if we process your personal data. You also have the right to request a copy of such personal data and to obtain further information about the way we process your personal data.
-* **Rectification.** You have the right to update or correct your personal data.
-* **Deletion.** You have the right to delete and/or ask us to delete your personal data.
-* **Objection.** You have the right to object to the processing of your personal data. This right does not apply when we have a legal obligation to process your personal data.
-* **Consent withdrawal.** You have the right to withdraw your consent to the processing of your personal data at any time.
+* **Access.** You have the right to know if we process your personal data. You also have the right to request a copy of such personal data and to obtain further information about the way we process your personal data. **We've introduced a user control which allows you to export your data at all times from your Mistral AI account. For more information, please refer to our [Help Center.](https://help.mistral.ai/en/)**
+* **Rectification.** You have the right to ask us to update or correct your personal data. 
+* **Deletion.** You have the right to delete and/or ask us to delete your personal data. **We’ve introduced a user control which allows you to delete your account at all times. For more information, please refer to our [Help Center.](https://help.mistral.ai/en/)**
+* **Objection.** You have the right to object to the processing of your personal data. This right does not apply when we have a legal obligation to process your personal data. **We’ve introduced a user control which allows you to object to the use of your input and output data for model training directly from your account. For more information, please refer to our [Help Center.](https://help.mistral.ai/en/)** 
+* **Consent withdrawal.** You have the right to withdraw your consent to the processing of your personal data at any time. 
 * **Limitation.** You have the right to ask us to freeze the processing of your personal data.
 * **Automated decision.** You have the right to not be subject to an automated decision (including profiling) and to appeal such a decision. Mistral AI does not engage in profiling or automated decision-making in the processing of personal data.
 * **Portability.** You have the right to obtain and transfer your personal data to another entity.
@@ -334,11 +135,11 @@ You can exercise:
 
 We will take every step to make sure we reply to your requests. However, when your request concerns the training of our models, it’s important to note that your rights have technical limitations and fulfilling your requests might involve a complex technical process.
 
-You can exercise these rights:
+You can exercise these rights at all times:
 
-* By using the contact form available [here](https://mistral.ai/en/contact) in the section “Data and privacy”
-* By making a request using our Help Center available on your account
-* By sending us a letter at Mistral AI, Attn: Privacy Team, Mistral AI, 15 rue des Halles, 75001 Paris, France.
+* ****By using the user controls which are available from your Mistral AI Account settings and which allow you to: delete your account at all times, obtain a copy of your data, object to the use of your input and output data for model training. For more information on these user controls, please refer to our [Help Center](https://help.mistral.ai/en/).****
+* **By using the “Privacy Requests”** contact form available [here.](https://mistral.ai/en/contact)
+* **By sending us a letter at** Mistral AI, Attn: Privacy Team, Mistral AI, 15 rue des Halles, 75001 Paris, France. 
 
 9\. Changes to this Privacy Policy
 ----------------------------------
