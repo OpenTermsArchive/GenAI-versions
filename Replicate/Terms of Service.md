@@ -13,11 +13,11 @@ In addition to these Terms, please review our Privacy Policy which forms part of
 
 1. **DEFINITIONS.** In these Terms:
 
-"**Acceptable Use Policy**" means Replicate's standard acceptable use policy, currently available at [https://replicate.com/terms#acceptable-use-policy](https://replicate.com/terms#acceptable-use-policy).
+"**Acceptable Use Policy**" means Replicate's standard acceptable use policy, currently available at [https://replicate.com/acceptable-use-policy](https://replicate.com/acceptable-use-policy).
 
 "**Action**" means any claim, action, cause of action, demand, lawsuit, arbitration, inquiry, audit, notice of violation, proceeding, litigation, citation, summons, subpoena, or investigation of any nature, civil, criminal, administrative, regulatory, or other, whether at law, in equity, or otherwise.
 
-"**Additional Terms**" means additional supplemental terms that apply to certain Models or contemplated uses, currently available at [https://replicate.com/terms#acceptable-use-policy](https://replicate.com/terms#acceptable-use-policy).
+"**Additional Terms**" means additional supplemental terms that apply to certain Models or contemplated uses, currently available at [https://replicate.com/acceptable-use-policy](https://replicate.com/acceptable-use-policy).
 
 "**Affiliate**" of a Party means any other party that directly or indirectly, through one or more intermediaries, controls, is controlled by, or is under common control with, such Party. The term "control" (including the terms "controlled by" and "under common control with") means the direct or indirect power to direct or cause the direction of the management and policies of a Person, whether through the ownership of voting securities, by contract, or otherwise.
 
@@ -29,7 +29,7 @@ In addition to these Terms, please review our Privacy Policy which forms part of
 
 "**Customer Derivative Model**" means a Model which has been fine-tuned through the Services on a Foundation Model with Inputs.
 
-"**Community Guidelines**" means Replicate's standard community guidelines, currently available at [https://replicate.com/terms#community-guidelines](https://replicate.com/terms%23community-guidelines).
+"**Community Guidelines**" means Replicate's standard community guidelines, currently available at [https://replicate.com/community-guidelines](https://replicate.com/community-guidelines).
 
 "**Documentation**" means any manuals, instructions, or other documents or materials that the Replicate provides or makes available to Customer in any form or medium and which describe the functionality, components, features, or requirements of the Services, including any aspect of the operation, use, or support thereof, or any Third-Party Offering.
 
