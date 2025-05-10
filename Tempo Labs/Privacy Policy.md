@@ -43,11 +43,8 @@ Scope of this Policy
 For purposes of this Policy:
 
 * **“Authorized User”** means an individual who accesses the Services as, or on behalf of, a Customer, including Customer personnel.
-    
 * **“Customer”** means an entity that has contracted with Tempo (such as through an applicable Services Agreement or our Terms of Use) to access our Services.
-    
 * **“Site Visitor”** means an individual who visits our Site outside of the context of our Customers’ use of the Services.
-    
 
 This Policy applies to our handling of information about Site Visitors, prospective Customers, and Customers and Authorized Users (in relation to their procurement of the Services and management of their relationship with Tempo). We refer collectively to these categories of individuals as “you” throughout this Policy.
 
@@ -147,13 +144,10 @@ Online Analytics And Advertising
 
 1. **Analytics.**  
     We may use third-party web analytics services (such as those of Google Analytics) on our Site or Services to collect and analyze usage information through cookies and similar tools; engage in auditing, research, or reporting; assist with fraud prevention; and provide certain features to you. To prevent Google Analytics from using your information for analytics, you may install the Google Analytics Opt-out Browser Add-on by [clicking here](https://tools.google.com/dlpage/gaoptout). If you receive email from us, we may use certain analytics tools, such as clear GIFs to capture data such as when you open our message or click on any links or banners our email contains. This data allows us to gauge the effectiveness of our communications and marketing campaigns.
-    
 2. **Online Advertising.**  
     In using the Site or Services, we may allow select third-party advertising technology partners to place cookies or other tracking technologies on the browser of your device to collect information about you as discussed above. These third parties (e.g., ad networks and ad servers such as Twitter Ads, Bing Ads, and others) may use this information to serve relevant content and advertising to you as you browse the Internet, and access their own cookies or other tracking technologies on your browser to assist in this activity. If you are interested in more information about these online advertising activities, and how you can generally control cookies from being put on your computer to deliver tailored advertising, you may visit the [Network Advertising Initiative’s Consumer Opt-Out link](http://optout.networkadvertising.org/), the [Digital Advertising Alliance’s Consumer Opt-Out link](http://optout.aboutads.info/), or [Your Online Choices](http://www.youronlinechoices.eu/) to opt out of receiving tailored advertising from companies that participate in those programs. We do not control these opt-out links or whether any particular company chooses to participate in these opt-out programs. We are not responsible for any choices you make using these mechanisms or the continued availability or accuracy of these mechanisms. Please note that if you use these mechanisms, you may still see advertising on our Site or Services or across the Internet, but it will not be tailored to you based on your online behavior over time.
-    
 3. **Do Not Track (“DNT”).**  
     DNT is a privacy preference that web users can set in certain web browsers. We are committed to providing you with meaningful choices about the information collected on our Services through cookies and similar technologies, and that is why we provide the variety of opt-out mechanisms listed above. However, we do not currently recognize or respond to browser-initiated DNT signals.
-    
 
 * * *
 
@@ -165,19 +159,12 @@ How We Share And Disclose Your Information
 We will share your information in the following ways:
 
 * **Service Providers.** We provide access to or share your information with select third parties who help us deliver or improve our Site and Services or perform services on our behalf, including billing and payment, advertising and marketing, analytics, fraud prevention, research, data storage or processing, security, and consulting and legal services. We will also access and share your information with third parties (including third-party vendors) for the purposes contemplated or permitted by our Terms of Use.
-    
 * **Affiliates and Subsidiaries.** We may share the information we collect with our affiliates and subsidiaries for the purposes outlined in this Policy.
-    
 * **Your Company.** If you are an Authorized User, we may provide your information to the company you are engaged or employed by to fulfill and enforce our applicable sales agreement with your company, and to inform your company regarding usage, support, or training needs.
-    
 * **Protection of Tempo and Others.** By using the Site or Services, you acknowledge and agree that we may access, retain, and disclose the information we collect and maintain about you if required to do so by applicable law or in a good faith belief that such access, retention or disclosure is reasonably necessary to: (a) comply with legal process (e.g., a subpoena or court order); (b) enforce any contracts with you; (c) respond to claims that any content violates the rights of third parties; and/or (d) protect the rights, property or personal safety of Tempo, its agents and affiliates, its users and/or the public.
-    
 * **Business Transactions.** In accordance with applicable legal obligations, your information may be provided to third parties in connection with a merger or acquisition (including transfers made as part of insolvency or bankruptcy proceedings) involving all or part of Tempo or our assets, or as part of a corporate reorganization or stock sale or other change in corporate control or business change, including for the purpose of determining whether to proceed or continue with such transaction or business relationship.
-    
 * **Aggregate/De-Identified Information.** From time to time, we may share Aggregate/De-Identified Information about use of the Site or Services or our user base with partners and others in our discretion, but such information will not identify you personally.
-    
 * **With Your Consent or at Your Direction.** In addition to the sharing described in this Policy, we may share information about you with third parties whenever you consent to or direct such sharing.
-    
 
 * * *
 
