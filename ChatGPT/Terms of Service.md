@@ -86,7 +86,7 @@ Content
 
 For more details on our content moderation process and complaint procedures, see our [Transparency & Content Moderation page](https://openai.com/transparency-and-content-moderation/).
 
-**Opt out.** If you do not want us to use your Content to train our models, you have the option to opt out by updating your account settings. Further information can be found in [this Help Center article⁠(opens in a new window)](https://help.openai.com/en/articles/5722486-how-your-data-is-used-to-improve-model-performance). Please note that in some cases this may limit the ability of our Services to better address your specific use case.
+**Opt out.** If you do not want us to use your Content to train our models, you have the option to opt out by updating your account settings. Further information can be found in [this article](https://openai.com/policies/how-your-data-is-used-to-improve-model-performance/). Please note that in some cases this may limit the ability of our Services to better address your specific use case.
 
 **Accuracy**. Artificial intelligence and machine learning are rapidly evolving fields of study. We are constantly working to improve our Services to make them more accurate, reliable, safe, and beneficial. Given the probabilistic nature of machine learning, use of our Services may in some situations result in Output that does not accurately reflect real people, places, or facts. 
 
