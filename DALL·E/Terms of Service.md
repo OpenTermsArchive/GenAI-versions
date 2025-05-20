@@ -1,4 +1,4 @@
-EU terms of use | OpenAI
+OpenAI
 
 Select language
 
