@@ -1,4 +1,4 @@
-Plugins and Actions Terms | OpenAI
+OpenAI
 
 Select language
 
