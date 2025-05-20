@@ -1,4 +1,4 @@
-Last updated: 12/05/2024
+Last updated: May 19, 2025 to reflect updated refund terms in section D.3.
 
 A. Terms of Service
 ===================
@@ -108,11 +108,15 @@ For details of current pricing, consult our [pricing page](https://replit.com/pr
 
 You may incur additional usage fees if you exceed the limits associated with your account or current plan. You are responsible for the payment of these fees, and which may be automatically billed to your credit card or payment method associated with your account. Your account may be limited or terminated if not paid.
 
-**3\. Extensions**
+**3\. Refunds**
+
+We allow for full refunds for subscription payments made within 30 days of purchase. However, Usage-Based Billing (UBB) charges are non-refundable, as they reflect metered usage that has already occurred. Refunds are only available for the most recent subscription charge and do not apply to partial usage or past billing cycles. To request a refund, contact our support team ([support@repl.it](mailto:support@repl.it)) with your account details and invoice number.
+
+**4\. Extensions**
 
 The [Extensions Store](https://docs.replit.com/extension/store) enables you to access Repls to work with and extend the capabilities of your workspace and individual Repls. Extensions within the Store are published by Replit and also third-party providers (“Developers”). As an Extension user, your access and use rights are supplemented by the [Replit Extensions Store - User Terms](https://replit.com/site/extensions-terms/#replit-extensions-store-user-terms). The Extensions Store also enables you to create and provide Extensions for use by othe![](https://)r users. As an Extension Developer, your access and use rights are subject to the [Replit Extensions Store - Developer Terms](https://replit.com/site/extensions-terms/#replit-extensions-store-developer-terms).
 
-**4\. Purchase of CyclesⓇ**
+**5\. Purchase of CyclesⓇ**
 
 Replit provides the option to acquire Cycles, a virtual token for accessing features on the Service. Cycles have no cash value and are not refundable or redeemable for cash. For more details, consult our [Cycles Terms](https://replit.com/site/cycles-terms) which are incorporated into these Terms.
 
