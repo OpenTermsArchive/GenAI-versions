@@ -1,4 +1,4 @@
-OpenAI
+Usage policies | OpenAI
 
 Select language
 
