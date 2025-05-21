@@ -1,4 +1,4 @@
-OpenAI
+EU privacy policy | OpenAI
 
 Select language
 
