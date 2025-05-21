@@ -96,8 +96,8 @@ The security of Your Personal Data is important to Us, but remember that no meth
 | Inference | Model responses | User History in Playgrounds | Delete option in settings |
 | Fine-tuning | Training data files | CLI or Jobs tab in Playground | Delete option in settings |
 | Fine-tuning | Models created | CLI or Jobs tab in Playground | Delete option in settings |
-| GPU Clusters | Customer provided data | Email privacy@together.ai | Email privacy@together.ai |
-| Custom Model Builds | Customer provided data | Email privacy@together.ai | Email privacy@together.ai |
+| GPU Clusters | Customer provided data | Email security-privacy@together.ai | Email security-privacy@together.ai |
+| Custom Model Builds | Customer provided data | Email security-privacy@together.ai | Email security-privacy@together.ai |
 | Website | Analytics cookie | In website cookie manager | In website cookie manager |
 
 ### 3\. Children's Privacy
@@ -134,7 +134,7 @@ Additionally You have the following data protection rights:
 * If we have collected and processed your Personal Data with your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your Personal Data conducted in reliance on lawful processing grounds other than consent.
 * You have the right to complain to a data protection authority about our collection and use of your Personal Data.
 
-Some of these rights may be exercised through Your account settings, as described in the Summary Table. In order to exercise any other privacy rights not specifically enumerated here you may contact privacy@together.ai.
+Some of these rights may be exercised through Your account settings, as described in the Summary Table. In order to exercise any other privacy rights not specifically enumerated here you may contact security-privacy@together.ai.
 
 **California  
 **This Statement applies solely to residents of California or individuals whose information has been collected in California. The Company has adopted and included this notice to comply with the California Consumer Privacy Act of 2018 (“CCPA”). Any terms used in this Statement that are defined in the CCPA have the same meaning given therein.
@@ -155,7 +155,7 @@ Do Not Sell Opt-Out Rights
 You have the right to opt-out of any sales, as defined by the CCPA, of Personal Information by the Company. However, the Company does not sell your information.
 
 EXERCISING YOUR RIGHTS  
-To exercise your access, data portability, and deletion or do not sell opt-out rights described above, you may submit a verifiable consumer request by any of the following means: By email to privacy@together.ai.
+To exercise your access, data portability, and deletion or do not sell opt-out rights described above, you may submit a verifiable consumer request by any of the following means: By email to security-privacy@together.ai.
 
 You may only make a verifiable consumer request for access or data portability up to two times within a 12-month period. You may make a verifiable do not sell opt-out request at any time. Any such request must: (i) provide sufficient information that allows Us to reasonably verify that you are the person about whom we collected personal information or an authorized representative thereof; and (ii) describe your request with sufficient detail such that we may understand, evaluate, and respond to it. The Company cannot respond to your request or provide you with personal information if we cannot verify your identity or authority to make the request and confirm the personal information relates to you. Making a verifiable consumer request does not require you to create an account with the Company. The Company will only use personal information provided in a verifiable consumer request to verify the requestor’s identity or authority to make the request. Only you or a person registered with the California Secretary of State that you authorize to act on your behalf may make a verifiable consumer request related to your Personal Information. You may also make a verifiable consumer request on behalf of your minor child.
 
@@ -178,7 +178,7 @@ Do Not Sell Opt-Out Rights
 You have the right to opt-out of any sales, as defined by the CCPA, of Personal Information by the Company. However, the Company does not sell your information.
 
 EXERCISING YOUR RIGHTS  
-To exercise your access, data portability, and deletion or do not sell opt-out rights described above, you may submit a verifiable consumer request by any of the following means: By email to privacy@together.ai.
+To exercise your access, data portability, and deletion or do not sell opt-out rights described above, you may submit a verifiable consumer request by any of the following means: By email to security-privacy@together.ai.
 
 You may only make a verifiable consumer request for access or data portability up to two times within a 12-month period. You may make a verifiable do not sell opt-out request at any time. Any such request must: (i) provide sufficient information that allows Us to reasonably verify that you are the person about whom we collected personal information or an authorized representative thereof; and (ii) describe your request with sufficient detail such that we may understand, evaluate, and respond to it. The Company cannot respond to your request or provide you with personal information if we cannot verify your identity or authority to make the request and confirm the personal information relates to you. Making a verifiable consumer request does not require you to create an account with the Company. The Company will only use personal information provided in a verifiable consumer request to verify the requestor’s identity or authority to make the request. Only you or a person registered with the California Secretary of State that you authorize to act on your behalf may make a verifiable consumer request related to your Personal Information. You may also make a verifiable consumer request on behalf of your minor child.
 
