@@ -13,8 +13,8 @@ Thank you for choosing OpenAI!
 
 These Business Terms are an agreement between OpenAI, L.L.C. and you (“**Customer**”) that governs your use of our Services (as defined below). If you reside within a European Economic Area country or Switzerland, your agreement is with OpenAI Ireland Ltd. By signing up to use the Services, you agree to be bound by these Business Terms. You represent to us that you are lawfully able to enter into contracts and, if you are entering into these Business Terms for an entity, that you have legal authority to bind that entity. These Business Terms also refer to and incorporate the [Service Terms⁠](https://openai.com/policies/service-terms/), [Sharing & Publication Policy⁠](https://openai.com/policies/sharing-publication-policy/), [Usage Policies⁠](https://openai.com/policies/usage-policies/), and any other guidelines or policies we may provide in writing (the “**OpenAI Policies**”) and any ordering document signed by you and OpenAI or OpenAI webpage that you use to purchase the Services (an “**Order Form**”) (collectively, the “**Agreement**”).
 
-1\. Services.
--------------
+1\. Services
+------------
 
 1.1 _Use of Services_. We grant you a non-exclusive right to access and use the Services during the Term (as defined below). This includes the right to use OpenAI’s application programming interfaces (“**APIs**”) to integrate the Services into your applications, products, or services (each a “**Customer Application**”) and to make Customer Applications available to End Users (as defined below). “**Services**” means any services for businesses and developers we make available for purchase or use, along with any of our associated software, tools, developer services, documentation, and websites, but excluding any Third Party Offering.
 
