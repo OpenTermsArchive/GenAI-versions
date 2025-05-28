@@ -1,6 +1,6 @@
 Privacy Policy
 
-_Effective 7 May 2025_
+_Effective 27 May 2025_
 
 **Welcome to Mistral AI!** We know that your privacy is important, and we're committed to protecting it. This Privacy Policy explains, in a clear and simple way, how we collect, use, and protect your personal data when you use our generative AI Mistral AI Products such as Le Chat or La Plateforme (the "**Mistral AI Products**").
 
@@ -56,7 +56,8 @@ _Effective 7 May 2025_
 |     |     |     |
 | --- | --- | --- |
 | **Why we use your personal data** | **Categories of personal data** | **Lawful basis** |
-| **To provide and maintain the Mistral AI Products provided to you under the conditions set forth in our Terms of Service** | Your Civil Identity Data<br><br>Your Account Data <br><br>Your Contract Data<br><br>Your Technical Data<br><br>Your Input, Output and Feedback<br><br>Your Usage Data. _Please note that we use part of your IP address to make your experience better, such as, for instance, to provide you with more accurate Outputs depending on where you use our Mistral AI Products. You can opt-out of this processing at any time through your user preferences on your Mistral AI Account._ | The performance of the contract between you and Mistral AI |
+| **To provide and maintain the Mistral AI Products provided to you under the conditions set forth in our Terms of Service and any applicable Additional Terms** | Your Civil Identity Data<br><br>Your Account Data <br><br>Your Contract Data<br><br>Your Technical Data<br><br>Your Input, Output and Feedback<br><br>Your Usage Data. _Please note that we use part of your IP address to make your experience better, such as, for instance, to provide you with more accurate Outputs depending on where you use our Mistral AI Products. You can opt-out of this processing at any time through your user preferences on your Mistral AI Account._ | The performance of the contract between you and Mistral AI |
+| **Debugging** | Your Input, Output and Feedback | The performance of the contract between you and Mistral AI. |
 | **To create and administer your Mistral AI Account** | Your Civil Identity Data<br><br>Your Account Data<br><br>Your Contract Data | The performance of the contract between you and Mistral AI. |
 | **To provide customer support, including debugging and fixing errors reported by you** | Your Civil Identity Data<br><br>Your Contact Data<br><br>Your Feedback<br><br>Your Input and Output | The performance of the contract between you and Mistral AI. |
 | **To manage the security and integrity of the Mistral AI Products** | Your Civil Identity Data<br><br>Your Account Data <br><br>Your Technical Data <br><br>Your Contact Data<br><br>Your Usage Data | To comply with our legal obligations.<br><br>Our legitimate interests in managing the security and integrity of the Mistral AI Products. |
@@ -76,14 +77,16 @@ When you visit our website, we use cookies (small text files stored on your devi
 5\. How long do we keep your personal data?
 -------------------------------------------
 
-We store your personal data only as long as needed for the purposes described in Section 3 of this Privacy Policy. For instance, we retain your:
+We store your personal data only as long as needed for the purposes described in Section 3 of this Privacy Policy. You will find the main applicable retention periods below, for illustrative purposes: 
 
-* **Input/Output & Feedback on Le Chat:** until you delete your account or until you delete the conversation from Le Chat. Subject to your opt-out, we de-identify such data before using it to train our artificial intelligence models. 
-* **Input/Output On La Plateforme:** we keep your Input and Output for the period necessary to generate the Output and then for 30 rolling days to monitor abuse (unless zero data retention is activated); we keep your fine-tuning data until you delete it from La Plateforme or until you delete your account.
+* **Data we use to provide Le Chat to you:** we keep your Input and Output until you delete your account or until you delete the conversation from Le Chat. 
+* **Data we use to provide our APIs to you:** 
+    * Except for specific APIs, we keep your Input and Output for the period necessary to generate the Output and then for thirty (30) rolling days to monitor abuse (unless zero data retention is activates). 
+    * If you use our Agents API, we keep your Input and Output until you terminate your account. 
+    * If you use our Fine-Tuning API, we keep your fine-tuning data until you delete it from La Plateforme or until you terminate your account. 
 * **Non-essential cookies data:** only as long as you consent to their use.
 * **Your contact data (used for marketing operations):** only as long as you are subscribed to our newsletter.
 * **Leads identity and contact data:** for 3 years from collection.
-* **B2B customer data:** for the duration of the contract and for three years following the termination of the contract
 
 Sometimes, we may keep your data longer to comply with our legal obligations and/or for legal proceedings, as detailed below. Please note that the categories of personal data we retain longer will not be accessed or used by any member of our teams during their legal keeping periods, except to fulfill our legal obligations or in case of dispute or litigation (e.g. to recover an unpaid invoice). Once the legal retention periods have expired, we will permanently delete these categories of data.
 
