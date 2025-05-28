@@ -17,7 +17,7 @@ These Terms of Use (“Terms”) apply to your use of ChatGPT, DALL·E, and Open
 
 Our [Business Terms⁠](https://openai.com/policies/business-terms/) govern use of ChatGPT Enterprise, our APIs, and our other services for businesses and developers.
 
-Our [Privacy Policy⁠](https://openai.com/policies/privacy-policy/) explains how we collect and use personal information. Although it does not form part of these Terms, it is an important document that you should read.
+Our [Privacy Policy⁠](https://openai.com/policies/eu-privacy-policy/) explains how we collect and use personal information. Although it does not form part of these Terms, it is an important document that you should read.
 
 Who we are
 ----------
