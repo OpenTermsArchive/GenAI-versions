@@ -141,7 +141,7 @@ This OpenAI Services Agreement (“Agreement”) is entered as of the Effective 
 * 16.1. Entire Agreement. This Agreement is the entire agreement between Customer and OpenAI with respect to its subject matter and supersedes all prior or contemporaneous agreements, communications and understandings, whether written or oral. This Agreement hereby incorporates by this reference the OpenAI Policies and relevant Order Forms. Customer agrees that any terms and conditions contained in any purchase order Customer sends to OpenAI will not apply to this Agreement and are null and void.
 * 16.2. Conflicting Terms. If there is a conflict between the documents that make up the Agreement, the documents will control in the following order, the: (a) Order Form; (b) Service-Specific Terms; (c) Agreement; and (d) OpenAI  
     Policies.
-* 16.3. Governing Law. This Agreement will be governed by the Governing Laws, without prejudice to Section 15. All claims arising out of or relating to this Agreement will be brought exclusively in the Venue.
+* 16.3. Governing Law. This Agreement will be governed by the Governing Laws. Without prejudice to Section 15, all claims arising out of or relating to this Agreement will be brought exclusively in the Venue.
 * 16.4. Severability. Unenforceable provisions will be modified to reflect the parties' intention and only to the extent necessary to make them enforceable, and the remaining provisions of the Agreement will remain in full effect.
 * 16.5. Notices. Notices must be sent via email, first class, airmail, or overnight courier and are deemed given when received. Notices to Customer may also be sent to the applicable Account email address and are deemed given when sent. Notices to OpenAI must be sent to OpenAI Legal at [contract-notices@openai.com⁠](mailto:contract-notices@openai.com), with a copy to: (a) if OpenAI, L.L.C., 1455 3rd Street, San Francisco, California 94158; or (b) if OpenAI Ireland Ltd, 1st Floor, The Liffey Trust Centre, 117-126 Sheriff Street Upper, Dublin 1, D01 YC43, Ireland.
 * 16.6. Waiver. A waiver of any default is not a waiver of any subsequent default.
@@ -194,6 +194,8 @@ This OpenAI Services Agreement (“Agreement”) is entered as of the Effective 
 “Documentation” means the documentation OpenAI provides to Customer or otherwise makes publicly available.
 
 “DPA” means the OpenAI data processing addendum at: [https://openai.com/policies/data-processing-addendum](https://openai.com/policies/data-processing-addendum/).
+
+“Effective Date” means the date this Agreement is entered into by the Parties, either by acceptance online, by signing an Order Form referencing the Agreement, or by signing the Agreement itself.
 
 “End User” means any party: (a) who accesses the Services under Customer’s Account; or (b) who uses Customer Applications. End Users may include Customer’s and its Affiliate’s employees, consultants, customers, agents, representatives, students or any other person authorized by Customer to use the Services through Customer’s Account.
 
