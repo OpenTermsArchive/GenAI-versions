@@ -10,6 +10,8 @@ TLDR
 
 * If you enable "Privacy Mode" in Cursor's settings: zero data retention will be enabled, and none of your code will ever be stored or trained on by us or any third-party.
     
+* If you enable "Privacy Mode with storage" in Cursor's settings: we may store some code data to provide extra features. None of your code will ever be trained on by us or any third-party.
+    
 * If you choose to keep "Privacy Mode" off, we collect telemetry, usage data, and codebase data. This includes prompts, editor actions, code snippets, files in the repository, and edits made to this code. We use this data to evaluate and improve our AI features. If you completed onboarding prior to version 0.49.0, we never store or learn from your full codebase.
     
 * With "Privacy Mode" off, if you use autocomplete, [Fireworks](https://fireworks.ai/) (our inference provider) may also collect prompts to improve inference speed.
