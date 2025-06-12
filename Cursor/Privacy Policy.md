@@ -1,20 +1,18 @@
-Privacy Policy
-==============
+Data Use & Privacy Overview
+===========================
 
 If you have any questions or feedback, please email us at [hi@cursor.com](mailto:hi@cursor.com)!
 
 * * *
 
-TLDR
-----
+Here’s how your data is handled based on the privacy settings you choose in Cursor:
+-----------------------------------------------------------------------------------
 
 * If you enable "Privacy Mode" in Cursor's settings: zero data retention will be enabled, and none of your code will ever be stored or trained on by us or any third-party.
     
 * If you enable "Privacy Mode with storage" in Cursor's settings: we may store some code data to provide extra features. None of your code will ever be trained on by us or any third-party.
     
-* If you choose to keep "Privacy Mode" off, we collect telemetry, usage data, and codebase data. This includes prompts, editor actions, code snippets, files in the repository, and edits made to this code. We use this data to evaluate and improve our AI features. If you completed onboarding prior to version 0.49.0, we never store or learn from your full codebase.
-    
-* With "Privacy Mode" off, if you use autocomplete, [Fireworks](https://fireworks.ai/) (our inference provider) may also collect prompts to improve inference speed.
+* If you choose to keep "Privacy Mode" off, we collect telemetry, usage data, and codebase data. This includes prompts, editor actions, code snippets, files in the repository, and edits made to this code. We use this data to evaluate and improve our AI features. If you completed onboarding prior to version 0.49.0, we never store or learn from your full codebase. If you use autocomplete, [Fireworks](https://fireworks.ai/) (our inference provider) may also collect prompts to improve inference speed.
     
 
 ### Other notes
@@ -26,7 +24,12 @@ TLDR
 * We temporarily cache file contents on our servers to reduce latency and network usage. The files are encrypted using unique client-generated keys, and these encryption keys only exist on our servers for the duration of a request. All cached file contents are temporary, never permanently stored, and never used as training data when privacy mode is enabled.
     
 
-View Full Policy
+For more information about how your data is handled, see our full Privacy Policy, below.
+
+View Full Privacy Policy
+
+Privacy Policy
+==============
 
 Last updated November 8, 2024
 
