@@ -1,10 +1,10 @@
-Plugins and Actions Terms | OpenAI
+Connectors and actions terms | OpenAI
 
 Select language
 
 Updated: June 4, 2025
 
-Connectors and Actions Terms
+Connectors and actions terms
 ============================
 
 1\. Introduction
