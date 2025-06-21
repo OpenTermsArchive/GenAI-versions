@@ -97,10 +97,9 @@ This OpenAI Services Agreement (“Agreement”) is entered as of the Effective 
 --------------------------
 
 * 11.1. Agreement Term. The Agreement will remain in effect for the Term.
-* 11.2. Termination. Either Party may terminate this Agreement, including all Order Forms, upon written notice if the  
-    other party: (a) materially breaches this Agreement and fails to cure the breach within thirty days after receipt of written notice; or (b) ceases its business operations or becomes subject to insolvency proceedings.
+* 11.2. Termination. Either Party may terminate this Agreement, including all Order Forms, upon written notice if the other party: (a) materially breaches this Agreement and fails to cure the breach within thirty days after receipt of written notice; or (b) ceases its business operations or becomes subject to insolvency proceedings.
 * 11.3. Effects of Termination. If this Agreement terminates: (a) the rights granted by OpenAI to Customer will cease immediately; and (b) OpenAI will delete all Customer Content from its systems within thirty days, unless: (i) OpenAI is legally required to retain it; or (ii) Customer has agreed otherwise in writing. Termination or expiration will not affect any rights or obligations, including the payment of amounts due, which have accrued under this Agreement up to the date of termination. In addition, except for a termination by Customer for cause, if this Agreement terminates any unpaid minimum commitment amounts set forth on the Order form will become immediately due. Despite anything to the contrary in this Agreement, OpenAI may retain Abusive Customer Content, or, if Customer’s access to the Services is suspended via Section 8 or terminated via Section 11, share information related to Abusive Customer Content, as required by law, or as reasonably necessary to protect the Services or any third party from harm.
-* 11.4. Survival. The following provisions will survive termination or expiration of the Agreement: 6.2 (Payment), 9 (IP Rights), 11.3 (Effects of Termination), 11.4 (Survival), 12 (Warranties; Disclaimers), 13 (Indemnification), 14 (Limitation of Liability), 16 (Miscellaneous).
+* 11.4. Survival. The following provisions will survive termination or expiration of the Agreement: 6.2 (Payment), 7 (Confidentiality), 9 (IP Rights), 11.3 (Effects of Termination), 11.4 (Survival), 12 (Warranties; Disclaimers), 13 (Indemnification), 14 (Limitation of Liability), 16 (Miscellaneous). 
 
 12\. Warranties; Disclaimer.
 ----------------------------
