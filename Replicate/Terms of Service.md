@@ -1,5 +1,5 @@
-[Terms of service](#terms-of-service)
--------------------------------------
+Terms of service
+----------------
 
 Last Update: 2025-02-10
 
