@@ -122,7 +122,7 @@ We implement commercially reasonable technical and organizational measures desig
 
 Depending on where you live and the laws that apply in your country of residence, you may have certain rights in relation to your personal data. These may include the right to access, delete, correct, or transfer your personal data; to object to or restrict how we process it; or to withdraw your consent where processing is based on consent. You may also have the right to lodge a complaint with your local data protection authority.
 
-To exercise any of these rights, you or your authorized agent may contact us at [legal@cursor.com](mailto:legal@cursor.com). We may request information to verify your identity before processing your request. If we deny your request, you may appeal by emailing the same address. Anysphere will not discriminate against you for exercising any privacy rights available under applicable law.
+To exercise any of these rights, you or your authorized agent may contact us at [hi@cursor.com](mailto:hi@cursor.com). We may request information to verify your identity before processing your request. If we deny your request, you may appeal by emailing the same address. Anysphere will not discriminate against you for exercising any privacy rights available under applicable law.
 
 The rights available to you may include:
 
@@ -175,4 +175,4 @@ We may update this Privacy Policy from time to time. When we do, we will publish
 9\. Contacting us
 -----------------
 
-We encourage you to contact us at [legal@cursor.com](mailto:legal@cursor.com) if you have any questions about this Privacy Policy.
+We encourage you to contact us at [hi@cursor.com](mailto:hi@cursor.com) if you have any questions about this Privacy Policy.
