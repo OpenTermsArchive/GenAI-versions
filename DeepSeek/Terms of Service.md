@@ -1,7 +1,3 @@
-Other language versions →
-
-[日本語 (ja-JP)](https://cdn.deepseek.com/policies/ja-JP/deepseek-terms-of-use.html) [한국어 (ko-KR)](https://cdn.deepseek.com/policies/ko-KR/deepseek-terms-of-use.html)
-
 DeepSeek Terms of Use
 =====================
 
