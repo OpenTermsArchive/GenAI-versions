@@ -93,19 +93,27 @@ BY USING THE SERVICE YOU AGREE NOT TO:
     
 2. purchase Credits with cryptocurrency when the source of funds for the cryptocurrency constitute proceeds of a financial or other crime under applicable law;
     
-3. violate, or encourage others to violate, any right of a third party, including by infringing or misappropriating any third-party intellectual property right;
+3. create a false identity, misrepresent your identity, or create multiple accounts as a single user, for purposes of bypassing or circumventing use limits on the Site or Service or for any other reason;
     
-4. post, upload, or distribute any Input or other content that is unlawful, or is not in compliance with the Terms of Service for the AI Model or Provider you are using;
+4. develop, support or use software, devices, scripts, robots or any other means or processes (such as crawlers, browser plugins, add-ons or any other automated technology) to scrape or copy any information on the Site or the Services;
     
-5. interfere with security-related features of the Service, including by: (a) disabling or circumventing features that prevent or limit use or copying of any content; or (b) reverse engineering or otherwise attempting to discover the source code of any portion of the Service except to the extent that the activity is expressly permitted by applicable law;
+5. bypass any technical measures implemented by OpenRouter that are designed to prevent scraping;
     
-6. interfere with the operation of the Service or any user’s enjoyment of the Service, including by: (a) uploading or otherwise disseminating any virus, adware, spyware, worm, or other malicious code; (b) making any unsolicited offer or advertisement to another user of the Service; (c) attempting to collect personal information about another user or third party without consent; or (d) interfering with or disrupting any network, equipment, or server connected to or used to provide the Service, or violating any regulation, policy, or procedure of any such network, equipment, or server;
+6. violate, or encourage others to violate, any right of a third party, including by infringing or misappropriating any third-party intellectual property right;
     
-7. perform any fraudulent activity including impersonating any person or entity, claiming a false affiliation, accessing any other Service account without permission, or falsifying your age or date of birth;
+7. post, upload, or distribute any Input or other content that is unlawful, or is not in compliance with the Terms of Service for the AI Model or Provider you are using;
     
-8. sell or otherwise transfer the access granted under these Terms or any Materials (as defined in Section 10) or any right or ability to view, access, or use any Material; or
+8. violate the Terms of Service for the AI Model or Provider you are using;
     
-9. attempt to do any of the acts described in this Section 6, or assist or permit any person in engaging in any of the acts described in this Section 6.
+9. interfere with security-related features of the Service, including by: (a) disabling or circumventing features that prevent or limit use or copying of any content; or (b) reverse engineering or otherwise attempting to discover the source code of any portion of the Service except to the extent that the activity is expressly permitted by applicable law;
+    
+10. interfere with the operation of the Service or any user’s enjoyment of the Service, including by: (a) uploading or otherwise disseminating any virus, adware, spyware, worm, or other malicious code; (b) making any unsolicited offer or advertisement to another user of the Service; (c) attempting to collect personal information about another user or third party without consent; or (d) interfering with or disrupting any network, equipment, or server connected to or used to provide the Service, or violating any regulation, policy, or procedure of any such network, equipment, or server;
+    
+11. perform any fraudulent activity including impersonating any person or entity, claiming a false affiliation, accessing any other Service account without permission, or falsifying your age or date of birth;
+    
+12. sell or otherwise transfer the access granted under these Terms or any Materials (as defined in Section 10) or any right or ability to view, access, or use any Material; or
+    
+13. attempt to do any of the acts described in this Section 6, or assist or permit any person in engaging in any of the acts described in this Section 6.
     
 
 ### 7\. Termination of Use; Discontinuation and Modification of the Service.
