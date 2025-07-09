@@ -151,9 +151,9 @@ To exercise your rights, you or your authorized agent may submit a request by em
 
 ### 5\. Data Security
 
-We have implemented measures designed to secure your personal data from accidental loss and from unauthorized access, use, alteration and disclosure. All personal data you provide to us is stored on our secure servers behind firewalls. 
+We implement and maintain physical, technical and administrative security measures designed to protect Your Data from accidental loss and from unauthorized access, use, alteration and disclosure. All personal data you provide to us is stored on our secure servers behind firewalls.
 
-The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Site, you are responsible for keeping this password confidential. You should not share your password with anyone. 
+The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Site, you are responsible for keeping this password confidential. You should not share your password with anyone.
 
 Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal data, we cannot guarantee the security of your personal data transmitted to our Site. Any transmission of personal data is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Site.
 
@@ -163,7 +163,7 @@ The Site may be linked to, rely on and be integrated with websites, applications
 
 ### 7\. Personal Data Retention
 
-We are subject to applicable laws on the retention of information and will retain your information for as long as is reasonably necessary to comply with our business and legal obligations and to meet regulatory and compliance requirements. When the personal data we have collected is no longer required by us, we and our service providers will perform the necessary procedures for destroying, deleting, erasing or converting it into an anonymous form as permitted or required by applicable laws.
+We are subject to applicable laws on the retention of information and will retain your information for as long as is reasonably necessary to comply with our business and legal obligations and to meet regulatory and compliance requirements. We maintain a compliance program that includes independent third-party audits and certifications. When the personal data we have collected is no longer required by us, we and our service providers will perform the necessary procedures for destroying, deleting, erasing or converting it into an anonymous form as permitted or required by applicable laws.
 
 ### 8\. Eligibility
 
