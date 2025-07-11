@@ -125,11 +125,13 @@ Data importer(s):
 
 Name: OpenAI OpCo, LLC
 
-Address: 3180 18th St., San Francisco, CA 94110
+Address: 1455 3rd Street, San Francisco, CA 94158
 
-Contact Person’s name, position and contact details:
+Contact Person’s name, position and contact details: 
 
-Head of Commercial [Legalprivacy@openai.comActivities⁠](mailto:Legalprivacy@openai.comActivities) relevant to the data transferred under these Clauses: The performance of the services described in the agreement to which this is attached.
+Head of Commercial Legal, [privacy@openai.com⁠](mailto:privacy@openai.com)
+
+Activities⁠ relevant to the data transferred under these Clauses: The performance of the services described in the agreement to which this is attached.
 
 Signature and date:    
 
