@@ -10,12 +10,12 @@ Contact email address: [contact@mistral.ai](mailto:contact@mistral.ai).
 Publication owner
 -----------------
 
-The publication director of the website at https://www.mistral.ai/ is Arthur Mensch, Chief Executive Officer of Mistral AI.
+The publication director of the website at https://mistral.ai/ is Arthur Mensch, Chief Executive Officer of Mistral AI.
 
 Hosting
 -------
 
-The company tasked with hosting the https://www.mistral.ai/ website is Vercel Inc, 650 California St, San Francisco, CA 94108, US.
+The company tasked with hosting the https://mistral.ai/ website is Vercel Inc, 650 California St, San Francisco, CA 94108, US.
 
                                                                    ...::-=-.                  
                                                          ..:::-----------*%%*-:               
