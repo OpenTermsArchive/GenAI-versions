@@ -3,7 +3,7 @@ Privacy Policy
 
 **PRIVACY POLICY**
 
-**Last updated: June 9, 2025**
+**Last updated: July 17, 2025**
 
 Thank you for choosing to be part of our community at Exafunction, Inc. ("**Company**," "**we**," "**us**," or "**our**"). We are committed to protecting your Personal Information and your right to privacy. If you have any questions or concerns about this Privacy Policy or our practices with regard to your Personal Information, please contact us at [privacy@windsurf.com](mailto:privacy@windsurf.com).
 
@@ -75,6 +75,8 @@ _Log and Usage Information_. Log and usage data is service-related, diagnostic, 
 
 _Prompts and Outputs Information._ Our Services allow you to submit text to the Services (“Prompts”), which generate responses based on your Prompts (“Outputs”). We will collect any information you choose to provide in your Prompts and this information may be reproduced in the Outputs.
 
+_Voice Commands._ Our Services allow you to input your voice to generate Prompts and other text transcriptions. We process your voice audio to convert it into Prompts and other text transcriptions and then discard the audio after the processing is complete. We retain and use audio text transcriptions as Log and Usage Information.
+
 **Information we receive from other sources.**
 
 **_In Short: we may receive your Personal Information from other sources._**
@@ -82,8 +84,6 @@ _Prompts and Outputs Information._ Our Services allow you to submit text to the 
 _Information from Third-party Services._ If you choose to link our Services to a third-party account, we may receive information about you, including your username from the third-party product and information regarding your profile and your use of the third-party account. If you wish to limit the information available to us, you should visit the privacy settings of your third-party accounts to learn about your options.
 
 _Information from Third-party Community-Driven Platforms_. We collect information from forum-based, real-time communications, and other third-party community-driven platforms relating to opinions and user experiences with respect our products.
-
-_Voice Commands._ Our Services allow you to input instructions via voice commands. We process your voice audio to convert it into text instructions and then discard the audio after the processing is complete.
 
 **2\. HOW DO WE USE YOUR PERSONAL INFORMATION?**
 
