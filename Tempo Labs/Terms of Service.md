@@ -92,10 +92,6 @@ You may cancel your subscription at any time via your account settings. Upon can
 
 Tempo subscriptions are billed monthly and can be upgraded, downgraded, or reactivated at any time from your dashboard.
 
-Assistant
-
-Responses are generated using AI and may contain mistakes.
-
 Was this page helpful?
 
 YesNo
