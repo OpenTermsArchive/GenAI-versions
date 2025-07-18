@@ -306,10 +306,6 @@ Contact Information
 
 Tempo welcomes your comments and questions regarding this Policy and the collection and use of your information. If you have questions or concerns, please email us at [support@tempolabs.ai](mailto:support@tempolabs.ai).
 
-Assistant
-
-Responses are generated using AI and may contain mistakes.
-
 Was this page helpful?
 
 YesNo
