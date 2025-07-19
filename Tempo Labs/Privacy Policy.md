@@ -10,13 +10,7 @@ Tempo Privacy Policy
 Tempo Labs Privacy Policy
 ============================================================
 
-**Last updated: October 31, 2024**
-
-Tempo Labs Inc., together with its affiliates (“Tempo”, “we”, “our” or “us”), provides UI/UX software development tools (collectively, the “Services”). This Privacy Policy (“Policy”) describes how we collect, use, disclose and protect information from and about you through the Services, our website [https://www.tempolabs.ai/](https://www.tempolabs.ai/), any other website or mobile application that links to this Policy (the “Site”), and any other interactions (e.g., customer service and other communications) that you may have with Tempo.
-
-PLEASE READ THIS POLICY CAREFULLY TO UNDERSTAND HOW WE HANDLE YOUR INFORMATION. IF YOU DO NOT AGREE TO THIS POLICY, PLEASE DO NOT USE THE SERVICES.
-
-This Policy contains the following sections:
+**Last updated: October 31, 2024** Tempo Labs Inc., together with its affiliates (“Tempo”, “we”, “our” or “us”), provides UI/UX software development tools (collectively, the “Services”). This Privacy Policy (“Policy”) describes how we collect, use, disclose and protect information from and about you through the Services, our website [https://www.tempolabs.ai/](https://www.tempolabs.ai/), any other website or mobile application that links to this Policy (the “Site”), and any other interactions (e.g., customer service and other communications) that you may have with Tempo. PLEASE READ THIS POLICY CAREFULLY TO UNDERSTAND HOW WE HANDLE YOUR INFORMATION. IF YOU DO NOT AGREE TO THIS POLICY, PLEASE DO NOT USE THE SERVICES. This Policy contains the following sections:
 
 * Scope of this Policy
 * The Information We Collect
@@ -86,9 +80,7 @@ The types of data we collect directly from you include:
 
 Information We Collect Through Automated Means
 
-When you use our Site or Services, we and our service providers (who are third parties that perform services on our behalf) automatically collect certain information about your device and how you use the Site or Services, including your IP address, browser type, browser language, operating system, the state or country from which you accessed the Site or Services, software and hardware attributes (including device IDs), number of clicks, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time you used the Site or Services, and other similar information. From your IP address, we may be able to infer your general location (e.g., city/state or postal code).
-
-To collect this information, we and our service providers may use “cookies” or similar tools that track, measure, and analyze the behaviors and usage patterns of our users. Cookies are small data files that can be stored on your browser and device so we can recognize you when you return. We use cookies for analytics purposes, to deliver certain features of the Site or Services, to help us understand how users engage with the Site or Services, and to improve your experience. You may set your web browser to notify you when you receive a cookie and to accept or refuse certain cookies. However, if you elect not to accept cookies, some functionality and areas of the Site or Services may be restricted. To learn how to manage your cookies, please follow the instructions from your specific browser, or if accessing the Site or Services via a mobile device, refer to the manufacturer’s instructions.
+When you use our Site or Services, we and our service providers (who are third parties that perform services on our behalf) automatically collect certain information about your device and how you use the Site or Services, including your IP address, browser type, browser language, operating system, the state or country from which you accessed the Site or Services, software and hardware attributes (including device IDs), number of clicks, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time you used the Site or Services, and other similar information. From your IP address, we may be able to infer your general location (e.g., city/state or postal code). To collect this information, we and our service providers may use “cookies” or similar tools that track, measure, and analyze the behaviors and usage patterns of our users. Cookies are small data files that can be stored on your browser and device so we can recognize you when you return. We use cookies for analytics purposes, to deliver certain features of the Site or Services, to help us understand how users engage with the Site or Services, and to improve your experience. You may set your web browser to notify you when you receive a cookie and to accept or refuse certain cookies. However, if you elect not to accept cookies, some functionality and areas of the Site or Services may be restricted. To learn how to manage your cookies, please follow the instructions from your specific browser, or if accessing the Site or Services via a mobile device, refer to the manufacturer’s instructions.
 
 ### 
 
@@ -96,9 +88,7 @@ To collect this information, we and our service providers may use “cookies” 
 
 Information We Collect From Others
 
-From time to time, we may collect information about you from other sources, including our affiliates, marketing vendors, and third-party databases. We use this information to supplement the information that we collect directly from you and for any of the purposes described in the next section.
-
-When you “like” or “follow” us on Facebook, LinkedIn, Twitter or other social media sites, we may collect some information from you including your name, email address, and any comments or content you post relevant to us.
+From time to time, we may collect information about you from other sources, including our affiliates, marketing vendors, and third-party databases. We use this information to supplement the information that we collect directly from you and for any of the purposes described in the next section. When you “like” or “follow” us on Facebook, LinkedIn, Twitter or other social media sites, we may collect some information from you including your name, email address, and any comments or content you post relevant to us.
 
 * * *
 
@@ -276,9 +266,7 @@ The CCPA allows you to make certain requests about your personal information. Sp
 * Delete certain personal information we have about you.
 * Provide you with information about the financial incentives that we offer to you, if any.
 
-The CCPA further provides you with the right not to be discriminated against (as provided for in applicable law) for exercising your rights. Please note that certain information may be exempt from such requests under California law. For example, we need certain information to provide the Services to you. We also will take reasonable steps to verify your identity before responding to a request. If we are unable to verify you, we shall have the right, but not the obligation, to request additional information from you.
-
-If you would like further information regarding your legal rights under California law or would like to exercise any of them, or if you are an authorized agent making a request on a California consumer’s behalf, please contact us using the contact information provided below.
+The CCPA further provides you with the right not to be discriminated against (as provided for in applicable law) for exercising your rights. Please note that certain information may be exempt from such requests under California law. For example, we need certain information to provide the Services to you. We also will take reasonable steps to verify your identity before responding to a request. If we are unable to verify you, we shall have the right, but not the obligation, to request additional information from you. If you would like further information regarding your legal rights under California law or would like to exercise any of them, or if you are an authorized agent making a request on a California consumer’s behalf, please contact us using the contact information provided below.
 
 #### 
 
