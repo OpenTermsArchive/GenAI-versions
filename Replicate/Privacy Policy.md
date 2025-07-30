@@ -98,7 +98,7 @@ You can exercise these rights by contacting Replicate at [privacy@replicate.com]
 
 ### Online Tracking Technologies and How To Opt Out
 
-We use a limited number of pixel tags and cookies to measure the analytics and performance of our website. Your browser lets you remove or reject cookies, including our analytics cookies at any time. For more information about cookies, including how to see what cookies have been set on your device and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+We use a limited number of pixel tags and cookies to measure the analytics and performance of our website. Your browser lets you remove or reject cookies, including our analytics cookies at any time. For more information about cookies, including how to see what cookies have been set on your device and how to manage and delete them, visit [www.allaboutcookies.org](https://www.allaboutcookies.org/).
 
 1. **U.S. State-Specific Notice**
 
