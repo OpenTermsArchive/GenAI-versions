@@ -1,5 +1,7 @@
 Data processing addendum | OpenAI
 
+Select language
+
 Updated: February 15, 2024
 
 Data processing addendum
