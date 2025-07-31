@@ -1,7 +1,3 @@
-EU terms of use | OpenAI
-
-Select language
-
 Updated: April 29, 2025
 
 Europe Terms of Use
@@ -80,7 +76,7 @@ Content
 
 **Similarity of content.** Due to the nature of our Services and artificial intelligence generally, Output may not be unique and other users may receive similar output from our Services. Our assignment above does not extend to other users’ output or any Third Party Output. 
 
-**Our use of content.** We can use your Content worldwide to provide, maintain, develop, and improve our Services, comply with applicable law, enforce our terms and policies and keep our Services safe. If you're using ChatGPT through Apple's integrations, see [this Help Center article⁠⁠(opens in a new window)](https://help.openai.com/en/articles/9737562) for how we handle your Content.
+**Our use of content.** We can use your Content worldwide to provide, maintain, develop, and improve our Services, comply with applicable law, enforce our terms and policies and keep our Services safe. If you're using ChatGPT through Apple's integrations, see [this Help Center article⁠⁠](https://help.openai.com/en/articles/9737562) for how we handle your Content.
 
 **Content moderation.** We use automated systems and human review to identify and address content that violates our Terms, including our Usage Policies. If we become aware of violations, we may remove or restrict content, limit your access to features, or suspend or terminate your account.
 
@@ -113,18 +109,18 @@ Paid accounts
 
 **Service credits.** You can pay for some Services in advance by purchasing service credits. All service credits are subject to our [Service credit terms⁠](https://openai.com/policies/service-credit-terms/).
 
-**Cooling off period.** You are entitled to cancel your purchase and request a refund without stating the reason during the 14 days following the date of your purchase (the “**Cooling Off Period**”). The refund will cover the relevant subscription fee prorated from the date you request cancellation to the end of the relevant subscription period you have paid for. To cancel and request a refund please [contact Support⁠(opens in a new window)](https://help.openai.com/en/articles/6614161-how-can-i-contact-support) or fill out and send us the [model withdrawal form⁠](https://openai.com/form/model-withdrawal/), or alternatively you may complete the model withdrawal form as described under _**Termination and Suspension**_ below.
+**Cooling off period.** You are entitled to cancel your purchase and request a refund without stating the reason during the 14 days following the date of your purchase (the “**Cooling Off Period**”). The refund will cover the relevant subscription fee prorated from the date you request cancellation to the end of the relevant subscription period you have paid for. To cancel and request a refund please [contact Support⁠](https://help.openai.com/en/articles/6614161-how-can-i-contact-support) or fill out and send us the [model withdrawal form⁠](https://openai.com/form/model-withdrawal/), or alternatively you may complete the model withdrawal form as described under _**Termination and Suspension**_ below.
 
-**Cancellation.** Following the Cooling Off Period, you can [cancel⁠(opens in a new window)](https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-plus-subscription) your paid subscription at any time by updating your account settings. You will not be charged after you cancel your paid subscription. You will continue to have access to the Benefits until the end of the subscription period you have paid for, at which point your cancellation will become effective. Unless we specify otherwise, you will not receive a refund or service credit for any days between the day you cancel and the last day of the subscription period you have paid for.
+**Cancellation.** Following the Cooling Off Period, you can [cancel⁠](https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-plus-subscription) your paid subscription at any time by updating your account settings. You will not be charged after you cancel your paid subscription. You will continue to have access to the Benefits until the end of the subscription period you have paid for, at which point your cancellation will become effective. Unless we specify otherwise, you will not receive a refund or service credit for any days between the day you cancel and the last day of the subscription period you have paid for.
 
 **Changes.** We may change our prices from time to time. If we increase our subscription prices, we will give you at least 30 days’ notice and any price increase will take effect on your next renewal so that you can cancel if you do not agree to the price increase.
 
 Termination and suspension
 --------------------------
 
-**Your rights**. You can stop using our Services and end your relationship with OpenAI at any time by simply closing your account and stopping your use of the Services. Instructions for how to do this are available [here⁠⁠(opens in a new window)](https://help.openai.com/en/articles/6378407-how-to-delete-your-account).
+**Your rights**. You can stop using our Services and end your relationship with OpenAI at any time by simply closing your account and stopping your use of the Services. Instructions for how to do this are available [here⁠⁠](https://help.openai.com/en/articles/6378407-how-to-delete-your-account).
 
-**EEA consumer withdrawal right**. If you are an EEA-based consumer, you can close your account and withdraw from these Terms within 14 days of accepting them by [contacting Support⁠(opens in a new window)](https://help.openai.com/en/articles/6614161-how-can-i-contact-support) or filling out and sending us the [model withdrawal form⁠](https://openai.com/form/model-withdrawal/).
+**EEA consumer withdrawal right**. If you are an EEA-based consumer, you can close your account and withdraw from these Terms within 14 days of accepting them by [contacting Support⁠](https://help.openai.com/en/articles/6614161-how-can-i-contact-support) or filling out and sending us the [model withdrawal form⁠](https://openai.com/form/model-withdrawal/).
 
 **OpenAI rights**. We may take action to restrict, suspend, or terminate your access to our Services or close your account if we determine, acting reasonably and objectively:
 
@@ -135,7 +131,7 @@ Termination and suspension
 
 **Notice**. If we terminate your account, we will make reasonable efforts to notify you in advance so you can export your Content or your data from the Services, unless it is not appropriate for us to do so, we reasonably believe that continued access to your account will cause damage to OpenAI or anyone else, or we are legally prohibited from doing so.
 
-**Appeals**. If you believe we have suspended or terminated your account in error, you can file an appeal with us by [contacting Support⁠⁠(opens in a new window)](https://help.openai.com/en/articles/6614161-how-can-i-contact-support).
+**Appeals**. If you believe we have suspended or terminated your account in error, you can file an appeal with us by [contacting Support⁠⁠](https://help.openai.com/en/articles/6614161-how-can-i-contact-support).
 
 Our commitments to you
 ----------------------
@@ -151,16 +147,16 @@ We do not take responsibility for loss or damage caused by events beyond our rea
 
 **Statutory rights**. You have certain statutory rights that cannot be limited or excluded by a contract like these Terms or that you are legally entitled to, for example, by virtue of being a consumer. These Terms are in no way intended to affect or restrict those rights.
 
-**EEA consumer guarantee**. If you are an EEA-based consumer, then EEA consumer laws provide you with a legal guarantee covering the Services. If you have any questions about your legal guarantee, please [contact Support⁠(opens in a new window)](https://help.openai.com/en/articles/6614161-how-can-i-contact-support).
+**EEA consumer guarantee**. If you are an EEA-based consumer, then EEA consumer laws provide you with a legal guarantee covering the Services. If you have any questions about your legal guarantee, please [contact Support⁠](https://help.openai.com/en/articles/6614161-how-can-i-contact-support).
 
 Dispute resolution
 ------------------
 
-**Concerns**. If we have a dispute, we would first like to understand and try to address your concerns before any formal legal action. To share your concerns you can contact us through this [form⁠(opens in a new window)](https://docs.google.com/forms/d/e/1FAIpQLSe6iKNzSYs6mc8CRR1EIGk1yzh9S6BhJUperYaWr5FaElrk0g/viewform).
+**Concerns**. If we have a dispute, we would first like to understand and try to address your concerns before any formal legal action. To share your concerns you can contact us through this [form⁠](https://docs.google.com/forms/d/e/1FAIpQLSe6iKNzSYs6mc8CRR1EIGk1yzh9S6BhJUperYaWr5FaElrk0g/viewform).
 
 **Court**. If we cannot resolve our dispute, you or we can go to your local courts.
 
-**EEA consumer alternative dispute resolution**. If you reside in the EEA, you can also raise the dispute with an alternative dispute resolution body via the European Commission’s Online Dispute Resolution (ODR) Platform, which you can access at [https://ec.europa.eu/consumers/odr⁠(opens in a new window)](https://ec.europa.eu/consumers/odr).
+**EEA consumer alternative dispute resolution**. If you reside in the EEA, you can also raise the dispute with an alternative dispute resolution body via the European Commission’s Online Dispute Resolution (ODR) Platform, which you can access at [https://ec.europa.eu/consumers/odr⁠](https://ec.europa.eu/consumers/odr).
 
 Copyright complaints
 --------------------
@@ -218,3 +214,83 @@ OPENAI’S AFFILIATES, SUPPLIERS, LICENSORS, AND DISTRIBUTORS ARE INTENDED THIRD
 **Indemnity**. If you are a business or organisation, to the extent permitted by law, you will indemnify and hold harmless us, our affiliates, and our personnel, from and against any costs, losses, liabilities, and expenses (including attorneys’ fees) from third party claims arising out of or relating to your use of the Services and Content or any violation of these Terms.
 
 **Governing law (business use)**. California law will govern these Terms except for its conflicts of laws principles. All claims arising out of or relating to these Terms will be brought exclusively in the federal or state courts of San Francisco, California.
+
+Updated: June 4, 2025
+
+Service terms
+=============
+
+These Service Terms govern your use of the Services. Capitalized terms not defined here will have the meanings in the Terms of Use, [the OpenAI Services Agreement](https://openai.com/policies/services-agreement/), or other agreement you have with us governing your use of the Services (“Agreement”). If there is a conflict between the Service Terms and your Agreement, the Service Terms will control. For purposes of these Terms, “Content” includes “Customer Content.”
+
+1\. API
+-------
+
+OpenAI’s indemnification obligations to API customers under the Agreement include any third party claim that Customer’s use or distribution of Output infringes a third party’s intellectual property right. This indemnity does not apply where: (i) Customer or Customer’s End Users knew or should have known the Output was infringing or likely to infringe, (ii) Customer or Customer’s End Users disabled, ignored, or did not use any relevant citation, filtering or safety features or restrictions provided by OpenAI, (iii) Output was modified, transformed, or used in combination with products or services not provided by or on behalf of OpenAI, (iv) Customer or its End Users did not have the right to use the Input or fine-tuning files to generate the allegedly infringing Output, (v) the claim alleges violation of trademark or related rights based on Customer’s or its End Users’ use of Output in trade or commerce, and (vi) the allegedly infringing Output is from content from a Third Party Offering.
+
+Customer will only, and will ensure that its End Users only, use APIs in accordance with the applicable documentation at [https://platform.openai.com/docs⁠](https://platform.openai.com/docs).
+
+2\. Beta Services
+-----------------
+
+This section governs your use of services or features that OpenAI offers on an alpha, preview, early access, or beta basis (“Beta Services”). Beta Services are offered “as-is” to allow testing and evaluation and are excluded from any indemnification obligations OpenAI may have to you.
+
+OpenAI makes no representations or warranties for Beta Services, including any warranty that Beta Services will be generally available, uninterrupted or error-free, or that Content will be secure or not lost or damaged. Except to the extent prohibited by law, OpenAI expressly disclaims all warranties for Beta Services, including any implied warranties of merchantability, satisfactory quality, fitness for a particular purpose, non-infringement, or quiet enjoyment, and any warranties arising out of any course of dealing or usage of trade.
+
+3\. ChatGPT Enterprise and Team
+-------------------------------
+
+(a) **Administrators**. ChatGPT Enterprise and Team accounts are managed by End Users with administrative privileges (“Administrators”). Administrators may be able to add, remove and suspend End Users’ access to the organization’s workspace. In addition, ChatGPT Enterprise Administrators may be able to (a) access, share and remove Content; and (b) access logging and information about End Users’ use of ChatGPT Enterprise. Customers are responsible for obtaining and maintaining all necessary consents from End Users to take the actions above and to allow OpenAI to deliver the Services.
+
+(b) **Output indemnity**. OpenAI’s indemnification obligations to ChatGPT Enterprise customers under the Agreement include claims that Customer’s use or distribution of Output infringes a third party’s intellectual property right. This indemnity does not apply where: (i) Customer or Customer’s End Users knew or should have known the Output was infringing or likely to infringe, (ii) Customer or Customer’s End Users disabled, ignored, or did not use any relevant citation, filtering or safety features or restrictions provided by OpenAI, (iii) Output was modified, transformed, or used in combination with products or services not provided by or on behalf of OpenAI, (iv) Customer or its End Users did not have the right to use the Input or fine-tuning files to generate the allegedly infringing Output, (v) the claim alleges violation of trademark or related rights based on Customer’s or its End Users’ use of Output in trade or commerce, and (vi) the allegedly infringing Output is from content from a Third Party Offering.
+
+4\. Codex and Code Generation
+-----------------------------
+
+Output generated by code generation features of our Services, including [OpenAI Codex⁠](https://openai.com/index/openai-codex/), may be subject to third party licenses, including, without limitation, open source licenses.
+
+5\. GPTs
+--------
+
+Users can create and share access to their own customized versions of ChatGPT called “GPTs”.
+
+For Builders of GPTs:
+
+(a) **GPT Content**. The information or content that you upload to or include with your GPT (for example your GPT name, instructions, and description) (“GPT Content”) is your Content. As between you and OpenAI, you are solely responsible for your GPT Content, Actions, and configurations that you use or enable to create your GPT as well as any Output that is based on your GPT Content, Actions, and configurations. You must ensure your GPT complies with the Agreement and our [Usage Policies⁠](https://openai.com/policies/usage-policies/).
+
+(b) **Distribution and Promotion of GPTs**. By sharing your GPT with others, you grant a nonexclusive, worldwide, irrevocable, royalty-free license: (i) to OpenAI to use, test, store, copy, translate, display, modify, distribute, promote, and otherwise make available to other users all or any part of your GPT (including GPT Content); and (ii) to the extent Output from your GPT includes your GPT Content, to users of your GPT to use, store, copy, display, distribute, prepare derivative works of and otherwise use your GPT Content. You will ensure that all information that you publish about your GPT is, at all times, complete, accurate, and not misleading.
+
+(c) **Actions**. Any API, website, or service that interacts with a GPT (an “Action”) is subject to our [Connectors and Actions Terms](https://openai.com/policies/connectors-actions-terms/)⁠ and you are responsible for ensuring that any Action included with your GPT operates in compliance with those terms.
+
+(d) **Removal**. We may reject or remove any GPT from our Services at any time for any reason without notice to you, such as for legal or security reasons or if your GPT violates our Terms.  
+
+For Users of GPTs:
+
+(a) **Third Party GPTs**. Except where OpenAI is identified as the builder of a GPT, GPTs are created by other users and they may rely on content or third party applications that are not controlled by OpenAI. Use of “GPT” in the name of a GPT created by other users does not imply that OpenAI created, supports or endorses the GPT. Only use GPTs that you know and trust.
+
+(b) **Abuse Reporting**. You can report GPTs that violate our [Usage Policies⁠](https://openai.com/policies/usage-policies/) using our reporting feature within ChatGPT.
+
+(c) **Actions**. GPTs may allow you to interact with Actions. Those Actions are subject to our terms for Connectors and Actions below.
+
+(d) **Changes and Removal**. OpenAI and creators of GPTs can remove GPTs at any time for any reason without prior notice.
+
+6\. Image and Video Capabilities
+--------------------------------
+
+Our models can accept images and videos as part of Inputs to the Services (“Visual Capabilities”). You may not use Visual Capabilities to assist in identifying a person nor to solicit or infer private or sensitive information about a person. You may not use Visual Capabilities to reproduce the likeness of any person without express consent and all necessary rights, nor to reproduce the likeness of anyone under 18. By choosing to share an image or video publicly on the Services, such as by sharing it to the Sora explore page, you give OpenAI the right to reproduce, distribute, modify, display and perform it for the purpose of operating and promoting the Services.
+
+7\. Connectors and Actions
+--------------------------
+
+(a) **Overview**. Connectors and Actions (together “Connectors”) allow ChatGPT to send and receive information from a third-party application or website (“Application”). You may take action on an Application through one or more Connectors (for example, to request a reservation on a restaurant’s website). You are solely responsible for the actions you take using Connectors or adding custom Connectors, and you can control whether a Connector is enabled in your workspace. OpenAI may (but will have no obligation to) review, refuse, or remove Applications from ChatGPT. Third-party Connectors are not developed or verified by OpenAI, and may expose you to Applications or content that you may find offensive, inappropriate or objectionable. You agree that you use Connectors at your own risk. DO NOT ADD OR ENABLE A CONNECTOR UNLESS YOU KNOW AND TRUST THE UNDERLYING APPLICATION AND HAVE REVIEWED ITS TERMS AND PRIVACY POLICY.
+
+(b) **Connector Operation and Content.** When you add or enable a Connector, the Services may send applicable portions of your Content and certain information such as your country and state (“Connector Data”) via the Connector to the Application. By using or enabling the Connector, you authorize and instruct us to send your Connector Data to the applicable Application, which will be handled in accordance with its terms. We are not responsible for Connector Data after it has been provided to an Application other than Applications owned by us. The Connector may retrieve information and content from the Application, which may be included in Output you receive from the Services. This information and content included in the Output is not owned by you or OpenAI, and may be subject to the terms of the Application.
+
+8\. Voice Conversations
+-----------------------
+
+Voice conversations is a ChatGPT feature that allows you to speak to our models and have them speak back (“ChatGPT Voice Output”). ChatGPT Voice Output is for non-commercial use only and may not be distributed or repackaged as a standalone audio recording or any other sound file. Any rights in Output assigned to you do not include ChatGPT Voice Output.
+
+9\. Medical Use
+---------------
+
+Our Services are not intended for use in the diagnosis or treatment of any health condition. You are responsible for complying with applicable laws for any use of our Services in a medical or healthcare context.
