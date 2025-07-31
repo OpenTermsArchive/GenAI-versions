@@ -1,7 +1,3 @@
-Data processing addendum | OpenAI
-
-Select language
-
 Updated: February 15, 2024
 
 Data processing addendum
@@ -193,7 +189,7 @@ OpenAI’s mission is to deploy safe and responsible AI at scale for the benefit
 
 ChatGPT Enterprise is a new OpenAI Service and so certain technical or security measures below apply differently to ChatGPT Enterprise; in each case that difference is noted in _italicized_ language. “ChatGPT Enterprise” is the version of OpenAI’s AI-powered ChatGPT language model that is available to enterprises.
 
-**To learn more about OpenAI’s technical and organizational security measures to protect Customer Data, see the OpenAI Trust Portal at** [**https://trust.openai.com/**⁠(opens in a new window)](https://trust.openai.com/) **(the “Trust Portal”). The Security Measures below include the subset of the information available in the Trust Portal which applies to this DPA.**
+**To learn more about OpenAI’s technical and organizational security measures to protect Customer Data, see the OpenAI Trust Portal at** [**https://trust.openai.com/**⁠](https://trust.openai.com/) **(the “Trust Portal”). The Security Measures below include the subset of the information available in the Trust Portal which applies to this DPA.**
 
 SECURITY MEASURES
 -----------------
@@ -290,4 +286,4 @@ SECURITY MEASURES
 
 **Security Evaluations.** OpenAI performs regular security and vulnerability testing to assess whether key controls are implemented properly and are effective as measured against industry security standards and its policies and procedures and to ensure continued compliance with obligations imposed by law, regulation, or contract with respect to the security of Customer Data as well as the maintenance and structure of OpenAI’s information systems\_.\_
 
-* [Execute Data Processing Agreement(opens in a new window)](https://ironcladapp.com/public-launch/63ffefa2bed6885f4536d0fe)
+* [Execute Data Processing Agreement](https://ironcladapp.com/public-launch/63ffefa2bed6885f4536d0fe)
