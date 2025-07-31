@@ -1,7 +1,3 @@
-Connectors and actions terms | OpenAI
-
-Select language
-
 Updated: June 4, 2025
 
 Connectors and actions terms
