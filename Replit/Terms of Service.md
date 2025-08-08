@@ -1,4 +1,4 @@
-Last updated: June 17, 2025
+Last updated: August 8, 2025
 
 A. Terms of Service
 ===================
@@ -36,7 +36,7 @@ While using the Service, you must not engage in any conduct that is abusive or v
 * Creating accounts with automation or registering accounts in bulk.
 * Conducting network attacks, whether against the Service or against any other party.
 * Mining Bitcoin, other cryptocurrencies, or Cycles.
-* Scraping content, whether for training or extracting data for machine learning models, reverse-engineering any part of the Service, or for any other purpose.
+* Scraping or otherwise obtaining content, whether for training or extracting data for machine learning models, reverse-engineering any part of the Service, or for any other purpose.
 * Infringing the privacy of other users, including by harvesting personal information.
 * Using accounts to evade a ban or penalty from Replit.
 
@@ -67,15 +67,15 @@ When you submit content to the Service, you affirm that you hold all of the righ
 
 To provide the Service, you grant Replit the right to copy, display, distribute, perform, reformat, and modify your content as necessary, and the right to sublicense such rights to any third party provider for the Service.
 
-**2\. Public Repls**
+**2\. Public Apps**
 
-Content you publish as a public Repl is automatically made subject to the [MIT License](https://docs.replit.com/legal-and-security-info/licensing-info), which allows others to view, copy, modify, and distribute your code, on or off platform. Other users may “fork” your public Repls, which will provide them a copy of your Repl that they control. It is your responsibility to ensure that your content is compatible with the MIT License before publishing. If you do not wish to or cannot have your code licensed under the MIT License, you must make it a private Repl, as explained in the [Licensing Information documentation](https://docs.replit.com/legal-and-security-info/licensing-info).
+Content you publish as a public App is automatically made subject to the [MIT License](https://docs.replit.com/legal-and-security-info/licensing-info), which allows others to view, copy, modify, and distribute your code, on or off platform. Other users may “fork” your public Apps, which will provide them a copy of your App that they control. It is your responsibility to ensure that your content is compatible with the MIT License before publishing. If you do not wish to or cannot have your code licensed under the MIT License, you must make it a private App, as explained in the [Licensing Information documentation](https://docs.replit.com/legal-and-security-info/licensing-info).
 
-Content published in public Repls may be used by Replit for improving the Service, including but not limited to developing or training large language models, both during and after the term of this agreement.
+Content published in public Apps may be used by Replit for improving the Service, including but not limited to developing or training large language models, both during and after the term of this agreement.
 
-**3\. Private Repls**
+**3\. Private Apps**
 
-Content in private Repls is not made available to the public and is not used for improving the Service. You may apply specific licensing terms to your code in a Private Repl. However, you also grant Replit the right to right to display, distribute, and modify your content as necessary to provide the Service. Replit reserves the right to access the content of your private Repls for the purpose of troubleshooting, improving our service, and ensuring the safety and security of the Service.
+Content in private Apps is not made available to the public. You may apply specific licensing terms to your code in a Private App. However, you also grant Replit the right to right to display, distribute, and modify your content as necessary to provide the Service. Replit reserves the right to access the content of your private Apps for the purpose of troubleshooting, improving our service, and ensuring the safety and security of the Service.
 
 **4\. Third Party Content**
 
