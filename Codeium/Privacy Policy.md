@@ -3,26 +3,26 @@ Privacy Policy
 
 **PRIVACY POLICY**
 
-**Last updated: July 17, 2025**
+**Last updated: August 11, 2025**
 
 Thank you for choosing to be part of our community at Exafunction, Inc. ("**Company**," "**we**," "**us**," or "**our**"). We are committed to protecting your Personal Information and your right to privacy. If you have any questions or concerns about this Privacy Policy or our practices with regard to your Personal Information, please contact us at [privacy@windsurf.com](mailto:privacy@windsurf.com).
 
 This Privacy Policy describes how we might use your information if you:
 
-* Visit our website at windsurf.com
+* Visit our website at windsurf.com or use any of our other Services, as described further below
 * Engage with us in other related ways ― including any sales, marketing, or events
 
 In this Privacy Policy, if we refer to:
 
 * "**Personal Information**," we are referring to information that alone or in combination with other information in our possession could be used to identify you
-* "**Website**," we are referring to any website of ours that references or links to this policy
+* "**Website**," we are referring to any website of ours that references or links to this policy, including [www.windsurf.com](http://www.windsurf.com/)
 * "**Services**," we are referring to our Website, and other related services, including our downloadable extension, application programming interfaces ("**APIs**"), associated software, tools, developer services, data and documentation
 
 The purpose of this Privacy Policy is to explain to you in the clearest way possible what Personal Information we collect, how we use it, and what rights you have in relation to it. If there are any terms in this Privacy Policy that you do not agree with, please discontinue use of our Services immediately. **By using our Services, you agree to the collection, use, disclosure and procedures this Privacy Policy describes.** Beyond this Privacy Policy, your use of our Services is also subject to our [Terms of Service](https://windsurf.com/terms-of-service-individual).
 
 This Privacy Policy also applies to the residents of certain U.S. states that have enacted comprehensive privacy laws and explains how we collect and process information about you as a controller and how you can exercise your rights under those privacy laws. If you are a resident of California, please also review our [California Resident Privacy Notice](https://codeium.com/california-resident-privacy-notice) for more information about the types of personal information we collect and disclose, as well as how to exercise your rights under California law.
 
-This Privacy Policy does not apply to the extent we process information in the role of a processor or service provider on behalf of our customers (for example, on behalf of your employer). In that context, our customers are the data controllers and their privacy policies will apply to the processing of your personal information. We are not responsible for the privacy or data security practices of our customers, which may differ from those explained in this Privacy Policy.
+We are a data controller with respect to data collected and otherwise processed in connection with our Website and Services. However, in certain circumstances we may agree to process information in the role of a processor or service provider on behalf of our customers (for example, on behalf of your employer). When we act as a processor, this Privacy Policy will not apply to that information, as our customers are the data controllers and their privacy policies will apply to the processing of your personal information. We are not responsible for the privacy or data security practices of our customers, which may differ from those explained in this Privacy Policy.
 
 If you do not provide your Personal Information when requested, you may not be able to use our Services if that Personal Information is necessary to provide you with our Services or if we are legally required to collect it.
 
@@ -51,7 +51,7 @@ If you do not provide your Personal Information when requested, you may not be a
 
 **_In Short: We collect personal information that you provide to us._**
 
-_Registration Information._ We collect Personal Information that you voluntarily provide to us when you register an account on the Website, such as your name, email address, phone number, information regarding your role and work, and password. If you sign up using another account, such as a social media account, we will also receive information from those services such as your name and email address.
+_Registration Information._ We collect Personal Information that you voluntarily provide to us when you register an account on the Website, such as your name, email address, phone number, information regarding your role and work, Github username, and password. If you sign up using another account, such as a social media account, we will also receive information from those services such as your name and email address.
 
 _Communications Information._ We collect Personal Information when you use our Services or otherwise contact us, such as your name, email address, job titles, contact or authentication data, phone numbers, usernames, passwords, newsletter subscription status, and other similar information. When you communicate with us online, third party vendors receive and store these communications on our behalf. The Personal Information that we collect depends on the context of your interactions with us and the Website, the choices you make and the products and features you use.
 
@@ -69,11 +69,11 @@ We automatically collect certain information when you visit, use or navigate our
 
 Like many businesses, we also collect information through cookies and similar technologies.
 
-The information we collect includes:
+The information we collect when you use our Services includes:
 
 _Log and Usage Information_. Log and usage data is service-related, diagnostic, usage and performance information our servers automatically collect when you access or use our Services, and which we record in log files. Depending on how you interact with us, this log data may include your IP address, device information, browser and/or integrated development environment (IDE) type and settings, operating system, and information about your activity (such as the features you have enabled and/or used and the numbers and frequencies of actions and date/time stamps associated with your usage, pages and files viewed, searches, chats sent, commands triggered or accepted, characters written, and other actions you take such as which features you use), device event information (such as system activity, error reports (sometimes called 'crash dumps') and hardware settings).
 
-_Prompts and Outputs Information._ Our Services allow you to submit text to the Services (“Prompts”), which generate responses based on your Prompts (“Outputs”). We will collect any information you choose to provide in your Prompts and this information may be reproduced in the Outputs.
+_Prompts and Outputs Information._ Our Services allow you to submit text to the Services ("Prompts"), which generate responses based on your Prompts ("Outputs"). We will collect any information you choose to provide in your Prompts and this information may be reproduced in the Outputs. Prompts and Outputs may constitute or contain Personal Information, depending on how it is associated with your account and other information we maintain about you.
 
 _Voice Commands._ Our Services allow you to input your voice to generate Prompts and other text transcriptions. We process your voice audio to convert it into Prompts and other text transcriptions and then discard the audio after the processing is complete. We retain and use audio text transcriptions as Log and Usage Information.
 
@@ -129,6 +129,7 @@ More specifically, we may process your data or disclose your personal informatio
 * **Analytics Partners**. We use analytics services such as Google Analytics to collect and process certain analytics data. These services may also collect information about your use of other websites, apps, and online resources. You can learn more about Google’s practices by visiting [https://www.google.com/policies/privacy/partners/](https://www.google.com/policies/privacy/partners/). We may disclose Log and Usage Data to these providers.
 * **As Required By Law and Similar Disclosures**. We may access, preserve, and disclose any categories of Personal Information described in Section 1 if we believe doing so is required or appropriate to comply with law enforcement requests and legal process, such as a court order or subpoena, respond to your requests, or protect your, our, or others’ rights, property, or safety.
 * **Consent**. We may also disclose any categories of Personal Information described in Section 1 with your permission.
+* **Your employer or related organization** - If you create an account using an email address belonging or relating to your employer or another organization, we may share the fact that you have an account and certain Registration Information (such as your email address) with your employer or organization to, for example, enable you to be added to their business or enterprise account. In addition, administrators of any enterprise or business account may be able to access certain information associated with your account, including your Prompts and Output Information, and be able to control your account and such information.
 
 **5\. TO WHOM WILL YOUR PERSONAL INFORMATION BE DISCLOSED?**
 
