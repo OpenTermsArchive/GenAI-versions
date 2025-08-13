@@ -1,5 +1,3 @@
-…
-
 Updated: February 15, 2024
 
 Data processing addendum
