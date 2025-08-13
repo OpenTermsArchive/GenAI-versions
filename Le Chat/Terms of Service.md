@@ -1,7 +1,8 @@
 Terms of Service
 
 If you're based in **France**, click [here](https://mistral.ai/fr/terms#terms-of-service).  
-If you're based in **Italy**, click [here](https://mistral.ai/it/terms#termini-di-servizio). 
+If you're based in **Italy**, click [here](https://mistral.ai/it/terms#termini-di-servizio).   
+If you're based in **Belgium**, click [here](https://mistral.ai/be/terms). 
 
 _Effective 27 May 2025_ 
 
