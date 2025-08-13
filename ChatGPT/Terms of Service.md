@@ -1,5 +1,3 @@
-…
-
 Updated: April 29, 2025
 
 Europe Terms of Use
@@ -216,8 +214,6 @@ OPENAI’S AFFILIATES, SUPPLIERS, LICENSORS, AND DISTRIBUTORS ARE INTENDED THIRD
 **Indemnity**. If you are a business or organisation, to the extent permitted by law, you will indemnify and hold harmless us, our affiliates, and our personnel, from and against any costs, losses, liabilities, and expenses (including attorneys’ fees) from third party claims arising out of or relating to your use of the Services and Content or any violation of these Terms.
 
 **Governing law (business use)**. California law will govern these Terms except for its conflicts of laws principles. All claims arising out of or relating to these Terms will be brought exclusively in the federal or state courts of San Francisco, California.
-
-…
 
 Updated: June 4, 2025
 
