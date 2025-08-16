@@ -3,6 +3,8 @@ Cookie Policy
 
 Effective March 19, 2024
 
+English
+
 Anthropic is an AI safety and research company working to build reliable, interpretable, and steerable AI systems.
 
 This policy provides information about how and when we, our service providers, and our business partners use cookies, beacons, pixels, or similar technologies (“cookies”). For more information about cookies, see [https://www.aboutcookies.org/cookie-faq](https://www.aboutcookies.org/cookie-faq). Terms used in this policy but not defined here have their meaning set forth in our [Privacy Policy](https://www.anthropic.com/legal/privacy), which also includes additional details about the collection and use of information at Anthropic.
