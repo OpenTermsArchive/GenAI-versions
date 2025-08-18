@@ -279,7 +279,7 @@ Mistral AI may update these measures at any time, subject to Section 5 (Security
 |     |
 | --- |
 | ![Logo for Microsoft Azure](/logos/azure.microsoft.com)<br><br>Microsoft Azure<br><br>•<br><br>Cloud Infrastructure<br><br>Sweden, Norway<br><br>Products: Le Chat, La Plateforme, Mistral Code |
-| ![Logo for Google Cloud Platform](/logos/cloud.google.com)<br><br>Google Cloud Platform<br><br>•<br><br>Cloud Infrastructure<br><br>Ireland, United States<br><br>Products: Le Chat, La Plateforme (US API) |
+| ![Logo for Google Cloud Platform](/logos/cloud.google.com)<br><br>Google Cloud Platform<br><br>•<br><br>Cloud Infrastructure<br><br>Netherlands, United States<br><br>Products: Le Chat, La Plateforme (US API) |
 | ![Logo for Stripe](/logos/stripe.com)<br><br>Stripe<br><br>•<br><br>Payment and Billing<br><br>United States<br><br>Products: All Products under a paid subscription |
 | ![Logo for Lago](/logos/www.getlago.com)<br><br>Lago<br><br>•<br><br>Billing<br><br>EEA<br><br>Products: All Products under a paid subscription |
 | ![Logo for Blackforest Labs](/logos/Blackforest%20Labs)<br><br>Blackforest Labs<br><br>•<br><br>Image Generation<br><br>United States<br><br>Products: Le Chat, Agents API |
