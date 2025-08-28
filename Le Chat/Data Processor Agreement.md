@@ -278,17 +278,17 @@ Mistral AI may update these measures at any time, subject to Section 5 (Security
 
 |     |
 | --- |
-| ![Logo for Microsoft Azure](/logos/azure.microsoft.com)<br><br>Microsoft Azure<br><br>•<br><br>Cloud Infrastructure<br><br>Sweden, Norway<br><br>Products: Le Chat, La Plateforme, Mistral Code |
-| ![Logo for Google Cloud Platform](/logos/cloud.google.com)<br><br>Google Cloud Platform<br><br>•<br><br>Cloud Infrastructure<br><br>Netherlands, United States<br><br>Products: Le Chat, La Plateforme (US API) |
-| ![Logo for Stripe](/logos/stripe.com)<br><br>Stripe<br><br>•<br><br>Payment and Billing<br><br>United States<br><br>Products: All Products under a paid subscription |
-| ![Logo for Lago](/logos/www.getlago.com)<br><br>Lago<br><br>•<br><br>Billing<br><br>EEA<br><br>Products: All Products under a paid subscription |
-| ![Logo for Blackforest Labs](/logos/Blackforest%20Labs)<br><br>Blackforest Labs<br><br>•<br><br>Image Generation<br><br>United States<br><br>Products: Le Chat, Agents API |
-| ![Logo for Brave](/logos/brave.com)<br><br>Brave<br><br>•<br><br>Web Search<br><br>United States<br><br>Products: Le Chat, Agents API |
-| ![Logo for Cerebras](/logos/www.cerebras.ai)<br><br>Cerebras<br><br>•<br><br>Flash Answers<br><br>United States<br><br>Products: Le Chat |
+| ![Logo for Microsoft Inc.](/logos/azure.microsoft.com)<br><br>Microsoft Inc.<br><br>•<br><br>Cloud Infrastructure<br><br>Sweden, Norway<br><br>Products: Le Chat, La Plateforme, Mistral Code |
+| ![Logo for Google LLC](/logos/cloud.google.com)<br><br>Google LLC<br><br>•<br><br>Cloud Infrastructure<br><br>Netherlands, United States<br><br>Products: Le Chat, La Plateforme (US API) |
+| ![Logo for Stripe Inc.](/logos/stripe.com)<br><br>Stripe Inc.<br><br>•<br><br>Payment and Billing<br><br>United States<br><br>Products: All Products under a paid subscription |
+| ![Logo for Get Lago Corp.](/logos/www.getlago.com)<br><br>Get Lago Corp.<br><br>•<br><br>Billing<br><br>Ireland<br><br>Products: All Products under a paid subscription |
+| ![Logo for Blackforest Labs Inc.](/logos/bfl.ai)<br><br>Blackforest Labs Inc.<br><br>•<br><br>Image Generation<br><br>United States<br><br>Products: Le Chat, Agents API |
+| ![Logo for Brave Software, Inc.](/logos/brave.com)<br><br>Brave Software, Inc.<br><br>•<br><br>Web Search<br><br>United States<br><br>Products: Le Chat, Agents API |
+| ![Logo for Cerebras Systems Inc.](/logos/www.cerebras.ai)<br><br>Cerebras Systems Inc.<br><br>•<br><br>Flash Answers<br><br>United States<br><br>Products: Le Chat |
 | ![Logo for Foundrylabs, Inc. ](/logos/e2b.dev)<br><br>Foundrylabs, Inc.<br><br>•<br><br>Code Interpreter (E2B.dev)<br><br>France, Belgium, Netherlands<br><br>Product: Le Chat, Agents API |
-| Intercom<br><br>•<br><br>User support<br><br>EEA<br><br>Products: All Products |
-| ![Logo for Kong](/logos/konghq.com)<br><br>Kong<br><br>•<br><br>Security (API)<br><br>EEA<br><br>Products: La Plateforme |
-| ![Logo for Ory](/logos/www.ory.sh)<br><br>Ory<br><br>•<br><br>User Authentication<br><br>EEA<br><br>Products: All Products |
-| ![Logo for Merge.dev](/logos/www.merge.dev)<br><br>Merge.dev<br><br>•<br><br>Connectors on Le Chat - Transfer ACL and data from the third-party service to le Chat<br><br>United States<br><br>Products: Le Chat. Merge will not process your data unless you activate the connectors feature on Le Chat. |
-| ![Logo for Resend](/logos/resend.com)<br><br>Resend<br><br>•<br><br>Email communications<br><br>Ireland<br><br>Products: All products |
-| ![Logo for Twilio](/logos/www.twilio.com)<br><br>Twilio<br><br>•<br><br>Phone number verification<br><br>United States<br><br>Products: All Products |
+| Intercom Inc.<br><br>•<br><br>User support<br><br>Ireland<br><br>Products: All Products |
+| ![Logo for Kong Inc.](/logos/konghq.com)<br><br>Kong Inc.<br><br>•<br><br>Security (API)<br><br>EEA<br><br>Products: La Plateforme |
+| ![Logo for Ory Corp.](/logos/www.ory.sh)<br><br>Ory Corp.<br><br>•<br><br>User Authentication<br><br>Belgium, Germany<br><br>Products: All Products |
+| ![Logo for Merge API Inc.](/logos/www.merge.dev)<br><br>Merge API Inc.<br><br>•<br><br>Connectors on Le Chat - Transfer ACL and data from the third-party service to le Chat<br><br>United States<br><br>Products: Le Chat. Merge will not process your data unless you activate the connectors feature on Le Chat. |
+| ![Logo for Plus Five Five, Inc. (Resend)](/logos/resend.com)<br><br>Plus Five Five, Inc. (Resend)<br><br>•<br><br>Email communications<br><br>Ireland<br><br>Products: All products |
+| ![Logo for Twilio Inc.](/logos/www.twilio.com)<br><br>Twilio Inc.<br><br>•<br><br>Phone number verification<br><br>United States<br><br>Products: All Products |
