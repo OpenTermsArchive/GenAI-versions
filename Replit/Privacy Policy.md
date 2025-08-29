@@ -134,14 +134,6 @@ We use a variety of technical, organizational, and physical safeguards designed 
 
 Our Services are directed to a general audience and are not directed to children under the age of 13. By agreeing to our Privacy Policy and Terms of Service, you represent that you are allowed to use our Services according to your country’s applicable age limits. If we learn that a child is under the age of 13 in the United States, or is under the applicable age requirement in another jurisdiction, we will take reasonable steps to obtain parental consent or delete the user’s personal information from our files as soon as is practicable. Please contact us at [privacy@replit.com](mailto:privacy@replit.com) if you believe that a user has provided us with representations in violation of this Privacy Policy.
 
-**COPPA compliance**
-
-Under our free [Teams for Education](https://replit.com/site/teams-for-education) product, we offer verified educators the opportunity to create limited Replit accounts for students who are under the age of 13, by creating a private invite link for these students. When an account is created using this private invite link, we do not collect personal information from the account holder such as their name or email address, but only a username that does not include their real name, and persistent identifiers such as IP address and cookie data to support the internal operations of our Services. For more information, see [this blog post](https://blog.replit.com/education-privacy).
-
-**FERPA compliance**
-
-FERPA protects “personally identifiable information” contained in students’ education records from unauthorized disclosure. Consistent with FERPA, we will use education records, as defined under FERPA, for the purpose of providing agreed services to a school, school district or teacher. We use or share FERPA-protected information only as directed or permitted by the school, school district, teacher, or under FERPA. If a parent or eligible student requests access to education records that are hosted on our servers, we will help facilitate such access. For more information, see our [U.S. Student Data Protection Addendum](https://docs.replit.com/teams-edu/us-student-dpa) and our [Student Privacy Notice](https://replit.com/site/studentprivacy).
-
 **Notice at collection**
 
 The following table summarizes the categories of “personal information” (as defined under relevant state laws cited below) that we collect from and about you, the purposes for which we use each category, and the third parties to which we share each category for a business purpose. Please find this information in the following chart and see the various sections above in this Privacy Policy for more information on each category.
