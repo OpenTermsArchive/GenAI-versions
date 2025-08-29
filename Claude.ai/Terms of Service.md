@@ -1,7 +1,9 @@
 Consumer Terms of Service
 =========================
 
-Effective May 1, 2025[Previous Version](https://www.anthropic.com/legal/archive/2b400cb2-20c8-4e0d-925f-2b3f7f80dc01)
+Effective September 28, 2025[Previous Version](https://www.anthropic.com/legal/archive/ce2bf436-0a91-4da2-a756-b2289fc755cd)
+
+Note: This policy is effective on September 28, 2025 or the date you acknowledge these updated Terms within our Services (if earlier).
 
 **Welcome to Anthropic! Before you access our services, please read these Terms of Service.**
 
@@ -48,10 +50,11 @@ You may not access or use, or help another person to access or use, our Services
 2. To develop any products or services that compete with our Services, including to develop or train any artificial intelligence or machine learning algorithms or models or resell the Services.
 3. To decompile, reverse engineer, disassemble, or otherwise reduce our Services to human-readable form, except when these restrictions are prohibited by applicable law.
 4. To crawl, scrape, or otherwise harvest data or information from our Services other than as permitted under these Terms.
-5. To use our Services or Materials to obtain unauthorized access to any system or information or to deceive any person.
+5. To use our Services, the Materials, or the Actions to obtain unauthorized access to any system or information or to deceive any person.
 6. To infringe, misappropriate, or violate intellectual property or other legal rights (including the rights of publicity or privacy).
 7. Except when you are accessing our Services via an Anthropic API Key or where we otherwise explicitly permit it, to access the Services through automated or non-human means, whether through a bot, script, or otherwise.
 8. To engage in any other conduct that restricts or inhibits any person from using or enjoying our Services, or that we reasonably believe exposes us—or any of our users, affiliates, or any other third party—to any liability, damages, or detriment of any type, including reputational harms.
+9. To rely upon the Services, the Materials, or the Actions to buy or sell securities or to provide or receive advice about securities, commodities, derivatives, or other financial products or services, as Anthropic is not a broker-dealer or a registered investment adviser under the securities laws of the United States or any other jurisdiction.
 
 You also must not abuse, harm, interfere with, or disrupt our Services, including, for example, introducing viruses or malware, spamming or DDoSing Services, or bypassing any of our systems or protective measures.
 
@@ -70,10 +73,7 @@ You also must not abuse, harm, interfere with, or disrupt our Services, includin
 4. The Services and any Outputs may not reflect correct, current, or complete information.
 5. Outputs may contain content that is inconsistent with Anthropic’s views.
 
-**Our use of Materials.** We may use Materials to provide, maintain, and improve the Services and to develop other products and services. We will not train our models on any Materials that are not publicly available, except in two circumstances:
-
-1. If you provide Feedback to us (through the Services or otherwise) regarding any Materials, we may use that Feedback in accordance with Section 5 (Feedback).
-2. If your Materials are flagged for trust and safety review, we may use or analyze those Materials to improve our ability to detect and enforce [Acceptable Use Policy](https://anthropic.com/aup) violations, including training models for use by our trust and safety team, consistent with Anthropic’s safety mission.
+**Our use of Materials.** We may use Materials to provide, maintain, and improve the Services, including training our models, unless you opt out of training through your account settings. Even if you opt out, we will use Materials for model training when: (1) you provide Feedback to us regarding any Materials, or (2) your Materials are flagged for safety review to improve our ability to detect harmful content, enforce our policies, or advance our safety research.
 
 **Limitations.** Different types of Service (including paid-for Services under a Subscription) may have technical restrictions associated with them, for example, the number of Prompts you may submit to the Service or the number of Outputs you may receive within a certain period of time (“**Technical Limitation**”). For more information about the Technical Limitations for each type of Service offering, see the relevant purchase page on our Website.
 
@@ -109,11 +109,13 @@ d. **Subscription fees.** You will pay the fees, either to us or to the App Dist
 
 e. **Subscription cancellation.** If you subscribed via our website, you may cancel your Subscription at any time by using a method we may provide to you through our products (for example, for Claude Pro, in your customer portal) or by notifying us at [support@anthropic.com](mailto:support@anthropic.com). If you subscribed via an app, you will need to cancel via the distributor according to the App Distributor terms. Learn more [here](https://support.anthropic.com/en/articles/8325617-how-do-i-cancel-my-claude-pro-subscription). To avoid renewal and charges for the next Renewal Term, cancel your subscription at least 24 hours before the last day of the Initial Term or any Renewal Term. In the example above, if you subscribe on January 25th for a Subscription that renews with a one-month Initial Term, you must cancel the Subscription per the instructions by February 23rd (24 hours before February 24th) to avoid renewal and charges for the next Renewal Term. In the event of a cancellation, your fees will not be refunded, but your access to the Services will continue through the end of the Initial Term or any Renewal Term for which you previously paid fees.
 
-f. **Additional cancellation rights.** Unless you have already used the Services, You have a legal right to change your mind and cancel the Subscription within 14 days of entering into the Subscription without giving a reason.
+f. **Additional cancellation rights.** You have a legal right to change your mind and cancel the Subscription within 14 days of entering into the Subscription without giving a reason.
 
 1. To exercise the right to cancel in the 14-day cancellation period, you must inform us of your decision to cancel the Subscription by making a clear statement to us of such decision before the cancellation period has expired. If you purchased your subscription on our website, the easiest way to do this is by cancelling your subscription in the customer portal, or you may contact us at [support@anthropic.com](mailto:support@anthropic.com). We will acknowledge your cancellation, e.g., through our online customer portal or console. For further details on how to cancel, please see [support.anthropic.com](https://support.anthropic.com/).
 2. If you cancel the Subscription under Section 6(f)(1), we will reimburse you all payments received from you for the cancelled Subscription. We will make the reimbursement without undue delay, and not later than 14 days after the day on which we are informed about your decision to cancel the Subscription. We will make the reimbursement using the same means of payment as you used for the initial transaction; you will not incur any fees as a result of the reimbursement.
-3. **If you would like to use the Services during the 14-day cancellation period, you may do so by accessing the Services, but you acknowledge that your right to cancel the Subscription will be lost and you will not be entitled to any refund under Section 6(f)(2). If you have used the Services during the 14-day cancellation period, and wish to cancel the Subscription, you can still do so by following the process in Section (e) above, but you will not be entitled to a refund.**
+3. If you would like to use the Services during the 14-day cancellation period, you may do so by accessing the Services, but you acknowledge that your right to cancel the Subscription will be lost and you will not be entitled to any refund under Section 6(f)(2). If you have used the Services during the 14-day cancellation period, and wish to cancel the Subscription, you can still do so by following the process in Section (e) above, but you will not be entitled to a refund.
+4. The 14-day cancellation period will not reset if you change subscription tiers or cancel and then resubscribe, as you have already had an opportunity to test the Services.
+5. If you are not paying under a subscription billing model, you do not have a right to a refund of unused tokens.
 
 g. **Subscriptions purchased through third parties.** Where you have purchased your Subscription through an App Distributor, your right to cancel under Section 6(f) above will be as set out in the App Distributor’s terms and Section 6(f) will not apply. The App Distributor's terms will set out how to notify the App Distributor that you want to cancel and how any fees will be refunded.
 
