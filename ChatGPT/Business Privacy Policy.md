@@ -5,7 +5,7 @@ Enterprise privacy at OpenAI
 
 ### Our commitments
 
-Our commitments provide you with ownership and control over your business data (inputs and outputs from ChatGPT Team, ChatGPT Enterprise, ChatGPT Edu, and our API Platform) and support for your compliance needs.
+Our commitments provide you with ownership and control over your business data (inputs and outputs from ChatGPT Business, ChatGPT Enterprise, ChatGPT Edu, and our API Platform) and support for your compliance needs.
 
 Ownership
 
@@ -17,7 +17,7 @@ You own and control your data
     
 * You control how long your data is retained (ChatGPT Enterprise)
     
-* You control which internal sources are connected (ChatGPT Team and Enterprise)
+* You control which internal sources are connected (ChatGPT Business and Enterprise)
     
 
 Control
@@ -46,17 +46,17 @@ Comprehensive compliance
 
 ### How can I use OpenAI technology in my business?
 
-The easiest way to get started with OpenAI is to deploy ChatGPT Team or ChatGPT Enterprise for your employees. It’s simple to use and allows anyone in your organization to be productive with AI. If your engineering teams wish to build custom solutions using our technology, try our [API Platform⁠](https://platform.openai.com/docs/introduction).
+The easiest way to get started with OpenAI is to deploy ChatGPT Business or ChatGPT Enterprise for your employees. It’s simple to use and allows anyone in your organization to be productive with AI. If your engineering teams wish to build custom solutions using our technology, try our [API Platform⁠](https://platform.openai.com/docs/introduction).
 
 ### Does OpenAI train its models on my business data?
 
 By default, we do not use your business data for training our models. If you have explicitly opted in to share your data with us (for example, through our opt-in [feedback mechanisms⁠](https://help.openai.com/en/articles/9883556-sharing-model-feedback-through-the-api)) to improve our services, then we may use the shared data to train our models.
 
-### What if I use GPTs in ChatGPT Enterprise, Team, or Edu?
+### What if I use GPTs in ChatGPT Enterprise, Business, or Edu?
 
-Your end users can build and share GPTs internally with each other within your workspace. The same commitments we provide for ChatGPT Enterprise, Team, and Edu also apply to your use of GPTs within those workspaces. Note that if your workspace admins enable GPTs to be shareable with the public, any GPTs that your users choose to publish externally may be subject to additional review. Learn more about [GPTs⁠](https://openai.com/blog/introducing-gpts/).  
+Your end users can build and share GPTs internally with each other within your workspace. The same commitments we provide for ChatGPT Enterprise, Business, and Edu also apply to your use of GPTs within those workspaces. Note that if your workspace admins enable GPTs to be shareable with the public, any GPTs that your users choose to publish externally may be subject to additional review. Learn more about [GPTs⁠](https://openai.com/blog/introducing-gpts/).
 
-### What if I use connectors in ChatGPT Enterprise, Team, or Edu?
+### What if I use connectors in ChatGPT Enterprise, Business, or Edu?
 
 Connectors enable ChatGPT to send and retrieve information from connected internal sources and third-party applications, including to help provide more context for its responses. Your workspace admins can control which connectors are enabled for your workspace. ChatGPT respects your organization’s existing permissions, and each end user is required to authenticate with a connected application before use. We do not train our models on any business data accessed from connectors. Learn more about [connectors⁠](https://help.openai.com/en/articles/11487775).
 
@@ -72,7 +72,7 @@ OpenAI encrypts all data at rest (AES-256) and in transit between our customers 
 
 ### Can OpenAI support my compliance with GDPR and other privacy laws?
 
-Yes, we are able to execute a Data Processing Addendum (DPA) with customers for their use of ChatGPT Team, ChatGPT Enterprise, ChatGPT Edu, and the API in support of their compliance with GDPR and other privacy laws. Please complete our [DPA form⁠](https://ironcladapp.com/public-launch/63ffefa2bed6885f4536d0fe) to execute a DPA with OpenAI.
+Yes, we are able to execute a Data Processing Addendum (DPA) with customers for their use of ChatGPT Business, ChatGPT Enterprise, ChatGPT Edu, and the API in support of their compliance with GDPR and other privacy laws. Please complete our [DPA form⁠](https://ironcladapp.com/public-launch/63ffefa2bed6885f4536d0fe) to execute a DPA with OpenAI.
 
 ### Does OpenAI review my business data?
 
@@ -96,21 +96,21 @@ ChatGPT Enterprise and Edu have each successfully completed a SOC 2 Type 2 audit
 
 Your workspace admins control how long your data is retained. Any deleted conversations are removed from our systems within 30 days, unless we are legally required to retain them. Note that retention enables features like conversation history, and shorter retention periods may compromise product experience.
 
-#### ChatGPT Team FAQ
+#### ChatGPT Business FAQ
 
-### What is ChatGPT Team?
+### What is ChatGPT Business?
 
-Built for teams and small businesses, ChatGPT Team offers collaborative tools and self-serve access to the power of ChatGPT in a dedicated workspace for your team. Learn more about ChatGPT Team.  
+Built for small and growing businesses, ChatGPT Business offers collaborative tools and self-serve access to the power of ChatGPT in a dedicated workspace for your team. [Learn more about ChatGPT Business](https://openai.com/chatgpt/team/).
 
-### Who can view conversations and chat history in ChatGPT Team?
+### Who can view conversations and chat history in ChatGPT Business?
 
 Within your organization, only end users can view their conversations. Workspace admins have control over workspaces and access. Our access to conversations stored on our systems is limited to (1) authorized employees that require access for engineering support, investigating potential platform abuse, and legal compliance and (2) specialized third-party contractors who are bound by confidentiality and security obligations, solely to review for abuse and misuse.
 
-### What compliance standards does ChatGPT Team meet?
+### What compliance standards does ChatGPT Business meet?
 
-ChatGPT Team successfully completed a SOC 2 Type 2 audit. Read more in our [Security Portal⁠](https://trust.openai.com/).
+ChatGPT Business successfully completed a SOC 2 Type 2 audit. Read more in our [Security Portal⁠](https://trust.openai.com/).
 
-### What is OpenAI’s policy on data retention for ChatGPT Team?
+### What is OpenAI’s policy on data retention for ChatGPT Business?
 
 Each of your end users controls whether their conversations are retained. Any deleted or unsaved conversations are removed from our systems within 30 days, unless we are legally required to retain them. Note that retention enables features like conversation history, and shorter retention periods may compromise product experience.
 
@@ -148,4 +148,4 @@ OpenAI trains its models in two stages. First, we learn from a large amount of d
 
 ### What sources of data are used for training OpenAI models?
 
-OpenAI uses data from different places including public sources, licensed third-party data, and information created by human reviewers. We also use data from versions of ChatGPT and DALL·E for individuals. By default, business data from ChatGPT Team, ChatGPT Enterprise, ChatGPT Edu, and the API Platform (after March 1, 2023) isn't used for training our models, unless you have explicitly opted in to share your data with us to improve the services.
+OpenAI uses data from different places including public sources, licensed third-party data, and information created by human reviewers. We also use data from versions of ChatGPT and DALL·E for individuals. By default, business data from ChatGPT Business, ChatGPT Enterprise, ChatGPT Edu, and the API Platform (after March 1, 2023) isn't used for training our models, unless you have explicitly opted in to share your data with us to improve the services.
