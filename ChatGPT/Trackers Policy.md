@@ -1,4 +1,4 @@
-Last updated: July 29, 2025
+Last updated: August 28, 2025
 
 Cookie policy
 =============
@@ -122,29 +122,36 @@ These cookies help us support and understand the efficacy of our marketing effor
 
 | Source | Cookie name | Duration | Purpose | Domain |
 | --- | --- | --- | --- | --- |
-| [LinkedIn⁠⁠](https://www.linkedin.com/legal/l/cookie-table) | li\_fat\_id | 30 days | Marketing measurement | chatgpt.com |
+| [LinkedIn⁠⁠](https://www.linkedin.com/legal/l/cookie-table) | li\_fat\_id | 30 days | Marketing measurement | chatgpt.com  <br>openai.com |
 | [LinkedIn⁠⁠](https://www.linkedin.com/legal/l/cookie-table) | lidc | 24 hours | Marketing measurement | chatgpt.com  <br>openai.com |
 | [LinkedIn⁠⁠](https://www.linkedin.com/legal/l/cookie-table) | li\_gc | 6 months | Marketing measurement | openai.com |
 | [LinkedIn⁠⁠](https://www.linkedin.com/legal/l/cookie-table) | bcookie | 2 years | Marketing measurement | openai.com |
-| [LinkedIn⁠⁠](https://www.linkedin.com/legal/l/cookie-table) | UserMatchHistory | 30 days | Marketing measurement | chatgpt.com |
-| [Linkedin⁠⁠](https://www.linkedin.com/legal/l/cookie-table) | AnalyticsSyncHistory | 30 days | Marketing measurement | chatgpt.com |
-| [LinkedIn⁠⁠](https://www.linkedin.com/legal/l/cookie-table) | li\_sugr | 90 days | Marketing measurement | chatgpt.com |
-| [Google](https://policies.google.com/technologies/partner-sites)⁠⁠⁠ | \_gcl\_au | 90 days | Marketing measurement | openai.com |
-| [Google](https://policies.google.com/technologies/partner-sites)⁠⁠⁠ | \_gcl\_aw | 90 days | Marketing measurement | openai.com |
-| [Google](https://policies.google.com/technologies/partner-sites)⁠⁠⁠ | IDE | 24 months | Marketing measurement | openai.com  <br>chatgpt.com |
-| [Google](https://policies.google.com/technologies/partner-sites)⁠⁠⁠ | ANID | 13 months | Marketing measurement | openai.com  <br>chatgpt.com |
-| [Google](https://policies.google.com/technologies/partner-sites)⁠⁠⁠ | NID | 6 months | Marketing measurement | openai.com  <br>chatgpt.com |
+| [LinkedIn⁠⁠](https://www.linkedin.com/legal/l/cookie-table) | UserMatchHistory | 30 days | Marketing measurement | chatgpt.com  <br>openai.com |
+| [Linkedin⁠⁠](https://www.linkedin.com/legal/l/cookie-table) | AnalyticsSyncHistory | 30 days | Marketing measurement | chatgpt.com  <br>openai.com |
+| [LinkedIn⁠⁠](https://www.linkedin.com/legal/l/cookie-table) | li\_sugr | 90 days | Marketing measurement | chatgpt.com  <br>openai.com |
+| [Google](https://policies.google.com/technologies/partner-sites)⁠⁠⁠ | \_gcl\_au | 90 days | Marketing measurement | chatgpt.com  <br>openai.com |
+| [Google](https://policies.google.com/technologies/partner-sites)⁠⁠⁠ | \_gcl\_aw | 90 days | Marketing measurement | chatgpt.com  <br>openai.com |
+| [Google](https://policies.google.com/technologies/partner-sites)⁠⁠⁠ | IDE | 24 months | Marketing measurement | chatgpt.com  <br>openai.com |
+| [Google](https://policies.google.com/technologies/partner-sites)⁠⁠⁠ | ANID | 13 months | Marketing measurement | chatgpt.com  <br>openai.com |
+| [Google](https://policies.google.com/technologies/partner-sites)⁠⁠⁠ | NID | 6 months | Marketing measurement | chatgpt.com  <br>openai.com |
 | [Google](https://policies.google.com/technologies/partner-sites)⁠⁠⁠ | gclid | 24 hours | Marketing measurement | chatgpt.com  <br>openai.com |
 | [Google](https://policies.google.com/technologies/partner-sites)⁠⁠ | \_glc\_de | 90 days | Marketing measurement | openai.com |
 | [Google](https://policies.google.com/technologies/partner-sites)⁠⁠ | \_glc\_dc | 90 days | Marketing measurement | openai.com |
-| [Facebook⁠⁠](https://www.facebook.com/privacy/policies/cookies/?entry_point=cookie_policy_redirect&entry=0) | fbclid | 24 hours | Marketing measurement | chatgpt.com |
+| [Facebook⁠⁠](https://www.facebook.com/privacy/policies/cookies/?entry_point=cookie_policy_redirect&entry=0) | fbclid | 24 hours | Marketing measurement | chatgpt.com  <br>openai.com |
+| [Facebook⁠⁠](https://www.facebook.com/privacy/policies/cookies/?entry_point=cookie_policy_redirect&entry=0) | \_fbp | 90 days | Marketing measurement | chatgpt.com |
+| [Facebook⁠⁠](https://www.facebook.com/privacy/policies/cookies/?entry_point=cookie_policy_redirect&entry=0) | \_fbc | 90 days | Marketing measurement | chatgpt.com |
+| [Facebook⁠⁠](https://www.facebook.com/privacy/policies/cookies/?entry_point=cookie_policy_redirect&entry=0) | fr  | 90 days | Marketing measurement | chatgpt.com |
+| [Facebook⁠⁠](https://www.facebook.com/privacy/policies/cookies/?entry_point=cookie_policy_redirect&entry=0) | datr | 400 days | Marketing measurement | chatgpt.com |
+| [Facebook⁠⁠](https://www.facebook.com/privacy/policies/cookies/?entry_point=cookie_policy_redirect&entry=0) | wd  | 7 days | Marketing measurement | chatgpt.com |
+| [Facebook⁠⁠](https://www.facebook.com/privacy/policies/cookies/?entry_point=cookie_policy_redirect&entry=0) | sb  | 400 days | Marketing measurement | chatgpt.com |
 | [Reddit⁠⁠](https://www.reddit.com/policies/cookies?rdt=52789) | rdt\_cid | 24 hours | Marketing measurement | chatgpt.com |
 | [Reddit⁠⁠](https://www.reddit.com/policies/cookies?rdt=52789) | \_rdt\_uuid | 90 days | Marketing measurement | chatgpt.com  <br>openai.com |
 | [Reddit⁠⁠](https://www.reddit.com/policies/cookies?rdt=52789) | rdt\_insight | 90 days | Marketing measurement | chatgpt.com |
-| [Reddit⁠⁠](https://www.reddit.com/policies/cookies?rdt=52789) | rdt\_id | 90 days | Marketing measurement | openai.com |
-| [Reddit⁠⁠](https://www.reddit.com/policies/cookies?rdt=52789) | lidc | 24 hours | Marketing measurement | openai.com |
-| [Reddit⁠⁠](https://www.reddit.com/policies/cookies?rdt=52789) | \_reddit\_ads\_sync | 30 days | Marketing measurement | openai.com |
-| [Reddit⁠⁠](https://www.reddit.com/policies/cookies?rdt=52789) | \_reddit\_s\_event | 90 days | Marketing measurement | openai.com |
+| [Reddit⁠⁠](https://www.reddit.com/policies/cookies?rdt=52789) | rdt\_id | 90 days | Marketing measurement | chatgpt.com  <br>openai.com |
+| [Reddit⁠⁠](https://www.reddit.com/policies/cookies?rdt=52789) | lidc | 24 hours | Marketing measurement | chatgpt.com  <br>openai.com |
+| [Reddit⁠⁠](https://www.reddit.com/policies/cookies?rdt=52789) | \_reddit\_ads\_sync | 30 days | Marketing measurement | chatgpt.com  <br>openai.com |
+| [Reddit⁠⁠](https://www.reddit.com/policies/cookies?rdt=52789) | \_reddit\_s\_event | 90 days | Marketing measurement | chatgpt.com  <br>openai.com |
+| [Reddit⁠⁠](https://www.reddit.com/policies/cookies?rdt=52789) | \_rdt\_cid | 90 days | Marketing measurement | openai.com |
 | [TikTok⁠⁠](https://www.tiktok.com/legal/page/global/tiktok-website-cookies-policy/en) | \_ttp | 13 months | Marketing measurement | chatgpt.com |
 | [TikTok⁠⁠](https://www.tiktok.com/legal/page/global/tiktok-website-cookies-policy/en) | ttcsid\_<pixelID> | 30 minutes | Marketing measurement | chatgpt.com |
 | [TikTok⁠⁠](https://www.tiktok.com/legal/page/global/tiktok-website-cookies-policy/en) | ttclid | 13 months | Marketing measurement | chatgpt.com |
