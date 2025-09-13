@@ -2,26 +2,26 @@ Usage policies | OpenAI
 
 Select language
 
-Updated: January 29, 2025
+Effective: January 29, 2025
 
 Usage policies
 ==============
 
-_We’ve updated our usage policies to be more readable and added service-specific guidance. Customers may sign up to receive notifications of new updates to our usage policies by filling out_ [_this form_⁠(opens in a new window)](https://share.hsforms.com/11ElWDMppRveok1ZzEMFmiQ4sk30)_._
+_We’ve updated our usage policies to be more readable and added service-specific guidance. Customers may sign up to receive notifications of new updates to our usage policies by filling out_ [_this form_⁠(opens in a new window)](https://share.hsforms.com/11ElWDMppRveok1ZzEMFmiQ4sk30)_._
 
 We aim for our tools to be used safely and responsibly, while maximizing your control over how you use them. By using our services, you agree to adhere to our policies.
 
-We have established universal policies applicable to all our services, as well as specific policies for builders who use ChatGPT or our API to create applications for themselves or others. Violating our policies could result in action against your account, up to suspension or termination. We also work to make our models safer and more useful, by training them to refuse harmful instructions and reduce their tendency to produce harmful content. 
+We have established universal policies applicable to all our services, as well as specific policies for builders who use ChatGPT or our API to create applications for themselves or others. Violating our policies could result in action against your account, up to suspension or termination. We also work to make our models safer and more useful, by training them to refuse harmful instructions and reduce their tendency to produce harmful content.
 
 We believe that learning from real-world use is a critical component of creating and releasing increasingly safe AI systems. We cannot predict all beneficial or abusive uses of our technology, so we proactively monitor for new abuse trends. Our policies will evolve based on what we learn over time.
 
-Universal Policies
+Universal policies
 ------------------
 
 To maximize innovation and creativity, we believe you should have the flexibility to use our services as you see fit, so long as you comply with the law and don’t harm yourself or others. When using any OpenAI service, like ChatGPT, labs.openai.com, and the OpenAI API, these rules apply:
 
-1. **Comply with applicable laws**—for example, do not: 
-    1. Compromise the privacy of others 
+1. **Comply with applicable laws**—for example, do not:
+    1. Compromise the privacy of others
     2. Engage in regulated activity without complying with applicable regulations
     3. Promote or engage in any illegal activity, including the exploitation or harm of children and the development or distribution of illegal substances, goods, or services
     4. Use subliminal, manipulative, or deceptive techniques that distort a person’s behavior so that they are unable to make informed decisions in a way that is likely to cause harm
@@ -31,17 +31,17 @@ To maximize innovation and creativity, we believe you should have the flexibilit
     8. Evaluate or classify individuals based on their social behavior or personal traits (including social scoring or predictive profiling) leading to detrimental or unfavorable treatment
     9. Assess or predict the risk of an individual committing a criminal offense based solely on their personal traits or on profiling
     10. Infer an individual’s emotions in the workplace and educational settings, except when necessary for medical or safety reasons
-    11. Categorize individuals based on their biometric data to deduce or infer sensitive attributes such as their race, political opinions, religious beliefs, or sexual orientation
-2. **Don’t use our service to harm yourself or others**—for example, don’t use our services to promote suicide or self-harm, develop or use weapons, injure others or destroy property, or engage in unauthorized activities that violate the security of any service or system. 
+    11. Categorize individuals based on their biometric data to deduce or infer sensitive attributes such as their race, political opinions, religious beliefs, or sexual orientation.
+2. **Don’t use our service to harm yourself or others**—for example, don’t use our services to promote suicide or self-harm, develop or use weapons, injure others or destroy property, or engage in unauthorized activities that violate the security of any service or system.
 3. **Don’t repurpose or distribute output from our services to harm others**—for example, don’t share output from our services to defraud, scam, spam, mislead, bully, harass, defame, discriminate based on protected attributes, sexualize children, or promote violence, hatred or the suffering of others.
-4. **Respect our safeguards**—don’t circumvent safeguards or safety mitigations in our services unless supported by OpenAI (e.g., domain experts in our [Red Teaming Network)⁠](https://openai.com/index/red-teaming-network/) or related to research conducted in accordance with our [Sharing & Publication Policy⁠](https://openai.com/policies/sharing-publication-policy/).  
+4. **Respect our safeguards**—don’t circumvent safeguards or safety mitigations in our services unless supported by OpenAI (e.g., domain experts in our Red Teaming Network)⁠ or related to research conducted in accordance with our Sharing & Publication Policy⁠.
 
 We report apparent child sexual abuse material (CSAM) to the National Center for Missing and Exploited Children.
 
 Building with the OpenAI API Platform
 -------------------------------------
 
-The OpenAI Platform allows you to build entirely custom applications. As the developer of your application, you are responsible for designing and implementing how your users interact with our technology. To make this easier, we’ve shared our [Safety best practices⁠(opens in a new window)](https://platform.openai.com/docs/guides/safety-best-practices), and offer tools like our [Moderation Endpoint⁠(opens in a new window)](https://platform.openai.com/docs/guides/moderation) and customizable system messages. 
+The OpenAI Platform allows you to build entirely custom applications. As the developer of your application, you are responsible for designing and implementing how your users interact with our technology. To make this easier, we’ve shared our [Safety best practices⁠(opens in a new window)](https://platform.openai.com/docs/guides/safety-best-practices), and offer tools like our [Moderation Endpoint⁠⁠(opens in a new window)](https://platform.openai.com/docs/guides/moderation) and customizable system messages.
 
 We recognize that our API introduces new capabilities with scalable impact, so we have service-specific policies that apply to all use of our APIs in addition to our Universal Policies:
 
@@ -55,10 +55,10 @@ We recognize that our API introduces new capabilities with scalable impact, so w
     3. Facilitating real money gambling or payday lending
     4. Engaging in political campaigning or lobbying, including generating campaign materials personalized to or targeted at specific demographics
     5. Deterring people from participation in democratic processes, including misrepresenting voting processes or qualifications and discouraging voting
-3. Don’t misuse our platform to cause harm by intentionally deceiving or misleading others, including:
+3. Don’t misuse our platform to cause harm by intentionally deceiving or misleading others, including
     1. Generating or promoting disinformation, misinformation, or false online engagement (e.g., comments, reviews)
     2. Impersonating another individual or organization without consent or legal right
-    3. Engaging in or promoting academic dishonesty 
+    3. Engaging in or promoting academic dishonesty
     4. Failing to ensure that automated systems (e.g., chatbots) disclose to people that they are interacting with AI, unless it's obvious from the context
 4. Don’t build tools that may be inappropriate for minors, including:
     1. Sexually explicit or suggestive content. This does not include content created for scientific or educational purposes.
@@ -92,7 +92,7 @@ Shared GPTs allow you to use ChatGPT to build experiences for others. Because yo
 
 We use a combination of automated systems, human review, and user reports to find and assess GPTs that potentially violate our policies. Violations can lead to actions against the content or your account, such as warnings, sharing restrictions, or ineligibility for inclusion in GPT Store or monetization.
 
-GPT Store
+GPT store
 ---------
 
 We want to make sure that GPTs in the GPT Store are appropriate for all users. For example, GPTs that contain profanity in their names or that depict or promote graphic violence are not allowed in our Store. We also don’t allow GPTs dedicated to fostering romantic companionship or performing regulated activities.
@@ -102,13 +102,13 @@ These policies may be enforced automatically at submission time or applied retro
 Updates
 -------
 
-Customers may sign up to receive notifications of new updates to our usage policies by filling out [this form⁠(opens in a new window)](https://share.hsforms.com/11ElWDMppRveok1ZzEMFmiQ4sk30).
+Customers may sign up to receive notifications of new updates to our usage policies by filling out [this form⁠⁠(opens in a new window)](https://share.hsforms.com/11ElWDMppRveok1ZzEMFmiQ4sk30).
 
 Changelog
 ---------
 
 * 2025-01-29: We've updated our Universal Policies to clarify prohibitions under applicable laws.
-* 2024-01-10:  We've updated our Usage Policies to be clearer and provide more service-specific guidance.
+* 2024-01-10: We've updated our Usage Policies to be clearer and provide more service-specific guidance.
 * 2023-02-15: We’ve combined our use case and content policies into a single set of usage policies, and have provided more specific guidance on what activity we disallow in industries we’ve considered high risk.
 * 2022-11-09: We no longer require you to register your applications with OpenAI. Instead, we'll be using a combination of automated and manual methods to monitor for policy violations.
 * 2022-10-25: Updated App Review process (devs no longer need to wait for approval after submitting as long as they comply with our policies). Moved to an outcomes-based approach and updated Safety Best Practices.
