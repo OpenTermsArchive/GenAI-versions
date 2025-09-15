@@ -8,84 +8,84 @@ An unexpected error has occurred. Try reloading the page or come back later.
 
 Data Security Terms
 
-These Data Security Terms apply when they are expressly incorporated by reference into terms for Meta Products (any such terms, “**Applicable Product Terms**”), such as the [Meta Business Tools Terms](https://www.facebook.com/legal/terms/businesstools), or the [Customer List Custom Audience Terms](https://www.facebook.com/legal/terms/customaudience). Capitalized terms used but not defined in these Data Security Terms have the meanings given in the Applicable Product Terms. These Data Security Terms describe the minimum security standards that Meta maintains applicable to the Meta Products made available under the Applicable Product Terms (“**Applicable Products**”), including the data you send to Meta using the Applicable Products (“**Covered Data**”).
+These Data Security Terms apply when they are expressly incorporated by reference into terms for Meta Products (any such terms, "**Applicable Product Terms**"), such as the [Meta Business Tools Terms](https://www.facebook.com/legal/terms/businesstools), or the [Customer List Custom Audience Terms](https://www.facebook.com/legal/terms/customaudience). Terms used but not defined in these Data Security Terms have the meanings given in the applicable product terms. These Data Security Terms describe the minimum security standards that Meta maintains applicable to the Meta Products made available under the applicable product terms ("**applicable products**"), including the data you send to Meta using the applicable products ("**covered data**").
 
-* **Organization of Information Security.** Meta has personnel responsible for oversight of security of the Applicable Products.
+* **Organisation of information security.** Meta has personnel responsible for oversight of security of the applicable products.
   
-* **Physical and Environmental Security.** Meta’s security measures will include controls designed to provide reasonable assurance that physical access to Meta data centers is limited to authorized persons and that environmental controls are established to detect, prevent, and control destruction due to environmental hazards. The controls will include:
+* **Physical and environmental security.** Meta's security measures will include controls designed to provide reasonable assurance that physical access to Meta data centres is limited to authorised persons and that environmental controls are established to detect, prevent and control destruction due to environmental hazards. The controls will include:
     
-    * Logging and auditing of physical access to the data center by employees and contractors;
-    * Camera surveillance systems at the data center;
-    * Systems that monitor and control the temperature and humidity for the computer equipment at the data center;
-    * Power supply and backup generators at the data center;
-    * Procedures for secure deletion and disposal of data, subject to the Applicable Product Terms; and
-    * Protocols requiring ID cards for entry to all Meta facilities for all personnel working on the Applicable Products.
+    * Logging and auditing of physical access to the data centre by employees and contractors;
+    * Camera surveillance systems at the data centre;
+    * Systems that monitor and control the temperature and humidity for the computer equipment at the data centre;
+    * Power supply and backup generators at the data centre;
+    * Procedures for secure deletion and disposal of data, subject to the applicable product terms; and
+    * Protocols requiring ID cards for entry to all Meta facilities for all personnel working on the applicable products.
     
   
 * **Personnel**
     
-    * Training. Meta will ensure that all personnel with access to Covered Data undergo security training.
-    * Screening and Background Checks. Meta will have a process for:
+    * Training. Meta will ensure that all personnel with access to covered data undergo security training.
+    * Screening and background checks. Meta will have a process for:
         
-        * verifying the identity of the personnel with access to Covered Data; and
-        * performing background checks, where legally permissible, on personnel working on or supporting aspects pertaining to the Applicable Products in accordance with Meta standards.
+        * verifying the identity of the personnel with access to covered data; and
+        * performing background checks, where legally permissible, on personnel working on or supporting aspects pertaining to the applicable products in accordance with Meta standards.
         
-    * Personnel Security Breach. Meta will take disciplinary action in the event of unauthorized access to Covered Data by Meta personnel, including, where legally permissible, punishments up to and including termination.
+    * Personnel security breach. Meta will take disciplinary action in the event of unauthorised access to covered data by Meta personnel, including, where legally permissible, punishments up to and including termination.
     
   
-* **Security Testing.** Meta will perform regular security and vulnerability testing to assess whether key controls are implemented properly and are effective.
+* **Security testing.** Meta will perform regular security and vulnerability testing to assess whether key controls are implemented properly and are effective.
   
-* **Access Control.**
+* **Access control.**
     
-    * Password Management. Meta has established and will maintain procedures for password management for its personnel, designed to ensure passwords are personal to each individual, and inaccessible to unauthorized persons, including at minimum:
+    * Password management. Meta has established and will maintain procedures for password management for its personnel, designed to ensure that passwords are personal to each individual, and inaccessible to unauthorised persons, including at minimum:
         
-        * password provisioning, including procedures designed to verify the identity of the user prior to a new, replacement, or temporary password;
+        * password provisioning, including procedures designed to verify the identity of the user prior to a new, replacement or temporary password;
         * cryptographically protecting passwords when stored in computer systems or in transit over the network;
         * altering default passwords from vendors;
         * strong passwords relative to their intended use; and
         * education on good password practices.
         
       
-    * Access Management. Meta will also control and monitor its personnel’s access to its systems using the following:
+    * Access management. Meta will also control and monitor its personnel's access to its systems using the following:
         
         * established procedures for changing and revoking access rights and user IDs, without undue delay;
         * established procedures for reporting and revoking compromised access credentials (passwords, tokens etc.);
-        * maintaining appropriate security logs including where applicable with userid and timestamp;
-        * synchronizing clocks with NTP; and
+        * maintaining appropriate security logs including where applicable with user ID and timestamp;
+        * synchronising clocks with NTP; and
         * Logging the following minimum user access management events:
             
-            * Authorization changes;
+            * Authorisation changes;
             * Failed and successful authentication and access attempts; and
             * Read and write operations.
             
         
     
   
-* **Communications Security**
+* **Communications security**
     
-    * Network Security
+    * Network security
         
         * Meta will employ technology that is consistent with industry standards for network segregation.
         * Remote network access to Meta systems will require encrypted communication via secured protocols and use of multi-factor authentication.
         
-    * Protection of Data in Transit
+    * Protection of data in transit
         
         * Meta will enforce use of appropriate protocols designed to protect the confidentiality of data in transit over public networks.
         
     
   
-* **Vulnerability Management.** Meta has instituted and will maintain a vulnerability management program covering the Applicable Products that includes definitions of roles and responsibilities for vulnerability monitoring, vulnerability risk assessment, and patch deployment.
+* **Vulnerability management.** Meta has instituted and will maintain a vulnerability management programme covering the applicable products that includes definitions of roles and responsibilities for vulnerability monitoring, vulnerability risk assessment and patch deployment.
   
-* **Security Incident Management**
+* **Security incident management**
     
-    * Security Incident Response. Meta will maintain a security incident response plan for monitoring, detecting, and handling possible security incidents affecting Covered Data. The security incident response plan at least includes definitions of roles and responsibility, communication, and post-mortem reviews, including root cause analysis and remediation plans.
-    * Monitoring. Meta will monitor for any security breaches and malicious activity affecting Covered Data.
+    * Security incident response. Meta will maintain a security incident response plan for monitoring, detecting and handling possible security incidents affecting covered data. The security incident response plan at least includes definitions of roles and responsibility, communication, and post-mortem reviews, including root cause analysis and remediation plans.
+    * Monitoring. Meta will monitor for any security breaches and malicious activity affecting covered data.
     
 
-In the event of any express conflict between the Applicable Product Terms and these Data Security Terms, the Applicable Product Terms will govern solely with respect to your use of the Applicable Products and solely to the extent of the conflict. Meta may update these Data Security Terms from time to time to reflect evolving security standards.
+In the event of any express conflict between the applicable product terms and these Data Security Terms, the applicable product terms will govern solely with respect to your use of the applicable products and solely to the extent of the conflict. Meta may update these Data Security Terms from time to time to reflect evolving security standards.
 
   
-Effective Date: April 25, 2023
+Effective date: 25 April 2023
 
 **Last Updated:** August 23, 2025
 
@@ -200,7 +200,7 @@ For purposes of this MGPT, the following terms shall have the meanings set out b
 
 * General Safeguards.
 
-To the extent that Meta Processes Company EU Data and/or Company UK Data (as applicable) as a Processor on behalf of Company in connection with the Applicable Terms, the Parties shall comply with these European Region Terms to the extent these European Region Terms are required under European Data Protection Requirements.
+To the extent that Meta Processes Company EU Data and/or Company UK Data (as applicable) as a Processor on behalf of Company in connection with the Applicable Terms, the Parties shall comply with these European Region Terms to the extent that these European Region Terms are required under European Data Protection Requirements.
 
 * Data Processing Obligations – Company EU Data.
 
@@ -208,7 +208,7 @@ To the extent that Meta Processes Company EU Data and/or Company UK Data (as app
 
 2.2. In respect of any Company EU Data Processed by Meta EU Processor as Processor, Meta EU Processor shall:
 
-* Process Company EU Data only on behalf of Company and for the purposes of performing its obligations under the Applicable Terms in accordance with the instructions documented in the Applicable Terms (including this MGPT) or as otherwise agreed in writing by the Parties.
+* Only process Company EU Data on behalf of Company and for the purposes of performing its obligations under the Applicable Terms in accordance with the instructions documented in the Applicable Terms (including this MGPT) or as otherwise agreed in writing by the Parties.
   
 * Implement appropriate technical and organisational measures to protect Company EU Data against unauthorised or unlawful Processing and against accidental loss, destruction, damage, alteration or disclosure. These measures shall be appropriate to the level of risk presented by the Processing (and having regard to the nature of Company EU Data which is to be protected) and to the harm which might result from a Personal Data Breach affecting Company EU Data.
   
@@ -224,82 +224,77 @@ To the extent that Meta Processes Company EU Data and/or Company UK Data (as app
   
 * Maintain appropriate records of Processing activities relating to Company EU Data carried out pursuant to the Applicable Terms.
   
-* If Meta EU Processor wishes to appoint an additional or replacement Subprocessor not listed in the Applicable Terms (or otherwise approved by Company) to Process Company EU Data, inform Company of such additional or replacement Subprocessor, such as by updating the Applicable Terms. Company may reasonably object to the proposed Subprocessor by notifying Meta in writing within thirty (30) days of Company being informed of such additional or replacement Subprocessor. Company shall be deemed to have consented to the proposed Subprocessor if it has not objected within such thirty (30) day period. Notwithstanding the foregoing, Company agrees that Meta EU Processor may subcontract the Processing of Company EU Data to Meta Affiliates (which could include Meta Platforms, Inc.). Meta EU Processor shall enter into a written agreement with its Subprocessors which imposes obligations on the Subprocessor no less onerous than as are imposed on Meta EU Processor under this Section 2.2. Where a Subprocessor fails to fulfil such obligations, Meta Ireland shall remain liable to Company for the performance of that Subprocessor's obligations. If Company reasonably and in good faith objects to the appointment of a proposed Subprocessor within the thirty (30) day period, Meta may terminate without penalty the Applicable Terms immediately on giving written notice to Company and Company shall refund to Meta EU Processor prepaid fees attributable to the period after the effective date of such termination.
+* If Meta EU Processor wishes to appoint an additional or replacement Sub-processor not listed in the Applicable Terms (or otherwise approved by Company) to Process Company EU Data, inform Company of such additional or replacement Sub-processor, such as by updating the Applicable Terms. Company may reasonably object to the proposed Sub-processor by notifying Meta in writing within thirty (30) days of Company being informed of such additional or replacement Sub-processor. Company shall be deemed to have consented to the proposed Sub-processor if it has not objected within such thirty (30)-day period. Notwithstanding the foregoing, Company agrees that Meta EU Processor may subcontract the Processing of Company EU Data to Meta Affiliates (which could include Meta Platforms, Inc.). Meta EU Processor shall enter into a written agreement with its Sub-processors which imposes obligations on the Sub-processor no less onerous than as are imposed on Meta EU Processor under this Section 2.2. Where a Sub-processor fails to fulfil such obligations, Meta Ireland shall remain liable to Company for the performance of that Sub-processor's obligations. If Company reasonably and in good faith objects to the appointment of a proposed Sub-processor within the thirty (30)-day period, Meta may terminate without penalty the Applicable Terms immediately on giving written notice to Company and Company shall refund to Meta EU Processor prepaid fees attributable to the period after the effective date of such termination.
   
 * Notify Company without undue delay upon the discovery by Meta EU Processor of any confirmed Personal Data Breach involving Company EU Data. In relation to any confirmed Personal Data Breach involving Company EU Data, Meta EU Processor shall provide Company with assistance reasonably requested by Company for Company to investigate such a Personal Data Breach and enable Company to notify the relevant Supervisory Authority and/or the relevant Data Subjects of such a Personal Data Breach, as applicable.
   
 
-2.3 For the purposes of Article 28 of the GDPR, the subject-matter of the Processing, the nature and purpose of the Processing, the type of Personal Data and categories of Data Subjects are set out in the Applicable Terms. Unless otherwise specified in the Applicable Terms, the duration of the Processing shall be until the termination of the contractual relationship between the Parties.
+2.3 For the purposes of Article 28 of the GDPR, the subject matter of the Processing, the nature and purpose of the Processing, the type of Personal Data and categories of Data Subjects are set out in the Applicable Terms. Unless otherwise specified in the Applicable Terms, the duration of the Processing shall be until the termination of the contractual relationship between the Parties.
 
-* Data Processing Obligations - Company UK Data.
+* Data Processing Obligations – Company UK Data.
 
 3.1 With respect to Company UK Data, the Parties agree that Company is the Controller and Meta UK Processor is the Processor for the purposes of the UK GDPR.
 
 3.2 In respect of any Company UK Data that is Processed by Meta UK Processor as Processor, Meta UK Processor shall:
 
-* Comply with the terms in Sections 2.2 and 2.3 of these European Region Terms, save that references to “Meta EU Processor”, “Company EU Data” and “GDPR” shall be replaced with “Meta UK Processor”, “Company UK Data” and “UK GDPR” respectively.
+* Comply with the terms in Sections 2.2 and 2.3 of these European Region Terms, save that references to "Meta EU Processor", "Company EU Data" and "GDPR" shall be replaced with "Meta UK Processor", "Company UK Data" and "UK GDPR" respectively.
   
-* Except for transfers to Meta Affiliates, not transfer any Company UK Data outside the UK, unless authorised to do so by Company and then subject to compliance with applicable international data transfer regulatory requirements, including where applicable compliance with Section 4 of these European Region Terms. Company agrees and authorises that, to the extent Meta UK Processor, any of its Affiliates acting as a Subprocessor and any Subprocessor identified or listed in the Applicable Terms (or otherwise approved by Company) Process Company UK Data, such Processing may take place outside the UK.
+* Except for transfers to Meta Affiliates, not transfer any Company UK Data outside the UK, unless authorised to do so by Company and then subject to compliance with applicable international data transfer regulatory requirements, including where applicable compliance with Section 4 of these European Region Terms. Company agrees and authorises that, to the extent Meta UK Processor, any of its Affiliates acting as a Sub-processor and any Sub-processor identified or listed in the Applicable Terms (or otherwise approved by Company) Process Company UK Data, such Processing may take place outside the UK.
   
 
-3.3 Company agrees that Meta UK Processor may subcontract the Processing of Company UK Data to Meta Affiliates (including Meta Ireland), in which case such Meta Affiliates agree to comply with Section 3.2 in respect of its Processing of Company UK Data as a Subprocessor.
+3.3 Company agrees that Meta UK Processor may subcontract the Processing of Company UK Data to Meta Affiliates (including Meta Ireland), in which case, such Meta Affiliates agree to comply with Section 3.2 in respect of its Processing of Company UK Data as a Sub-processor.
 
 * International Data Transfers.
 
-4.1 The Parties acknowledge that, to the extent Company transfers Company EU Data to Meta Ireland, the SCCs (or any other safeguards under Article 46 of the GDPR) are not required on the basis that Meta Ireland is located in the EU. Where applicable, Meta Ireland shall rely on appropriate GDPR-compliant transfer mechanisms when transferring Company EU Data to Meta Affiliates (such as Meta Platforms, Inc., acting as its Subprocessor) or any other Subprocessor.
+4.1 The Parties acknowledge that, to the extent that Company transfers Company EU Data to Meta Ireland, the SCCs (or any other safeguards under Article 46 of the GDPR) are not required on the basis that Meta Ireland is located in the EU. Where applicable, Meta Ireland shall rely on appropriate GDPR-compliant transfer mechanisms when transferring Company EU Data to Meta Affiliates (such as Meta Platforms, Inc., acting as its Sub-processor) or any other Sub-processor.
 
   
 
-4.2 To the extent that Company EU Data is transferred by Company to Meta EU Processor (that is not Meta Ireland) and such Meta EU Processor is located in a country or territory which is, at the time of such transfer, deemed not to ensure an adequate level of protection by the European Commission, such transfer shall be governed by Module Two of the SCCs (Controller-to-Processor). Meta EU Processor and Company agree that: (i) the optional Section I, Clause 7 and optional paragraph in Section II, Clause 11 in the SCCs shall not be incorporated; (ii) for the purposes of Clause 9(a) of the SCCs, Option 2 (General written authorisation) shall apply in respect of the appointment of any Sub-processors to Process Company EU Data and the relevant time period shall be thirty (30) days; (iii) for the purposes of Section IV, Clauses 17 and 18 of the SCCs, the SCCs shall be governed by the laws of Ireland and any dispute arising from the SCCs shall be resolved by the courts of Ireland; (iv) for the purposes of Annex I(A), the data exporter shall be Company and the data importer shall be the Meta Affiliate that is party to the Applicable Terms; (v) the description of the transfer under Annex I(B) of the SCCs shall be set out in the Applicable Terms; (vi) for Annex II, the technical and organisational measures implemented by Meta EU Processor are identified in the Applicable Terms or, if not identified in the Applicable Terms, the Data Security Terms (located at [https://www.facebook.com/legal/terms/data\_security\_terms](https://www.facebook.com/legal/terms/Meta-Global-Processor-Terms/https%3A%2F%2Fwww.facebook.com%2Flegal%2Fterms%2Fdata_security_terms=)) shall apply, as such terms may be updated from time to time; and (vii) for Annex III, the Sub-processors are Meta Affiliates and those listed in the Applicable Terms (or otherwise approved by Company). Unless otherwise specified in the Applicable Terms, the duration of the Processing shall be until the termination of the contractual relationship between the Parties. Audits conducted under the SCCs shall be carried out in accordance with Section 2.2(f) of these European Region Terms.
-
-  
-  
-
-4.3 To the extent that Personal Data which is subject to the GDPR is transferred by Meta EU Processor (acting as Company's Processor) to Company (acting as Controller) in connection with the Applicable Terms, such transfer shall be governed by Module Four of the SCCs (Processor-to-Controller). Meta EU Processor and Company agree that: (i) the optional Section I, Clause 7 and optional paragraph in Section II, Clause 11 in the SCCs shall not be incorporated; (ii) for the purposes of Section IV, Clauses 17 and 18 of the SCCs, the SCCs shall be governed by the laws of Ireland and any dispute arising from the SCCs shall be resolved by the courts of Ireland; (iii) for the purposes of Annex I(A), the data exporter shall be Meta Ireland or the Meta Affiliate that is party to the Applicable Terms and the data importer shall be Company; and (iv) the description of the transfer under Annex I(B) of the SCCs shall be set out in the Applicable Terms. Unless otherwise specified in the Applicable Terms, the duration of the Processing shall be until the termination of the contractual relationship between the Parties. Audits conducted under the SCCs shall be carried out in accordance with Section 2.2(f) of these European Region Terms.
+4.2 To the extent that Personal Data which is subject to the GDPR is transferred by Meta EU Processor (acting as Company's Processor) to Company (acting as Controller) in connection with the Applicable Terms, such transfer shall be governed by Module Four of the SCCs (Processor-to-Controller). Meta EU Processor and Company agree that: (i) the optional Section I, Clause 7 and optional paragraph in Section II, Clause 11 in the SCCs shall not be incorporated; (ii) for the purposes of Section IV, Clauses 17 and 18 of the SCCs, the SCCs shall be governed by the laws of Ireland and any dispute arising from the SCCs shall be resolved by the courts of Ireland; (iii) for the purposes of Annex I(A), the data exporter shall be Meta Ireland or the Meta Affiliate that is party to the Applicable Terms and the data importer shall be Company; and (iv) the description of the transfer under Annex I(B) of the SCCs shall be set out in the Applicable Terms. Unless otherwise specified in the Applicable Terms, the duration of the Processing shall be until the termination of the contractual relationship between the Parties. Audits conducted under the SCCs shall be carried out in accordance with Section 2.2(f) of these European Region Terms.
 
   
 
-4.4 To the extent that: (i) Company UK Data is transferred by Company to Meta UK Processor; and/or (ii) Personal Data which is subject to the UK GDPR is transferred by Meta UK Processor (acting as Company's Processor) to Company (acting as Controller), such transfers shall be governed by the UK Addendum in accordance with this Section 4.4. For the avoidance of doubt, the UK Addendum shall not apply to the extent that Personal Data is transferred to a country or territory which is, at the time of such transfer, deemed to ensure an adequate level of protection by the UK Information Commissioner's Office. To the extent the UK Addendum is applicable, Company and Meta UK Processor agree that:
+4.3 To the extent that: (i) Company UK Data is transferred by Company to Meta UK Processor; and/or (ii) Personal Data which is subject to the UK GDPR is transferred by Meta UK Processor (acting as Company's Processor) to Company (acting as Controller), such transfers shall be governed by the UK Addendum in accordance with this Section 4.3. For the avoidance of doubt, the UK Addendum shall not apply to the extent that Personal Data is transferred to a country or territory which is, at the time of such transfer, deemed to ensure an adequate level of protection by the UK Information Commissioner's Office. To the extent the UK Addendum is applicable, Company and Meta UK Processor agree that:
 
   
 
 * For the purposes of Table 1 of the UK Addendum: (i) for transfers from Company (as Controller) to Meta UK Processor (as Processor), Company is the data exporter and Meta Platforms, Inc. or the Meta Affiliate that is party to the Applicable Terms is the data importer; and (ii) for transfers from Meta UK Processor (as Processor) to Company (as Controller), Meta Platforms, Inc. or the Meta Affiliate that is party to the Applicable Terms is the data exporter and Company is the data importer. The start date of the UK Addendum shall be the effective date of the Applicable Terms or the date that Company accepted this MGPT, whichever is later (unless another date is expressly notified by Meta).
   
-* For the purposes of Table 2 of the UK Addendum: (i) the "Addendum EU SCCs" selected is the Approved EU SCCs brought into effect for the purposes of the UK Addendum; (ii) the Module selected is: (A) for transfers from Company to Meta UK Processor, Module Two (Controller-to-Processor); and (B) for transfers from Meta UK Processor to Company, Module Four (Processor-to-Controller), with Company as Controller and Meta Platforms, Inc. or the Meta Affiliate that is party to the Applicable Terms as Processor; (iii) the optional Clause 7 and optional paragraph in Clause 11 in the SCCs shall not be incorporated into the UK Addendum; and (iv) for transfers from Company to Meta UK Processor, for the purposes of Clause 9(a) of the SCCs, Option 2 (General written authorisation) shall apply in respect of the appointment of any Sub-processors to Process Company UK Data and the relevant time period shall be thirty (30) days.
+* For the purposes of Table 2 of the UK Addendum: (i) the "Addendum EU SCCs" selected is the Approved EU SCCs brought into effect for the purposes of the UK Addendum; (ii) the Module selected is: (A) for transfers from Company to Meta UK Processor, Module Two (Controller-to-Processor); and (B) for transfers from Meta UK Processor. to Company, Module Four (Processor-to-Controller), with Company as Controller and Meta Platforms, Inc. or the Meta Affiliate that is party to the Applicable Terms as Processor; (iii) the optional Clause 7 and optional paragraph in Clause 11 in the SCCs shall not be incorporated into the UK Addendum; and (iv) for transfers from Company to Meta UK Processor, for the purposes of Clause 9(a) of the SCCs, Option 2 (General written authorisation) shall apply in respect of the appointment of any Sub-processors to Process Company UK Data and the relevant time period shall be thirty (30) days.
   
-* For the purposes of Table 3 of the UK Addendum: (i) for Annex 1(B), the description of transfer is set out in the Applicable Terms; and (ii) for transfers from Company to Meta UK Processor, (A) for Annex II, the technical and organisational measures implemented by Meta UK Processor are identified in the Applicable Terms or, if not identified in the Applicable Terms, the Data Security Terms (located at [https://www.facebook.com/legal/terms/data\_security\_terms](https://www.facebook.com/legal/terms/Meta-Global-Processor-Terms/https%3A%2F%2Fwww.facebook.com%2Flegal%2Fterms%2Fdata_security_terms=)) shall apply, as such terms may be updated from time to time; and (B) for Annex III, the Subprocessors are listed in the Applicable Terms (or otherwise approved by Company).
+* For the purposes of Table 3 of the UK Addendum: (i) for Annex 1(B), the description of transfer is set out in the Applicable Terms; and (ii) for transfers from Company to Meta UK Processor, (A) for Annex II, the technical and organisational measures implemented by Meta UK Processor are identified in the Applicable Terms or, if not identified in the Applicable Terms, the Data Security Terms (located at [https://www.facebook.com/legal/terms/data\_security\_terms](https://www.facebook.com/legal/terms/Meta-Global-Processor-Terms/https%3A%2F%2Fwww.facebook.com%2Flegal%2Fterms%2Fdata_security_terms=)) shall apply, as such terms may be updated from time to time; and (B) for Annex III, the Sub-processors are listed in the Applicable Terms (or otherwise approved by Company).
   
-* For the purposes of Table 4 of the UK Addendum, “neither party” shall be deemed selected
+* For the purposes of Table 4 of the UK Addendum, "neither party" shall be deemed selected
   
 * Audits conducted under the UK Addendum shall be carried out in accordance with Section 2.2(f) of these European Region Terms.
   
 
-4.5 To the extent there is any conflict between the SCCs and the UK Addendum (as applicable) and the terms in this MGPT or the Applicable Terms, the SCCs and UK Addendum (as applicable) shall take precedence. In the event that the SCCs or the UK Addendum or their use in connection with the Applicable Terms are deemed invalid by the European Commission, the UK Information Commissioner’s Office, or a relevant regulator or Supervisory Authority for whatever reason and replaced by other standard contractual clauses or another valid transfer mechanism issued or approved by the European Commission, the UK Information Commissioner's Office, a relevant regulator or Supervisory Authority, Meta and Company shall promptly comply with such other standard contractual clauses or such replacement transfer mechanism for transferring Personal Data outside the EU and/or UK (as applicable).
+4.4 To the extent that there is any conflict between the SCCs and the UK Addendum (as applicable) and the terms in this MGPT or the Applicable Terms, the SCCs and UK Addendum (as applicable) shall take precedence. In the event that the SCCs or the UK Addendum or their use in connection with the Applicable Terms are deemed invalid by the European Commission, the UK Information Commissioner's Office, or a relevant regulator or Supervisory Authority for whatever reason and replaced by other standard contractual clauses or another valid transfer mechanism issued or approved by the European Commission, the UK Information Commissioner's Office, a relevant regulator or Supervisory Authority, Meta and Company shall promptly comply with such other standard contractual clauses or such replacement transfer mechanism for transferring Personal Data outside the EU and/or UK (as applicable).
 
 * Company Obligations.
 
-Company shall ensure that it Processes all Company EU Data and Company UK Data in accordance with applicable European Data Protection Requirements, and that it has the necessary rights to be able to share Company EU Data and Company UK Data with Meta. For the avoidance of doubt, Company’s instructions for the Processing of Company EU Data and Company UK Data shall comply with applicable European Data Protection Requirements. Company is responsible for the accuracy, quality, and legality of Company EU Data and Company UK Data and the means by which Company acquired such Company EU Data and Company UK Data.
+Company shall ensure that it Processes all Company EU Data and Company UK Data in accordance with applicable European Data Protection Requirements, and that it has the necessary rights to be able to share Company EU Data and Company UK Data with Meta. For the avoidance of doubt, Company's instructions for the Processing of Company EU Data and Company UK Data shall comply with applicable European Data Protection Requirements. Company is responsible for the accuracy, quality and legality of Company EU Data and Company UK Data and the means by which Company acquired such Company EU Data and Company UK Data.
 
-* European Region Terms’ Definitions.
+* European Region Terms' Definitions.
 
 For the purposes of the European Region Terms, the following terms shall have the meanings set out below:
 
-“**Company EU Data**” means Applicable Personal Data which is subject to the GDPR.
+"**Company EU Data**" means Applicable Personal Data, which is subject to the GDPR.
 
-“**Company UK Data**” means Applicable Personal Data which is subject to the UK GDPR.
+"**Company UK Data**" means Applicable Personal Data, which is subject to the UK GDPR.
 
-“**GDPR**” means the General Data Protection Regulation of the European Union (Regulation (EU) 2016/679), together with any local, amending or replacement legislation in any EU Member State.
+"**GDPR**" means the General Data Protection Regulation of the European Union (Regulation (EU) 2016/679), together with any local, amending or replacement legislation in any EU Member State.
 
-“**Meta EU Processor**” means Meta Ireland or where applicable the Meta Affiliate that is party to the Applicable Terms (which for the avoidance of doubt may include Meta Platforms, Inc.).
+"**Meta EU Processor**" means Meta Ireland or where applicable the Meta Affiliate that is party to the Applicable Terms (which for the avoidance of doubt may include Meta Platforms, Inc.).
 
-“**Meta Ireland**” means Meta Platforms Ireland Limited.
+"**Meta Ireland**" means Meta Platforms Ireland Limited.
 
-“**Meta UK Processor**” means Meta Platforms, Inc. or where applicable the Meta Affiliate that is party to the Applicable Terms.
+"**Meta UK Processor**" means Meta Platforms, Inc. or where applicable the Meta Affiliate that is party to the Applicable Terms.
 
-“**SCCs**” means the European Commission's standard contractual clauses for the transfer of Personal Data to third countries pursuant to Regulation (EU) 2016/679, as set out in the annex to Commission Decision (EU) 2021/914 (which, as at the date of this MGPT, is available at [https://eur-lex.europa.eu/eli/dec\_impl/2021/914/oj](https://www.facebook.com/legal/terms/Meta-Global-Processor-Terms/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Feur-lex.europa.eu%2Feli%2Fdec_impl%2F2021%2F914%2Foj)), which are hereby incorporated by reference.
+"**SCCs**" means the European Commission's standard contractual clauses for the transfer of Personal Data to third countries pursuant to Regulation (EU) 2016/679, as set out in the annex to Commission Decision (EU) 2021/914 (which, as at the date of this MGPT, is available at [https://eur-lex.europa.eu/eli/dec\_impl/2021/914/oj](https://www.facebook.com/legal/terms/Meta-Global-Processor-Terms/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Feur-lex.europa.eu%2Feli%2Fdec_impl%2F2021%2F914%2Foj)), which are hereby incorporated by reference.
 
-“**UK Addendum**” means the UK Information Commissioner's Office's International Data Transfer Addendum to the SCCs (which, as at the date of this MGPT, is available at [https://ico.org.uk/media/for-organisations/documents/4019483/international-data-transfer-addendum.pdf](https://www.facebook.com/legal/terms/Meta-Global-Processor-Terms/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fico.org.uk%2Fmedia%2Ffor-organisations%2Fdocuments%2F4019483%2Finternational-data-transfer-addendum.pdf)), which is hereby incorporated by reference.
+"**UK Addendum**" means the UK Information Commissioner's Office's International Data Transfer Addendum to the SCCs (which, as at the date of this MGPT, is available at [https://ico.org.uk/media/for-organisations/documents/4019483/international-data-transfer-addendum.pdf](https://www.facebook.com/legal/terms/Meta-Global-Processor-Terms/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fico.org.uk%2Fmedia%2Ffor-organisations%2Fdocuments%2F4019483%2Finternational-data-transfer-addendum.pdf)), which is hereby incorporated by reference.
 
-“**UK GDPR**” means the GDPR as amended and incorporated into UK law under the UK European Union (Withdrawal) Act 2018.
+"**UK GDPR**" means the GDPR as amended and incorporated into UK law under the UK European Union (Withdrawal) Act 2018.
 
-The terms “**Processor**”, “**Controller**”, “**Personal Data Breach**”, “**Data Subjects**”, and “**Supervisory Authority**” shall have the meanings under the GDPR or UK GDPR (as applicable).
+The terms "**Processor**", "**Controller**", "**Personal Data Breach**", "**Data Subjects**" and "**Supervisory Authority**" shall have the meanings under the GDPR or UK GDPR (as applicable).
