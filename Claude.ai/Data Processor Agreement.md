@@ -274,3 +274,4 @@ Anthropic’s list of subprocessors is available at [https://www.anthropic.com/s
 | ![Logo for Sift](/logos/www.sift.com)<br><br>Sift<br><br>•<br><br>Fraud and abuse detection<br><br>United States<br><br>Products: All Products |
 | ![Logo for Brave Search](/logos/search.brave.com)<br><br>Brave Search<br><br>•<br><br>Web Search<br><br>United States<br><br>Products: All Products<br><br>[More Information](https://support.anthropic.com/en/articles/10684626-enabling-and-using-web-search) |
 | ![Logo for ElevenLabs](/logos/elevenlabs.io)<br><br>ElevenLabs<br><br>•<br><br>Text to speech<br><br>United States<br><br>Product: Claude for Work<br><br>[More Information](https://support.anthropic.com/en/articles/11101966-using-voice-mode-on-claude-mobile-apps) |
+| ![Palantir Federal Cloud Service (PFCS)](/doc?s=xv7gvw2pdh9i0214h3wqp5)<br><br>Palantir Federal Cloud Service (PFCS)<br><br>•<br><br>FedRAMP Cloud<br><br>United States<br><br>Product: Claude for Government (C4G) |
