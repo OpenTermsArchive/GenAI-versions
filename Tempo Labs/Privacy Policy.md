@@ -5,12 +5,12 @@ Privacy Policy
 
 Tempo Privacy Policy
 
-[​](#tempo-labs-privacy-policy)
+[​](#tempo-privacy-policy)
 
-Tempo Labs Privacy Policy
-============================================================
+Tempo Privacy Policy
+==================================================
 
-**Last updated: October 31, 2024** Tempo Labs Inc., together with its affiliates (“Tempo”, “we”, “our” or “us”), provides UI/UX software development tools (collectively, the “Services”). This Privacy Policy (“Policy”) describes how we collect, use, disclose and protect information from and about you through the Services, our website [https://www.tempolabs.ai/](https://www.tempolabs.ai/), any other website or mobile application that links to this Policy (the “Site”), and any other interactions (e.g., customer service and other communications) that you may have with Tempo. PLEASE READ THIS POLICY CAREFULLY TO UNDERSTAND HOW WE HANDLE YOUR INFORMATION. IF YOU DO NOT AGREE TO THIS POLICY, PLEASE DO NOT USE THE SERVICES. This Policy contains the following sections:
+**Last updated: October 31, 2024** Tempo Inc., together with its affiliates (“Tempo”, “we”, “our” or “us”), provides UI/UX software development tools (collectively, the “Services”). This Privacy Policy (“Policy”) describes how we collect, use, disclose and protect information from and about you through the Services, our website [https://www.tempo.new/](https://www.tempo.new/), any other website or mobile application that links to this Policy (the “Site”), and any other interactions (e.g., customer service and other communications) that you may have with Tempo. PLEASE READ THIS POLICY CAREFULLY TO UNDERSTAND HOW WE HANDLE YOUR INFORMATION. IF YOU DO NOT AGREE TO THIS POLICY, PLEASE DO NOT USE THE SERVICES. This Policy contains the following sections:
 
 * Scope of this Policy
 * The Information We Collect
@@ -300,6 +300,6 @@ YesNo
 
 [Building Mobile Apps with Expo](https://tempolabsinc.mintlify.app/Mobile)[Terms of Service](https://tempolabsinc.mintlify.app/tempo-terms)
 
-[x](https://www.linkedin.com/company/tempo-labs)[website](https://www.tempolabs.ai/)[linkedin](https://linkedin.com/company/mintlify)
+[x](https://www.linkedin.com/company/tempo-labs)[website](https://www.tempo.new/)[linkedin](https://linkedin.com/company/mintlify)
 
 [Powered by Mintlify](https://mintlify.com/?utm_campaign=poweredBy&utm_medium=referral&utm_source=tempolabsinc)
