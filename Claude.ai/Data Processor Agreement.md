@@ -265,14 +265,14 @@ Anthropic’s list of subprocessors is available at [https://www.anthropic.com/s
 | ![Logo for Google Cloud Platform](/logos/cloud.google.com)<br><br>Google Cloud Platform<br><br>•<br><br>Cloud infrastructure<br><br>Worldwide<br><br>Products: All Products |
 | Amazon Web Services<br><br>•<br><br>Cloud Infrastructure<br><br>Worldwide<br><br>Products: All Products |
 | Cloudflare<br><br>•<br><br>Traffic Routing (CDN)<br><br>Worldwide (Local to Customer)<br><br>Products: All Products |
-| ![Logo for Stripe](/logos/www.stripe.com)<br><br>Stripe<br><br>•<br><br>Billing<br><br>United States<br><br>Products: Claude Pro, Anthropic API, Claude for Work |
+| ![Logo for Stripe](/logos/www.stripe.com)<br><br>Stripe<br><br>•<br><br>Billing<br><br>United States<br><br>Products: Claude Pro/Max, Anthropic API, Claude for Work |
 | ![Logo for WorkOS](/logos/www.workos.com)<br><br>WorkOS<br><br>•<br><br>Security, Single Sign-On<br><br>United States<br><br>Products: Claude for Work<br><br>[More Information](https://support.anthropic.com/en/articles/9797544-setting-up-single-sign-on-on-the-enterprise-plan) |
-| Retool<br><br>•<br><br>User support, safety, monitoring<br><br>United States<br><br>Products: All Products |
 | Intercom<br><br>•<br><br>User support<br><br>United States<br><br>Products: All Products |
 | ![Logo for Twilio](/logos/www.twilio.com)<br><br>Twilio<br><br>•<br><br>Analytics, email/SMS communications<br><br>United States<br><br>Products: All Products |
-| ![Logo for Functional Software, dba Sentry](/logos/sentry.io)<br><br>Functional Software, dba Sentry<br><br>•<br><br>Error Handling, User Support<br><br>United States<br><br>Products: All Products |
-| ![Logo for Sift](/logos/www.sift.com)<br><br>Sift<br><br>•<br><br>Fraud and abuse detection<br><br>United States<br><br>Products: All Products |
-| ![Logo for Brave Search](/logos/search.brave.com)<br><br>Brave Search<br><br>•<br><br>Web Search<br><br>United States<br><br>Products: All Products<br><br>[More Information](https://support.anthropic.com/en/articles/10684626-enabling-and-using-web-search) |
+| ![Logo for Iterable](/logos/Iterable)<br><br>Iterable<br><br>•<br><br>Email communications<br><br>United States<br><br>Products: All Products |
+| ![Logo for Functional Software, dba Sentry](/logos/sentry.io)<br><br>Functional Software, dba Sentry<br><br>•<br><br>Error Handling, User Support<br><br>United States<br><br>Products: All products except Claude for Government |
+| ![Logo for Sift](/logos/www.sift.com)<br><br>Sift<br><br>•<br><br>Fraud and abuse detection<br><br>United States<br><br>Products: All products except Claude for Government |
+| ![Arkose Labs](/doc?s=3m5tvox8ynci870b8hoi2)<br><br>Arkose Labs<br><br>•<br><br>Fraud and abuse detection<br><br>United States<br><br>Products: All products except Claude for Government |
+| ![Logo for Brave Search](/logos/search.brave.com)<br><br>Brave Search<br><br>•<br><br>Web Search<br><br>United States<br><br>Products: All products except Claude for Government<br><br>[More Information](https://support.anthropic.com/en/articles/10684626-enabling-and-using-web-search) |
 | ![Logo for ElevenLabs](/logos/elevenlabs.io)<br><br>ElevenLabs<br><br>•<br><br>Text to speech<br><br>United States<br><br>Product: Claude for Work<br><br>[More Information](https://support.anthropic.com/en/articles/11101966-using-voice-mode-on-claude-mobile-apps) |
 | ![Palantir Federal Cloud Service (PFCS)](/doc?s=xv7gvw2pdh9i0214h3wqp5)<br><br>Palantir Federal Cloud Service (PFCS)<br><br>•<br><br>FedRAMP Cloud<br><br>United States<br><br>Product: Claude for Government (C4G) |
-| ![Arkose Labs](/doc?s=3m5tvox8ynci870b8hoi2)<br><br>Arkose Labs<br><br>•<br><br>Fraud and abuse detection<br><br>United States<br><br>Products: All Products |
