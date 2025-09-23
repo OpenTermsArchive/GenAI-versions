@@ -203,7 +203,7 @@ Our Services are not directed to, or intended for, the individual under 18. We d
 * 1.6 withdraw your consent; and/or
 * 1.7 make a complaint to the data protection agency in your country.
 
-You can exercise some of these rights through your Services account. If you are unable to exercise your rights through your account, please submit your request to [DPO\_qwenlm-intl@service.alibaba.com](mailto:qwenlm-intl@service.alibaba.com). We will respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws.
+You can exercise some of these rights through your Services account. If you are unable to exercise your rights through your account, please submit your request to [DPO\_qwenlm-intl@service.alibaba.com](mailto:DPO_qwenlm-intl@service.alibaba.com). We will respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws.
 
 **X. How to Update the Privacy Policy**
 
@@ -216,7 +216,7 @@ You can see when this Privacy Policy was last updated by checking the “last up
 If you have any questions about this Privacy Policy, or have any questions, complaints or requests regarding your personal data, you can contact our Data Protection Officer (DPO) via the contact details set out below:
 
 * Attention: Data Protection Officer/Alibaba Cloud (Singapore) Private Limited, c/o 26/F, Tower One, Times Square, 1 Matheson Street, Causeway Bay, Hong Kong.
-* E-mail address: [DPO\_qwenlm-intl@service.alibaba.com](mailto:qwenlm-intl@service.alibaba.com)
+* E-mail address: [DPO\_qwenlm-intl@service.alibaba.com](mailto:DPO_qwenlm-intl@service.alibaba.com)
 
 Please note that if your personal data has been provided to us by a third party, you should contact such party directly to make any queries, feedback, and access and correction requests to us on your behalf.
 
