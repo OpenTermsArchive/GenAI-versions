@@ -1,6 +1,8 @@
 Perplexity's Privacy Policy
 ===========================
 
+  
+
 **Last updated: February 02, 2025**
 
   
