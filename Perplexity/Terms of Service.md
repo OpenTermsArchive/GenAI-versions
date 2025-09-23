@@ -1,6 +1,8 @@
 Perplexity Terms of Service
 ===========================
 
+  
+
 **Last updated: June 4th, 2024**
 
   
@@ -58,7 +60,7 @@ For purposes of these Terms, “you” and “your” means you as the user of t
       
     
     **2.3 Subscription Renewals and Cancellations. You agree that if you purchase a subscription, your subscription will automatically renew at the subscription period frequency referenced on your subscription page (or if not designated, then monthly) and at the then-current rates, and your payment method will automatically be charged at the start of each new subscription period for the fees and taxes applicable to that period. To avoid future subscription charges, you must cancel your subscription before the subscription period renewal date through the settings page of your Account profile or by emailing** [**support@perplexity.ai**](mailto:support@perplexity.ai)**.  
-    **
+    **  
     
     **2.4 No Subscription Refunds.** Except as expressly set forth in these Terms, payments for any subscriptions to the Services are nonrefundable and there are no credits for partially used periods. Following any cancellation by you, however, you will continue to have access to the paid Services through the end of the subscription period for which payment has already been made.
     
