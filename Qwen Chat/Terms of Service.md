@@ -234,4 +234,4 @@ We may at any time at our sole and absolute discretion, update these Terms, and/
     
 14. XIII. How to Contact Us
     
-    If you have any questions or comments about the content of this Agreement, you may contact us by \[sending an email to qwenlm-intl@service.alibaba.com\].
+    If you have any questions or comments about the content of this Agreement, you may contact us by \[sending an email to DPO\_qwenlm-intl@service.alibaba.com\].
