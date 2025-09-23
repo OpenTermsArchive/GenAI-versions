@@ -1,6 +1,8 @@
 Perplexity API Terms of Service
 ===============================
 
+  
+
 **Last updated: May 23, 2025**
 
   
