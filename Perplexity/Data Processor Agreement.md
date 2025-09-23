@@ -1,6 +1,8 @@
 Perplexity Data Processing Addendum
 ===================================
 
+  
+
 **Last updated: July 8th, 2025**
 
   
@@ -87,7 +89,7 @@ This Data Processing Addendum (“DPA”) forms part of and is incorporated into
       
     
     1. notifying Customer of requests from individuals pursuant to their rights under Privacy Laws, including by providing, deleting or correcting the relevant Personal Data, or by enabling Customer to do the same, insofar as this is possible**;  
-        **
+        **  
         
     2. to the extent required by Privacy Laws, conducting data protection impact assessments and, if required, prior consultation with relevant competent authorities; and  
           
@@ -167,8 +169,6 @@ _**The subject matter, nature and duration of processing carried out by any sub-
 
   
 
-  
-
 **ANNEX 2**
 
 **Authorized Subcontractors:**
@@ -180,8 +180,6 @@ _**The subject matter, nature and duration of processing carried out by any sub-
 | **Subcontractor**<br><br>**Name** | **Type of Service** | **Location** |
 | Amazon Web Services | Cloud infrastructure | Worldwide |
 | Each of the “Third-Party Providers” set forth at www.perplexity.ai/hub/legal/dpa | LLMs | Worldwide |
-
-  
 
   
 
