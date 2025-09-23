@@ -1,6 +1,8 @@
 Perplexity Acceptable Use Policy
 ================================
 
+  
+
 **Last updated: July 8th, 2025**
 
   
