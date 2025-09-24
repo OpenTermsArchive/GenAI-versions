@@ -339,7 +339,8 @@ Affiliate program terms
 By participating in Lovable’s affiliate program, you agree to the following terms:
 
 * No Self-Referrals: Affiliates may not refer themselves. Self-referrals will be automatically blocked and may result in account termination.
-* No Brand Bidding: Affiliates may not bid on "Lovable" or any misspellings or variations of the brand in paid search ads (e.g., Google Ads). Violations will result in forfeiture of commissions in the month where a violation occurred and possible account deactivation.
+* No Brand Bidding: Affiliates may not bid on "Lovable" or any misspellings or variations of the brand in paid search ads (e.g., Google Ads). Violations will result in forfeiture of all commissions in the month where a violation occurred, permanent exclusion from affiliate commissions for any users acquired through brand bidding (as these users would have found Lovable organically), and possible account deactivation.
+* No Search Engine Traffic: Affiliates are also generally not permitted to generate commissions by driving traffic to their link via search engine ads.
 * No Spam or Misleading Promotions: Affiliates may not use spammy tactics, misleading claims, or false endorsements in promoting Lovable. This includes fake discounts, deceptive landing pages, or unauthorized use of brand assets.
 * Payouts Are Conditional: Rewards are only granted for valid, completed signups that meet the criteria set in the campaign. Fraudulent or incomplete referrals will not be paid out.
 * Termination Rights: Lovable reserves the right to revoke affiliate access and withhold commissions for any violation of these terms or behavior that appears fraudulent, abusive, or misaligned with Lovable’s values.
