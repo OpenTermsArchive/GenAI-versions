@@ -1,11 +1,11 @@
 Privacy Policy
 ==============
 
-Effective September 28, 2025[Previous Version](https://www.anthropic.com/legal/archive/86d180d7-2d2c-4821-9258-b2224acc06ea)
+Effective October 8, 2025[Previous Version](https://www.anthropic.com/legal/archive/fbe2e87e-8f4e-4bba-9e5e-a6a8b15afc0e)
 
 English
 
-Note: This policy is effective on September 28, 2025 or the date you acknowledge this updated Privacy Policy within our Services (if earlier).
+Note: This policy is effective on October 8, 2025 or the date you acknowledge this updated Privacy Policy within our Services (if earlier).
 
 Anthropic is an AI safety and research company working to build reliable, interpretable, and steerable AI systems.
 
@@ -111,7 +111,7 @@ To exercise your rights, you or an authorized agent may submit a request by emai
 * **Automated decision-making**: Anthropic does not engage in decision making based solely on automated processing or profiling in a manner which produces a legal effect (i.e., impacts your legal rights) or significantly affects you in a similar way (e.g., significantly affects your financial circumstances or ability to access essential goods or services).
 * **Sale & targeted Anthropic marketing of its products and services**. Anthropic does not “sell” your personal data as that term is defined by applicable laws and regulations. You can opt-out of sharing your personal data for targeted advertising to promote our products and services, and we will honor global privacy controls. To learn more, [click here](https://www.anthropic.com/legal/cookies).
 
-Anthropic gives you access to a variety of tools to help you manage your data. You can access these in your [Privacy Settings](https://claude.ai/redirect/website.v1.1e8cf519-06ee-40a8-b4cd-8dc73a2820fb/settings/privacy).
+Anthropic gives you access to a variety of tools to help you manage your data. You can access these in your [Privacy Settings](https://claude.ai/redirect/website.v1.14b44331-cbf7-46ac-8837-0cf371722325/settings/privacy).
 
 5\. Data Transfers
 ------------------
@@ -175,7 +175,7 @@ Please note that under many countries' laws, you have the right to lodge a compl
 | --- | --- | --- |
 | To provide, maintain and facilitate any products and services offered to you with respect to your Anthropic account, which are governed by our Terms of Service | * Identity and Contact Data<br>* Payment Information<br>* Feedback<br>* Inputs and Outputs<br>* Technical Information | * Contract |
 | To provide, maintain and facilitate optional services and features that enhance platform functionality and user experience | * Identity and Contact Data<br>* Feedback<br>* Inputs and Outputs<br>* Technical Information | * Consent (for precise device location)<br>* Legitimate interests<br><br>It is in our and our users' legitimate interests to expand our product features and deliver additional services that enhance platform functionality and user experience. |
-| To communicate with you, including to send you information about our Services and events | * Identity and Contact Data<br>* Communication Information<br>* Technical Information | * Where necessary to perform a contract with you, such as processing your contact information to send you a technical announcement about the Services.<br>* Your consent when we ask for it to process your personal data for a specific purpose that we communicate to you, such as processing your contact information to send you certain forms of marketing communications.<br>* Legitimate Interests<br><br>It is in our legitimate interests to promote our Services and to send direct marketing. |
+| To communicate with you and to promote our Services | * Identity and Contact Data<br>* Communication Information<br>* Technical Information | * Where necessary to perform a contract with you, such as processing your contact information to send you a technical announcement about the Services.<br>* Your consent when we ask for it to process your personal data for a specific purpose that we communicate to you, such as processing your contact information to send you certain forms of marketing communications.<br>* Legitimate Interests<br><br>It is in our legitimate interests to promote our Services and to send direct marketing. |
 | To create and administer your Anthropic account | * Identity and Contact Data<br>* Payment Information<br>* Feedback | * Contract |
 | To facilitate payments for products and services provided by Anthropic | * Identity and Contact Data<br>* Payment Information | * Contract |
 | To prevent and investigate fraud, abuse, and violations of our [Usage Policy](https://anthropic.com/legal/aup), unlawful or criminal activity, unauthorized access to or use of personal data or Anthropic systems and networks, to protect our rights and the rights of others, and to meet legal, governmental and institutional policy obligations | * Identity and Contact Data<br>* Payment Information<br>* Inputs and Outputs<br>* Technical Information | * Legitimate interests<br>* Legal obligation<br><br>It is in our legitimate interests to protect our business, employees and users from illegal activities, inappropriate behavior or violations of terms that would be detrimental. We also have a duty to cooperate with authorities. |
