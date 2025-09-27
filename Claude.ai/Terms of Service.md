@@ -1,9 +1,9 @@
 Consumer Terms of Service
 =========================
 
-Effective September 28, 2025[Previous Version](https://www.anthropic.com/legal/archive/ce2bf436-0a91-4da2-a756-b2289fc755cd)
+Effective October 8, 2025[Previous Version](https://www.anthropic.com/legal/archive/ce2bf436-0a91-4da2-a756-b2289fc755cd)
 
-Note: This policy is effective on September 28, 2025 or the date you acknowledge these updated Terms within our Services (if earlier).
+Note: This policy is effective on October 8, 2025 or the date you acknowledge these updated Terms within our Services (if earlier).
 
 **Welcome to Anthropic! Before you access our services, please read these Terms of Service.**
 
