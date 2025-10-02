@@ -5,7 +5,7 @@ Version
 
 4.1
 
-Effective May 30, 2024
+Effective May 30, 2025
 
 These Terms of Service (this “**Agreement**”) are a binding contract between you (**"Customer"**) and Jasper AI, Inc. (“**Jasper**,” “**we**,” or “**us**”). This Agreement governs your access to and use of the Services.
 
