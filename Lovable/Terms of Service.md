@@ -1,7 +1,8 @@
 **Terms of Service**
 ====================
 
-_Last Updated:_ _**September 29, 2025**_
+_Last Updated:_ _**October 6, 2025**_  
+_Effective Date:_ _**November 6, 2025**_
 
 **Introduction**
 ----------------
@@ -172,9 +173,7 @@ You are responsible for ensuring that your use of the Services, including transf
 
 Forfeiture on Termination
 
-If your account is terminated, any remaining Credits (Free or Paid) will be forfeited.  
-If you cancel the Services, the remaining Credits will remain available until the end of billing period.  
-We will not provide cash refunds or cash equivalents for unused Credits.
+If your account/Services are terminated by us for a breach of the Terms by you, any remaining Credits (Free or Paid) will be forfeited. If you cancel your account/Services, the remaining Credits will remain available until the end of billing period. If we terminate your account/Services for any reason other than your breach of the Terms (including for security, legal, or other reasons not attributable to you), any remaining Credits will be applied to fees owed through the effective date of termination, after which they will expire.
 
 No Refunds
 
@@ -203,6 +202,37 @@ Promotional credits and offers:
 ### Revocation
 
 We may revoke, cancel, or adjust promotional credits or offers at any time if we reasonably believe they were obtained fraudulently, used in violation of these Terms, or provided in error.
+
+Affiliate Program Terms
+=======================
+
+By participating in Lovable's affiliate program, you agree to the following terms:
+
+No Self-Referrals
+
+Affiliates may not refer themselves. Self-referrals will be automatically blocked and may result in account termination.
+
+No Brand Bidding
+
+Affiliates may not bid on "Lovable" or any misspellings or variations of the brand in paid search ads (e.g., Google Ads). Violations will result in forfeiture of all commissions in the month where a violation occurred, permanent exclusion from affiliate commissions for any users acquired through brand bidding (as these users would have found Lovable organically), and possible account deactivation.
+
+No Search Engine Traffic
+
+Affiliates are also generally not permitted to generate commissions by driving traffic to their link via search engine ads.
+
+No Spam or Misleading Promotions
+
+Affiliates may not use spammy tactics, misleading claims, or false endorsements in promoting Lovable. This includes fake discounts, deceptive landing pages, or unauthorized use of brand assets.
+
+Payouts Are Conditional
+
+Rewards are only granted for valid, completed signups that meet the criteria set in the campaign.  
+Fraudulent or incomplete referrals will not be paid out.
+
+Termination Rights
+
+Lovable reserves the right to revoke affiliate access and withhold commissions for any violation  
+of these Terms or behavior that appears fraudulent, abusive, or misaligned with Lovable's values.
 
 **Ownership**
 =============
@@ -310,7 +340,7 @@ In accordance with the DMCA and other applicable law, we have adopted a policy o
 **Eligibility**
 ===============
 
-You may use the Services only if you are at least eighteen (18) years old or the age of majority in your jurisdiction, and have the legal capacity to enter into a binding contract. The Services are not intended for individuals under the age of eighteen (18), and we do not knowingly collect or solicit personal data from anyone under this age. If we discover that we have collected personal data from a minor without verifiable parental consent, we will promptly delete that information. If you believe we may have collected such data, please contact us at [privacy@lovable.dev](mailto:privacy@lovable.dev).
+You may use the Services only if you are at least eighteen (18) years old or the age of majority in your jurisdiction and have the legal capacity to enter into a binding contract. The Services are not intended for individuals under the age of eighteen (18), and we do not knowingly collect or solicit personal data from anyone under this age. If we discover that we have collected personal data from a minor without verifiable parental consent, we will promptly delete that information. If you believe we may have collected such data, please contact us at [privacy@lovable.dev](mailto:privacy@lovable.dev).
 
 By using the Services, you represent and warrant that you meet these requirements. If you are using the Services on behalf of a company or other entity, you further represent that you have authority to bind that entity to these Terms.
 
