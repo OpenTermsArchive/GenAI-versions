@@ -3,9 +3,7 @@ Consumer Terms of Service
 
 Effective October 8, 2025[Previous Version](https://www.anthropic.com/legal/archive/ce2bf436-0a91-4da2-a756-b2289fc755cd)
 
-Note: This policy is effective on October 8, 2025 or the date you acknowledge these updated Terms within our Services (if earlier).
-
-**Welcome to Anthropic! Before you access our services, please read these Terms of Service.**
+**\\Welcome to Anthropic! Before you access our services, please read these Terms of Service.**
 
 These Terms of Service ("**Terms**") and our [Acceptable Use Policy](https://anthropic.com/aup) set out the agreement between you and Anthropic Ireland, Limited (“**Anthropic**”) (and not our affiliates, licensors, distributors and service providers (collectively “**Providers**”)) to use Claude.ai, Claude Pro, and other products and services that we may offer for individuals (including any Anthropic API key and the Anthropic Console, when used by individuals), along with any associated apps, software, and websites (together, our “**Services**”). Please take some time to read over them and understand them. By using our Services you agree to be bound by them, including any changes made to them in accordance with the Terms.
 
