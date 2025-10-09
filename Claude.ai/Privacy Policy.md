@@ -5,8 +5,6 @@ Effective October 8, 2025[Previous Version](https://www.anthropic.com/legal/arch
 
 English
 
-Note: This policy is effective on October 8, 2025 or the date you acknowledge this updated Privacy Policy within our Services (if earlier).
-
 Anthropic is an AI safety and research company working to build reliable, interpretable, and steerable AI systems.
 
 This Privacy Policy explains how we collect, use, disclose, and process your personal data when you use our website and other places where Anthropic acts as a _data controller_—for example, when you interact with Claude.ai or other products as a consumer for personal use ("**Services**") or when Anthropic operates and provides our commercial customers and their end users with access to our commercial products, such as the Claude Team plan (“**Commercial Services**”).
@@ -111,7 +109,7 @@ To exercise your rights, you or an authorized agent may submit a request by emai
 * **Automated decision-making**: Anthropic does not engage in decision making based solely on automated processing or profiling in a manner which produces a legal effect (i.e., impacts your legal rights) or significantly affects you in a similar way (e.g., significantly affects your financial circumstances or ability to access essential goods or services).
 * **Sale & targeted Anthropic marketing of its products and services**. Anthropic does not “sell” your personal data as that term is defined by applicable laws and regulations. You can opt-out of sharing your personal data for targeted advertising to promote our products and services, and we will honor global privacy controls. To learn more, [click here](https://www.anthropic.com/legal/cookies).
 
-Anthropic gives you access to a variety of tools to help you manage your data. You can access these in your [Privacy Settings](https://claude.ai/redirect/website.v1.66563237-369c-4012-b344-48c184e1bb4b/settings/privacy).
+Anthropic gives you access to a variety of tools to help you manage your data. You can access these in your [Privacy Settings](https://claude.ai/redirect/website.v1.a499be62-09cc-4eec-a82b-20a8bf1574f8/settings/privacy).
 
 5\. Data Transfers
 ------------------
