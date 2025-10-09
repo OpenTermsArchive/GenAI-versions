@@ -1,4 +1,4 @@
-Last updated: August 28, 2025
+Last updated: October 8, 2025
 
 Cookie policy
 =============
@@ -74,7 +74,7 @@ These cookies are required to operate our Services. For example, they allow us t
 | [OpenAI](https://openai.com/policies/privacy-policy/) | oai-login-csrf\_dev\_\* | 30 minutes | User authentication | auth.openai.com |
 | [OpenAI](https://openai.com/policies/privacy-policy/) | rg\_context | 10 minutes | User authentication | auth.openai.com |
 | [OpenAI](https://openai.com/policies/privacy-policy/) | iss\_context | 10 minutes | User authentication | auth.openai.com |
-| [OpenAI](https://openai.com/policies/privacy-policy/) | oai\_auth\_token | 10 days | User authentication | platform.openai.com  <br>help.openai.com |
+| [OpenAI](https://openai.com/policies/privacy-policy/) | oai\_client\_auth\_info | 30 days | Service functionality | chatgpt.com  <br>auth.openai.com |
 | [Auth0](https://www.okta.com/legal/privacy-policy/) | did | 1 year | User authentication | platform.openai.com |
 | [Auth0](https://www.okta.com/legal/privacy-policy/) | did\_compat | 1 year | User authentication | platform.openai.com |
 | [Auth0](https://www.okta.com/legal/privacy-policy/) | auth0 | 14 days | User authentication | platform.openai.com |
@@ -86,12 +86,11 @@ These cookies are required to operate our Services. For example, they allow us t
 | [Cloudflare⁠⁠](https://www.cloudflare.com/privacypolicy/) | CF\_Authorization | 1 month | Security | chatgpt.com |
 | [Cloudflare⁠⁠](https://www.cloudflare.com/privacypolicy/) | \_\_cf\_bm | 30 min | Security | auth.openai.com  <br>chatgpt.com  <br>openai.com  <br>sora.chatgpt.com  <br>platform.openai.com  <br>videos.openai.com |
 | [Cloudflare⁠⁠](https://www.cloudflare.com/privacypolicy/) | cf\_clearance | 1 year | Security | openai.com  <br>chatgpt.com  <br>sora.chatgpt.com  <br>platform.openai.com  <br>auth.openai.com |
-| [Cloudflare⁠⁠](https://www.cloudflare.com/privacypolicy/) | \_cfuvid | Session | Security | openai.com  <br>chatgpt.com  <br>sora.chatgpt.com  <br>videos.openai.com  <br>auth.openai.com  <br>platform.openai.com |
+| \[ahref="https://www.cloudflare.com/privacypolicy/"\]Cloudflare⁠⁠\[/a\] | \_cfuvid | Session | Security | openai.com  <br>chatgpt.com  <br>sora.chatgpt.com  <br>videos.openai.com  <br>auth.openai.com  <br>platform.openai.com |
 | [Cloudflare⁠⁠](https://www.cloudflare.com/privacypolicy/) | \_\_cflb | 30 minutes | Security | chatgpt.com  <br>auth.openai.com  <br>sora.chatgpt.com |
 | [Stripe⁠⁠⁠](https://stripe.com/privacy?) | \_\_stripe\_mid | 1 year | Payment | platform.openai.com |
 | [Stripe⁠⁠⁠](https://stripe.com/privacy?) | \_\_stripe\_sid | 30 min | Payment | platform.openai.com |
 | [Intercom⁠⁠⁠](https://www.intercom.com/legal/privacy) | intercom-device-id-dgkjq2bp | 270 days | Customer support | chatgpt.com  <br>openai.com  <br>platform.openai.com |
-| [Intercom⁠⁠⁠](https://www.intercom.com/legal/privacy) | intercom-session-dgkjq2bp | 1 week | Customer support | chatgpt.com  <br>openai.com  <br>platform.openai.com |
 | [Intercom⁠⁠](https://www.intercom.com/legal/privacy) | intercom-device-id-izw1u7l7 | 1 year | Customer support | chatgpt.com |
 | [Intercom⁠⁠](https://www.intercom.com/legal/privacy) | intercom-id-dgkjq2bp | 9 months | Customer support | openai.com |
 | [Datadog⁠⁠⁠](https://www.datadoghq.com/legal/privacy/) | \_dd\_s | 4 hours | Error reporting | chatgpt.com  <br>openai.com  <br>sora.chatgpt.com  <br>platform.openai.com |
