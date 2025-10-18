@@ -1,4 +1,4 @@
-Last updated: October 8, 2025
+Last updated: October 17, 2025
 
 Cookie policy
 =============
@@ -106,8 +106,8 @@ These cookies help us understand how our Services perform and are used, such as 
 
 | **Source** | **Cookie name** | **Duration** | **Purpose** | **Domain** |
 | --- | --- | --- | --- | --- |
-| [Google Analytics](https://support.google.com/analytics/answer/7318509?hl=en) | \_ga | 6 months | Analytics | openai.com |
-| [Google Analytics](https://support.google.com/analytics/answer/7318509?hl=en) | \_ga\_8MYC5SEFJ1 | 6 months | Analytics | openai.com |
+| [Google Analytics](https://support.google.com/analytics/answer/7318509?hl=en) | \_ga | 6 months | Analytics | openai.com  <br>chatgpt.com |
+| [Google Analytics](https://support.google.com/analytics/answer/7318509?hl=en) | \_ga\_8MYC5SEFJ1 | 6 months | Analytics | openai.com  <br>chatgpt.com |
 | [Swoogo](https://swoogo.events/legal/cookies/) | \_pk\_cvar | 30 minutes | Analytics | devday.openai.com |
 | [Swoogo](https://swoogo.events/legal/cookies/) | \_pk\_hsr | 30 minutes | Analytics | devday.openai.com |
 | [Swoogo](https://swoogo.events/legal/cookies/) | \_pk\_id | 13 months | Analytics | devday.openai.com |
