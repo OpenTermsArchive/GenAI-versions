@@ -51,7 +51,6 @@ These Connectors and Actions Terms (“Terms”) govern the creation and use of 
 6\. Indemnification; Disclaimer; Limitation of Liability
 --------------------------------------------------------
 
-  
 (a) **Indemnity.** You will defend, indemnify, and hold harmless us, our affiliates, and our personnel, from and against any third-party claims, losses, and expenses (including attorneys’ fees) arising from or relating to your Connector, including Connector Responses, your website or application that is connected to the Connector, and your violation of these Terms or applicable law.
 
 (b) **Disclaimer.** OUR CONNECTOR FEATURE AND SERVICES ARE PROVIDED “AS IS.” EXCEPT TO THE EXTENT PROHIBITED BY LAW, WE AND OUR AFFILIATES AND LICENSORS MAKE NO WARRANTIES (EXPRESS, IMPLIED, STATUTORY OR OTHERWISE) WITH RESPECT TO THE CONNECTOR FEATURE AND SERVICES, AND DISCLAIM ALL WARRANTIES INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, SATISFACTORY QUALITY, NON-INFRINGEMENT, AND QUIET ENJOYMENT, AND ANY WARRANTIES ARISING OUT OF ANY COURSE OF DEALING OR TRADE USAGE. WE DO NOT WARRANT THAT THE CONNECTOR FEATURE AND SERVICES WILL BE UNINTERRUPTED, ACCURATE OR ERROR FREE, OR THAT ANY CONTENT OR INFORMATION WILL BE SECURE OR NOT LOST OR ALTERED.
