@@ -269,7 +269,7 @@ Anthropic’s list of subprocessors is available at [https://www.anthropic.com/s
 | ![Logo for WorkOS](/logos/www.workos.com)<br><br>WorkOS<br><br>•<br><br>Security, Single Sign-On<br><br>United States<br><br>Products: Claude for Work<br><br>[More Information](https://support.anthropic.com/en/articles/9797544-setting-up-single-sign-on-on-the-enterprise-plan) |
 | Intercom<br><br>•<br><br>User support<br><br>United States<br><br>Products: All Products |
 | ![Logo for Twilio](/logos/www.twilio.com)<br><br>Twilio<br><br>•<br><br>Analytics, email/SMS communications<br><br>United States<br><br>Products: All Products |
-| ![Logo for Iterable](/logos/Iterable)<br><br>Iterable<br><br>•<br><br>Email communications<br><br>United States<br><br>Products: All Products |
+| ![Logo for Iterable](/logos/iterable)<br><br>Iterable<br><br>•<br><br>Email communications<br><br>United States<br><br>Products: All Products |
 | ![Logo for Functional Software, dba Sentry](/logos/sentry.io)<br><br>Functional Software, dba Sentry<br><br>•<br><br>Error Handling, User Support<br><br>United States<br><br>Products: All products except Claude for Government |
 | ![Logo for Sift](/logos/www.sift.com)<br><br>Sift<br><br>•<br><br>Fraud and abuse detection<br><br>United States<br><br>Products: All products except Claude for Government |
 | ![Arkose Labs](/doc?s=3m5tvox8ynci870b8hoi2)<br><br>Arkose Labs<br><br>•<br><br>Fraud and abuse detection<br><br>United States<br><br>Products: All products except Claude for Government |
