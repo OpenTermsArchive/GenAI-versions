@@ -86,7 +86,7 @@ These cookies are required to operate our Services. For example, they allow us t
 | [Cloudflare⁠⁠](https://www.cloudflare.com/privacypolicy/) | CF\_Authorization | 1 month | Security | chatgpt.com |
 | [Cloudflare⁠⁠](https://www.cloudflare.com/privacypolicy/) | \_\_cf\_bm | 30 min | Security | auth.openai.com  <br>chatgpt.com  <br>openai.com  <br>sora.chatgpt.com  <br>platform.openai.com  <br>videos.openai.com |
 | [Cloudflare⁠⁠](https://www.cloudflare.com/privacypolicy/) | cf\_clearance | 1 year | Security | openai.com  <br>chatgpt.com  <br>sora.chatgpt.com  <br>platform.openai.com  <br>auth.openai.com |
-| \[ahref="https://www.cloudflare.com/privacypolicy/"\]Cloudflare⁠⁠\[/a\] | \_cfuvid | Session | Security | openai.com  <br>chatgpt.com  <br>sora.chatgpt.com  <br>videos.openai.com  <br>auth.openai.com  <br>platform.openai.com |
+| [Cloudflare⁠⁠](https://www.cloudflare.com/privacypolicy/) | \_cfuvid | Session | Security | openai.com  <br>chatgpt.com  <br>sora.chatgpt.com  <br>videos.openai.com  <br>auth.openai.com  <br>platform.openai.com |
 | [Cloudflare⁠⁠](https://www.cloudflare.com/privacypolicy/) | \_\_cflb | 30 minutes | Security | chatgpt.com  <br>auth.openai.com  <br>sora.chatgpt.com |
 | [Stripe⁠⁠⁠](https://stripe.com/privacy?) | \_\_stripe\_mid | 1 year | Payment | platform.openai.com |
 | [Stripe⁠⁠⁠](https://stripe.com/privacy?) | \_\_stripe\_sid | 30 min | Payment | platform.openai.com |
