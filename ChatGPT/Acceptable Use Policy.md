@@ -137,57 +137,41 @@ Our policies prohibit using ChatGPT Agent for regulated activities without follo
 
 ChatGPT agent users are not allowed to bypass rate limits, restrictions, or safety measures on our services.
 
-Last updated: July 22, 2025
+Last updated: October 24, 2025
 
-Creating images and videos in line with our policies
-====================================================
+Creating content on Sora in line with our policies
+==================================================
 
-Below are some tips on how to respect our image and video generation guardrails and help ensure that all usage complies with OpenAI’s Usage Policies.
+Below are some tips to help you create content on Sora responsibly and in compliance with OpenAI’s policies.
 
 1\. Compliance with OpenAI’s Usage Policies
 -------------------------------------------
 
 All ChatGPT and Sora users have agreed to OpenAI’s Usage Policies, Service Terms, and Terms of Use. These policies apply universally to OpenAI services and are designed to ensure safe and responsible usage of AI technology. You can review OpenAI’s Usage Policies [here⁠](https://openai.com/policies/usage-policies/).
 
-#### 1.1 Depictions of Real People
+2\. Sora Distribution Guidelines
+--------------------------------
 
-You may not edit images or videos that depict any real individual without their explicit consent. You may not create images or videos as means to impersonate, harass, intimidate, or otherwise harm the depicted individual or perpetrate fraud against others.
+Additionally, content deemed inappropriate for all users may be removed from the Sora Feed and other sharing platforms, such as user galleries and character cameos, in accordance with our Sora Distribution Guidelines. This includes:
 
-4o image generation is capable in many instances of generating depictions of a public figure based on a text prompt. Public figures who wish for their depiction not to be generated can let us know through [this form⁠](https://openai.com/form/report-content/).
+* Graphic sexual content;
+* Graphic violence or content promoting violence;
+* Extremist propaganda;
+* Hateful content;
+* Targeted political persuasion;
+* Content that promotes or depicts self harm or disordered eating;
+* Unhealthy dieting or exercise behaviors;
+* Appearance-based critiques or comparisons;
+* Bullying content;
+* Dangerous challenges likely to be imitated by minors;
+* Content glorifying depression;
+* Promotion of age-restricted goods or activities including illegal drugs or harmful substances; and 
+* Low quality content where the primary purpose is engagement bait.
 
-#### 1.2 Inappropriate and Harmful Content
+3\. Reporting Violations
+------------------------
 
-ChatGPT and Sora users are prohibited from creating or distributing content that promotes or causes harm. This includes content that is generated to harass, defame, promote violence, or sexualize children. Examples include, but are not limited to:
-
-* Non-consensual intimate imagery (NCII)
-* Content promoting suicide, self-harm or disordered eating
-* Content glorifying terrorism or terrorist organizations
-* Targeted harassment and bullying content
-* Age-inappropriate content distributed to minors
-
-#### 1.3 Misleading Content
-
-Our policies prohibit any use of our image or video tools to create or distribute content that is used to defraud, scam, or mislead others. This includes taking steps to obscure or hide the use of AI technology in the image and video generation process.
-
-#### 1.4 Avoid illegal content or content that may violate intellectual property rights
-
-OpenAI’s Terms of Use prohibit any content that may violate the law—including using the intellectual property of others in ways that violate their rights.
-
-2\. The Sora Feed
------------------
-
-In addition to the usage and content generation policies above, we also take steps to ensure the Sora feed is appropriate and enjoyable to broad audiences, including removing content from the feed that features:
-
-* Realistic graphic violence or sexual acts
-* Extremely offensive language or content glorifying hatred or depression
-* Encouraging dangerous stunts or challenges likely to result in serious injury
-* Stigmatization of body types
-* Actively encouraging the use of a harmful drug or substance
-
-3. Reporting Violations
------------------------
-
-If you encounter content that you believe violates any of our policies, [please report it immediately⁠](https://openai.com/form/report-content/). We take all violations seriously and will review reported content for compliance with our terms and the broader OpenAI Usage Policies.
+If you encounter content that you believe violates any of our policies, [please report it immediately⁠](https://openai.com/form/report-content/). We take all violations seriously and will review reported content for compliance with our terms and the broader OpenAI Usage Policies and Sora Distribution Guidelines.
 
 Updated: November 14, 2022
 
