@@ -3,7 +3,7 @@ Privacy Policy
 
 **PRIVACY POLICY**
 
-**Last updated: August 11, 2025**
+**Last updated: October 21, 2025**
 
 Thank you for choosing to be part of our community at Exafunction, Inc. ("**Company**," "**we**," "**us**," or "**our**"). We are committed to protecting your Personal Information and your right to privacy. If you have any questions or concerns about this Privacy Policy or our practices with regard to your Personal Information, please contact us at [privacy@windsurf.com](mailto:privacy@windsurf.com).
 
@@ -205,11 +205,11 @@ Some U.S. states provide consumers certain rights regarding their Personal Infor
 * The right to appeal any decision with regard to your privacy request.
 * The right to opt out of profiling in furtherance of producing legal or significant decisions concerning a consumer. We do not engage in such profiling.
 
-**Submitting Requests**. You can submit access, correction, deletion, and appeal requests by sending us an email to [privacy@windsurf.com](mailto:privacy@windsurf.com).
+**Submitting Requests**. You can submit access, correction, deletion, and appeal requests by sending us an email to [data-subject-request@windsurf.com](mailto:data-subject-request@windsurf.com).
 
 **Verification.** Requests for access to, deletion, or correction of Personal Information are subject to our ability to verify your identity. If you have a Windsurf account, we will verify your identity by asking you to log into your account. If you do not have an account, we will attempt to verify your identity by asking for information that we may have about you, such as your name, email address, and other information.
 
-**Authorizing an Agent**. If you are acting as an authorized agent on behalf of another consumer, please send an email to [privacy@windsurf.com](mailto:privacy@windsurf.com) and attach a written authorization signed by the resident. Depending on the nature of the request, we may still require the consumer to directly verify their identity and confirm that they have provided you permission to submit the request.
+**Authorizing an Agent**. If you are acting as an authorized agent on behalf of another consumer, please send an email to [data-subject-request@windsurf.com](mailto:data-subject-request@windsurf.com) and attach a written authorization signed by the resident. Depending on the nature of the request, we may still require the consumer to directly verify their identity and confirm that they have provided you permission to submit the request.
 
 Your EEA, Switzerland, and the UK Privacy Rights
 
@@ -221,7 +221,7 @@ If you are a resident in the EEA or UK and you believe we are unlawfully process
 
 If you are a resident in Switzerland, the contact details for the data protection authorities are available here: [https://www.edoeb.admin.ch/edoeb/en/home.html](https://www.edoeb.admin.ch/edoeb/en/home.html).
 
-If you have questions or comments about your privacy rights, you may email us at [privacy@windsurf.com](mailto:privacy@windsurf.com).
+If you have questions or comments about your privacy rights, you may email us at [data-subject-request@windsurf.com](mailto:data-subject-request@windsurf.com).
 
 **Account Information**
 
@@ -254,7 +254,7 @@ Exafunction, Inc. is responsible and the data controller for processing your Per
 
 Exafunction, Inc.
 
-900 Villa St.
+990 Villa St.
 
 Mountain View, CA 94041
 
