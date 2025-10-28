@@ -292,4 +292,4 @@ Please visit this page regularly to review these Terms for any changes.
 
 #### 14.13 Entire Agreement.
 
-The Terms, inclusive of the Scribe Data Processing Agreement available at [scribehow.com/legal/dpa,](https://scribehow.com/legal/dpa) are the final, complete and exclusive agreement of the parties with respect to the subject matter hereof and supersedes and merges all prior discussions between the parties with respect to such subject matter.
+The Terms, inclusive of the Scribe Data Processing Agreement available at [scribehow.com/legal/dpa,](http://scribehow.com/legal/dpa) are the final, complete and exclusive agreement of the parties with respect to the subject matter hereof and supersedes and merges all prior discussions between the parties with respect to such subject matter.
