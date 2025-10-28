@@ -81,7 +81,7 @@ We have rigorous data protection measures in place, including data encryption, a
 
 **Deleting Uploaded Data:** If at any time you wish to remove information you have uploaded to the Service or stored in your account, you may request to do so by contacting us at [\[email protected\]](https://scribehow.com/cdn-cgi/l/email-protection) . However, we may retain your information even after you have opted out if retention is necessary to comply with legal obligations, regulatory requirements, or to prevent fraud or abuse.
 
-**Communications from us:** You can stop receiving promotional email communications from us by clicking on the “unsubscribe link” provided in such communications. You may opt out of Service-related communications (e.g., account verification, purchase and billing confirmations and reminders, changes/updates to features of the Service, technical and security notices) by reaching out to [\[email protected\]](https://scribehow.com/cdn-cgi/l/email-protection). If you have any questions about reviewing or modifying your account information, you can contact us directly at [\[email protected\]](https://privacy@scribehow.com/).
+**Communications from us:** You can stop receiving promotional email communications from us by clicking on the “unsubscribe link” provided in such communications. You may opt out of Service-related communications (e.g., account verification, purchase and billing confirmations and reminders, changes/updates to features of the Service, technical and security notices) by reaching out to [\[email protected\]](https://scribehow.com/cdn-cgi/l/email-protection). If you have any questions about reviewing or modifying your account information, you can contact us directly at [\[email protected\]](http://privacy@scribehow.com/).
 
 ### **7\. Your California Privacy Rights**
 
@@ -108,11 +108,11 @@ Data subjects are entitled, as set out in and subject to the conditions of appli
 * Request portability of your personal data: you are entitled to request a copy of your personal data (in a structured, commonly used and machine-readable format) to transfer this data to another data controller.
 * Object to processing of your personal data: you are entitled to request that Scribe no longer process your personal data.
 
-Where processing of your personal data is based on your consent, you have the right to withdraw such consent at any time by contacting Scribe’s Privacy Team at [\[email protected\]](https://privacy@scribehow.com/). This will not affect Scribe’s right to process personal data obtained prior to the withdrawal of your consent, or its right to continue parts of the processing based on other legal bases than your consent.
+Where processing of your personal data is based on your consent, you have the right to withdraw such consent at any time by contacting Scribe’s Privacy Team at [\[email protected\]](http://privacy@scribehow.com/). This will not affect Scribe’s right to process personal data obtained prior to the withdrawal of your consent, or its right to continue parts of the processing based on other legal bases than your consent.
 
 ### **11\. How To Contact Us**
 
-Please contact us at [\[email protected\]](https://privacy@scribehow.com/) if you have any questions about the information we may have collected about you, and to review, revise, or delete such information.
+Please contact us at [\[email protected\]](http://privacy@scribehow.com/) if you have any questions about the information we may have collected about you, and to review, revise, or delete such information.
 
 Please contact [\[email protected\]](https://scribehow.com/cdn-cgi/l/email-protection) if you have any questions pertaining to GDPR and your rights thereunder.
 
