@@ -1,7 +1,7 @@
 **Terms of Service**
 ====================
 
-_Last Updated:_ _**October 6, 2025**_  
+_Last Updated:_ _**October 28, 2025**_  
 _Effective Date:_ _**November 6, 2025**_
 
 **Introduction**
@@ -63,6 +63,23 @@ You agree not to, and not to allow others to:
 * use AI Output without appropriate review in high-risk or sensitive contexts (including medical, legal, financial, or safety-critical uses);
 * extract, reconstruct, or attempt to determine model weights, training data, or system logic;
 * use the Services, AI Output, or prompts to train, develop, or improve competing AI models.
+
+Subdomain Usage and Management
+------------------------------
+
+If you use our Services to deploy applications or websites on subdomains under lovable.app (for example, \[your-site-name\].lovable.app), you acknowledge and agree that:
+
+* Lovable retains all ownership rights in the lovable.app domain and all subdomains.
+* We reserve the right, at our sole discretion, to reclaim, reassign, redirect, suspend, or terminate any subdomain at any time and for any reason, including but not limited to:
+    * enabling the subdomain to be used by another user or for another purpose that better serves the Lovable community;
+    * preventing confusion, impersonation, or trademark infringement;
+    * addressing abuse, policy violations, inappropriate content, or violations of our [Platform Rules](https://lovable.dev/platform-rules);
+    * recycling inactive or underutilized subdomain names, particularly common word or single word subdomains;
+    * technical, operational, or business reasons.
+* We will generally provide a **7 days advance notice** before reclaiming a subdomain to allow you time to transition to a custom domain or challenge the reclamation. However, we reserve the right to reclaim subdomains immediately without notice when necessary to address urgent issues, including but not limited to violations of our [Platform Rules](https://lovable.dev/platform-rules), legal requirements, security threats, or abuse.
+* You have no proprietary, possessory, or ongoing rights to any specific subdomain, and reclamation of a subdomain does not entitle you to a refund or any other compensation.
+* You should not rely on the permanent availability of any particular subdomain and should use custom domains for mission-critical applications.
+* All content hosted on lovable.app subdomains must comply with our [Platform Rules](https://lovable.dev/platform-rules).
 
 Suspension and Termination for Breach
 =====================================
