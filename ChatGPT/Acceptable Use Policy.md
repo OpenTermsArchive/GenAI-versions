@@ -3,8 +3,6 @@ Effective: October 29, 2025
 Usage policies
 ==============
 
-_We’ve recently updated these policies. Learn more_ [_here_⁠](https://help.openai.com/en/articles/12092907)_. See previous version_ [_here_⁠](https://openai.com/policies/usage-policies/revisions/1/)_._
-
 We aim for our tools to be used safely and responsibly, while maximizing your control over how you use them. In building our Usage Policies, we keep a few important things in mind.
 
 **We empower users to innovate with AI**. We build AI products that maximize helpfulness and freedom, while ensuring safety. Usage Policies are just one way we set clear expectations for the use of our products within a broader safety ecosystem that sets responsible guardrails across our services. You can [learn more](https://openai.com/safety/how-we-think-about-safety-alignment/) about our safety approach and [our commitment to](https://openai.com/index/introducing-the-model-spec/) customizability, transparency, and intellectual freedom to explore, debate, and create with AI.
@@ -166,7 +164,8 @@ Additionally, content deemed inappropriate for all users may be removed from the
 * Dangerous challenges likely to be imitated by minors;
 * Content glorifying depression;
 * Promotion of age-restricted goods or activities including illegal drugs or harmful substances; and 
-* Low quality content where the primary purpose is engagement bait.
+* Low quality content where the primary purpose is engagement bait;
+* Content that may infringe on the intellectual property rights of others.
 
 3\. Reporting Violations
 ------------------------
