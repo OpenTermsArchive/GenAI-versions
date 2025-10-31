@@ -61,6 +61,7 @@ Our Purpose for Collection and Processing Personal Data
 * **‍**_Corresponding with You_‍  
     * Responding to correspondence that we receive from you, contacting you when necessary or requested, and sending you information about Liquid AI or the Services.
     * Sending emails and other communications according to your preferences._‍_
+    * Notifying you about product updates, new features, and requesting feedback.
 * _Legal or Security_ ‍  
     * Meeting legal requirements and enforcing legal terms.
     * Preventing, detecting and investigating security incidents and potentially illegal or prohibited activities.
