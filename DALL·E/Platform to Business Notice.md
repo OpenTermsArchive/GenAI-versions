@@ -1,4 +1,4 @@
-OpenAI Services Agreement | OpenAI
+Services agreement | OpenAI
 
 Effective: May 31, 2025
 
@@ -7,7 +7,7 @@ OpenAI Services Agreement
 
 [Download PDF(opens in a new window)](https://cdn.openai.com/osa/openai-services-agreement.pdf)[View previous business terms](https://openai.com/policies/nov-2023-business-terms/)
 
-_This OpenAI Services Agreement only applies to use of OpenAI's APIs, ChatGPT Enterprise, ChatGPT Business, and other services for businesses and developers, and does not apply to OpenAI services used by consumers or individuals._
+_This OpenAI Services Agreement only applies to use of OpenAI's APIs, ChatGPT Enterprise, ChatGPT Team, and other services for businesses and developers, and does not apply to OpenAI services used by consumers or individuals._
 
 * * *
 
@@ -21,38 +21,38 @@ This OpenAI Services Agreement (“Agreement”) is entered as of the Effective 
 * 1.3. Authorized Purchasers.
     * a. Provisioning. To provision the Services, OpenAI requires the email address of the initial Authorized Purchaser to be included on the Order Form. Failure to include correct Authorized Purchaser information on the Order Form may result in delays.
     * b. Purchases. The Services may be configured to allow Authorized Purchasers to purchase additional licenses, quantities, or volumes of Services. Customer is responsible for understanding the Services settings that allow additional purchases. OpenAI will charge Customer for additional licenses, quantities, or volumes of Services for the remainder of the then-current Services Term based on Customer’s then-current price unless otherwise set forth on the Order Form.
-* 1.4. Affiliates.
-    * a. Usage. OpenAI provisions the Services to specific entities using dedicated workspaces and organizational IDs. Customer Affiliates may use the Services under Customer’s Account, which means Customer and its Affiliates usage will occur in the same workspace and under the same organizational ID. Customer will be responsible and liable for all acts and omissions of its Affiliates that access the Services in connection with this Agreement.  
-        b. Separate Purchases. If Customer Affiliates’ purchase and use of the Services is intended to be separate from Customer’s, then the Affiliate must execute a separate Order Form. OpenAI will then create a separate workspace and organizational ID for that Affiliate and provision the Services accordingly. If Customer Affiliates enter into Order Forms under this Agreement they will be bound by this Agreement.
+* 1.4. Affiliates. 
+    * a. Usage. OpenAI provisions the Services to specific entities using dedicated workspaces and organizational IDs. Customer Affiliates may use the Services under Customer’s Account, which means Customer and its Affiliates usage will occur in the same workspace and under the same organizational ID. Customer will be responsible and liable for all acts and omissions of its Affiliates that access the Services in connection with this Agreement.
+    * b. Separate Purchases. If Customer Affiliates’ purchase and use of the Services is intended to be separate from Customer’s, then the Affiliate must execute a separate Order Form. OpenAI will then create a separate workspace and organizational ID for that Affiliate and provision the Services accordingly. If Customer Affiliates enter into Order Forms under this Agreement they will be bound by this Agreement. 
 * 1.5. Usage-based Services. If Customer purchases Services based on usage, Customer acknowledges that OpenAI will charge Customer the Fees for the Services based on the usage calculated by OpenAI.
 
 2\. Provision.
 --------------
 
 * 2.1. General. The Agreement governs Customer’s access to and use of the Services. Customer may access and use the Services in accordance with the Agreement.
-* 2.2. Use. OpenAI grants Customer a non-exclusive right to access and use the Services during the Term. This includes the right to use OpenAI’s API to integrate the Services into Customer Applications and to make Customer Applications available to End Users.
+* 2.2. Use. OpenAI grants Customer a non-exclusive right to access and use the Services during the Term. This includes the right to use OpenAI’s API to integrate the Services into Customer Applications and to make Customer Applications available to End Users. 
 * 2.3. Modifications. OpenAI may update the Services periodically. If an OpenAI update materially reduces the Services functionality, OpenAI will notify Customer at the Account email address. Within five business days of receipt of this notice, Customer may choose to terminate the Agreement by providing thirty days written notice. This termination right will not apply to updates made to features provided on a beta or evaluation basis.
 
 3\. Customer obligations.
 -------------------------
 
-* 3.1. Customer Account. Customer must provide accurate and current Account information. Customer will not share Account access credentials or individual login credentials between multiple users. Customer may not resell or lease access to its Account or any End User Account. Customer will promptly notify OpenAI if it becomes aware of unauthorized access to the Account or the Services.
+* 3.1. Customer Account. Customer must provide accurate and current Account information. Customer will not share Account access credentials or individual login credentials between multiple users. Customer may not resell or lease access to its Account or any End User Account. Customer will promptly notify OpenAI if it becomes aware of unauthorized access to the Account or the Services. 
 * 3.2. End Users. End User Accounts may only be provisioned to, registered for, and used by, a single End User. Customer is responsible for all activities that occur under its Account, including the activities of End Users with an End User Account or who access the Services through a Customer Application. Customer will obtain and maintain from End Users any consents necessary to allow Administrators to engage in the activities described in the Agreement and to allow OpenAI to deliver the Services.
-* 3.3. Restrictions. Customer will not, and will not permit End Users to: (a) use the Services or Customer Content in a way that violates applicable laws or OpenAI Policies; (b) use the Services or Customer Content in a way that violates third parties’ rights; (c) allow minors to use OpenAI Services without consent from their parent or guardian; (d) Reverse Engineer any aspect of the Services or the systems used to provide the Services; (e) except for a Permitted Exception, use Output to develop artificial intelligence models that compete with OpenAI’s products and services; (f) extract data from the Services other than as permitted through the Services; (g) buy, sell, or transfer API keys from, to, or with a third party; (h) interfere with or disrupt the Services, including circumvent any rate limits or restrictions or bypass any protective measures or safety mitigations for the Services; (i) violate or circumvent Usage Limits or otherwise configure the Services to avoid Usage Limits.
+* 3.3. Restrictions. Customer will not, and will not permit End Users to: (a) use the Services or Customer Content in a way that violates applicable laws or OpenAI Policies; (b) use the Services or Customer Content in a way that violates third parties’ rights; (c) allow minors to use OpenAI Services without consent from their parent or guardian; (d) Reverse Engineer any aspect of the Services or the systems used to provide the Services; (e) except for a Permitted Exception, use Output to develop artificial intelligence models that compete with OpenAI’s products and services; (f) extract data from the Services other than as permitted through the Services; (g) buy, sell, or transfer API keys from, to, or with a third party; (h) interfere with or disrupt the Services, including circumvent any rate limits or restrictions or bypass any protective measures or safety mitigations for the Services; (i) violate or circumvent Usage Limits or otherwise configure the Services to avoid Usage Limits. 
 * 3.4. Third-Party Services. Third-Party Services may be available through the Services, which Customer may elect to use in its sole discretion. By accessing a Third-Party Service, Customer agrees to the applicable Third-Party Service Terms. Customer’s access or use of Third-Party Services are governed by this Agreement and the relevant Third-Party Service Terms.
 
 4\. Customer Content.
 ---------------------
 
 * 4.1. Generally. Customer and Customer’s End Users may provide Input and receive Output. As between Customer and OpenAI, to the extent permitted by applicable law, Customer: (a) retains all ownership rights in Input; and (b) owns all Output. OpenAI hereby assigns to Customer all OpenAI’s right, title, and interest, if any, in and to Output.
-* 4.2. OpenAI Obligations. OpenAI will only use Customer Content as necessary to provide Customer with the Services, comply with applicable law, enforce the OpenAI Policies, and prevent abuse. OpenAI will not use Customer Content to develop or improve the Services, unless Customer explicitly agrees to such use.
+* 4.2. OpenAI Obligations. OpenAI will only use Customer Content as necessary to provide Customer with the Services, comply with applicable law, enforce the OpenAI Policies, and prevent abuse. OpenAI will not use Customer Content to develop or improve the Services, unless Customer explicitly agrees to such use. 
 * 4.3. Customer Obligations. Customer is responsible for all Input and represents and warrants that it has all rights, licenses, and permissions required to provide Input to the Services. Customer is solely responsible for all use of the Outputs and for evaluating the accuracy and appropriateness of Output for Customer’s use case.
 * 4.4. Similarity of Output. Due to the nature of OpenAI’s Services and artificial intelligence generally, Output may not be unique, and other users may receive similar content from OpenAI’s services. Responses that are requested by and generated for other users are not considered Customer’s Output.
 
 5\. Security and Privacy.
 -------------------------
 
-* 5.1. Security Measures. OpenAI will comply with the Security Measures. OpenAI may periodically update the Security Measures. If OpenAI updates the Security Measures in a manner that materially diminishes the administrative, technical, or physical security features of the Services taken as a whole, Customer may elect to terminate the Agreement and associated Order Forms by providing written notice to OpenAI within five business days of the update.
+* 5.1. Security Measures. OpenAI will comply with the Security Measures. OpenAI may periodically update the Security Measures. If OpenAI updates the Security Measures in a manner that materially diminishes the administrative, technical, or physical security features of the Services taken as a whole, Customer may elect to terminate the Agreement and associated Order Forms by providing written notice to OpenAI within five business days of the update. 
 * 5.2. Audit Reports. OpenAI has completed audits, conducted by an independent auditor, that evaluated the design and effectiveness of OpenAI security policies, procedures, and controls for the Services. Upon Customer’s written request, but no more than once per year, OpenAI will provide Customer a copy of the most recent Audit Reports, which will be deemed OpenAI Confidential Information.
 * 5.3. Privacy. If Customer uses the Services to process Personal Data, OpenAI and Customer will comply with the DPA, which is incorporated by this reference into the Agreement.
 * 5.4. HIPAA. Customer agrees not to use the Services to create, receive, maintain, transmit, or otherwise process Protected Health Information, unless it has signed the Healthcare Addendum. NOTWITHSTANDING THE FOREGOING, NOT ALL SERVICES OFFERED BY OPENAI ARE DESIGNED FOR PROCESSING PROTECTED HEALTH INFORMATION. IF CUSTOMER USES A SERVICE THAT IS NOT DESIGNED FOR PROCESSING PROTECTED HEALTH INFORMATION, CUSTOMER MAY NOT USE THE SERVICES TO STORE, TRANSMIT, OR PROCESS THIS INFORMATION.
@@ -61,9 +61,9 @@ This OpenAI Services Agreement (“Agreement”) is entered as of the Effective 
 ------------
 
 * 6.1. Fees. Customer will pay OpenAI or Customer’s reseller the applicable Fees in the currency and pursuant to the payment terms on the Order Form. Customer authorizes OpenAI, or Customer’s reseller if applicable, to charge Customer for all applicable Fees using the payment method on the Account. Fees are non-refundable except as required by law or as otherwise specifically permitted in the Agreement. If Customer’s Order Form includes a minimum commitment, the minimum commitment amount is non-cancellable except as required by law or as otherwise specifically permitted in the Agreement.
-* 6.2. Payment. Customer will pay OpenAI invoices on the payment interval set forth in the Order Form. OpenAI may suspend or terminate the Services if Fees are past due. Customer will provide complete and accurate billing and contact information to OpenAI.
+* 6.2. Payment. Customer will pay OpenAI invoices on the payment interval set forth in the Order Form. OpenAI may suspend or terminate the Services if Fees are past due. Customer will provide complete and accurate billing and contact information to OpenAI. 
 * 6.3. Taxes. Fees are exclusive of taxes, which OpenAI, or Customer’s reseller, will charge as required by applicable law in connection with the Services. OpenAI, or Customer’s reseller, will use the name and address in the Account as the place of supply for tax purposes. All Fees under this Agreement shall be paid in full, without any deduction or withholding for taxes, levies, duties, tariffs, or other charges of any nature imposed by any governmental authority. If any such deduction or withholding is required by law, Customer shall increase the payment to OpenAI, or to Customer's reseller, so that the net amount received equals the amount invoiced.
-* 6.4. Disputes. To dispute an invoice Customer must: (a) contact ar-enterprise@openai.com⁠ within thirty days of the date the disputed invoice was issued; and (b) pay all undisputed amounts. Overdue undisputed amounts may be subject to a finance charge of 1.5% of the unpaid balance per month.
+* 6.4. Disputes. To dispute an invoice Customer must: (a) contact [ar-enterprise@openai.com⁠](mailto:ar-enterprise@openai.com) within thirty days of the date the disputed invoice was issued; and (b) pay all undisputed amounts. Overdue undisputed amounts may be subject to a finance charge of 1.5% of the unpaid balance per month.
 * 6.5. Service Credits. Customer may need to prepay for Services by purchasing Service Credits. Service Credits are subject to the Service Credit Terms⁠.
 * 6.6. Corrections. Price changes on the Pricing Page will be effective fourteen days after they are posted. OpenAI has the right to correct pricing errors or mistakes even after issuing an invoice or receiving payment.
 
@@ -99,7 +99,7 @@ This OpenAI Services Agreement (“Agreement”) is entered as of the Effective 
 * 11.1. Agreement Term. The Agreement will remain in effect for the Term.
 * 11.2. Termination. Either Party may terminate this Agreement, including all Order Forms, upon written notice if the other party: (a) materially breaches this Agreement and fails to cure the breach within thirty days after receipt of written notice; or (b) ceases its business operations or becomes subject to insolvency proceedings.
 * 11.3. Effects of Termination. If this Agreement terminates: (a) the rights granted by OpenAI to Customer will cease immediately; and (b) OpenAI will delete all Customer Content from its systems within thirty days, unless: (i) OpenAI is legally required to retain it; or (ii) Customer has agreed otherwise in writing. Termination or expiration will not affect any rights or obligations, including the payment of amounts due, which have accrued under this Agreement up to the date of termination. In addition, except for a termination by Customer for cause, if this Agreement terminates any unpaid minimum commitment amounts set forth on the Order form will become immediately due. Despite anything to the contrary in this Agreement, OpenAI may retain Abusive Customer Content, or, if Customer’s access to the Services is suspended via Section 8 or terminated via Section 11, share information related to Abusive Customer Content, as required by law, or as reasonably necessary to protect the Services or any third party from harm.
-* 11.4. Survival. The following provisions will survive termination or expiration of the Agreement: 6.2 (Payment), 7 (Confidentiality), 9 (IP Rights), 11.3 (Effects of Termination), 11.4 (Survival), 12 (Warranties; Disclaimers), 13 (Indemnification), 14 (Limitation of Liability), 16 (Miscellaneous).
+* 11.4. Survival. The following provisions will survive termination or expiration of the Agreement: 6.2 (Payment), 7 (Confidentiality), 9 (IP Rights), 11.3 (Effects of Termination), 11.4 (Survival), 12 (Warranties; Disclaimers), 13 (Indemnification), 14 (Limitation of Liability), 16 (Miscellaneous). 
 
 12\. Warranties; Disclaimer.
 ----------------------------
@@ -138,10 +138,11 @@ This OpenAI Services Agreement (“Agreement”) is entered as of the Effective 
 -------------------
 
 * 16.1. Entire Agreement. This Agreement is the entire agreement between Customer and OpenAI with respect to its subject matter and supersedes all prior or contemporaneous agreements, communications and understandings, whether written or oral. This Agreement hereby incorporates by this reference the OpenAI Policies and relevant Order Forms. Customer agrees that any terms and conditions contained in any purchase order Customer sends to OpenAI will not apply to this Agreement and are null and void.
-* 16.2. Conflicting Terms. If there is a conflict between the documents that make up the Agreement, the documents will control in the following order, the: (a) Order Form; (b) Service-Specific Terms; (c) Agreement; and (d) OpenAI Policies.
+* 16.2. Conflicting Terms. If there is a conflict between the documents that make up the Agreement, the documents will control in the following order, the: (a) Order Form; (b) Service-Specific Terms; (c) Agreement; and (d) OpenAI  
+    Policies.
 * 16.3. Governing Law. This Agreement will be governed by the Governing Laws. Without prejudice to Section 15, all claims arising out of or relating to this Agreement will be brought exclusively in the Venue.
 * 16.4. Severability. Unenforceable provisions will be modified to reflect the parties' intention and only to the extent necessary to make them enforceable, and the remaining provisions of the Agreement will remain in full effect.
-* 16.5. Notices. Notices must be sent via email, first class, airmail, or overnight courier and are deemed given when received. Notices to Customer may also be sent to the applicable Account email address and are deemed given when sent. Notices to OpenAI must be sent to OpenAI Legal at contract-notices@openai.com⁠, with a copy to: (a) if OpenAI, L.L.C., 1455 3rd Street, San Francisco, California 94158; or (b) if OpenAI Ireland Ltd, 1st Floor, The Liffey Trust Centre, 117-126 Sheriff Street Upper, Dublin 1, D01 YC43, Ireland.
+* 16.5. Notices. Notices must be sent via email, first class, airmail, or overnight courier and are deemed given when received. Notices to Customer may also be sent to the applicable Account email address and are deemed given when sent. Notices to OpenAI must be sent to OpenAI Legal at [contract-notices@openai.com⁠](mailto:contract-notices@openai.com), with a copy to: (a) if OpenAI, L.L.C., 1455 3rd Street, San Francisco, California 94158; or (b) if OpenAI Ireland Ltd, 1st Floor, The Liffey Trust Centre, 117-126 Sheriff Street Upper, Dublin 1, D01 YC43, Ireland.
 * 16.6. Waiver. A waiver of any default is not a waiver of any subsequent default.
 * 16.7. Assignment. This Agreement cannot be assigned other than as permitted under this Section 16.7 (Assignment). OpenAI may assign this Agreement to an Affiliate without notice or Customer consent. Either Party may assign this Agreement to a successor to substantially all the respective party’s assets or business, provided the assigning party provides at least thirty days prior written notice of the assignment. This Agreement will be binding upon the parties and their respective successors and permitted assigns.
 * 16.8. No Agency. OpenAI and Customer are not legal partners or agents but are independent contractors.
@@ -191,7 +192,7 @@ This OpenAI Services Agreement (“Agreement”) is entered as of the Effective 
 
 “Documentation” means the documentation OpenAI provides to Customer or otherwise makes publicly available.
 
-“DPA” means the OpenAI data processing addendum at: [https://openai.com/policies/data-processing-addendum⁠](https://openai.com/policies/data-processing-addendum/).
+“DPA” means the OpenAI data processing addendum at: [https://openai.com/policies/data-processing-addendum](https://openai.com/policies/data-processing-addendum/).
 
 “Effective Date” means the date this Agreement is entered into by the Parties, either by acceptance online, by signing an Order Form referencing the Agreement, or by signing the Agreement itself.
 
@@ -209,7 +210,7 @@ This OpenAI Services Agreement (“Agreement”) is entered as of the Effective 
 
 “Healthcare Addendum” means the OpenAI Healthcare Addendum and Business Associate Agreement provided by OpenAI to Customer.
 
-“Informal Dispute Resolution Form” means the form located at [this link⁠(opens in a new window)⁠(opens in a new window)](https://docs.google.com/forms/d/e/1FAIpQLSe6iKNzSYs6mc8CRR1EIGk1yzh9S6BhJUperYaWr5FaElrk0g/viewform).
+“Informal Dispute Resolution Form” means the form located at [this link⁠(opens in a new window)](https://docs.google.com/forms/d/e/1FAIpQLSe6iKNzSYs6mc8CRR1EIGk1yzh9S6BhJUperYaWr5FaElrk0g/viewform).
 
 “Initial Term” means the initial term for the Services beginning on the Start Date and continuing for the duration set forth on the Order Form.
 
@@ -231,7 +232,7 @@ This OpenAI Services Agreement (“Agreement”) is entered as of the Effective 
 
 “Personal Data” is as defined in the DPA.
 
-“Pricing Page” means the pages available at [https://openai.com/api/pricing⁠](https://openai.com/api/pricing/) or [https://openai.com/chatgpt/pricing⁠](https://openai.com/chatgpt/pricing/).
+“Pricing Page” means the pages available at [https://openai.com/api/pricing](https://openai.com/api/pricing/) or [https://openai.com/chatgpt/pricing](https://openai.com/chatgpt/pricing/).
 
 “Protected Health Information” is as defined under the HIPAA Privacy Rule (45 C.F.R. Section 160.103).
 
@@ -246,25 +247,25 @@ jurisdiction, inside or outside the U.S., now or in the future.
 
 “Security Emergency” means use of the Services by Customer or a Customer End User that could reasonably result in a security risk, credible risk of harm, infringement of third-party rights, or liability to OpenAI, the Services, or a third party.
 
-“Security Measures” means the security measures available at: [https://cdn.openai.com/osa/security-measures.pdf⁠(opens in a new window)⁠(opens in a new window)](https://cdn.openai.com/osa/security-measures.pdf)
+“Security Measures” means the security measures available at: [https://cdn.openai.com/osa/security-measures.pdf⁠(opens in a new window)](https://cdn.openai.com/osa/security-measures.pdf)
 
 “Service Credits” means, for the Services, either credits purchased by Customer or promotional credits provided by OpenAI to Customer.
 
-“Service Credit Terms” means the terms available at: [https://openai.com/policies/service-credit-terms⁠](https://openai.com/policies/service-credit-terms/).
+“Service Credit Terms” means the terms available at: [https://openai.com/policies/service-credit-terms](https://openai.com/policies/service-credit-terms/).
 
 “Services” means OpenAI’s services for businesses, enterprises, or developers made available for purchase or use in Customer’s Account, along with any of OpenAI’s associated software, tools, developer services, documentation, and websites, but excluding any Third-Party Service.
 
 “Services Term” means the Initial Term and all Renewal Terms.
 
-“Service-Specific Terms” means the terms specific to certain services at: [https://openai.com/policies/service-terms⁠](https://openai.com/policies/service-terms/).
+“Service-Specific Terms” means the terms specific to certain services at: [https://openai.com/policies/service-terms](https://openai.com/policies/service-terms/).
 
 “Service-Specific Terms Indemnity” means OpenAI’s indemnities included in the Service-Specific Terms.
 
-“Sharing and Publication Policy” means the terms at: [https://openai.com/policies/sharing-publication-policy⁠](https://openai.com/policies/sharing-publication-policy/).
+“Sharing and Publication Policy” means the terms at: [https://openai.com/policies/sharing-publication-policy](https://openai.com/policies/sharing-publication-policy/).
 
 “Start Date” means the date an Initial Term, or Renewal Term, begins. Start Dates are listed on the Order Form. Note that if Customer renews without a new Order Form, the Start Date for that Renewal Term will be calculated based on the original Start Date.
 
-“Supported Countries and Territories” means the countries and territories for which OpenAI supports access to API Services and our ChatGPT services. These countries and territories are available at: [https://help.openai.com/en/articles/5347006-openai-api-supported-countries-and-territories⁠(opens in a new window)⁠(opens in a new window)](https://help.openai.com/en/articles/5347006-openai-api-supported-countries-and-territories) (for API) or [https://help.openai.com/en/articles/7947663-chatgpt-supported-countries⁠(opens in a new window)⁠(opens in a new window)](https://help.openai.com/en/articles/7947663-chatgpt-supported-countries) (for ChatGPT), and may be updated from time to time.
+“Supported Countries and Territories” means the countries and territories for which OpenAI supports access to API Services and our ChatGPT services. These countries and territories are available at: [https://help.openai.com/en/articles/5347006-openai-api-supported-countries-and-territories⁠(opens in a new window)](https://help.openai.com/en/articles/5347006-openai-api-supported-countries-and-territories) (for API) or [https://help.openai.com/en/articles/7947663-chatgpt-supported-countries⁠(opens in a new window)](https://help.openai.com/en/articles/7947663-chatgpt-supported-countries) (for ChatGPT), and may be updated from time to time.
 
 “Term” means the term of the Agreement, which will begin on the Effective Date and continue until the earlier of: (i) the end of the Services Term; or (ii) termination of the Agreement as set forth herein.
 
@@ -274,6 +275,6 @@ jurisdiction, inside or outside the U.S., now or in the future.
 
 “Usage Limits” means End User, messaging, token, throughput rate, or other limits on Customer’s use of the Services as described in the applicable Order Form or Documentation.
 
-“Usage Policies” means the usage policies at: [https://openai.com/policies/usage-policies⁠](https://openai.com/policies/usage-policies/).
+“Usage Policies” means the usage policies at: [https://openai.com/policies/usage-policies](https://openai.com/policies/usage-policies/).
 
 “Venue” means: (a) for Customers in the EEA, Switzerland or UK, the courts of Dublin, Ireland; and (b) for all other Customers, federal or state courts located in San Francisco County, California.
