@@ -215,7 +215,7 @@ OPENAI’S AFFILIATES, SUPPLIERS, LICENSORS, AND DISTRIBUTORS ARE INTENDED THIRD
 
 **Governing law (business use)**. California law will govern these Terms except for its conflicts of laws principles. All claims arising out of or relating to these Terms will be brought exclusively in the federal or state courts of San Francisco, California.
 
-Updated: June 4, 2025
+Updated: October 30, 2025
 
 Service terms
 =============
@@ -276,7 +276,7 @@ For Users of GPTs:
 6\. Image and Video Capabilities
 --------------------------------
 
-Our models can accept images and videos as part of Inputs to the Services (“Visual Capabilities”). You may not use Visual Capabilities to assist in identifying a person nor to solicit or infer private or sensitive information about a person. You may not use Visual Capabilities to reproduce the likeness of any person without express consent and all necessary rights, nor to reproduce the likeness of anyone under 18. By choosing to share an image or video publicly on the Services, such as by sharing it to the Sora explore page, you give OpenAI the right to reproduce, distribute, modify, display and perform it for the purpose of operating and promoting the Services.
+Our models can accept images and videos as part of Inputs to the Services (“Visual Capabilities”). You may not use Visual Capabilities to assist in identifying a person nor to solicit or infer private or sensitive information about a person. You may not use Visual Capabilities to reproduce the likeness of any person without express consent and all necessary rights. By choosing to share an image or video publicly on the Services, such as by sharing it to the Sora feed or uploading it to create a Sora cameo, you represent you have all necessary rights, and you give OpenAI the right to reproduce, distribute, modify, display and perform it for the purpose of operating and promoting the Services. You also agree to give users the limited right to reproduce and remix that content solely on the Services. Uploading a cameo or sharing an image or video does not give other users any rights to use those materials outside of the Services.
 
 7\. Connectors and Actions
 --------------------------
