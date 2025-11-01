@@ -1,3 +1,18 @@
+Table of contents
+
+* [1\. Data controller](#data-controller)
+* [2\. Personal Data we collect](#personal-data-we-collect)
+* [3\. How we use Personal Data](#how-we-use-personal-data)
+* [4\. Disclosure of Personal Data](#disclosure-of-personal-data)
+* [5\. Retention](#retention)
+* [6\. Your rights](#your-rights)
+* [7\. Children](#children)
+* [8\. Security](#security)
+* [9\. Legal bases for processing](#legal-bases-for-processing)
+* [10\. Data transfers](#data-transfers)
+* [11\. Changes to the privacy policy](#changes-to-the-privacy-policy)
+* [12\. How to contact us](#how-to-contact-us)
+
 Updated: November 4, 2024
 
 Europe privacy policy
