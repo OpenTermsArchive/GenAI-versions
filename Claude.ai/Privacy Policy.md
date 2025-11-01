@@ -109,7 +109,7 @@ To exercise your rights, you or an authorized agent may submit a request by emai
 * **Automated decision-making**: Anthropic does not engage in decision making based solely on automated processing or profiling in a manner which produces a legal effect (i.e., impacts your legal rights) or significantly affects you in a similar way (e.g., significantly affects your financial circumstances or ability to access essential goods or services).
 * **Sale & targeted Anthropic marketing of its products and services**. Anthropic does not “sell” your personal data as that term is defined by applicable laws and regulations. You can opt-out of sharing your personal data for targeted advertising to promote our products and services, and we will honor global privacy controls. To learn more, [click here](https://www.anthropic.com/legal/cookies).
 
-Anthropic gives you access to a variety of tools to help you manage your data. You can access these in your [Privacy Settings](https://claude.ai/redirect/website.v1.e91d954f-4a89-4a22-912b-f524d914b01d/settings/privacy).
+Anthropic gives you access to a variety of tools to help you manage your data. You can access these in your [Privacy Settings](https://claude.ai/redirect/website.v1.2b849d51-fcef-4ac3-a7d5-2b86c7c3ffab/settings/privacy).
 
 5\. Data Transfers
 ------------------
@@ -297,6 +297,7 @@ We will only use your personal data in accordance with applicable laws. We use y
 
 | Purpose | Legal Basis |
 | --- | --- |
+| To improve our services and conduct research, including to develop and improve our AI models | * Legitimate interests<br><br>It is in our legitimate interests to train and improve our AI models. This enables us to provide more accurate and helpful services to our users over time. Our AI models also offer significant societal benefits to the wider public such as supporting scientific and medical research, facilitating education, creating content, promoting software development, improving customer service and enhancing workplace productivity. Our research also benefits the AI industry and society: it investigates the safety, inner workings, and societal impact of AI models so that artificial intelligence has a positive impact on society as it becomes increasingly advanced and capable |
 | To prevent and investigate fraud, abuse, and violations of our [Usage Policy](https://anthropic.com/legal/aup), unlawful or criminal activity, unauthorized access to or use of personal data or Anthropic systems and networks, to protect our rights and the rights of others, and to meet legal, governmental and institutional policy obligations | * Legal obligation<br>* Legitimate interests<br><br>It is in our legitimate interests to protect our business, and we also have a duty to cooperate with authorities. |
 | To provide, maintain and facilitate any products and services | * Legitimate interests<br><br>It is in our and our users’ legitimate interests to expand our product features and deliver services that enhance platform functionality and user experience. |
 
