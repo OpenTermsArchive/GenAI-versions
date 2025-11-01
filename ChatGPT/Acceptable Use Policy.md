@@ -165,6 +165,7 @@ Additionally, content deemed inappropriate for all users may be removed from the
 * Content glorifying depression;
 * Promotion of age-restricted goods or activities including illegal drugs or harmful substances; and 
 * Low quality content where the primary purpose is engagement bait;
+* Content that recreates the likeness of living public figures without their consent;
 * Content that may infringe on the intellectual property rights of others.
 
 3\. Reporting Violations
