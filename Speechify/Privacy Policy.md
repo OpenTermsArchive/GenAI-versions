@@ -169,6 +169,22 @@ Individuals located in the European Economic Area (EEA), Switzerland, and the UK
 
 If you have other questions or do not have a Speechify account, contact us by [submitting a support ticket](https://help.speechify.com/en?landing_url=https%3A%2F%2Fspeechify.com%2Fvoiceover-new%2F).
 
+#### Withdraw your consent
+
+Where we rely on your consent to process personal data—such as for sending marketing communications or placing non-essential cookies and similar technologies (including analytics and marketing trackers)—you have the right to **withdraw that consent at any time**.
+
+You can withdraw your consent in the following ways:
+
+* **Marketing emails**: Click the “unsubscribe” link at the bottom of any marketing email, or update your preferences through your Speechify account settings.
+* **Cookies and analytics**: Adjust your cookie preferences at any time by selecting Cookie Settings in the website footer. This will reopen our consent tool and allow you to disable non-essential cookies, including analytics from Google Analytics, Segment, and Amplitude.
+* **Product and support communications**: To stop receiving in-app messages or support notifications powered by Intercom, adjust your in-app notification settings or contact us directly.
+* **Email marketing platform**: For messages delivered through Customer.io, your unsubscribe or account preference changes will automatically update your consent status in that system.
+* **Direct requests**: You may also contact us at [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection) if you wish to withdraw consent for any other processing activities.
+
+You can also manage or withdraw consent for non-essential cookies directly through your browser or device settings. For example, you can block or delete cookies, clear local storage, or limit ad tracking on mobile devices. For cookies or tracking controlled by third parties, you may also use the opt-out links provided in their privacy policies or in our [Cookie Policy](https://speechify.com/cookies/).
+
+Withdrawing consent is **free of charge** and does **not affect the lawfulness** of any processing carried out before the withdrawal. We do not condition access to our services on consent to non-essential processing.
+
 #### Data transfers
 
 As stated in the “[Where is my Information stored](https://speechify.com/privacy/)?” section above, information submitted to Speechify will be transferred to, processed, and stored in the United States. When you use the Software on your computing device, User Content you save will be stored locally on that device and synced with our servers. If you post or transfer any Information to or through our Site, Software, and/or Services, you are agreeing to such Information, including Personal Data and User Content, being hosted and accessed in the United States. Please note that the privacy laws of the United States may be different from those in the place where you are a resident.
@@ -277,74 +293,18 @@ You may contact us with any questions relating to this Privacy Policy by submitt
 
 For the purposes of this Policy, when we say “Speechify,” “we,” or “us,” we mean Speechify, Inc., 382 NE 191st St PMB 69469, Miami, FL, 33179-3899
 
-### Cookie Policy
+### Cookies and similiar technologies
 
-In the spirit of transparency, this Cookie Policy (“Policy”) provides detailed information about why, how, and when we use cookies on our Site, Software, and/or Services, as defined in our [Terms of Service](https://speechify.com/terms/).
+We use cookies, pixels, SDKs, and similar technologies (“cookies”) to operate our services (essential cookies) and—where required by law, with your consent—to measure usage and improve features (analytics) and to support communications and product messaging (marketing).
 
-#### Table of Contents
+* Essential cookies (strictly necessary). These are needed to provide core site/app functionality, security, fraud prevention, and your preferences. They are set on the basis of our legitimate interests and/or contract with you and cannot be switched off in our systems.
+* Analytics cookies. With your consent, we use analytics to understand how our services are used and to improve performance and features. Providers include Google Analytics, Segment, and Amplitude.
+* Support/communications cookies. With your consent, we use technologies that enable customer support and in-product messaging, such as Intercom.
+* Email marketing technologies. With your consent, our email provider (Customer.io) may use cookies or similar technologies to measure email deliverability and engagement (e.g., opens, clicks).
 
-* [What is a cookie?](https://speechify.com/privacy/)
-* [Why does Speechify use cookies?](https://speechify.com/privacy/)
-* [How to disable cookies](https://speechify.com/privacy/)
-* [Types of cookies Speechify uses](https://speechify.com/privacy/)
-* [Cookies subject to change](https://speechify.com/privacy/)
-* [Updating this Policy](https://speechify.com/privacy/)
-* [Contact us](https://speechify.com/privacy/)
+For full details—including cookie types, purposes, typical retention periods, and all providers—please see our [Cookie Policy](https://speechify.com/cookies/). You can change or withdraw your cookie preferences at any time via Cookie Settings (link in our site footer). Withdrawing consent does not affect the lawfulness of processing based on consent before its withdrawal.
 
-#### What is a cookie?
-
-A cookie is a small text file that is placed on your hard drive by a web page server. Cookies contain information that can later be read by a web server in the domain that issued the cookie to you. Some of the cookies will only be used if you use certain features or select certain preferences, and some cookies are essential to the Site, Software, and/or Services, and will always be used. Web beacons, tags, and scripts may be used in the Site or in emails to help us deliver cookies and count visits, understand usage and campaign effectiveness, and determine whether an email has been opened and acted upon. We may receive reports based on the use of these technologies by our service/analytics providers (for example, Google Analytics) on an individual and aggregated basis.
-
-#### Why does Speechify use cookies?
-
-Speechify and our marketing partners, affiliates, and analytics or service providers use cookies and other technologies to ensure everyone who uses the Site, Software, and/or Services has the best possible experience. For example, when you use our Site, we may place a number of cookies in your browser. We use these cookies to enable us to hold session information as you navigate from page to page within the Site, improve your experience, and track and analyze usage and other statistical information. If you elect not to activate the cookie or to later disable cookies, you may still visit our Site, and use our Software or Services, but your ability to use some features or areas of those offerings may be limited.
-
-#### How to disable cookies
-
-You can generally activate or later deactivate the use of cookies through a functionality built into your web browser. To learn more about how to control cookie settings through your browser:
-
-* [Click here](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences) to learn more about managing cookie settings in Mozilla Firefox;
-* [Click here](https://support.google.com/chrome/answer/95647) to learn more about managing cookie settings in Google Chrome;
-* [Click here](http://windows.microsoft.com/en-us/internet-explorer/delete-manage-cookies) to learn more about managing cookie settings in Microsoft Internet Explorer;
-* [Click here](https://support.apple.com/guide/safari/manage-cookies-sfri11471/mac) to learn more about managing cookie settings in Safari;
-* [Click here](https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy) to learn more about managing cookie settings in Microsoft Edge.
-
-If you want to learn more about cookies or how to control, disable, or delete them, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) for detailed guidance. In addition, certain third-party advertising networks, including Google, permit users to opt out of or customize preferences associated with your Internet browsing. To learn more about this feature from Google, [click here](https://adssettings.google.com/).
-
-#### Types of cookies Speechify uses
-
-Many jurisdictions require or recommend that website operators inform users/visitors as to the nature of cookies they utilize and, in certain circumstances, obtain the consent of their users to the placement of certain cookies.
-
-Each cookie used by Speechify falls within one of the following categories:
-
-#### Essential cookies
-
-Essential cookies (First-Party Cookies) are sometimes called “strictly necessary,” as without them we cannot provide many services that you need. For example, essential cookies help remember your preferences as you use our Site, Software, and/or Services.
-
-#### Analytics cookies
-
-These cookies track information about your visits and usage of the Site, Software, and/or Services so that we can make improvements and report our performance — for example, to analyze visitor and user behavior so as to provide more relevant content or suggest certain activities. We might also use analytics cookies to test new ads, pages, or features to see how users react to them. Google Analytics is the main technology we currently use in this regard. To learn more about Google Analytics and your privacy, visit the “How Google uses data when you use our partners’ sites or apps” page at [www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/). To opt out of being tracked by Google Analytics when using our website, visit [http://tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout).
-
-#### Functionality or preference cookies
-
-During your visit to the Site, or while you use our Software or Services, cookies are used to remember information you have entered or choices you make (such as your username, language, or your region). They also store your preferences when personalizing the Site, Software, and/or Services to optimize your use of Speechify (for example, your preferred language). These preferences are remembered through the use of persistent cookies, and the next time you visit the Site or use our Software and/or Services, you will not have to set them again.
-
-#### Cookies for promoting Speechify paid accounts
-
-These Third-Party Cookies are placed by third-party advertising platforms or networks in order to deliver ads for Speechify paid accounts and track the performance of those ads. These platforms may subsequently use information about your visit to Speechify.com to target you with advertising for Speechify paid accounts on other websites. You can opt out of interest-based targeting provided by participating ad servers through the Digital Advertising Alliance ([http://youradchoices.com](http://youradchoices.com/)).
-
-#### Social media cookies
-
-The Site includes third-party social media features, such as the Facebook Like button, and third-party widgets, such as the ‘Share This’ button or interactive mini-programs that run on the Site. These features may collect your IP address and which page you are visiting on the Site, as well as set a cookie to enable the feature to function properly. Your interaction with these features is governed by the privacy policy of the third-party company providing it. Here are some examples of third-party social media features that we use, and their privacy policies:
-
-* [Facebook Privacy Policy](https://www.facebook.com/about/privacy)
-* [YouTube Privacy Policy](https://policies.google.com/privacy)
-* [Twitter Privacy Policy](https://twitter.com/privacy)
-* [LinkedIn Privacy Policy](https://www.linkedin.com/legal/privacy-policy)
-
-#### Cookies subject to change
-
-The content of this Policy is for your general information and use only.
+Your browser may offer “Do Not Track” or similar signals. We honor choices made in our Cookie Settings tool. We do not condition access to our services on consent to non-essential cookies. If you need assistance, contact [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection).
 
 ### Third-Party Links/Integrations
 
