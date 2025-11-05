@@ -1,4 +1,4 @@
-Last updated: October 17, 2025
+Last updated: November 4, 2025
 
 Cookie policy
 =============
@@ -75,6 +75,7 @@ These cookies are required to operate our Services. For example, they allow us t
 | [OpenAI](https://openai.com/policies/privacy-policy/) | rg\_context | 10 minutes | User authentication | auth.openai.com |
 | [OpenAI](https://openai.com/policies/privacy-policy/) | iss\_context | 10 minutes | User authentication | auth.openai.com |
 | [OpenAI](https://openai.com/policies/privacy-policy/) | oai\_client\_auth\_info | 30 days | Service functionality | chatgpt.com  <br>auth.openai.com |
+| [OpenAI](https://openai.com/policies/privacy-policy/) | dotcom-did | 1 year | Service functionality | openai.com |
 | [Auth0](https://www.okta.com/legal/privacy-policy/) | did | 1 year | User authentication | platform.openai.com |
 | [Auth0](https://www.okta.com/legal/privacy-policy/) | did\_compat | 1 year | User authentication | platform.openai.com |
 | [Auth0](https://www.okta.com/legal/privacy-policy/) | auth0 | 14 days | User authentication | platform.openai.com |
@@ -86,7 +87,7 @@ These cookies are required to operate our Services. For example, they allow us t
 | [Cloudflare⁠⁠](https://www.cloudflare.com/privacypolicy/) | CF\_Authorization | 1 month | Security | chatgpt.com |
 | [Cloudflare⁠⁠](https://www.cloudflare.com/privacypolicy/) | \_\_cf\_bm | 30 min | Security | auth.openai.com  <br>chatgpt.com  <br>openai.com  <br>sora.chatgpt.com  <br>platform.openai.com  <br>videos.openai.com |
 | [Cloudflare⁠⁠](https://www.cloudflare.com/privacypolicy/) | cf\_clearance | 1 year | Security | openai.com  <br>chatgpt.com  <br>sora.chatgpt.com  <br>platform.openai.com  <br>auth.openai.com |
-| [Cloudflare⁠⁠](https://www.cloudflare.com/privacypolicy/) | \_cfuvid | Session | Security | openai.com  <br>chatgpt.com  <br>sora.chatgpt.com  <br>videos.openai.com  <br>auth.openai.com  <br>platform.openai.com |
+| \[ahref="https://www.cloudflare.com/privacypolicy/"\]Cloudflare⁠⁠\[/a\] | \_cfuvid | Session | Security | openai.com  <br>chatgpt.com  <br>sora.chatgpt.com  <br>videos.openai.com  <br>auth.openai.com  <br>platform.openai.com |
 | [Cloudflare⁠⁠](https://www.cloudflare.com/privacypolicy/) | \_\_cflb | 30 minutes | Security | chatgpt.com  <br>auth.openai.com  <br>sora.chatgpt.com |
 | [Stripe⁠⁠⁠](https://stripe.com/privacy?) | \_\_stripe\_mid | 1 year | Payment | platform.openai.com |
 | [Stripe⁠⁠⁠](https://stripe.com/privacy?) | \_\_stripe\_sid | 30 min | Payment | platform.openai.com |
@@ -155,6 +156,12 @@ These cookies help us support and understand the efficacy of our marketing effor
 | [TikTok⁠⁠](https://www.tiktok.com/legal/page/global/tiktok-website-cookies-policy/en) | ttcsid\_<pixelID> | 30 minutes | Marketing measurement | chatgpt.com |
 | [TikTok⁠⁠](https://www.tiktok.com/legal/page/global/tiktok-website-cookies-policy/en) | ttclid | 13 months | Marketing measurement | chatgpt.com |
 | [Meta⁠](https://www.facebook.com/privacy/policies/cookies/) | API | 24 months | Marketing measurement | chatgpt.com  <br>openai.com |
+| [Bing](https://learn.microsoft.com/en-us/answers/questions/2289901/purposes-of-bing-cookies) | MR  | 7 days | Marketing measurement | chatgpt.com  <br>openai.com |
+| [Bing](https://learn.microsoft.com/en-us/answers/questions/2289901/purposes-of-bing-cookies) | MSPTC | 180 days | Marketing measurement | chatgpt.com  <br>openai.com |
+| [Bing](https://learn.microsoft.com/en-us/answers/questions/2289901/purposes-of-bing-cookies) | MUID | 13 months | Marketing measurement | chatgpt.com  <br>openai.com |
+| [Bing](https://learn.microsoft.com/en-us/answers/questions/2289901/purposes-of-bing-cookies) | \_uetmsclkid | 24 hours | Marketing measurement | chatgpt.com  <br>openai.com |
+| [Bing](https://learn.microsoft.com/en-us/answers/questions/2289901/purposes-of-bing-cookies) | \_uetvid | 13 months | Marketing measurement | chatgpt.com  <br>openai.com |
+| [Bing](https://learn.microsoft.com/en-us/answers/questions/2289901/purposes-of-bing-cookies) | \_uetsid | 24 hours | Marketing measurement | chatgpt.com  <br>openai.com |
 
 Managing cookies
 ----------------
