@@ -362,7 +362,13 @@ In accordance with the DMCA and other applicable law, we have adopted a policy o
 **Eligibility**
 ===============
 
-You may use the Services only if you are at least eighteen (18) years old or the age of majority in your jurisdiction and have the legal capacity to enter into a binding contract. The Services are not intended for individuals under the age of eighteen (18), and we do not knowingly collect or solicit personal data from anyone under this age. If we discover that we have collected personal data from a minor without verifiable parental consent, we will promptly delete that information. If you believe we may have collected such data, please contact us at [privacy@lovable.dev](mailto:privacy@lovable.dev).
+You may use the Services only if:
+
+* you are at least eighteen (18) years old or the age of majority in your jurisdiction and have the legal capacity to enter into a binding contract. The Services are not intended for individuals under the age of eighteen (18), and we do not knowingly collect or solicit personal data from anyone under this age. If we discover that we have collected personal data from a minor without verifiable parental consent, we will promptly delete that information. If you believe we may have collected such data, please contact us at [privacy@lovable.dev](mailto:privacy@lovable.dev).
+
+OR
+
+* you are younger than eighteen (18) years old and participate in an organized event under the supervision of adults and facilitators, for which Lovable has been informed in advance to set up accounts and platform policies for secure and safe processing of participant data in a compliant way.
 
 By using the Services, you represent and warrant that you meet these requirements. If you are using the Services on behalf of a company or other entity, you further represent that you have authority to bind that entity to these Terms.
 
