@@ -110,7 +110,7 @@ We may place cookies on your computer or device and receive information stored i
 
 * The [Meta Products](https://mbasic.facebook.com/privacy/policies/cookies/printable/https%3A%2F%2Fwww.facebook.com%2Fhelp%2F1561485474074139%3Fref=cookies);
 * Products provided by other members of the [Meta Companies](https://mbasic.facebook.com/privacy/policies/cookies/printable/https%3A%2F%2Fwww.facebook.com%2Fhelp%2F111814505650678%3Fref=cookies); and
-* Websites and apps provided by other companies that use the Meta Products, including companies that incorporate Meta technologies into their websites and apps. Meta uses cookies and receives information when you visit those sites and apps, including [device information](https://mbasic.facebook.com/privacy/policies/cookies/printable/https%3A%2F%2Fwww.facebook.com%2Fprivacy%2Fpolicies%2Fcookies=) and information about your activity, without any further action from you. This occurs whether or not you have a Facebook or Instagram account or are logged in.
+* Websites and apps provided by other companies that use the Meta Products, including companies that incorporate Meta technologies into their websites and apps. Meta uses cookies and receives information when you visit those sites and apps, including [device information](https://mbasic.facebook.com/privacy/policies/cookies/printable/https%3A%2F%2Fwww.facebook.com%2Fprivacy%2Fpolicy%3Fsubpage=1.subpage.3-AppBrowserAndDevice) and information about your activity, without any further action from you. This occurs whether or not you have a Facebook or Instagram account or are logged in.
 
 [Return to top](https://mbasic.facebook.com/privacy/policies/cookies/printable/%23=)
 
