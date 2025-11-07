@@ -156,7 +156,7 @@ We do not take responsibility for loss or damage caused by events beyond our rea
 Dispute resolution
 ------------------
 
-**Concerns**. If we have a dispute, we would first like to understand and try to address your concerns before any formal legal action. To share your concerns you can contact us through this [form⁠(opens in a new window)](https://docs.google.com/forms/d/e/1FAIpQLSe6iKNzSYs6mc8CRR1EIGk1yzh9S6BhJUperYaWr5FaElrk0g/viewform).
+**Concerns**. If we have a dispute, we would first like to understand and try to address your concerns before any formal legal action. To share your concerns you can contact us through this [form](https://openai.com/form/informal-dispute/).
 
 **Court**. If we cannot resolve our dispute, you or we can go to your local courts.
 
