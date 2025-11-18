@@ -17,7 +17,7 @@ These Terms of Service (these “Terms”) contain the general terms and conditi
 
 You must be 18 years of age, or the age of majority in your province, territory or country, to use the Services or Apps. Individuals under the age of 18, or the applicable age of majority (each, a “Minor”), may utilize the Services and Apps only with the involvement and consent of a parent or legal guardian, under such person’s account and otherwise subject to these Terms. If you are a parent or legal guardian of a Minor, you agree to bind the Minor to these Terms and to fully indemnify and hold us harmless if the Minor breaches any of these Terms.
 
-Our contact email address is [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection). All correspondence to Speechify including any queries you may have regarding your use of the Services or these Terms should be sent to this contact email address.
+Our contact email address is [help@speechify.com](mailto:help@speechify.com). All correspondence to Speechify including any queries you may have regarding your use of the Services or these Terms should be sent to this contact email address.
 
 **1.2 ORDERS** 
 
@@ -75,7 +75,7 @@ As a Speechify Member you will receive access to certain sections, features and 
 
 (e) For business and enterprise Group Subscriptions only: Either party may elect not to renew by delivering written notice of non-renewal at least thirty (30) days before the end of the then-current Subscription Term (“Notice Period”) unless otherwise specified in the mutually executed order. If no timely notice is received, the Group Subscription will automatically renew for an additional term of equal length at our then-current rates. Any cancellation delivered fewer than thirty (30) days before the renewal date will become effective at the end of the next-following term.
 
-(f) **CANCELLING AS A CONSUMER**: YOU MAY CANCEL YOUR SUBSCRIPTION AT ANY TIME BY INITIATING A CANCELLATION THROUGH YOUR SPEECHIFY ACCOUNT SETTINGS, APPLE ACCOUNT SETTINGS, OR GOOGLE ACCOUNT SETTINGS, WHICHEVER YOU FIRST USED TO SUBSCRIBE TO THE SERVICE. YOU MAY REQUEST ASSISTANCE IN CANCELLATING BY EMAILING OUR SUPPORT TEAM AT [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection) AND PROVIDING YOUR ACCOUNT INFORMATION AND METHOD OF PURCHASE. PLEASE NOTE THAT SUBSCRIPTION FEES UNTIL THE EXPIRATION OF YOUR THEN-CURRENT SUBSCRIPTION TERM WILL NOT BE REFUNDED, IN WHOLE OR IN PART, SUBJECT TO APPLICABLE LAW.  YOU WILL NOT BE ELIGIBLE FOR A PRO-RATED REFUND OF ANY PORTION OF THE SUBSCRIPTION FEES PAID FOR ANY UNUSED DAYS OF THE THEN-CURRENT SUBSCRIPTION TERM.  INSTEAD, IF YOU CANCEL YOUR SUBSCRIPTION, YOU WILL ENJOY YOUR SUBSCRIPTION BENEFITS UNTIL THE EXPIRATION OF THE THEN-CURRENT SUBSCRIPTION TERM FOR WHICH YOU HAVE PAID, AND YOUR SUBSCRIPTION BENEFITS WILL EXPIRE AT THE END OF THE THEN-CURRENT SUBSCRIPTION TERM. FOR MORE INFORMATION ABOUT REFUNDS, PLEASE SEE OUR REFUND POLICY ([https://speechify.com/refund-policy/](https://speechify.com/refund-policy/)).
+(f) **CANCELLING AS A CONSUMER**: YOU MAY CANCEL YOUR SUBSCRIPTION AT ANY TIME BY INITIATING A CANCELLATION THROUGH YOUR SPEECHIFY ACCOUNT SETTINGS, APPLE ACCOUNT SETTINGS, OR GOOGLE ACCOUNT SETTINGS, WHICHEVER YOU FIRST USED TO SUBSCRIBE TO THE SERVICE. YOU MAY REQUEST ASSISTANCE IN CANCELLATING BY EMAILING OUR SUPPORT TEAM AT [HELP@SPEECHIFY.COM](mailto:HELP@SPEECHIFY.COM) AND PROVIDING YOUR ACCOUNT INFORMATION AND METHOD OF PURCHASE. PLEASE NOTE THAT SUBSCRIPTION FEES UNTIL THE EXPIRATION OF YOUR THEN-CURRENT SUBSCRIPTION TERM WILL NOT BE REFUNDED, IN WHOLE OR IN PART, SUBJECT TO APPLICABLE LAW.  YOU WILL NOT BE ELIGIBLE FOR A PRO-RATED REFUND OF ANY PORTION OF THE SUBSCRIPTION FEES PAID FOR ANY UNUSED DAYS OF THE THEN-CURRENT SUBSCRIPTION TERM.  INSTEAD, IF YOU CANCEL YOUR SUBSCRIPTION, YOU WILL ENJOY YOUR SUBSCRIPTION BENEFITS UNTIL THE EXPIRATION OF THE THEN-CURRENT SUBSCRIPTION TERM FOR WHICH YOU HAVE PAID, AND YOUR SUBSCRIPTION BENEFITS WILL EXPIRE AT THE END OF THE THEN-CURRENT SUBSCRIPTION TERM. FOR MORE INFORMATION ABOUT REFUNDS, PLEASE SEE OUR REFUND POLICY ([https://speechify.com/refund-policy/](https://speechify.com/refund-policy/)).
 
 Please note that if you purchase a subscription through the Apple App Store in-app-purchases, all subscription management and requests for cancellation and refunds and similar terms are entirely administered and agreed to between you and Apple, not Speechify. You may cancel automatic Apple renewals by selecting Manage App Subscriptions in your Apple Account settings and selecting the subscription you want to modify. Likewise, if you purchase a subscription through the Google Play store, the subscription is entirely managed by Google, not by Speechify, and you must cancel automatic renewals in your Google account settings under Subscriptions in the Google Play app, or according to the current process outlined by Google. If you purchase a subscription through a bundle subscription partner, you may cancel according to the process outlined by the bundle subscription partner. If you purchased your subscription directly from Speechify by entering billing information on our website (and not via Apple or Google), you may cancel at any time through your user account settings. To do so, click the “Cancel Subscription” button, which is clearly and prominently displayed under the “Subscription” heading in your account settings, accessible at [https://app.speechify.com/settings?tab=subscription](https://app.speechify.com/settings?tab=subscription).
 
@@ -100,7 +100,7 @@ To enjoy Speechify via your smartphone or other Device, your Device must satisfy
 
 **2.5 CHANGING FEES AND CHARGES**
 
-We may at any time and from time to time, in our sole discretion, change the fees and charges, or add new fees and charges, in relation to any of the Services or Apps. We will notify you at least 30 calendar days in advance of any such change. If you do not agree to the change, you must cancel your membership or subscription in your account settings or by emailing [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection).
+We may at any time and from time to time, in our sole discretion, change the fees and charges, or add new fees and charges, in relation to any of the Services or Apps. We will notify you at least 30 calendar days in advance of any such change. If you do not agree to the change, you must cancel your membership or subscription in your account settings or by emailing [help@speechify.com](mailto:help@speechify.com).
 
 1. **MOBILE APPLICATIONS** 
 
@@ -176,13 +176,13 @@ Speechify®, the Speechify logo and all other Speechify product or service marks
 
 1. **AVAILABILITY OF SERVICES**
 
-**6.1** Although we aim to offer you the best service possible, we make no promise that the Services will meet your requirements and we cannot guarantee that the Services will be available at all times. We will not be liable to you for any unavailability of the Services. If a fault occurs in the Services, please report it to us at [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection) and we will review your complaint and, where we determine it is appropriate to do so, correct the fault. If the need arises, we may suspend access to the Services while we address the fault. 
+**6.1** Although we aim to offer you the best service possible, we make no promise that the Services will meet your requirements and we cannot guarantee that the Services will be available at all times. We will not be liable to you for any unavailability of the Services. If a fault occurs in the Services, please report it to us at [help@speechify.com](mailto:help@speechify.com) and we will review your complaint and, where we determine it is appropriate to do so, correct the fault. If the need arises, we may suspend access to the Services while we address the fault. 
 
-**6.2** Your access to the Services may be occasionally restricted to allow for repairs, maintenance the introduction of new facilities or Services, or in the event of a force majeure event (as further described in Section 13.5). We will restore the Services as soon as reasonably practicable. In the event that the Services are unavailable, our usual Order and cancellation deadlines apply; please notify us of changes to your Order by emailing [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection).
+**6.2** Your access to the Services may be occasionally restricted to allow for repairs, maintenance the introduction of new facilities or Services, or in the event of a force majeure event (as further described in Section 13.5). We will restore the Services as soon as reasonably practicable. In the event that the Services are unavailable, our usual Order and cancellation deadlines apply; please notify us of changes to your Order by emailing [help@speechify.com](mailto:help@speechify.com).
 
 **6.3 Fair‑Use Limits for Premium Voices**: To maintain service quality we apply usage limits (“Usage Limits”) to Premium Voices. The current Usage Limits are set out in the Usage Limits Schedule ([https://speechify.com/usage-limits](https://speechify.com/usage-limits/)). If you exceed a Usage Limit, Speechify may (i) offer to extend additional words at its then‑current rates, (ii) restrict access to certain Premium Voices for the remainder of the billing period, or (iii) downgrade you to our Standard Voices. Speechify may update the Usage Limits Schedule from time to time. We will provide notice before any change that materially reduces the guaranteed word limit for paid plans. This does not apply to free or promotional accounts with custom limits.
 
-**6.4 Additional Extensions**. Users with documented accessibility needs may request complimentary extensions by contacting support at [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection).
+**6.4 Additional Extensions**. Users with documented accessibility needs may request complimentary extensions by contacting support at [help@speechify.com](mailto:help@speechify.com).
 
 **6.5 Fair‑Use & Abuse.** Speechify may throttle, suspend, or downgrade service if we reasonably believe an account violates the Usage‑Limits Schedule or our Acceptable Use Policy. Sharing subscriptions, generating audio for resale or public distribution without the proper commercial license of Speechify Studio, or other activities prohibited in our Acceptable Use Policy may result in immediate suspension.
 
@@ -232,7 +232,7 @@ Speechify®, the Speechify logo and all other Speechify product or service marks
 
 (d) the use to which others make of these other websites or services. We are also not responsible for any damage, loss or offense caused or alleged to be caused by, or in connection with, the use of or reliance on such websites or services.
 
-**8.2** You may link to our home page, provided you do so in a way that is fair and legal and does not damage our reputation or take advantage of it, but you must not establish a link in such a way as to suggest any form of association, approval or endorsement on our part where none exists. You must not establish a link from any website that is not owned by you. The Services must not be framed on any other website, nor may you create a link to any part of the Services unless you have written permission to do so from Speechify. We reserve the right to withdraw linking permission with written notice. The website from which you are linking must comply in all respects with the content standards set out in our acceptable use policy. If you wish to make any use of material on or in the Services other than that set out above, please address your request to [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection).
+**8.2** You may link to our home page, provided you do so in a way that is fair and legal and does not damage our reputation or take advantage of it, but you must not establish a link in such a way as to suggest any form of association, approval or endorsement on our part where none exists. You must not establish a link from any website that is not owned by you. The Services must not be framed on any other website, nor may you create a link to any part of the Services unless you have written permission to do so from Speechify. We reserve the right to withdraw linking permission with written notice. The website from which you are linking must comply in all respects with the content standards set out in our acceptable use policy. If you wish to make any use of material on or in the Services other than that set out above, please address your request to [help@speechify.com](mailto:help@speechify.com).
 
 1. **SERVICES DISCLAIMER**
 
@@ -280,7 +280,7 @@ THE INFORMATION AND CONTENT ACCESSIBLE VIA THE SERVICES IS FOR GENERAL INFORMATI
 
 By Mail: Speechify, Inc. Attn: Copyright Agent 382 NE 191st St PMB 69469, Miami, FL, 33179-3899
 
-By E-Mail: [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection) Subject line: DMCA
+By E-Mail: [cliff@getspeechify.com](mailto:cliff@getspeechify.com) Subject line: DMCA
 
 1. **GENERAL TERMS AND CONDITIONS**
 
@@ -322,11 +322,11 @@ In these Terms, unless the context requires otherwise: i) any phrase introduced 
 
 (c) To retain a copy, you must either have a printer connected to your personal computer or other device or, alternatively, the ability to save a copy through use of printing service or software such as Adobe Acrobat®. If you have a word processor or text editor program on your computer, then you can also copy the text and paste the text into a new document in the word processor or text editor and save the text. 
 
-(d) To receive a paper copy, please request it by emailing us at [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection)
+(d) To receive a paper copy, please request it by emailing us at [help@speechify.com](mailto:help@speechify.com)
 
 (e) We may charge you a reasonable service charge to mail you a paper copy of any communication. We will either include such service charge on our fee schedule or we will first inform you of the charge and provide you with the choice as to whether you still want us to send you a paper copy. Please be sure to state that you are requesting a copy of the particular communication.
 
-(f) You can also contact us via email at [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection) to withdraw your consent to receive any future communications electronically, including if the system requirements described above change and you no longer possess the required system. If you withdraw your consent, we may terminate your use of the Services.
+(f) You can also contact us via email at [help@speechify.com](mailto:help@speechify.com) to withdraw your consent to receive any future communications electronically, including if the system requirements described above change and you no longer possess the required system. If you withdraw your consent, we may terminate your use of the Services.
 
 (g) We reserve the right, in our sole discretion, to discontinue the provision of your electronic communications, or to terminate or change the terms and conditions on which we provide electronic communications. We will provide you with notice of any such termination or change as required by law.
 
@@ -372,7 +372,7 @@ This Section evidences a transaction in interstate commerce; therefore, the Fede
 
 Before commencing arbitration or small-claims litigation, a Claimant must e-mail a **Demand** to the other Party:
 
-* * **Demands to Speechify:** [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection)
+* * **Demands to Speechify:** [legal@speechify.com](mailto:legal@speechify.com)
     * **Demands to You:** the e-mail and, if available, postal address in your account.
 
 The Demand must: (i) identify the claimant; (ii) describe the dispute and the relief sought with reasonable detail; and (iii) be personally signed.  Within thirty (30) days of receipt, either Party may request a single, sixty-minute telephonic or video settlement conference.  No arbitration or lawsuit may be filed until the later of (a) thirty (30) days after the Demand is received, or (b) ten (10) days after the conference, if any.  All limitation periods are tolled during this window.
@@ -423,7 +423,7 @@ If any provision of this Section—other than the Class Action Waiver—is found
 
 **13.12.13  Changes to this Arbitration Agreement**
 
-If Speechify changes this Section 13.12 after the date you last accepted these Terms (or accepted any subsequent changes to these Terms), you may reject that change by sending us written notice to our legal mail address referenced in this Terms of Service, along with an e-mail to [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection), within thirty (30) days of the date the change becomes effective. Rejecting a new change, however, does not revoke or alter your prior consent to any earlier agreements to arbitrate any Dispute between you and Speechify (or your prior consent to any subsequent changes thereto), which will remain in effect and enforceable as to any Dispute between you and Speechify.
+If Speechify changes this Section 13.12 after the date you last accepted these Terms (or accepted any subsequent changes to these Terms), you may reject that change by sending us written notice to our legal mail address referenced in this Terms of Service, along with an e-mail to [legal@speechify.com](mailto:legal@speechify.com), within thirty (30) days of the date the change becomes effective. Rejecting a new change, however, does not revoke or alter your prior consent to any earlier agreements to arbitrate any Dispute between you and Speechify (or your prior consent to any subsequent changes thereto), which will remain in effect and enforceable as to any Dispute between you and Speechify.
 
 **13.12.14  Judicial Forum for Non-Arbitrable Claims**
 
@@ -441,7 +441,7 @@ The following regional provisions apply **in lieu of Section 13.12** for users
 
 **PLEASE READ THIS SECTION CAREFULLY.  IT AFFECTS YOUR RIGHTS AND WILL HAVE A SUBSTANTIAL IMPACT ON HOW CLAIMS ARE RESOLVED.**
 
-**Resolution of disputes.**  If a dispute arises, contact us first at [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection).  We will consider reasonable requests for informal resolution.
+**Resolution of disputes.**  If a dispute arises, contact us first at [legal@speechify.com](mailto:legal@speechify.com).  We will consider reasonable requests for informal resolution.
 
 **Arbitration option for claims under CAD $15 000.**  Subject to applicable law, for disputes where the total amount sought is less than CAD $15 000, the Parties may agree to binding, non-appearance-based arbitration before a mutually agreed ADR provider.  The arbitration shall (1) be conducted by phone, videoconference, and/or written submissions; (2) involve no personal appearances unless both Parties agree; and (3) permit entry of judgment on the award in any court of competent jurisdiction.
 
@@ -449,7 +449,7 @@ The following regional provisions apply **in lieu of Section 13.12** for users
 
 **13.13.2  France**
 
-**General complaints.**  Please e-mail [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection) with your name, contact details, and description of the dispute.
+**General complaints.**  Please e-mail [legal@speechify.com](mailto:legal@speechify.com) with your name, contact details, and description of the dispute.
 
 **Mediation.**  You may elect consumer mediation with CNPM Mediation Consommation (23 rue Terrenoire, 42100 Saint-Étienne; https://www.cnpm-mediation-consommation.eu).  A complaint must be submitted to Speechify first.
 
@@ -457,7 +457,7 @@ The following regional provisions apply **in lieu of Section 13.12** for users
 
 **13.13.3  Australia**
 
-**Resolution of disputes.**  Contact us at [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection).  We will consider reasonable requests for mediation or arbitration.  If your dispute concerns protection plans, follow the relevant product-disclosure procedure.
+**Resolution of disputes.**  Contact us at [legal@speechify.com](mailto:legal@speechify.com).  We will consider reasonable requests for mediation or arbitration.  If your dispute concerns protection plans, follow the relevant product-disclosure procedure.
 
 **Governing law and forum.**  Australian law governs.  You may sue in an Australian court of competent jurisdiction.
 
