@@ -179,7 +179,7 @@ You can withdraw your consent in the following ways:
 * **Cookies and analytics**: Adjust your cookie preferences at any time by selecting Cookie Settings in the website footer. This will reopen our consent tool and allow you to disable non-essential cookies, including analytics from Google Analytics, Segment, and Amplitude.
 * **Product and support communications**: To stop receiving in-app messages or support notifications powered by Intercom, adjust your in-app notification settings or contact us directly.
 * **Email marketing platform**: For messages delivered through Customer.io, your unsubscribe or account preference changes will automatically update your consent status in that system.
-* **Direct requests**: You may also contact us at [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection) if you wish to withdraw consent for any other processing activities.
+* **Direct requests**: You may also contact us at [privacy@speechify.com](mailto:privacy@speechify.com) if you wish to withdraw consent for any other processing activities.
 
 You can also manage or withdraw consent for non-essential cookies directly through your browser or device settings. For example, you can block or delete cookies, clear local storage, or limit ad tracking on mobile devices. For cookies or tracking controlled by third parties, you may also use the opt-out links provided in their privacy policies or in our [Cookie Policy](https://speechify.com/cookies/).
 
@@ -239,13 +239,13 @@ You may have the right to receive information about the financial incentives tha
 To exercise these rights, you can:
 
 * Request a personal data report by submitting a support ticket through [this link](https://help.speechify.com/en). You must be signed into your Speechify account to submit this request, and you may be required to log into your account to access the summary or the report.
-* Request the summary described above by submitting a support ticket or emailing [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection).
+* Request the summary described above by submitting a support ticket or emailing [support@Speechify.com](mailto:support@Speechify.com).
 * Delete your personal information from Speechify by deleting your account. You must be signed into your Speechify account to submit this request, and you will be required to provide your password to confirm that you want to delete your account.
-* You can also submit requests by submitting a [support ticket](https://help.speechify.com/en) or emailing [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection).
+* You can also submit requests by submitting a [support ticket](https://help.speechify.com/en) or emailing [support@Speechify.com](mailto:support@Speechify.com).
 
 You’ll need to provide us with information sufficient to verify your identity before we can satisfy your request. To do so, you’ll need to log into your account or provide us with certain information regarding yourself and/or your usage of the Site, Software, and Services. You can also designate an authorized agent to make a request on your behalf. To do so, you need to provide us with written authorization for the agent to act on your behalf. You will still need to verify your identity directly with us.
 
-The CCPA sets forth certain obligations for businesses that “sell” personal information. Based on the definition of “sell” under the CCPA and under current regulatory guidance, we don’t believe we engage in such activity and have not engaged in such activity in the past twelve months. Even though we do not sell your personal information, you have the right to opt-out of any potential future selling of your personal information. If you would like to opt-out of any potential future selling of your personal information, please submit a support ticket or email us at [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection). We do share certain information as described in the “Information access and disclosure” section above, and we allow third parties to collect certain information about your activity, for example through cookies, as explained in our [Cookie Policy](https://speechify.com/privacy/). You can control these cookies through browser settings and other controls; for more information, see our [Cookie Policy](https://speechify.com/privacy/).
+The CCPA sets forth certain obligations for businesses that “sell” personal information. Based on the definition of “sell” under the CCPA and under current regulatory guidance, we don’t believe we engage in such activity and have not engaged in such activity in the past twelve months. Even though we do not sell your personal information, you have the right to opt-out of any potential future selling of your personal information. If you would like to opt-out of any potential future selling of your personal information, please submit a support ticket or email us at [support@Speechify.com](mailto:support@Speechify.com). We do share certain information as described in the “Information access and disclosure” section above, and we allow third parties to collect certain information about your activity, for example through cookies, as explained in our [Cookie Policy](https://speechify.com/privacy/). You can control these cookies through browser settings and other controls; for more information, see our [Cookie Policy](https://speechify.com/privacy/).
 
 #### Authorized Agents
 
@@ -253,11 +253,11 @@ California residents can also exercise their rights under the CCPA by designatin
 
 #### California Shine the Light
 
-If you’re a California resident, you can ask for a list of third parties (if any) that have received your information for their direct marketing purposes during the previous calendar year. This list also contains the types of information shared. We provide this list at no cost. To make such a request, contact us at [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection).
+If you’re a California resident, you can ask for a list of third parties (if any) that have received your information for their direct marketing purposes during the previous calendar year. This list also contains the types of information shared. We provide this list at no cost. To make such a request, contact us at [support@Speechify.com](mailto:support@Speechify.com).
 
 ### For Nevada Users
 
-Under Nevada law, certain Nevada consumers may opt out of the sale of “personally identifiable information” for monetary consideration to a person for that person to license or sell such information to additional persons. “Personally identifiable information” includes first and last name, address, email address, phone number, Social Security Number, or an identifier that allows a specific person to be contacted either physically or online. We do not engage in such activity; however, if you are a Nevada resident who has purchased or leased goods or services from us, you may submit a request to opt out of any potential future sales under Nevada law by emailing [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection). Please note we will take reasonable steps to verify your identity and the authenticity of the request. Once verified, we will maintain your request in the event our practices change.
+Under Nevada law, certain Nevada consumers may opt out of the sale of “personally identifiable information” for monetary consideration to a person for that person to license or sell such information to additional persons. “Personally identifiable information” includes first and last name, address, email address, phone number, Social Security Number, or an identifier that allows a specific person to be contacted either physically or online. We do not engage in such activity; however, if you are a Nevada resident who has purchased or leased goods or services from us, you may submit a request to opt out of any potential future sales under Nevada law by emailing [support@Speechify.com](mailto:support@Speechify.com). Please note we will take reasonable steps to verify your identity and the authenticity of the request. Once verified, we will maintain your request in the event our practices change.
 
 ### For Brazil Users
 
@@ -275,7 +275,7 @@ If you’re a resident of Brazil, you may have certain rights. Brazilian law may
 * Provide you with information about the possibility of withdrawing consent and the consequences of such withdrawal, where applicable.
 * Withdraw your consent.
 
-You can exercise some of these rights by logging in and visiting the My Account page. For example, you can download a copy of your Personal Data, delete your Personal Data by deleting your account, or correct your Personal Data in your Speechify account settings. You can also submit requests by submitting a support ticket or emailing [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection). You will be required to verify your identity before we fulfill your request. To do so, you’ll need to log into your account or provide us with certain information regarding yourself and/or your usage of the Site, Software, and Services.
+You can exercise some of these rights by logging in and visiting the My Account page. For example, you can download a copy of your Personal Data, delete your Personal Data by deleting your account, or correct your Personal Data in your Speechify account settings. You can also submit requests by submitting a support ticket or emailing [support@Speechify.com](mailto:support@Speechify.com). You will be required to verify your identity before we fulfill your request. To do so, you’ll need to log into your account or provide us with certain information regarding yourself and/or your usage of the Site, Software, and Services.
 
 #### International Data Transfers
 
@@ -289,7 +289,7 @@ If your Speechify account is part of a Speechify for Education license, your par
 
 ### Contact Us
 
-You may contact us with any questions relating to this Privacy Policy by submitting a [help desk request here](https://help.speechify.com/en) or by contacting us at [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection).
+You may contact us with any questions relating to this Privacy Policy by submitting a [help desk request here](https://help.speechify.com/en) or by contacting us at [privacy@Speechify.com](mailto:privacy@Speechify.com).
 
 For the purposes of this Policy, when we say “Speechify,” “we,” or “us,” we mean Speechify, Inc., 382 NE 191st St PMB 69469, Miami, FL, 33179-3899
 
@@ -304,7 +304,7 @@ We use cookies, pixels, SDKs, and similar technologies (“cookies”) to operat
 
 For full details—including cookie types, purposes, typical retention periods, and all providers—please see our [Cookie Policy](https://speechify.com/cookies/). You can change or withdraw your cookie preferences at any time via Cookie Settings (link in our site footer). Withdrawing consent does not affect the lawfulness of processing based on consent before its withdrawal.
 
-Your browser may offer “Do Not Track” or similar signals. We honor choices made in our Cookie Settings tool. We do not condition access to our services on consent to non-essential cookies. If you need assistance, contact [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection).
+Your browser may offer “Do Not Track” or similar signals. We honor choices made in our Cookie Settings tool. We do not condition access to our services on consent to non-essential cookies. If you need assistance, contact [privacy@speechify.com](mailto:privacy@speechify.com).
 
 ### Third-Party Links/Integrations
 
@@ -320,6 +320,6 @@ We will occasionally update this Policy. We encourage you to periodically review
 
 ### Contact Us
 
-If you have any questions regarding this Policy or how Speechify uses cookies, you may contact us by [submitting a help desk request here](https://help.speechify.com/en) or by contacting us at [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection).  
+If you have any questions regarding this Policy or how Speechify uses cookies, you may contact us by [submitting a help desk request here](https://help.speechify.com/en) or by contacting us at [privacy@Speechify.com](mailto:privacy@Speechify.com).  
   
 Link to [Previous Version](https://web.archive.org/web/20240406231209/https://speechify.com/privacy/)
