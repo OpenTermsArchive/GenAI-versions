@@ -5,7 +5,7 @@ OpenAI Services Agreement
 
 [Download PDF](https://cdn.openai.com/osa/openai-services-agreement.pdf)[View previous business terms](https://openai.com/policies/nov-2023-business-terms/)
 
-_This OpenAI Services Agreement only applies to use of OpenAI's APIs, ChatGPT Enterprise, ChatGPT Team, and other services for businesses and developers, and does not apply to OpenAI services used by consumers or individuals._
+_This OpenAI Services Agreement only applies to use of OpenAI's APIs, ChatGPT Enterprise, ChatGPT Business, and other services for businesses and developers, and does not apply to OpenAI services used by consumers or individuals._
 
 * * *
 
