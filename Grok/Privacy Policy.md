@@ -205,7 +205,7 @@ If you have any queries or complaints about our collection, use, or storage of y
 * In the UK: Lionheart Squared Limited, FAO x.ai, 17 Glasshouse Studios, Fryern Court Road, Fordingbridge, Hampshire, SP6 1QX United Kingdom [xai@lionheartsquared.co.uk](mailto:xai@lionheartsquared.co.uk)
 * In the EU: Lionheart Squared (Europe) Ltd, FAO x.ai, 2 Pembroke House, Upper Pembroke Street 28-32, Dublin, D02 EK84, Republic of Ireland [xai@lionheartsquared.eu](mailto:xai@lionheartsquared.eu)
 * In Switzerland: Lionheart Squared Switzerland SarL, FAO x.ai, Blvd George Favon 43, CH-1204 Geneva, Switzerland [xai@lionheartsquared.ch](mailto:xai@lionheartsquared.ch)
-* You can contact our Data Protection Officer: Taceo Limited, Riverbank House, 2 Swan Lane, London EC4R 3T [dpo@taceo.co.uk](mailto:dpo@taceo.co.uk)
+* You can contact our Data Protection Officer at (mailto:[privacy@x.ai](mailto:privacy@x.ai))
 
 13\. Additional information for individuals in Europe
 
