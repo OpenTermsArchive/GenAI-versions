@@ -292,3 +292,4 @@ Mistral AI may update these measures at any time, subject to Section 5 (Security
 | ![Logo for Merge API Inc.](/logos/www.merge.dev)<br><br>Merge API Inc.<br><br>•<br><br>Connectors on Le Chat - Transfer ACL and data from the third-party service to le Chat<br><br>United States<br><br>Products: Le Chat. Merge will not process your data unless you activate the connectors feature on Le Chat. |
 | ![Logo for Plus Five Five, Inc. (Resend)](/logos/resend.com)<br><br>Plus Five Five, Inc. (Resend)<br><br>•<br><br>Email communications<br><br>Ireland<br><br>Products: All products |
 | ![Logo for Twilio Inc.](/logos/www.twilio.com)<br><br>Twilio Inc.<br><br>•<br><br>Phone number verification<br><br>United States<br><br>Products: All Products |
+| ![Logo for CoreWeave](/logos/coreweave.com)<br><br>CoreWeave<br><br>•<br><br>Inference provider<br><br>EEA<br><br>Cloud infrastructure |
