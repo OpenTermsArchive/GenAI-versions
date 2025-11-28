@@ -1,6 +1,6 @@
-# Versions of terms from the *GenAI* collection
+# Versions of terms from the *GenAI Contrib* collection
 
-The terms in this collection are tracked by [The Sciences Po Law School Clinic](https://www.sciencespo.fr/ecole-de-droit/en/content/clinic.html) using [Open Terms Archive](https://opentermsarchive.org).
+The terms in this collection are tracked using [Open Terms Archive](https://opentermsarchive.org).
 
 ## Usage
 
@@ -17,13 +17,13 @@ The terms in this collection are tracked by [The Sciences Po Law School Clinic](
 - A **version** is a record of a service’s terms cleaned of the legally irrelevant parts (e.g. menus, ads…) of an online document. Each version represents the state of the terms at a specific point in time. They are publicly recorded to provide a history of how the terms evolved over time.
 - A **collection** is a group of terms characterised by their language, jurisdiction and industry.
 
-Detailed information about this specific collection, including how to request or contribute terms, can be found in its [declarations repository](https://github.com/OpenTermsArchive/GenAI-declarations).
+Detailed information about this specific collection, including how to request or contribute terms, can be found in its [declarations repository](https://github.com/OpenTermsArchive/genai-contrib-declarations).
 
 ## Missing terms
 
 Each collection has a specific scope, and its maintainers might or might not have the intention to track the terms you are interested in.
 
-If some versions are missing, the maintainers of this collection might benefit from your help: check [open issues](https://github.com/OpenTermsArchive/GenAI-declarations/issues) for known necessary corrections or open a new one.
+If some versions are missing, the maintainers of this collection might benefit from your help: check [open issues](https://github.com/OpenTermsArchive/genai-contrib-declarations/issues) for known necessary corrections or open a new one.
 
 If specific services, or specific terms for a service, are missing from this collection, they may be available in other [public Open Terms Archive collections](https://opentermsarchive.org/#collections).
 
