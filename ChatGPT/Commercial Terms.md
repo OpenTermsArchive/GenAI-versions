@@ -1,9 +1,13 @@
-Effective: May 31, 2025
+Updated: December 1, 2025
 
 OpenAI Services Agreement
 =========================
 
 [Download PDF](https://cdn.openai.com/osa/openai-services-agreement.pdf)[View previous business terms](https://openai.com/policies/nov-2023-business-terms/)
+
+**Effective: January 1, 2026**
+
+* * *
 
 _This OpenAI Services Agreement only applies to use of OpenAI's APIs, ChatGPT Enterprise, ChatGPT Business, and other services for businesses and developers, and does not apply to OpenAI services used by consumers or individuals._
 
@@ -218,7 +222,7 @@ This OpenAI Services Agreement (“Agreement”) is entered as of the Effective 
 
 “NAM” means National Arbitration and Mediation.
 
-“OpenAI Contracting Party” means: (a) OpenAI, L.L.C., for Customers located outside the EEA or Switzerland; (b) OpenAI Ireland Ltd. for Customers located in the EEA or Switzerland; or (c) OpenAI Public Sector, LLC if designated on the Order Form.
+“OpenAI Contracting Party” means: (a) OpenAI OpCo, LLC, for Customers located outside the EEA or Switzerland; (b) OpenAI Ireland Ltd. for Customers located in the EEA or Switzerland; or (c) OpenAI Public Sector, LLC if designated on the Order Form.
 
 “OpenAI Policies” means the Service-Specific Terms, Sharing and Publication Policy, and Usage Policies. The version of OpenAI Policies applicable to Customer are those in effect on the most recent effective date between either the Agreement, Customer’s most recent Order Form, or Services renewal. If Customer elects to use new Services added to the Service-Specific Terms after the most recent effective date in the preceding sentence, then the OpenAI Policies in effect as of that Customer use will apply.
 
