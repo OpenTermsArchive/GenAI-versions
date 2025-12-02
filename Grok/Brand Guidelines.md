@@ -1,3 +1,5 @@
+[](https://x.ai/legal/)
+
 About
 
 Content Attribution
