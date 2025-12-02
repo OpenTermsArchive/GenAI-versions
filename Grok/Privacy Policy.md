@@ -1,3 +1,5 @@
+[](https://x.ai/legal/)
+
 1\. About xAI and Grok
 
 2\. Personal information we collect (Notice at collection)
@@ -206,6 +208,8 @@ If you have any queries or complaints about our collection, use, or storage of y
 * In the EU: Lionheart Squared (Europe) Ltd, FAO x.ai, 2 Pembroke House, Upper Pembroke Street 28-32, Dublin, D02 EK84, Republic of Ireland [xai@lionheartsquared.eu](mailto:xai@lionheartsquared.eu)
 * In Switzerland: Lionheart Squared Switzerland SarL, FAO x.ai, Blvd George Favon 43, CH-1204 Geneva, Switzerland [xai@lionheartsquared.ch](mailto:xai@lionheartsquared.ch)
 * You can contact our Data Protection Officer at [privacy@x.ai](mailto:privacy@x.ai)
+
+[](https://x.ai/legal/)
 
 13\. Additional information for individuals in Europe
 
