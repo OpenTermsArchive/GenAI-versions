@@ -1,3 +1,5 @@
+[](https://x.ai/legal/)
+
 [**xAI Acceptable Use Policy**](#xai-acceptable-use-policy)
 ===========================================================
 
