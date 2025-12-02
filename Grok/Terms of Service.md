@@ -1,3 +1,5 @@
+[](https://x.ai/legal/)
+
 Welcome to xAI!
 
 Who We Are
