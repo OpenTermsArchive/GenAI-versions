@@ -1,3 +1,5 @@
+[](https://x.ai/legal/)
+
 What are cookies?
 
 Why does xAI use cookies?
