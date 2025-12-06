@@ -135,7 +135,7 @@ Our policies prohibit using ChatGPT Agent for regulated activities without follo
 
 ChatGPT agent users are not allowed to bypass rate limits, restrictions, or safety measures on our services.
 
-Last updated: November 19, 2025
+Last updated: December 5, 2025
 
 Creating content on Sora in line with our policies
 ==================================================
@@ -150,7 +150,7 @@ All ChatGPT and Sora users have agreed to OpenAI’s Usage Policies, Service Ter
 2\. Sora Distribution Guidelines
 --------------------------------
 
-Additionally, content deemed inappropriate for all users may be removed from the Sora Feed and other sharing platforms, such as user galleries and character cameos, in accordance with our Sora Distribution Guidelines. This includes:
+Additionally, content deemed inappropriate for all users may be removed from the Sora Feed and other sharing platforms, such as user galleries and side characters, in accordance with our Sora Distribution Guidelines. This includes:
 
 * Graphic sexual content;
 * Graphic violence or content promoting violence;
